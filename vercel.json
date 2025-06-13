@@ -1,0 +1,9 @@
+{
+    "redirects": [
+        {
+            "source": "/((?!$).+)",
+            "destination": "https://docs.astrbot.app/$1",
+            "permanent": true
+        }
+    ]
+}
