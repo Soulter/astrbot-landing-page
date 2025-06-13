@@ -1,0 +1,41 @@
+name: Update AstrBot Data
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'  # 每12小时运行一次
+  workflow_dispatch:        # 允许手动触发
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 设置 Node.js 环境
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: 安装依赖
+        run: npm install axios
+
+      - name: 创建数据目录
+        run: mkdir -p data
+
+      - name: 运行数据获取脚本
+        run: node scripts/fetch-data.js
+
+      - name: 配置 Git 用户
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: 提交更新的数据
+        run: |
+          git add data/checkpoint.json
+          git commit -m "docs: Auto update AstrBot stats" || echo "没有变化需要提交"
+          git push

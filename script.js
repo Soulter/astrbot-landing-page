@@ -71,28 +71,30 @@ document.addEventListener('DOMContentLoaded', function () {
     // 数据缓存
     const dataCache = {
         githubData: null,
-        pluginsData: null
+        pluginsData: null,
+        contributorsCount: null
     };
 
-    // 统一数据获取函数
+    // 从本地JSON文件加载数据
     async function fetchData() {
         try {
-            // 获取GitHub数据
-            const githubResponse = await fetch('https://api.github.com/repos/AstrBotDevs/AstrBot');
-            if (!githubResponse.ok) {
-                throw new Error('GitHub API 响应失败');
+            // 获取缓存的数据
+            const response = await fetch('/data/checkpoint.json');
+            if (!response.ok) {
+                throw new Error('数据文件加载失败');
             }
-            dataCache.githubData = await githubResponse.json();
-            console.log('GitHub数据已获取:', dataCache.githubData);
-
-            // 获取插件数据
-            const pluginsResponse = await fetch('https://api.soulter.top/astrbot/plugins');
-            if (!pluginsResponse.ok) {
-                throw new Error('插件API响应失败');
-            }
-            dataCache.pluginsData = await pluginsResponse.json();
-            console.log('插件数据已获取:', dataCache.pluginsData);
-
+            const data = await response.json();
+            
+            // 更新数据缓存
+            dataCache.githubData = {
+                stargazers_count: data.github.stars,
+                forks_count: data.github.forks
+            };
+            dataCache.pluginsData = data.plugins;
+            dataCache.contributorsCount = data.github.contributors;
+            
+            console.log('数据已加载:', data);
+            
             // 数据获取完成后，更新UI
             updateUI();
         } catch (error) {
@@ -185,32 +187,16 @@ document.addEventListener('DOMContentLoaded', function () {
                 forksElement.textContent = formatNumber(forks);
             }
             
-            // 获取贡献者数量
-            if (contributorsElement) {
-                fetch('https://api.github.com/repos/AstrBotDevs/AstrBot/contributors?per_page=1&anon=true')
-                    .then(response => {
-                        const linkHeader = response.headers.get('Link');
-                        if (linkHeader) {
-                            const match = linkHeader.match(/page=(\d+)>; rel="last"/);
-                            if (match) {
-                                const count = parseInt(match[1]);
-                                contributorsElement.textContent = formatNumber(count);
-                                return;
-                            }
-                        }
-                        return response.json().then(data => {
-                            contributorsElement.textContent = formatNumber(data.length || 1);
-                        });
-                    })
-                    .catch(error => {
-                        console.error('获取贡献者数据失败:', error);
-                        contributorsElement.textContent = '- -';
-                    });
+            // 使用缓存的贡献者数量
+            if (contributorsElement && dataCache.contributorsCount) {
+                contributorsElement.textContent = formatNumber(dataCache.contributorsCount);
+            } else if (contributorsElement) {
+                contributorsElement.textContent = '- -';
             }
         } else {
             if (starsElement) starsElement.textContent = '- -';
             if (forksElement) forksElement.textContent = '- -';
-            if (contributorsElement) contributorsElement.textContent = '- - ';
+            if (contributorsElement) contributorsElement.textContent = '- -';
         }
         
         // 插件统计
