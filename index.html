@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AstrBot - 大模型多平台机器人基础设施</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <div class="logo"><img width="150px" src="logo.svg"></div>
+            <ul class="nav-links">
+                <!-- <li><a>插件市场</a></li> -->
+                <li><a href="https://astrbot.app">快速上手</a></li>
+                <li><a href="https://github.com/AstrBotDevs/AstrBot">GitHub</a></li>
+            </ul>
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <div class="hero">
+        <div class="hero-bg-circle"></div>
+        <div class="container">
+            <h1 class="slogan">多平台大模型机器人基础设施</h1>
+            <p class="sub-slogan">✨ 快速构建、部署和管理跨平台的智能聊天机器人 ✨</p>
+            <div class="hero-buttons">
+                <a href="#get-started" class="btn btn-primary">开始使用</a>
+                <a href="https://github.com/AstrBotDevs/AstrBot" class="btn btn-secondary github-btn" target="_blank">
+                    <i class="fab fa-github"></i> GitHub
+                    <span class="github-stars"><span class="stars-count">...</span></span>
+                </a>
+            </div>
+            <div class="hero-image-container">
+                <img src="webui-1.png" alt="AstrBot WebUI界面" class="hero-image">
+            </div>
+        </div>
+    </div>
+
+    <section id="features" class="section">
+        <div class="container">
+            <h2 class="section-title">多消息平台接入</h2>
+            <div class="platform-tabs">
+                <div class="tabs-nav">
+                    <button class="tab-button active" data-platform="qq">QQ</button>
+                    <button class="tab-button" data-platform="wechat">微信</button>
+                    <button class="tab-button" data-platform="wxkefu">微信客服</button>
+                    <button class="tab-button" data-platform="wecom">企业微信应用</button>
+                    <button class="tab-button" data-platform="wxoa">微信公众号</button>
+                    <button class="tab-button" data-platform="lark">飞书</button>
+                    <button class="tab-button" data-platform="dingtalk">钉钉</button>
+                    <button class="tab-button" data-platform="telegram">Telegram</button>
+                    <div class="tab-indicator"></div>
+                </div>
+                <div class="tabs-content">
+                    <div class="tab-pane active" id="tab-qq">
+                        <div class="platform-image">
+                            <img src="assets/qq_demo_1.png" alt="QQ平台演示">
+                        </div>
+                    </div>
+                    <div class="tab-pane" id="tab-wechat">
+                        <div class="platform-image">
+                            <img src="assets/wechat_demo_1.png" alt="微信平台演示">
+                        </div>
+                    </div>
+                    <div class="tab-pane" id="tab-wxkefu">
+                        <div class="platform-image">
+                            <img src="assets/wxkefu_demo_1.png" alt="微信客服平台演示">
+                            
+                        </div>
+                    </div>
+                    <div class="tab-pane" id="tab-wecom">
+                        <div class="platform-image">
+                            <img src="assets/wecom_demo_1.png" alt="企业微信应用平台演示">
+                        </div>
+                    </div>
+                    <div class="tab-pane" id="tab-wxoa">
+                        <div class="platform-image">
+                            <img src="assets/wxoa_demo_1.png" alt="微信公众号平台演示">
+                        </div>
+                    </div>
+                    <div class="tab-pane" id="tab-lark">
+                        <div class="platform-image">
+                            <img src="assets/lark_demo_1.png" alt="飞书平台演示">
+                        </div>
+                    </div>
+                    <div class="tab-pane" id="tab-dingtalk">
+                        <div class="platform-image">
+                            <img src="assets/dingtalk_demo_1.png" alt="钉钉平台演示">
+                        </div>
+                    </div>
+                    <div class="tab-pane" id="tab-telegram">
+                        <div class="platform-image">
+                            <img src="assets/telegram_demo_1.png" alt="Telegram平台演示">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <section class="section" style="padding-top: 0px">
+        <div class="container">
+            <h2 class="section-title" style="margin-bottom: 16px;">支持主流模型提供商</h2>
+            <p style="text-align: center; margin-bottom: 16px; color: var(--light-text-color)">支持文本生成、图像理解、语音转文本（STT）、文本转语音（TTS）、Embedding 等多种能力</p>
+            <div class="model-providers-container">
+                <div class="model-providers-grid">
+                    <div class="provider-item">
+                        <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/openai.svg" alt="OpenAI">
+                        <span>OpenAI</span>
+                    </div>
+                    <div class="provider-item">
+                        <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/xai.svg" alt="xAI">
+                        <span>xAI</span>
+                    </div>
+                    <div class="provider-item">
+                        <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/anthropic.svg" alt="Anthropic">
+                        <span>Anthropic</span>
+                    </div>
+                    <div class="provider-item">
+                        <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/ollama.svg" alt="Ollama">
+                        <span>Ollama</span>
+                    </div>
+                    <div class="provider-item">
+                        <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/lmstudio.svg" alt="LM Studio">
+                        <span>LM Studio</span>
+                    </div>
+                    <div class="provider-item">
+                        <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/gemini-color.svg" alt="Gemini">
+                        <span>Gemini</span>
+                    </div>
+                    <div class="provider-item">
+                        <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/deepseek.svg" alt="DeepSeek">
+                        <span>DeepSeek</span>
+                    </div>
+                    <div class="provider-item">
+                        <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/zhipu.svg" alt="智谱 AI">
+                        <span>智谱 AI</span>
+                    </div>
+                    <div class="provider-item">
+                        <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/siliconcloud.svg" alt="硅基流动">
+                        <span>硅基流动</span>
+                    </div>
+                    <div class="provider-item">
+                        <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/kimi.svg" alt="Kimi">
+                        <span>Kimi</span>
+                    </div>
+                    <div class="provider-item">
+                        <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/ppio.svg" alt="PPIO派欧云">
+                        <span>PPIO派欧云</span>
+                    </div>
+                    <div class="provider-item">
+                        <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/dify-color.svg" alt="Dify">
+                        <span>Dify</span>
+                    </div>
+                    <div class="provider-item">
+                        <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/alibabacloud-color.svg" alt="阿里云百炼">
+                        <span>阿里云百炼</span>
+                    </div>
+                    <div class="provider-item">
+                        <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/fastgpt-color.svg" alt="FastGPT">
+                        <span>FastGPT</span>
+                    </div>
+                    <div class="provider-item">
+                        <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/fishaudio.svg" alt="FishAudio">
+                        <span>FishAudio</span>
+                    </div>
+                    <div class="provider-item">
+                        <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/azure.svg" alt="Azure">
+                        <span>Azure</span>
+                    </div>
+                    <div class="provider-item">
+                        <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/minimax.svg" alt="MiniMax">
+                        <span>MiniMax</span>
+                    </div>
+                    <div class="provider-item">
+                        <span>...</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section plugins-section">
+        <div class="container">
+            <h2 class="section-title">丰富的插件生态</h2>
+            <p style="text-align: center; margin-bottom: 48px; color: var(--light-text-color)">众多插件满足各种场景需求，轻松扩展机器人功能</p>
+        </div>
+            
+        <div class="plugins-container">
+            <div class="plugins-grid" id="plugins-grid">
+            </div>
+        </div>
+    </section>
+
+    <section class="section stats-section">
+        <div class="container">
+            <h2 class="section-title">社区数据</h2>
+            <p style="text-align: center; margin-bottom: 40px; color: var(--light-text-color)">持续发展的开源社区，为机器人生态贡献力量</p>
+            
+            <div class="features-grid stats-grid">
+                <div class="feature-card stats-card">
+                    <div class="stats-icon">
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <div class="stats-number" id="github-stars">- -</div>
+                    <h3>GitHub Stars</h3>
+                    <p>来自全球社区的认可</p>
+                </div>
+                <div class="feature-card stats-card">
+                    <div class="stats-icon">
+                        <i class="fas fa-code-branch"></i>
+                    </div>
+                    <div class="stats-number" id="github-forks">- -</div>
+                    <h3>GitHub Forks</h3>
+                    <p>活跃的开发者贡献</p>
+                </div>
+                <div class="feature-card stats-card">
+                    <div class="stats-icon">
+                        <i class="fas fa-users"></i>
+                    </div>
+                    <div class="stats-number" id="github-contributors">- -</div>
+                    <h3>贡献者</h3>
+                    <p>共同建设生态系统</p>
+                </div>
+                <div class="feature-card stats-card">
+                    <div class="stats-icon">
+                        <i class="fas fa-puzzle-piece"></i>
+                    </div>
+                    <div class="stats-number" id="plugin-count">- -</div>
+                    <h3>插件</h3>
+                    <p>丰富的功能扩展</p>
+                </div>
+            </div>
+            
+            <div class="contributors-showcase">
+                <h3>项目贡献者</h3>
+                <div class="contributors-image">
+                    <img src="https://contrib.rocks/image?repo=AstrBotDevs/AstrBot" alt="AstrBot贡献者" />
+                </div>
+                <p class="contributors-note">众人拾柴火焰高。</p>
+            </div>
+        </div>
+    </section>
+<!-- 
+    <section id="how-it-works" class="section section-light">
+        <div class="container">
+            <h2 class="section-title">工作原理</h2>
+            <div class="workflow">
+                <div class="workflow-item">
+                    <div class="workflow-number">1</div>
+                    <h3>配置连接</h3>
+                    <p>简单配置即可连接各大平台和AI模型</p>
+                </div>
+                </div>
+            </div>
+        </div>
+    </section> -->
+
+    <section id="use-cases" class="section">
+        <div class="container">
+            <h2 class="section-title">More things...</h2>
+            <div class="use-cases-grid">
+                <div class="use-case-card">
+                    <h3>📖 知识库</h3>
+                    <p>AstrBot 内置 AI 知识库能力，免除繁杂部署</p>
+                </div>
+                <div class="use-case-card">
+                    <h3>💻 代码执行器</h3>
+                    <p>AstrBot 支持基于 Docker 的沙箱化代码执行器</p>
+                </div>
+                <div class="use-case-card">
+                    <h3>🔍 网页搜索</h3>
+                    <p>让大模型接入互联网</p>
+                </div>
+                <div class="use-case-card">
+                    <h3>🌌 长期记忆</h3>
+                    <p>基于图和记忆衰退机制的的试验型长期记忆层（即将上线）</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="get-started" class="section">
+        <div class="container">
+            <h2 class="section-title">开始使用 🥳</h2>
+            <p style="text-align: center; margin-bottom: 40px; color: var(--light-text-color)">支持 Docker、pip、Windows 一键安装器等方式快速部署。</p>
+            <div class="installation-guide">
+                <!-- <pre class="code-block"><code>pip install astrbot && astrbot init</code></pre> -->
+                <a href="https://docs.astrbot.app" class="btn btn-primary" target="_blank">查看文档</a>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-logo">
+                    <h2>AstrBot</h2>
+                    <p>大模型多平台机器人基础设施</p>
+                </div>
+                <div class="footer-links">
+                    <div class="footer-links-column">
+                        <h3>资源</h3>
+                        <ul>
+                            <li><a href="https://docs.astrbot.app">文档</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-links-column">
+                        <h3>社区</h3>
+                        <ul>
+                            <li><a href="https://github.com/AstrBotDevs/AstrBot">GitHub</a></li>
+                            <li><a href="https://qm.qq.com/cgi-bin/qm/qr?k=wtbaNx7EioxeaqS9z7RQWVXPIxg2zYr7&jump_from=webapi&authKey=vlqnv/AV2DbJEvGIcxdlNSpfxVy+8vVqijgreRdnVKOaydpc+YSw4MctmEbr0k5">QQ</a></li>
+                            <li><a href="https://t.me/+hAsD2Ebl5as3NmY1">Telegram</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-links-column">
+                        <h3>支持</h3>
+                        <ul>
+                            <li><a href="mailto:soulter@qq.com">联系我们</a></li>
+                            <li><a href="https://github.com/AstrBotDevs/AstrBot/issues">反馈问题</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="copyright">
+                <p>&copy; 2025 AstrBot. 保留所有权利。</p>
+                <p style="margin-top: 8px;">本项目受 AGPL-v3 开源许可协议保护</p>
+                <p style="margin-top: 8px;">Made with ❤️ forever.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
