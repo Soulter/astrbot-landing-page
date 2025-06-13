@@ -2,7 +2,7 @@
     "redirects": [
       {
         "source": "/((?!$|data/|assets/).+)",
-        "destination": "https://astrbot.app/$1",
+        "destination": "https://docs.astrbot.app/$1",
         "permanent": true
       }
     ]
