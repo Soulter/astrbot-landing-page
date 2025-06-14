@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-06-14T06:02:23.188Z",
+  "timestamp": "2025-06-14T12:37:59.889Z",
   "github": {
-    "stars": 9693,
+    "stars": 9700,
     "forks": 659,
     "contributors": 69
   },
@@ -37,8 +37,8 @@
       ],
       "desc": "[仅aiocqhttp]让bot 转人工/转人机，真人客服 接入对话/结束对话",
       "social_link": "https://github.com/Zhalslar",
-      "stars": 5,
-      "updated_at": "2025-06-12T17:02:11Z",
+      "stars": 6,
+      "updated_at": "2025-06-14T08:24:29Z",
       "version": "v1.0.4"
     },
     "astrbot_plugin_sakisaki": {
@@ -717,8 +717,8 @@
       "author": "LW",
       "desc": "MySQL存储聊天记录",
       "repo": "https://github.com/LWWD/astrbot_plugin_sql_history",
-      "stars": 0,
-      "updated_at": "2025-05-12T04:10:45Z",
+      "stars": 1,
+      "updated_at": "2025-06-14T10:47:02Z",
       "version": "v1.0"
     },
     "astrbot_plugin_error_notice": {
@@ -786,8 +786,8 @@
         "game",
         "fish"
       ],
-      "stars": 9,
-      "updated_at": "2025-06-13T04:19:36Z",
+      "stars": 10,
+      "updated_at": "2025-06-14T10:29:33Z",
       "version": "1.2.3"
     },
     "astrbot_plugin_bilibili_live": {
@@ -1425,7 +1425,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 8,
-      "updated_at": "2025-06-14T04:39:40Z",
+      "updated_at": "2025-06-14T11:10:22Z",
       "version": "v1.6.1"
     },
     "astrbot_plugin_status-pro": {
@@ -2986,8 +2986,8 @@
         "图片"
       ],
       "stars": 8,
-      "updated_at": "2025-06-13T13:11:11Z",
-      "version": "v1.8.5"
+      "updated_at": "2025-06-14T11:00:26Z",
+      "version": "v1.8.6"
     },
     "astrbot_plugin_GGAC_Messenger": {
       "desc": "anka - GGAC 作品更新推送插件 - 自动监控并推送 GGAC 平台精选作品的更新! 附赠一套 GGAC 网站完整 api! 还有随机抽取 GGAC 内容功能, 详情见github页面!",
@@ -3284,8 +3284,8 @@
       "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
       "pinned": true,
       "stars": 24,
-      "updated_at": "2025-06-13T02:21:20Z",
-      "version": "v1.4.8"
+      "updated_at": "2025-06-14T12:08:19Z",
+      "version": "v1.4.9"
     },
     "astrbot_plugin_leetcode": {
       "desc": "leetcode 每日一题、随机题目。",
