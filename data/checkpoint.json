@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-06-13T17:17:23.991Z",
+  "timestamp": "2025-06-14T06:02:23.188Z",
   "github": {
-    "stars": 9684,
+    "stars": 9693,
     "forks": 659,
     "contributors": 69
   },
@@ -499,8 +499,8 @@
         "RAG",
         "知识库"
       ],
-      "stars": 34,
-      "updated_at": "2025-06-10T03:21:43Z",
+      "stars": 35,
+      "updated_at": "2025-06-14T05:00:00Z",
       "version": "v0.5.7"
     },
     "astrbot_uptime_kuma_webhook_plugin": {
@@ -888,7 +888,7 @@
         "主动回复"
       ],
       "stars": 5,
-      "updated_at": "2025-06-13T13:01:48Z",
+      "updated_at": "2025-06-13T18:53:02Z",
       "version": "v1.2"
     },
     "astrbot_plugin_broadcast": {
@@ -1425,7 +1425,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 8,
-      "updated_at": "2025-06-11T09:35:04Z",
+      "updated_at": "2025-06-14T04:39:40Z",
       "version": "v1.6.1"
     },
     "astrbot_plugin_status-pro": {
@@ -1938,8 +1938,8 @@
       "tags": [
         "消息伪造"
       ],
-      "stars": 18,
-      "updated_at": "2025-06-10T02:46:51Z",
+      "stars": 17,
+      "updated_at": "2025-06-14T02:40:30Z",
       "version": "v1.1.0"
     },
     "astrbot_plugin_aishit": {
@@ -3599,8 +3599,8 @@
       "desc": "一个AstrBot的插件，用于LLM回复表情包的实现",
       "author": "lxfight",
       "repo": "https://github.com/lxfight/astrbot_plugin_memeify",
-      "stars": 13,
-      "updated_at": "2025-06-11T11:50:58Z"
+      "stars": 14,
+      "updated_at": "2025-06-14T05:00:05Z"
     },
     "astrbot_plugin_DailyWife": {
       "desc": "每日老婆插件，请配置NapCat！！",
@@ -3622,8 +3622,8 @@
       "desc": "一个长期记忆插件，基于milvus数据库实现，详情请见README.md",
       "author": "lxfight",
       "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
-      "stars": 97,
-      "updated_at": "2025-06-13T11:52:02Z",
+      "stars": 98,
+      "updated_at": "2025-06-14T05:00:01Z",
       "version": "v0.5.0"
     },
     "FateTrial_img_identify": {
