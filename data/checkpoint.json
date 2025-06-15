@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-06-14T12:37:59.889Z",
+  "timestamp": "2025-06-15T01:53:50.966Z",
   "github": {
-    "stars": 9700,
+    "stars": 9703,
     "forks": 659,
     "contributors": 69
   },
@@ -144,8 +144,8 @@
         "种地"
       ],
       "repo": "https://github.com/Shu-Ying/astrbot_plugin_farm",
-      "stars": 6,
-      "updated_at": "2025-06-11T06:32:41Z",
+      "stars": 7,
+      "updated_at": "2025-06-14T12:39:33Z",
       "version": "v1.4.0"
     },
     "astrbot_plugin_weakblacklist": {
@@ -1053,7 +1053,7 @@
       "desc": "一个用于 AstrBot 的插件，实现类似Google Emoji Kitchen(合成emoji)的效果。",
       "repo": "https://github.com/Flartiny/astrbot_plugin_emojimix",
       "stars": 1,
-      "updated_at": "2025-04-29T15:36:31Z",
+      "updated_at": "2025-06-14T12:56:55Z",
       "version": "v1.0.1"
     },
     "astrBot_plugin_0721galgame": {
@@ -1425,8 +1425,8 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 8,
-      "updated_at": "2025-06-14T11:10:22Z",
-      "version": "v1.6.1"
+      "updated_at": "2025-06-15T01:14:10Z",
+      "version": "v1.6.2"
     },
     "astrbot_plugin_status-pro": {
       "author": "tiker",
@@ -2055,8 +2055,8 @@
         "Minecraft"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_mcping",
-      "stars": 4,
-      "updated_at": "2025-06-09T12:25:57Z",
+      "stars": 5,
+      "updated_at": "2025-06-14T14:17:42Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_lorebook_lite": {
@@ -3274,8 +3274,8 @@
       "desc": "支持通过 RSSHub 路由和直接 URL 订阅 RSS 源，并定时获取最新的 RSS 内容，如推特、B站、油管、博客等任何支持 RSS 2.0 的网站。",
       "author": "Soulter",
       "repo": "https://github.com/Soulter/astrbot_plugin_rss",
-      "stars": 13,
-      "updated_at": "2025-06-09T02:17:15Z",
+      "stars": 14,
+      "updated_at": "2025-06-14T14:47:48Z",
       "version": "v1.1.0"
     },
     "astrbot_plugin_bilibili": {
