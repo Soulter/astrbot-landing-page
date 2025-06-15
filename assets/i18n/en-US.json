@@ -1,0 +1,93 @@
+{
+  "language": "English",
+  "nav": {
+    "quickStart": "Quick Start",
+    "github": "GitHub"
+  },
+  "hero": {
+    "slogan": "The Multi-Platform LLM Bot Infrastructure",
+    "subSlogan": "✨ Quick building, deployment and management of cross-platform intelligent chatbots ✨",
+    "startButton": "Get Started",
+    "githubButton": "GitHub"
+  },
+  "platforms": {
+    "title": "Multiple Messaging Platforms",
+    "qq": "QQ",
+    "wechat": "WeChat",
+    "wxkefu": "WeChat Kefu",
+    "wecom": "WeCom",
+    "wxoa": "WeChat Official Account",
+    "lark": "Lark",
+    "dingtalk": "DingTalk",
+    "telegram": "Telegram"
+  },
+  "models": {
+    "title": "Mainstream Model Providers",
+    "subtitle": "Support for text generation, image understanding, speech-to-text (STT), text-to-speech (TTS), Embedding, etc."
+  },
+  "plugins": {
+    "title": "Rich Plugin Ecosystem",
+    "subtitle": "Various plugins meet diverse needs, easily extend bot functionality"
+  },
+  "community": {
+    "title": "Highly Active Community",
+    "subtitle": "From a small spark to a blazing fire.",
+    "stats": {
+      "stars": "GitHub Stars",
+      "starsDesc": "Recognition from global community",
+      "forks": "GitHub Forks",
+      "forksDesc": "Active developer contributions",
+      "contributors": "Contributors",
+      "contributorsDesc": "Building the ecosystem together",
+      "plugins": "Plugins",
+      "pluginsDesc": "Rich functional extensions"
+    },
+    "contributorsTitle": "Project Contributors",
+    "contributorsNote": "Thanks to every open source contributor."
+  },
+  "features": {
+    "title": "More things...",
+    "knowledge": {
+      "title": "📖 Knowledge Base",
+      "desc": "AstrBot has built-in AI knowledge base capabilities, eliminating complex deployments"
+    },
+    "codeExecutor": {
+      "title": "💻 Code Executor",
+      "desc": "AstrBot supports Docker-based sandboxed code execution"
+    },
+    "webSearch": {
+      "title": "🔍 Web Search",
+      "desc": "Connect LLMs to the internet"
+    },
+    "memory": {
+      "title": "🌌 Long-Term Memory",
+      "desc": "Experimental long-term memory layer based on graphs and memory decay mechanisms (coming soon)"
+    }
+  },
+  "getStarted": {
+    "title": "Get Started 🥳",
+    "subtitle": "Quickly deploy with Docker, pip, Windows installer and more.",
+    "docsButton": "View Docs"
+  },
+  "footer": {
+    "slogan": "Multi-Platform LLM Bot Infrastructure",
+    "resources": {
+      "title": "Resources",
+      "docs": "Documentation"
+    },
+    "community": {
+      "title": "Community",
+      "github": "GitHub",
+      "qq": "QQ",
+      "telegram": "Telegram"
+    },
+    "support": {
+      "title": "Support",
+      "contact": "Contact Us",
+      "issues": "Report Issues"
+    },
+    "copyright": "© 2025 AstrBot. All rights reserved.",
+    "license": "This project is protected under the AGPL-v3 open source license",
+    "love": "Made with ❤️ forever."
+  }
+}

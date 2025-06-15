@@ -69,6 +69,7 @@ ul {
 .nav-links {
     display: flex;
     gap: 30px;
+    align-items: center;
 }
 
 .nav-links a {
@@ -761,6 +762,75 @@ footer {
     font-size: 16px;
 }
 
+/* Trendshift Badge */
+.trendshift-badge {
+    margin: 20px auto;
+    text-align: center;
+}
+
+/* 语言选择器样式 */
+.language-selector {
+    position: relative;
+    cursor: pointer;
+}
+
+.selected-language {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 5px 10px;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+}
+
+.selected-language:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+.language-dropdown {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    padding: 10px 0;
+    min-width: 120px;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(10px);
+    transition: all 0.3s ease;
+    z-index: 1000;
+}
+
+.language-selector:hover .language-dropdown {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+}
+
+.language-dropdown li {
+    padding: 10px 20px;
+    white-space: nowrap;
+    transition: all 0.2s ease;
+}
+
+.language-dropdown li:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+    color: var(--primary-color);
+}
+
+.language-dropdown li.active {
+    color: var(--primary-color);
+    font-weight: 500;
+    background-color: rgba(var(--primary-color-rgb), 0.1);
+}
+
+/* 当前选中的语言样式 */
+.current-language {
+    font-weight: 500;
+}
+
 @media screen and (max-width: 1024px) {
     .features-grid, .stats-grid {
         grid-template-columns: repeat(2, 1fr);
@@ -934,4 +1004,47 @@ footer {
     .contributors-note {
         font-size: 14px;
     }
+
+    /* 移动端样式调整 */
+    .language-selector {
+        width: 100%;
+        text-align: center;
+        border-top: 1px solid var(--border-color);
+        padding-top: 10px;
+        margin-top: 10px;
+    }
+
+    .selected-language {
+        justify-content: center;
+    }
+
+    .language-dropdown {
+        position: static;
+        display: none;
+        box-shadow: none;
+        margin-top: 10px;
+        padding: 0;
+    }
+
+    .language-selector.active .language-dropdown {
+        display: block;
+        opacity: 1;
+        visibility: visible;
+        transform: none;
+    }
+
+    .language-dropdown li {
+        padding: 12px;
+    }
+}
+
+/* 添加 RTL 支持 */
+html[dir="rtl"] .language-dropdown {
+    right: auto;
+    left: 0;
+}
+
+/* 添加语言特定样式 */
+html[lang="ja-JP"] {
+    font-family: 'Noto Sans JP', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
 }

@@ -1,0 +1,93 @@
+{
+  "language": "日本語",
+  "nav": {
+    "quickStart": "クイックスタート",
+    "github": "GitHub"
+  },
+  "hero": {
+    "slogan": "マルチプラットフォームLLMボットインフラ",
+    "subSlogan": "✨ クロスプラットフォームのインテリジェントチャットボットの迅速な構築、デプロイ、管理 ✨",
+    "startButton": "始めましょう",
+    "githubButton": "GitHub"
+  },
+  "platforms": {
+    "title": "複数のメッセージングプラットフォーム",
+    "qq": "QQ",
+    "wechat": "WeChat",
+    "wxkefu": "WeChat Kefu",
+    "wecom": "WeCom",
+    "wxoa": "WeChat Official Account",
+    "lark": "Lark",
+    "dingtalk": "DingTalk",
+    "telegram": "Telegram"
+  },
+  "models": {
+    "title": "主流モデルプロバイダー対応",
+    "subtitle": "テキスト生成、画像理解、音声からテキスト（STT）、テキストから音声（TTS）、埋め込みなどをサポート"
+  },
+  "plugins": {
+    "title": "豊富なプラグインエコシステム",
+    "subtitle": "さまざまなニーズに対応するプラグインで、ボット機能を簡単に拡張できます"
+  },
+  "community": {
+    "title": "非常にアクティブなコミュニティ",
+    "subtitle": "小さな火花から燃え盛る炎へ。",
+    "stats": {
+      "stars": "GitHub スター",
+      "starsDesc": "グローバルコミュニティからの認識",
+      "forks": "GitHub フォーク",
+      "forksDesc": "アクティブな開発者貢献",
+      "contributors": "貢献者",
+      "contributorsDesc": "エコシステム構築の共同作業",
+      "plugins": "プラグイン",
+      "pluginsDesc": "豊富な機能拡張"
+    },
+    "contributorsTitle": "プロジェクト貢献者",
+    "contributorsNote": "すべてのオープンソース貢献者に感謝します。"
+  },
+  "features": {
+    "title": "その他の機能...",
+    "knowledge": {
+      "title": "📖 知識ベース",
+      "desc": "AstrBotには、複雑な導入が不要なAI知識ベース機能が内蔵されています"
+    },
+    "codeExecutor": {
+      "title": "💻 コードエグゼキューター",
+      "desc": "AstrBotはDockerベースのサンドボックスコード実行をサポート"
+    },
+    "webSearch": {
+      "title": "🔍 ウェブ検索",
+      "desc": "LLMをインターネットに接続"
+    },
+    "memory": {
+      "title": "🌌 長期記憶",
+      "desc": "グラフと記憶減衰メカニズムに基づく実験的長期記憶層（近日公開）"
+    }
+  },
+  "getStarted": {
+    "title": "はじめましょう 🥳",
+    "subtitle": "Docker、pip、Windowsインストーラーなどで迅速に展開できます。",
+    "docsButton": "ドキュメント"
+  },
+  "footer": {
+    "slogan": "マルチプラットフォームLLMボットインフラ",
+    "resources": {
+      "title": "リソース",
+      "docs": "ドキュメント"
+    },
+    "community": {
+      "title": "コミュニティ",
+      "github": "GitHub",
+      "qq": "QQ",
+      "telegram": "Telegram"
+    },
+    "support": {
+      "title": "サポート",
+      "contact": "お問い合わせ",
+      "issues": "問題を報告"
+    },
+    "copyright": "© 2025 AstrBot. 全著作権所有。",
+    "license": "このプロジェクトはAGPL-v3オープンソースライセンスの下で保護されています",
+    "love": "Made with ❤️ forever."
+  }
+}

@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="assets/styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&display=swap" rel="stylesheet">
 </head>
 <body>
     <nav class="navbar">
@@ -14,8 +15,20 @@
             <div class="logo"><img width="150px" src="assets/logo.svg"></div>
             <ul class="nav-links">
                 <!-- <li><a>插件市场</a></li> -->
-                <li><a href="https://docs.astrbot.app">快速上手</a></li>
-                <li><a href="https://github.com/AstrBotDevs/AstrBot">GitHub</a></li>
+                <li><a href="https://docs.astrbot.app" data-i18n="nav.quickStart">快速上手</a></li>
+                <li><a href="https://github.com/AstrBotDevs/AstrBot" data-i18n="nav.github">GitHub</a></li>
+                <li class="language-selector">
+                    <div class="selected-language">
+                        <i class="fas fa-globe"></i>
+                        <span class="current-language">简体中文</span>
+                        <i class="fas fa-chevron-down"></i>
+                    </div>
+                    <ul class="language-dropdown">
+                        <li data-lang="zh-CN">简体中文</li>
+                        <li data-lang="en-US">English</li>
+                        <li data-lang="ja-JP">日本語</li>
+                    </ul>
+                </li>
             </ul>
             <div class="hamburger">
                 <span></span>
@@ -28,14 +41,18 @@
     <div class="hero">
         <div class="hero-bg-circle"></div>
         <div class="container">
-            <h1 class="slogan">多平台大模型机器人基础设施</h1>
-            <p class="sub-slogan">✨ 快速构建、部署和管理跨平台的智能聊天机器人 ✨</p>
+            <h1 class="slogan" data-i18n="hero.slogan">多平台大模型机器人基础设施</h1>
+            <p class="sub-slogan" data-i18n="hero.subSlogan">✨ 快速构建、部署和管理跨平台的智能聊天机器人 ✨</p>
             <div class="hero-buttons">
-                <a href="#get-started" class="btn btn-primary">开始使用</a>
+                <a href="#get-started" class="btn btn-primary" data-i18n="hero.startButton">开始使用</a>
                 <a href="https://github.com/AstrBotDevs/AstrBot" class="btn btn-secondary github-btn" target="_blank">
-                    <i class="fab fa-github"></i> GitHub
+                    <i class="fab fa-github"></i> <span data-i18n="hero.githubButton">GitHub</span>
                     <span class="github-stars"><span class="stars-count">...</span></span>
                 </a>
+            </div>
+            <div class="trendshift-badge">
+                <a href="https://trendshift.io/api/badge/repositories/12875"><img src="https://trendshift.io/api/badge/repositories/12875" alt="Soulter%2FAstrBot | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+                
             </div>
             <div class="hero-image-container">
                 <img src="assets/webui-1.png" alt="AstrBot WebUI界面" class="hero-image">
@@ -45,17 +62,17 @@
 
     <section id="features" class="section">
         <div class="container">
-            <h2 class="section-title">多消息平台接入</h2>
+            <h2 class="section-title" data-i18n="platforms.title">多消息平台接入</h2>
             <div class="platform-tabs">
                 <div class="tabs-nav">
-                    <button class="tab-button active" data-platform="qq">QQ</button>
-                    <button class="tab-button" data-platform="wechat">微信</button>
-                    <button class="tab-button" data-platform="wxkefu">微信客服</button>
-                    <button class="tab-button" data-platform="wecom">企业微信应用</button>
-                    <button class="tab-button" data-platform="wxoa">微信公众号</button>
-                    <button class="tab-button" data-platform="lark">飞书</button>
-                    <button class="tab-button" data-platform="dingtalk">钉钉</button>
-                    <button class="tab-button" data-platform="telegram">Telegram</button>
+                    <button class="tab-button active" data-platform="qq" data-i18n="platforms.qq">QQ</button>
+                    <button class="tab-button" data-platform="wechat" data-i18n="platforms.wechat">微信</button>
+                    <button class="tab-button" data-platform="wxkefu" data-i18n="platforms.wxkefu">微信客服</button>
+                    <button class="tab-button" data-platform="wecom" data-i18n="platforms.wecom">企业微信应用</button>
+                    <button class="tab-button" data-platform="wxoa" data-i18n="platforms.wxoa">微信公众号</button>
+                    <button class="tab-button" data-platform="lark" data-i18n="platforms.lark">飞书</button>
+                    <button class="tab-button" data-platform="dingtalk" data-i18n="platforms.dingtalk">钉钉</button>
+                    <button class="tab-button" data-platform="telegram" data-i18n="platforms.telegram">Telegram</button>
                     <div class="tab-indicator"></div>
                 </div>
                 <div class="tabs-content">
@@ -107,8 +124,8 @@
     
     <section class="section" style="padding-top: 0px">
         <div class="container">
-            <h2 class="section-title" style="margin-bottom: 16px;">支持主流模型提供商</h2>
-            <p style="text-align: center; margin-bottom: 16px; color: var(--light-text-color)">支持文本生成、图像理解、语音转文本（STT）、文本转语音（TTS）、Embedding 等多种能力</p>
+            <h2 class="section-title" style="margin-bottom: 16px;" data-i18n="models.title">支持主流模型提供商</h2>
+            <p style="text-align: center; margin-bottom: 16px; color: var(--light-text-color)" data-i18n="models.subtitle">支持文本生成、图像理解、语音转文本（STT）、文本转语音（TTS）、Embedding 等多种能力</p>
             <div class="model-providers-container">
                 <div class="model-providers-grid">
                     <div class="provider-item">
@@ -189,8 +206,8 @@
 
     <section class="section plugins-section">
         <div class="container">
-            <h2 class="section-title">丰富的插件生态</h2>
-            <p style="text-align: center; margin-bottom: 48px; color: var(--light-text-color)">众多插件满足各种场景需求，轻松扩展机器人功能</p>
+            <h2 class="section-title" data-i18n="plugins.title">丰富的插件生态</h2>
+            <p style="text-align: center; margin-bottom: 48px; color: var(--light-text-color)" data-i18n="plugins.subtitle">众多插件满足各种场景需求，轻松扩展机器人功能</p>
         </div>
             
         <div class="plugins-container">
@@ -201,8 +218,8 @@
 
     <section class="section stats-section">
         <div class="container">
-            <h2 class="section-title">社区数据</h2>
-            <p style="text-align: center; margin-bottom: 40px; color: var(--light-text-color)">持续发展的开源社区，为机器人生态贡献力量</p>
+            <h2 class="section-title" data-i18n="community.title">高度活跃的社区</h2>
+            <p style="text-align: center; margin-bottom: 40px; color: var(--light-text-color)" data-i18n="community.subtitle">亦有星星火，燎原势竟成。</p>
             
             <div class="features-grid stats-grid">
                 <div class="feature-card stats-card">
@@ -210,78 +227,64 @@
                         <i class="fas fa-star"></i>
                     </div>
                     <div class="stats-number" id="github-stars">- -</div>
-                    <h3>GitHub Stars</h3>
-                    <p>来自全球社区的认可</p>
+                    <h3 data-i18n="community.stats.stars">GitHub Stars</h3>
+                    <p data-i18n="community.stats.starsDesc">来自全球社区的认可</p>
                 </div>
                 <div class="feature-card stats-card">
                     <div class="stats-icon">
                         <i class="fas fa-code-branch"></i>
                     </div>
                     <div class="stats-number" id="github-forks">- -</div>
-                    <h3>GitHub Forks</h3>
-                    <p>活跃的开发者贡献</p>
+                    <h3 data-i18n="community.stats.forks">GitHub Forks</h3>
+                    <p data-i18n="community.stats.forksDesc">活跃的开发者贡献</p>
                 </div>
                 <div class="feature-card stats-card">
                     <div class="stats-icon">
                         <i class="fas fa-users"></i>
                     </div>
                     <div class="stats-number" id="github-contributors">- -</div>
-                    <h3>贡献者</h3>
-                    <p>共同建设生态系统</p>
+                    <h3 data-i18n="community.stats.contributors">贡献者</h3>
+                    <p data-i18n="community.stats.contributorsDesc">共同建设生态系统</p>
                 </div>
                 <div class="feature-card stats-card">
                     <div class="stats-icon">
                         <i class="fas fa-puzzle-piece"></i>
                     </div>
                     <div class="stats-number" id="plugin-count">- -</div>
-                    <h3>插件</h3>
-                    <p>丰富的功能扩展</p>
+                    <h3 data-i18n="community.stats.plugins">插件</h3>
+                    <p data-i18n="community.stats.pluginsDesc">丰富的功能扩展</p>
                 </div>
             </div>
             
             <div class="contributors-showcase">
-                <h3>项目贡献者</h3>
+                <h3 data-i18n="community.contributorsTitle">项目贡献者</h3>
                 <div class="contributors-image">
                     <img src="https://contrib.rocks/image?repo=AstrBotDevs/AstrBot" alt="AstrBot贡献者" />
                 </div>
-                <p class="contributors-note">众人拾柴火焰高。</p>
+                <p class="contributors-note" data-i18n="community.contributorsNote">感谢每一位开源贡献者。</p>
             </div>
         </div>
     </section>
-<!-- 
-    <section id="how-it-works" class="section section-light">
-        <div class="container">
-            <h2 class="section-title">工作原理</h2>
-            <div class="workflow">
-                <div class="workflow-item">
-                    <div class="workflow-number">1</div>
-                    <h3>配置连接</h3>
-                    <p>简单配置即可连接各大平台和AI模型</p>
-                </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
 
     <section id="use-cases" class="section">
         <div class="container">
-            <h2 class="section-title">More things...</h2>
+            <h2 class="section-title" data-i18n="features.title">More things...</h2>
             <div class="use-cases-grid">
                 <div class="use-case-card">
-                    <h3>📖 知识库</h3>
-                    <p>AstrBot 内置 AI 知识库能力，免除繁杂部署</p>
+                    <h3 data-i18n="features.knowledge.title">📖 知识库</h3>
+                    <p data-i18n="features.knowledge.desc">AstrBot 内置 AI 知识库能力，免除繁杂部署</p>
                 </div>
                 <div class="use-case-card">
-                    <h3>💻 代码执行器</h3>
-                    <p>AstrBot 支持基于 Docker 的沙箱化代码执行器</p>
+                    <h3 data-i18n="features.codeExecutor.title">💻 代码执行器</h3>
+                    <p data-i18n="features.codeExecutor.desc">AstrBot 支持基于 Docker 的沙箱化代码执行器</p>
                 </div>
                 <div class="use-case-card">
-                    <h3>🔍 网页搜索</h3>
-                    <p>让大模型接入互联网</p>
+                    <h3 data-i18n="features.webSearch.title">🔍 网页搜索</h3>
+                    <p data-i18n="features.webSearch.desc">让大模型接入互联网</p>
                 </div>
                 <div class="use-case-card">
-                    <h3>🌌 长期记忆</h3>
-                    <p>基于图和记忆衰退机制的的试验型长期记忆层（即将上线）</p>
+                    <h3 data-i18n="features.memory.title">🌌 长期记忆</h3>
+                    <p data-i18n="features.memory.desc">基于图和记忆衰退机制的的试验型长期记忆层（即将上线）</p>
                 </div>
             </div>
         </div>
@@ -289,11 +292,11 @@
 
     <section id="get-started" class="section">
         <div class="container">
-            <h2 class="section-title">开始使用 🥳</h2>
-            <p style="text-align: center; margin-bottom: 40px; color: var(--light-text-color)">支持 Docker、pip、Windows 一键安装器等方式快速部署。</p>
+            <h2 class="section-title" data-i18n="getStarted.title">开始使用 🥳</h2>
+            <p style="text-align: center; margin-bottom: 40px; color: var(--light-text-color)" data-i18n="getStarted.subtitle">支持 Docker、pip、Windows 一键安装器等方式快速部署。</p>
             <div class="installation-guide">
                 <!-- <pre class="code-block"><code>pip install astrbot && astrbot init</code></pre> -->
-                <a href="https://docs.astrbot.app" class="btn btn-primary" target="_blank">查看文档</a>
+                <a href="https://docs.astrbot.app" class="btn btn-primary" target="_blank" data-i18n="getStarted.docsButton">查看文档</a>
             </div>
         </div>
     </section>
@@ -303,36 +306,36 @@
             <div class="footer-content">
                 <div class="footer-logo">
                     <h2>AstrBot</h2>
-                    <p>大模型多平台机器人基础设施</p>
+                    <p data-i18n="footer.slogan">大模型多平台机器人基础设施</p>
                 </div>
                 <div class="footer-links">
                     <div class="footer-links-column">
-                        <h3>资源</h3>
+                        <h3 data-i18n="footer.resources.title">资源</h3>
                         <ul>
-                            <li><a href="https://docs.astrbot.app">文档</a></li>
+                            <li><a href="https://docs.astrbot.app" data-i18n="footer.resources.docs">文档</a></li>
                         </ul>
                     </div>
                     <div class="footer-links-column">
-                        <h3>社区</h3>
+                        <h3 data-i18n="footer.community.title">社区</h3>
                         <ul>
-                            <li><a href="https://github.com/AstrBotDevs/AstrBot">GitHub</a></li>
-                            <li><a href="https://qm.qq.com/cgi-bin/qm/qr?k=wtbaNx7EioxeaqS9z7RQWVXPIxg2zYr7&jump_from=webapi&authKey=vlqnv/AV2DbJEvGIcxdlNSpfxVy+8vVqijgreRdnVKOaydpc+YSw4MctmEbr0k5">QQ</a></li>
-                            <li><a href="https://t.me/+hAsD2Ebl5as3NmY1">Telegram</a></li>
+                            <li><a href="https://github.com/AstrBotDevs/AstrBot" data-i18n="footer.community.github">GitHub</a></li>
+                            <li><a href="https://qm.qq.com/cgi-bin/qm/qr?k=wtbaNx7EioxeaqS9z7RQWVXPIxg2zYr7&jump_from=webapi&authKey=vlqnv/AV2DbJEvGIcxdlNSpfxVy+8vVqijgreRdnVKOaydpc+YSw4MctmEbr0k5" data-i18n="footer.community.qq">QQ</a></li>
+                            <li><a href="https://t.me/+hAsD2Ebl5as3NmY1" data-i18n="footer.community.telegram">Telegram</a></li>
                         </ul>
                     </div>
                     <div class="footer-links-column">
-                        <h3>支持</h3>
+                        <h3 data-i18n="footer.support.title">支持</h3>
                         <ul>
-                            <li><a href="mailto:soulter@qq.com">联系我们</a></li>
-                            <li><a href="https://github.com/AstrBotDevs/AstrBot/issues">反馈问题</a></li>
+                            <li><a href="mailto:soulter@qq.com" data-i18n="footer.support.contact">联系我们</a></li>
+                            <li><a href="https://github.com/AstrBotDevs/AstrBot/issues" data-i18n="footer.support.issues">反馈问题</a></li>
                         </ul>
                     </div>
                 </div>
             </div>
             <div class="copyright">
-                <p>&copy; 2025 AstrBot. 保留所有权利。</p>
-                <p style="margin-top: 8px;">本项目受 AGPL-v3 开源许可协议保护</p>
-                <p style="margin-top: 8px;">Made with ❤️ forever.</p>
+                <p data-i18n="footer.copyright">&copy; 2025 AstrBot. 保留所有权利。</p>
+                <p style="margin-top: 8px;" data-i18n="footer.license">本项目受 AGPL-v3 开源许可协议保护</p>
+                <p style="margin-top: 8px;" data-i18n="footer.love">Made with ❤️ forever.</p>
             </div>
         </div>
     </footer>
