@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-06-15T12:38:11.161Z",
+  "timestamp": "2025-06-16T01:48:27.698Z",
   "github": {
-    "stars": 9720,
-    "forks": 660,
+    "stars": 9729,
+    "forks": 661,
     "contributors": 69
   },
   "plugins": {
@@ -815,8 +815,8 @@
       ],
       "social_link": "https://github.com/GEMILUXVII",
       "pinned": true,
-      "stars": 11,
-      "updated_at": "2025-06-11T19:16:45Z",
+      "stars": 12,
+      "updated_at": "2025-06-15T12:30:06Z",
       "version": "v1.3.8-rev1"
     },
     "astrbot_plugin_liblibapi": {
@@ -910,8 +910,8 @@
         "人机"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_nobot",
-      "stars": 2,
-      "updated_at": "2025-05-19T10:47:25Z",
+      "stars": 3,
+      "updated_at": "2025-06-15T13:43:54Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_mcgetter": {
@@ -1425,7 +1425,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 8,
-      "updated_at": "2025-06-15T11:10:28Z",
+      "updated_at": "2025-06-16T01:09:13Z",
       "version": "v1.6.2"
     },
     "astrbot_plugin_status-pro": {
@@ -2511,8 +2511,8 @@
         "禁言"
       ],
       "stars": 0,
-      "updated_at": "2025-06-09T10:12:28Z",
-      "version": "v0.1.1"
+      "updated_at": "2025-06-16T00:53:02Z",
+      "version": "v0.1.2"
     },
     "astrbot_plugin_custom_menu": {
       "desc": "自定义菜单图片，图片放置在 menu 目录下，支持格式jpg,jpeg,png,gif,bmp。",
@@ -2565,8 +2565,8 @@
         "功能"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
-      "stars": 23,
-      "updated_at": "2025-06-15T03:30:01Z",
+      "stars": 24,
+      "updated_at": "2025-06-15T13:52:03Z",
       "version": "v1.1.3"
     },
     "astrbot_plugin_yuafeng": {
