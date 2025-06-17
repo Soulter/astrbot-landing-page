@@ -1,9 +1,9 @@
 {
-  "timestamp": "2025-06-16T12:43:25.996Z",
+  "timestamp": "2025-06-17T01:45:14.930Z",
   "github": {
-    "stars": 9768,
-    "forks": 665,
-    "contributors": 69
+    "stars": 9787,
+    "forks": 667,
+    "contributors": 70
   },
   "plugins": {
     "astrbot_plugin_lyricnext": {
@@ -212,8 +212,8 @@
         "旮旯给木"
       ],
       "social_link": "https://github.com/Hxfrzc",
-      "stars": 4,
-      "updated_at": "2025-06-07T14:48:54Z",
+      "stars": 5,
+      "updated_at": "2025-06-16T14:51:27Z",
       "version": "v1.2"
     },
     "astrbot_plugin_yunshi": {
@@ -1250,8 +1250,8 @@
         "游戏"
       ],
       "stars": 1,
-      "updated_at": "2025-06-07T14:19:51Z",
-      "version": "v1.6.1"
+      "updated_at": "2025-06-16T15:55:02Z",
+      "version": "v1.7.0"
     },
     "astrbot_plugin_Group-Verification": {
       "author": "huotuo146",
@@ -1425,7 +1425,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 8,
-      "updated_at": "2025-06-16T12:28:08Z",
+      "updated_at": "2025-06-17T01:06:52Z",
       "version": "v1.6.2"
     },
     "astrbot_plugin_status-pro": {
@@ -2104,8 +2104,8 @@
         "群u爆典"
       ],
       "social_link": "https://m.bilibili.com/space/172230783",
-      "stars": 5,
-      "updated_at": "2025-05-27T11:01:13Z",
+      "stars": 6,
+      "updated_at": "2025-06-16T14:22:52Z",
       "version": "v1.3"
     },
     "astrbot_plugin_GPT_SoVITS": {
@@ -2971,8 +2971,8 @@
       ],
       "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
       "stars": 46,
-      "updated_at": "2025-06-15T05:44:34Z",
-      "version": "v2.1.2"
+      "updated_at": "2025-06-16T21:01:02Z",
+      "version": "v2.1.3"
     },
     "astrbot_plugin_steamshot": {
       "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
