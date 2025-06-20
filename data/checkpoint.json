@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-06-20T01:44:35.084Z",
+  "timestamp": "2025-06-20T12:42:00.928Z",
   "github": {
-    "stars": 9908,
+    "stars": 9923,
     "forks": 678,
     "contributors": 70
   },
@@ -27,8 +27,8 @@
         "数据跟踪"
       ],
       "social_link": "https://github.com/advent259141",
-      "stars": 1,
-      "updated_at": "2025-06-19T09:20:24Z",
+      "stars": 2,
+      "updated_at": "2025-06-20T03:44:35Z",
       "version": "v1.1.0"
     },
     "astrbot_plugin_github_analyzer": {
@@ -104,8 +104,8 @@
       ],
       "desc": "通过调用硅基流动 API 生成地狱笑话",
       "social_link": "https://github.com/oyxning",
-      "stars": 2,
-      "updated_at": "2025-06-15T11:36:44Z"
+      "stars": 3,
+      "updated_at": "2025-06-20T07:35:52Z"
     },
     "astrbot_plugin_human_service": {
       "author": "Zhalslar",
@@ -141,7 +141,7 @@
       "social_link": "https://github.com/oyxning",
       "desc": "祥压抑用户专属，基于关键词触发的香草小祥插件",
       "stars": 3,
-      "updated_at": "2025-06-18T08:23:51Z",
+      "updated_at": "2025-06-20T03:49:02Z",
       "version": "1.4.0"
     },
     "astrbot_plugin_n8n": {
@@ -877,8 +877,8 @@
         "fish"
       ],
       "stars": 13,
-      "updated_at": "2025-06-18T13:30:00Z",
-      "version": "1.3.2"
+      "updated_at": "2025-06-20T10:09:48Z",
+      "version": "1.3.4"
     },
     "astrbot_plugin_bilibili_live": {
       "author": "Raven95676",
@@ -1515,7 +1515,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 8,
-      "updated_at": "2025-06-20T01:06:30Z",
+      "updated_at": "2025-06-20T11:11:44Z",
       "version": "v1.6.2"
     },
     "astrbot_plugin_status-pro": {
@@ -3135,8 +3135,8 @@
         "功能",
         "搬史"
       ],
-      "stars": 260,
-      "updated_at": "2025-06-18T04:55:23Z",
+      "stars": 261,
+      "updated_at": "2025-06-20T10:26:32Z",
       "version": "v0.912"
     },
     "astrbot_plugin_superpoke": {
@@ -3356,16 +3356,16 @@
       "desc": "随机动漫图片、以图搜番、Minecraft服务器、一言、今天吃什么、群早晚安记录、EPIC喜加一。帮助：https://github.com/Soulter/astrbot_plugin_essential",
       "author": "Soulter",
       "repo": "https://github.com/Soulter/astrbot_plugin_essential",
-      "stars": 24,
-      "updated_at": "2025-06-18T04:55:22Z",
+      "stars": 25,
+      "updated_at": "2025-06-20T04:46:10Z",
       "version": "v1.0.9"
     },
     "astrbot_plugin_rss": {
       "desc": "支持通过 RSSHub 路由和直接 URL 订阅 RSS 源，并定时获取最新的 RSS 内容，如推特、B站、油管、博客等任何支持 RSS 2.0 的网站。",
       "author": "Soulter",
       "repo": "https://github.com/Soulter/astrbot_plugin_rss",
-      "stars": 14,
-      "updated_at": "2025-06-14T14:47:48Z",
+      "stars": 15,
+      "updated_at": "2025-06-20T04:48:25Z",
       "version": "v1.1.0"
     },
     "astrbot_plugin_bilibili": {
@@ -3704,8 +3704,8 @@
       "desc": "群老婆插件，记得点右上角帮助查看readme",
       "author": "长安某",
       "repo": "https://github.com/zgojin/astrbot_plugin_AW",
-      "stars": 5,
-      "updated_at": "2025-06-11T05:25:50Z",
+      "stars": 6,
+      "updated_at": "2025-06-20T02:30:06Z",
       "version": "v1.4"
     },
     "astrbot_plugin_mnemosyne": {
