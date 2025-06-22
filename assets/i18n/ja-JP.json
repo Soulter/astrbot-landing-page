@@ -19,7 +19,11 @@
     "wxoa": "WeChat Official Account",
     "lark": "Lark",
     "dingtalk": "DingTalk",
-    "telegram": "Telegram"
+    "telegram": "Telegram",
+    "slack": "Slack",
+    "discord": "Discord",
+    "kook": "KOOK",
+    "vocechat": "VoceChat"
   },
   "models": {
     "title": "主流モデルプロバイダー対応",

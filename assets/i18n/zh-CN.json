@@ -15,11 +15,15 @@
     "qq": "QQ",
     "wechat": "微信",
     "wxkefu": "微信客服",
-    "wecom": "企业微信应用",
+    "wecom": "企业微信",
     "wxoa": "微信公众号",
     "lark": "飞书",
     "dingtalk": "钉钉",
-    "telegram": "Telegram"
+    "telegram": "Telegram",
+    "slack": "Slack",
+    "discord": "Discord",
+    "kook": "KOOK",
+    "vocechat": "VoceChat"
   },
   "models": {
     "title": "支持主流模型提供商",
