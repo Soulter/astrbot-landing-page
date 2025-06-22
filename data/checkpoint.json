@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-06-21T12:38:02.652Z",
+  "timestamp": "2025-06-22T01:52:55.624Z",
   "github": {
-    "stars": 9938,
-    "forks": 680,
+    "stars": 9951,
+    "forks": 682,
     "contributors": 70
   },
   "plugins": {
@@ -14,7 +14,9 @@
         "Kook",
         "平台适配器"
       ],
-      "version": "v0.0.1"
+      "stars": 2,
+      "updated_at": "2025-06-21T13:19:35Z",
+      "version": "v0.0.2"
     },
     "astrbot_plugin_deepresearch": {
       "author": "lxfight",
@@ -33,6 +35,8 @@
       "tags": [
         "文字游戏"
       ],
+      "stars": 2,
+      "updated_at": "2025-06-21T05:50:55Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_llmAtTool": {
@@ -67,8 +71,8 @@
         "丰川祥子"
       ],
       "social_link": "https://github.com/GEMILUXVII",
-      "stars": 0,
-      "updated_at": "2025-06-19T12:11:39Z",
+      "stars": 1,
+      "updated_at": "2025-06-21T17:21:39Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_afdian": {
@@ -115,6 +119,8 @@
         "alist"
       ],
       "social_link": "https://github.com/linjianyan0229",
+      "stars": 0,
+      "updated_at": "2025-06-18T07:04:06Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_StarMonitor": {
@@ -127,8 +133,8 @@
       ],
       "social_link": "https://github.com/advent259141",
       "stars": 2,
-      "updated_at": "2025-06-20T03:44:35Z",
-      "version": "v1.1.0"
+      "updated_at": "2025-06-21T14:59:54Z",
+      "version": "v1.2.0"
     },
     "astrbot_plugin_github_analyzer": {
       "author": "lxfight",
@@ -167,6 +173,8 @@
       "repo": "https://github.com/liangkga/astrbot_scpsl_server",
       "desc": "SCP：SL 服务器查询插件，仿照 server_Qchat 功能",
       "social_link": "https://xingyu.ink",
+      "stars": 0,
+      "updated_at": "2025-06-13T16:06:10Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_wbank": {
@@ -200,7 +208,9 @@
         "地狱笑话吧打过来了"
       ],
       "desc": "通过调用硅基流动 API 生成地狱笑话",
-      "social_link": "https://github.com/oyxning"
+      "social_link": "https://github.com/oyxning",
+      "stars": 3,
+      "updated_at": "2025-06-20T07:35:52Z"
     },
     "astrbot_plugin_human_service": {
       "author": "Zhalslar",
@@ -211,6 +221,8 @@
       ],
       "desc": "[仅aiocqhttp]让bot 转人工/转人机，真人客服 接入对话/结束对话",
       "social_link": "https://github.com/Zhalslar",
+      "stars": 8,
+      "updated_at": "2025-06-19T02:41:09Z",
       "version": "v1.0.4"
     },
     "astrbot_plugin_reimage": {
@@ -220,6 +232,8 @@
         "图像转述"
       ],
       "desc": "将图像转述给不支持图像识别的大模型",
+      "stars": 1,
+      "updated_at": "2025-06-11T15:21:25Z",
       "version": "v0.0.1"
     },
     "astrbot_plugin_sakisaki": {
@@ -232,8 +246,8 @@
       "social_link": "https://github.com/oyxning",
       "desc": "祥压抑用户专属，基于关键词触发的香草小祥插件",
       "stars": 3,
-      "updated_at": "2025-06-21T11:51:08Z",
-      "version": "1.0.0"
+      "updated_at": "2025-06-21T12:38:25Z",
+      "version": "1.4.0"
     },
     "astrbot_plugin_n8n": {
       "author": "Wanxp",
@@ -380,6 +394,8 @@
       ],
       "social_link": "https://github.com/Niloux",
       "repo": "https://github.com/Niloux/astrbot_plugin_cook",
+      "stars": 1,
+      "updated_at": "2025-06-11T19:19:04Z",
       "version": "v1.0"
     },
     "astrbot_plugin_galinfo": {
@@ -430,6 +446,8 @@
       "tags": [
         "ComfyUI"
       ],
+      "stars": 2,
+      "updated_at": "2025-06-17T17:35:04Z",
       "version": "v0.0.5"
     },
     "astrbot-plugin-relaychat": {
@@ -454,6 +472,8 @@
       "author": "wuyan1003",
       "desc": "一起来扔漂流瓶吧！一个简单的漂流瓶插件，支持发送和捡起漂流瓶，可以包含文字和图片",
       "repo": "https://github.com/wuyan1003/astrbot_plugin_drift_bottle",
+      "stars": 5,
+      "updated_at": "2025-06-08T08:19:42Z",
       "version": "1.3.0"
     },
     "astrbot_plugin_tts_Step_Audio": {
@@ -476,6 +496,8 @@
         "系统状态"
       ],
       "social_link": "https://github.com/BB0813",
+      "stars": 2,
+      "updated_at": "2025-06-04T07:49:31Z",
       "version": "v1.0.2"
     },
     "astrbot_dg_lab_plugin": {
@@ -485,6 +507,8 @@
       "tags": [
         "玩具"
       ],
+      "stars": 8,
+      "updated_at": "2025-06-13T15:36:04Z",
       "version": "v0.1"
     },
     "astrbot_plugin_music": {
@@ -528,6 +552,8 @@
         "bilibili"
       ],
       "social_link": "https://github.com/FlyingMuyu",
+      "stars": 2,
+      "updated_at": "2025-05-28T16:46:06Z",
       "version": "v1.0"
     },
     "astrbot_plugin_weather-Amap": {
@@ -550,6 +576,8 @@
         "娱乐",
         "工具"
       ],
+      "stars": 0,
+      "updated_at": "2025-05-28T07:09:14Z",
       "version": "v1.0"
     },
     "astrbot_plugin_wwuid_reply_enhance": {
@@ -618,6 +646,8 @@
       "author": "wuyan1003",
       "desc": "一款灵活高效的文本转图片工具，让文字呈现更具视觉张力",
       "repo": "https://github.com/wuyan1003/astrbot_plugin_text2image",
+      "stars": 2,
+      "updated_at": "2025-05-23T13:02:36Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_angus": {
@@ -644,6 +674,8 @@
       "author": "wuyan1003",
       "desc": "给聊天增加了当前时间提示词，让模型有一定的时间观念，还会让模型知道你们上一次对话间隔了多久[可在插件配置选择是否开启，默认开启]",
       "repo": "https://github.com/wuyan1003/time_prompt",
+      "stars": 4,
+      "updated_at": "2025-06-04T09:02:37Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_seiadetect": {
@@ -674,6 +706,8 @@
         "监控",
         "服务器"
       ],
+      "stars": 2,
+      "updated_at": "2025-06-02T06:53:22Z",
       "version": "0.1.0"
     },
     "astrbot_plugin_mcmod_modsearch": {
@@ -716,6 +750,8 @@
         "latex",
         "渲染"
       ],
+      "stars": 2,
+      "updated_at": "2025-06-08T05:55:48Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_qrcode": {
@@ -846,6 +882,8 @@
         "搜索"
       ],
       "social_link": "https://github.com/TheAnyan",
+      "stars": 4,
+      "updated_at": "2025-05-23T08:04:50Z",
       "version": "v4.0.1"
     },
     "astrbot_plugin_QQgal": {
@@ -866,6 +904,8 @@
       "tags": [
         "戳"
       ],
+      "stars": 2,
+      "updated_at": "2025-05-24T14:54:02Z",
       "version": "v1.1"
     },
     "astrbot_plugin_sql_history": {
@@ -950,8 +990,8 @@
       "desc": "接入Bilibili直播",
       "repo": "https://github.com/Raven95676/astrbot_plugin_bilibili_live",
       "stars": 1,
-      "updated_at": "2025-06-20T14:30:08Z",
-      "version": "0.1.0"
+      "updated_at": "2025-06-21T14:03:16Z",
+      "version": "0.2.0"
     },
     "astrbot_plugin_bo": {
       "author": "anchor",
@@ -983,6 +1023,8 @@
         "自定义模型",
         "自定义lora"
       ],
+      "stars": 2,
+      "updated_at": "2025-05-27T18:00:10Z",
       "version": "v1.1.4"
     },
     "astrbot_plugin_memo": {
@@ -1029,6 +1071,8 @@
         "禁漫"
       ],
       "social_link": "https://github.com/GEMILUXVII",
+      "stars": 5,
+      "updated_at": "2025-06-17T19:32:15Z",
       "version": "1.0.7"
     },
     "astrbot_plugin_combine-messages": {
@@ -1075,6 +1119,8 @@
         "我的世界"
       ],
       "social_link": "https://github.com/QiChenSn",
+      "stars": 3,
+      "updated_at": "2025-05-10T13:30:08Z",
       "version": "v1.1.0"
     },
     "astrbot_plugin_yinlish": {
@@ -1082,6 +1128,8 @@
       "desc": "普通文本转换为'*语',支持自定义*乱度,*语字典",
       "repo": "https://github.com/vmoranv/astrbot_plugin_yinlish",
       "social_link": "https://github.com/vmoranv",
+      "stars": 1,
+      "updated_at": "2025-05-14T14:21:55Z",
       "version": "v1.1.0"
     },
     "astrbot_plugin_bilipic": {
@@ -1102,12 +1150,16 @@
         "表情包"
       ],
       "social_link": "https://github.com/Zhalslar",
+      "stars": 22,
+      "updated_at": "2025-06-20T16:49:28Z",
       "version": "v2.0.6"
     },
     "astrbot_plugin_voiceprint": {
       "author": "hello七七",
       "desc": "活字印刷（文本转语音）",
       "repo": "https://github.com/ttq7/astrbot_plugin_voiceprint",
+      "stars": 2,
+      "updated_at": "2025-05-09T08:21:37Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_mrfz": {
@@ -1119,6 +1171,8 @@
         "语音"
       ],
       "repo": "https://github.com/zhewang448/astrbot_plugin_mrfz",
+      "stars": 2,
+      "updated_at": "2025-06-21T00:30:18Z",
       "version": "v3.3.4"
     },
     "astrbot_plugin_maodie": {
@@ -1130,6 +1184,8 @@
         "耄耋"
       ],
       "social_link": "https://github.com/advent259141",
+      "stars": 9,
+      "updated_at": "2025-06-17T17:01:49Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_napdog_cleaner": {
@@ -1141,6 +1197,8 @@
         "工具"
       ],
       "social_link": "https://space.bilibili.com/26584382",
+      "stars": 4,
+      "updated_at": "2025-05-27T10:52:34Z",
       "version": "v1.0"
     },
     "astrbot_plugin_supervisor": {
@@ -1152,6 +1210,8 @@
         "工作"
       ],
       "social_link": "https://github.com/Zhalslar",
+      "stars": 6,
+      "updated_at": "2025-06-19T02:41:16Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_primermath": {
@@ -1162,6 +1222,8 @@
         "函数工具",
         "数学"
       ],
+      "stars": 0,
+      "updated_at": "2025-04-30T04:39:21Z",
       "version": "v1.0"
     },
     "astrbot_plugin_qyws": {
@@ -1169,18 +1231,24 @@
       "desc": "随机播放文件夹里千原万神小丛雨的语音插件",
       "repo": "https://github.com/mingrixiangnai/qyws",
       "social_link": "https://github.com/mingrixiangnai/qyws",
+      "stars": 0,
+      "updated_at": "2025-06-06T18:51:46Z",
       "version": "v1.1"
     },
     "astrbot_plugin_animewifex": {
       "author": "monbed",
       "desc": "[仅 aiocqhttp] 基于 zgojin 的群二次元老婆插件修改版。",
       "repo": "https://github.com/monbed/astrbot_plugin_animewifex",
+      "stars": 1,
+      "updated_at": "2025-05-25T15:32:44Z",
       "version": "v1.5.4"
     },
     "astrbot_plugin_emojimix": {
       "author": "Flartiny",
       "desc": "一个用于 AstrBot 的插件，实现类似Google Emoji Kitchen(合成emoji)的效果。",
       "repo": "https://github.com/Flartiny/astrbot_plugin_emojimix",
+      "stars": 2,
+      "updated_at": "2025-06-15T02:41:10Z",
       "version": "v1.0.1"
     },
     "astrBot_plugin_0721galgame": {
@@ -1191,6 +1259,8 @@
         "Galgame"
       ],
       "social_link": "https://github.com/mingrixiangnai/0721galgame",
+      "stars": 2,
+      "updated_at": "2025-06-02T20:44:14Z",
       "version": 1
     },
     "astrbot_plugin_terminal": {
@@ -1202,6 +1272,8 @@
         "命令行",
         "终端"
       ],
+      "stars": 0,
+      "updated_at": "2025-05-01T16:43:21Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_OriginiumSeal-pro": {
@@ -1213,6 +1285,8 @@
         "游戏"
       ],
       "social_link": "https://github.com/zhewang448",
+      "stars": 6,
+      "updated_at": "2025-05-27T01:52:21Z",
       "version": "v2.0.0"
     },
     "astrBot_plugin_0721anime": {
@@ -1223,12 +1297,16 @@
         "动漫"
       ],
       "social_link": "https://github.com/mingrixiangnai/0721anime",
+      "stars": 2,
+      "updated_at": "2025-06-02T20:43:55Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_fishing": {
       "author": "baa131",
       "repo": "https://github.com/baa131/astrbot_plugin_fishing",
       "desc": "电子钓鱼的小游戏",
+      "stars": 3,
+      "updated_at": "2025-05-30T14:35:03Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_buttons": {
@@ -1238,18 +1316,24 @@
       "tags": [
         "按钮"
       ],
-      "social_link": "https://github.com/Zhalslar"
+      "social_link": "https://github.com/Zhalslar",
+      "stars": 22,
+      "updated_at": "2025-06-21T17:12:21Z"
     },
     "astrbot_plugin_SillyTavern_card": {
       "author": "LKarxa",
       "desc": "一个将 SillyTavern 角色卡（PNG 格式）转换为 Lorebook YAML 与角色信息的插件。",
       "repo": "https://github.com/LKarxa/astrbot_plugin_SillyTavern_card",
+      "stars": 0,
+      "updated_at": "2025-04-26T13:24:03Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_reply": {
       "author": "yahayao",
       "desc": "自定义关键词回复",
       "repo": "https://github.com/yahayao/astrbot_plugin_reply",
+      "stars": 1,
+      "updated_at": "2025-05-09T11:56:45Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_nvda": {
@@ -1261,18 +1345,24 @@
         "科技",
         "股票"
       ],
+      "stars": 0,
+      "updated_at": "2025-04-25T17:48:53Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_at_responder": {
       "author": "和泉智宏",
       "desc": "多样化@回复插件，配置时请先设置群聊进行@回复，本插件默认不进行@回复支持指定人的全局@、特定群的指定人的@、全群@以及黑名单功能。",
       "repo": "https://github.com/0d00-Ciallo-0721/astrbot_plugin_at_responder",
+      "stars": 0,
+      "updated_at": "2025-06-12T01:12:39Z",
       "version": "v1.5"
     },
     "astrbot_plugin_regex_filter": {
       "author": "LKarxa",
       "desc": " 一个使用正则表达式处理LLM消息的AstrBot插件，可以对LLM回复进行替换、删除、增添等操作。",
       "repo": "https://github.com/LKarxa/astrbot_plugin_regex_filter",
+      "stars": 2,
+      "updated_at": "2025-05-30T16:21:39Z",
       "version": "1.3.0"
     },
     "prompt_tools": {
@@ -1283,6 +1373,8 @@
         "tools",
         "prompt"
       ],
+      "stars": 2,
+      "updated_at": "2025-05-24T17:36:16Z",
       "version": "1.3.0"
     },
     "astrbot_plugin_MsgDistributor": {
@@ -1293,6 +1385,8 @@
         "前置",
         "信息"
       ],
+      "stars": 4,
+      "updated_at": "2025-06-05T10:48:01Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_apis": {
@@ -1303,6 +1397,8 @@
         "api"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
+      "stars": 37,
+      "updated_at": "2025-06-19T02:41:12Z",
       "version": "v1.0.7"
     },
     "astrbot_plugin_help": {
@@ -1310,6 +1406,8 @@
       "desc": "一键输出所有插件的命令帮助！",
       "repo": "https://github.com/tinkerbellqwq/astrbot_plugin_help",
       "social_link": "https://github.com/tinkerbellqwq",
+      "stars": 15,
+      "updated_at": "2025-06-12T10:33:05Z",
       "version": "v1.1.2"
     },
     "astrbot_qqemotionreply": {
@@ -1322,6 +1420,8 @@
         "填满"
       ],
       "desc": "[仅 aiocqhttp] 给 QQ 引用的消息贴表情",
+      "stars": 1,
+      "updated_at": "2025-05-10T13:29:13Z",
       "version": "v1.1.0"
     },
     "astrbot_plugin_llm_draw_plus": {
@@ -1332,6 +1432,8 @@
         "ai绘图",
         "llm tool"
       ],
+      "stars": 4,
+      "updated_at": "2025-06-05T02:44:12Z",
       "version": "v0.0.2"
     },
     "astrbot_plugin_mcqq": {
@@ -1342,6 +1444,8 @@
         "minecraft",
         "游戏"
       ],
+      "stars": 1,
+      "updated_at": "2025-06-16T15:55:02Z",
       "version": "v1.7.0"
     },
     "astrbot_plugin_Group-Verification": {
@@ -1354,6 +1458,8 @@
         "成员审核"
       ],
       "social_link": "https://github.com/huntuo146",
+      "stars": 1,
+      "updated_at": "2025-06-21T07:23:05Z",
       "version": "1.1.1"
     },
     "astrbot_plugin_Volcengine-Text-to-image": {
@@ -1365,6 +1471,8 @@
         "文生图"
       ],
       "social_link": "https://github.com/Wayzinx",
+      "stars": 3,
+      "updated_at": "2025-05-16T16:52:53Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_chishenme": {
@@ -1377,6 +1485,8 @@
         "信息"
       ],
       "social_link": "https://github.com/mingrixiangnai/chishenme",
+      "stars": 0,
+      "updated_at": "2025-06-02T20:44:36Z",
       "version": "v1.0"
     },
     "astrbot_plugin_osutrack": {
@@ -1388,6 +1498,8 @@
         "osu!track"
       ],
       "social_link": "https://github.com/gameswu",
+      "stars": 7,
+      "updated_at": "2025-04-24T14:57:07Z",
       "version": "v0.1.0"
     },
     "astrbot_plugin_group_information": {
@@ -1398,6 +1510,8 @@
         "群消息"
       ],
       "social_link": "https://github.com/Futureppo",
+      "stars": 3,
+      "updated_at": "2025-05-26T11:13:55Z",
       "version": "v1.0.7"
     },
     "astrbot_plugin_OriginiumSeal": {
@@ -1408,6 +1522,8 @@
         "娱乐"
       ],
       "social_link": "https://github.com/FengYing1314/",
+      "stars": 8,
+      "updated_at": "2025-05-23T19:11:06Z",
       "version": "v1.2.1"
     },
     "astrbot_plugin_Minesweeper": {
@@ -1419,6 +1535,8 @@
         "娱乐"
       ],
       "social_link": "https://github.com/advent259141",
+      "stars": 2,
+      "updated_at": "2025-05-03T17:29:56Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_uptime_kuma_puller": {
@@ -1428,12 +1546,16 @@
       "tags": [
         "信息",
         "监控面板"
-      ]
+      ],
+      "stars": 1,
+      "updated_at": "2025-06-12T01:22:52Z"
     },
     "astrbot_plugin_tarot": {
       "author": "XziXmn",
       "desc": "一个基于 AstrBot 框架的塔罗牌占卜插件，支持多牌阵和单张牌占卜，并通过 AI 生成详细解析。",
-      "repo": "https://github.com/XziXmn/astrbot_plugin_tarot"
+      "repo": "https://github.com/XziXmn/astrbot_plugin_tarot",
+      "stars": 1,
+      "updated_at": "2025-06-12T05:29:56Z"
     },
     "astrbot_plugin_a2s": {
       "author": "ZvZPvz",
@@ -1442,6 +1564,8 @@
       "tags": [
         "工具"
       ],
+      "stars": 2,
+      "updated_at": "2025-04-28T10:16:36Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_llmgo": {
@@ -1452,30 +1576,40 @@
         "围棋"
       ],
       "social_link": "https://github.com/advent259141",
+      "stars": 2,
+      "updated_at": "2025-05-03T18:01:46Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_fuck": {
       "author": "vmoranv",
       "desc": "一个为 AstrBot 设计的命令纠错插件，灵感来源于著名的命令行工具 thefuck。当你不小心输错了一个命令时（例如 /pixic 而不是 /pixiv），只需紧接着发送 /fuck，此插件就会尝试找出你可能想输入的正确命令，并给出建议。",
       "repo": "https://github.com/vmoranv/astrbot_plugin_fuck",
+      "stars": 2,
+      "updated_at": "2025-04-22T02:35:45Z",
       "version": "v1.1.0"
     },
     "astrbot_plugin_wuziqi": {
       "author": "大沙北",
       "desc": "简单的五子棋对战游戏",
-      "repo": "https://github.com/bigshabei/astrbot_plugin_wuziqi"
+      "repo": "https://github.com/bigshabei/astrbot_plugin_wuziqi",
+      "stars": 2,
+      "updated_at": "2025-05-03T08:35:21Z"
     },
     "astrbot_plugin_dogdiary": {
       "repo": "https://github.com/bigshabei/astrbot_plugin_dogdiary",
       "author": "大沙北",
       "desc": "连续性舔狗日记，每日一记（可以生成临时日记）",
+      "stars": 0,
+      "updated_at": "2025-04-19T09:46:42Z",
       "version": "1.3.7"
     },
     "astrbot-food-recommender": {
       "repo": "https://github.com/Wayzinx/astrbot-food-recommender",
       "author": "wayzinx",
       "desc": "食物推荐插件，可以根据时间、天气和季节智能推荐食物，并使用 AI 生成食物图片和描述",
-      "social_link": "https://github.com/Wayzinx"
+      "social_link": "https://github.com/Wayzinx",
+      "stars": 5,
+      "updated_at": "2025-06-12T14:09:15Z"
     },
     "astrbot_plugin_turnrig": {
       "author": "WentUrc",
@@ -1485,18 +1619,24 @@
         "工具"
       ],
       "social_link": "https://wenturc.com/",
+      "stars": 8,
+      "updated_at": "2025-06-22T01:13:31Z",
       "version": "v1.6.2"
     },
     "astrbot_plugin_status-pro": {
       "author": "tiker",
       "desc": "[需要安装前置]稍微好看一点的系统信息展示",
       "repo": "https://github.com/tinkerbellqwq/astrbot_plugin_status-pro",
+      "stars": 6,
+      "updated_at": "2025-05-30T07:13:06Z",
       "version": "v1.5"
     },
     "astrbot_plugin_group_sum_ai": {
       "author": "Ayu-u",
       "desc": "[仅 gewechat]可以配置指定群聊或对话人，配置自动总结数量，间隔等等，实现自动根据配置总结群友发言，省的海量无用信息浪费时间",
       "repo": "https://github.com/Ayu-u/astrbot_plugin_group_sum_ai",
+      "stars": 3,
+      "updated_at": "2025-05-17T16:15:25Z",
       "version": "2.2.0"
     },
     "astrbot_plugin_video": {
@@ -1506,18 +1646,24 @@
       "tags": [
         "小姐姐"
       ],
+      "stars": 0,
+      "updated_at": "2025-05-12T12:01:04Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_repeat_after_me": {
       "author": "和泉智宏",
       "desc": "一个简单的跟读插件，当用户@机器人并发送'跟我说xxx'时，机器人会复读'xxx'中的内容。只支持文字的消息。本插件仅在群聊中生效。参考astrbot_plugin_astrbot_plugin_repetition。",
       "repo": "https://github.com/0d00-Ciallo-0721/astrbot_plugin_repeat_after_me",
+      "stars": 0,
+      "updated_at": "2025-04-28T04:06:21Z",
       "version": "v1.1"
     },
     "astrbot_plugin_mirage": {
       "author": "大沙北",
       "desc": "[仅 qq] 幻影坦克制作",
       "repo": "https://github.com/bigshabei/astrbot_plugin_mirage",
+      "stars": 0,
+      "updated_at": "2025-04-17T13:53:39Z",
       "version": "1.2.0"
     },
     "astrbot_plugin_ccb_plus": {
@@ -1527,6 +1673,8 @@
       "tags": [
         "ccb"
       ],
+      "stars": 3,
+      "updated_at": "2025-05-14T10:28:22Z",
       "version": "v0.1.0"
     },
     "astrbot-gold-plugin": {
@@ -1537,6 +1685,8 @@
         "黄金",
         "理财"
       ],
+      "stars": 0,
+      "updated_at": "2025-04-17T07:11:08Z",
       "version": "v1.0"
     },
     "astrbot_plugin_pixiv_search": {
@@ -1546,6 +1696,8 @@
       "tags": [
         "pixiv"
       ],
+      "stars": 15,
+      "updated_at": "2025-06-17T08:56:01Z",
       "version": "1.2.3"
     },
     "astrbot_plugin_gotify": {
@@ -1556,12 +1708,16 @@
         "通知",
         "主动消息"
       ],
+      "stars": 2,
+      "updated_at": "2025-05-16T09:19:31Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_hello-bye": {
       "author": "tinker",
       "desc": "[仅aiocqhttp] 为用户进群退群发送信息提示",
       "repo": "https://github.com/1113-yangfanou/astrbot_plugin_hello-bye",
+      "stars": 8,
+      "updated_at": "2025-05-28T11:21:48Z",
       "version": "v1.8"
     },
     "astrbot_plugin_pexels": {
@@ -1571,6 +1727,8 @@
       "tags": [
         "Pexels"
       ],
+      "stars": 1,
+      "updated_at": "2025-04-16T07:58:20Z",
       "version": "1.0.1"
     },
     "astrbot_plugin_ExchangeRateQuery": {
@@ -1580,18 +1738,24 @@
         "ExchangeRate"
       ],
       "repo": "https://github.com/MoonShadow1976/astrbot_plugin_ExchangeRateQuery",
+      "stars": 1,
+      "updated_at": "2025-04-27T09:19:39Z",
       "version": "v1.1"
     },
     "astrbot_plugin_grok_filter": {
       "author": "Cheng-MaoMao",
       "repo": "https://github.com/Cheng-MaoMao/astrbot_plugin_grok_filter",
       "desc": "过滤 grok-3-reasoner 推理模型的思维链内容",
+      "stars": 0,
+      "updated_at": "2025-04-01T17:27:34Z",
       "version": "v1.0.0"
     },
     "FavorSystem": {
       "author": "wuyan1003",
       "repo": "https://github.com/wuyan1003/likability-level",
       "desc": "给聊天增加了一个好感度值，靠检测 LLM 输出特殊的值来实现，让 LLM 来判断好感度的上升或下降，并且过低的好感度值会被机器人自动拉黑，有管理员身份来自定义好感度值以及拉黑或移除用户（轻微防止被群U玩坏）",
+      "stars": 9,
+      "updated_at": "2025-06-09T10:11:29Z",
       "version": "v1.2.0"
     },
     "astrbot_plugin_password": {
@@ -1603,6 +1767,8 @@
         "密码"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_password",
+      "stars": 5,
+      "updated_at": "2025-06-19T02:41:49Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_douyin_bot": {
@@ -1613,6 +1779,8 @@
         "抖音",
         "视频解析"
       ],
+      "stars": 4,
+      "updated_at": "2025-06-17T16:40:26Z",
       "version": "v1.2"
     },
     "meanig": {
@@ -1620,6 +1788,8 @@
       "repo": "https://github.com/ttq7/meanig",
       "social_link": "https://github.com/ttq7/meanig",
       "desc": "大锅里炖（小游戏等等超 25 个功能！）",
+      "stars": 9,
+      "updated_at": "2025-04-25T10:21:31Z",
       "version": "v2.0.1"
     },
     "astrbot_plugin_openweaponscase": {
@@ -1630,6 +1800,8 @@
         "开箱"
       ],
       "desc": "CS 武器箱开箱模拟支持大量目前已有的武器箱，可以展示开启物品的图案和对应的磨损",
+      "stars": 2,
+      "updated_at": "2025-06-02T06:31:48Z",
       "version": "v1.1"
     },
     "astrbot_plugin_gallery": {
@@ -1640,6 +1812,8 @@
         "图库"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_gallery",
+      "stars": 8,
+      "updated_at": "2025-06-19T02:41:10Z",
       "version": "v2.0.1"
     },
     "astrbot_plugin_sensoji_pro": {
@@ -1649,6 +1823,8 @@
       "tags": [
         "抽签"
       ],
+      "stars": 2,
+      "updated_at": "2025-05-22T13:31:25Z",
       "version": "v1.2.0"
     },
     "astrbot_portainer_plugin": {
@@ -1659,6 +1835,8 @@
         "容器",
         "工具"
       ],
+      "stars": 3,
+      "updated_at": "2025-05-21T01:20:49Z",
       "version": "v0.9"
     },
     "astrbot_plugin_goldprice": {
@@ -1669,6 +1847,8 @@
         "爬虫"
       ],
       "social_link": "https://github.com/waterfeet",
+      "stars": 3,
+      "updated_at": "2025-05-27T04:59:28Z",
       "version": "v2.1"
     },
     "astrbot_plugin_dajiao": {
@@ -1679,6 +1859,8 @@
         "娱乐",
         "恶搞"
       ],
+      "stars": 2,
+      "updated_at": "2025-05-27T10:57:29Z",
       "version": "v1.0"
     },
     "astrbot_plugin_ccb": {
@@ -1689,6 +1871,8 @@
         "娱乐",
         "恶搞"
       ],
+      "stars": 1,
+      "updated_at": "2025-04-11T13:41:00Z",
       "version": "v1"
     },
     "astrbot_plugin_showmejm": {
@@ -1698,6 +1882,8 @@
       "tags": [
         "jm"
       ],
+      "stars": 4,
+      "updated_at": "2025-06-21T18:55:38Z",
       "version": "v2.4"
     },
     "astrbot_plugin_gscore_adapter": {
@@ -1712,12 +1898,16 @@
         "绝区零"
       ],
       "social_link": "https://docs.sayu-bot.com/",
+      "stars": 14,
+      "updated_at": "2025-06-10T23:01:16Z",
       "version": "v0.3"
     },
     "astrbot_plugin_xyzw": {
       "author": "四郎",
       "repo": "https://github.com/XuYingJie-cmd/astrbot_plugin_xyzw",
       "desc": "[仅gewechat]主要用于咸鱼之王OCR识别算鱼罐子宝箱功能",
+      "stars": 1,
+      "updated_at": "2025-04-11T06:30:22Z",
       "version": "v1.1.1"
     },
     "astrbot_plugin_alist": {
@@ -1727,6 +1917,8 @@
       "tags": [
         "alist"
       ],
+      "stars": 4,
+      "updated_at": "2025-04-29T12:00:45Z",
       "version": "1.2.3"
     },
     "astrbot_plugin_showme_xjj": {
@@ -1737,18 +1929,24 @@
         "短视频",
         "美图"
       ],
+      "stars": 1,
+      "updated_at": "2025-06-04T07:38:56Z",
       "version": "v1.1"
     },
     "astrbot_plugin_60s_news": {
       "author": "Flyinsz",
       "repo": "https://github.com/flyinsz/astrbot_plugin_60s_news",
       "desc": "[仅gewechat] 60s国内新闻",
+      "stars": 1,
+      "updated_at": "2025-04-21T16:59:36Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_hotlist": {
       "author": "Tsgof",
       "repo": "https://github.com/tsgof/astrbot_plugin_hotlist",
       "desc": "获取 B 站热门视频榜单、百度热搜、EPIC 热门榜单",
+      "stars": 0,
+      "updated_at": "2025-03-26T09:34:57Z",
       "version": "v1.1"
     },
     "astrbot_plugin_anime_search": {
@@ -1758,18 +1956,24 @@
       "tags": [
         "AGE"
       ],
+      "stars": 2,
+      "updated_at": "2025-04-26T14:47:18Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_media302-save": {
       "author": "Qoo",
       "repo": "https://github.com/Qoo-330ml/astrbot_plugin_media302-save",
       "desc": "media302 软件的 115 转存插件，可以提交 115 链接给机器人，机器人自动转存到 115 网盘",
+      "stars": 0,
+      "updated_at": "2025-04-10T16:15:29Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_jrrp": {
       "author": "exusiaiwei",
       "repo": "https://github.com/exusiaiwei/astrbot_plugin_jrrp",
       "desc": "一个简单的今日人品插件, 可以查询用户的每日人品值和运势。",
+      "stars": 3,
+      "updated_at": "2025-06-03T16:59:27Z",
       "version": "v1.2.0"
     },
     "astrbot_plugin_zanwo": {
@@ -1780,6 +1984,8 @@
       "desc": "[仅QQ] 赞我！（一个名片点赞插件）。可选是否开启白名单。",
       "social_link": "https://github.com/Futureppo",
       "repo": "https://github.com/Futureppo/astrbot_plugin_zanwo",
+      "stars": 8,
+      "updated_at": "2025-06-17T11:58:04Z",
       "version": "v1.0.8"
     },
     "astrbot_plugin_ehentai_bot": {
@@ -1789,6 +1995,8 @@
       "tags": [
         "ehentai"
       ],
+      "stars": 4,
+      "updated_at": "2025-05-12T03:08:18Z",
       "version": "v2.3"
     },
     "astrbot_plugin_reread": {
@@ -1799,6 +2007,8 @@
         "复读"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_reread",
+      "stars": 9,
+      "updated_at": "2025-06-19T02:41:45Z",
       "version": "v1.0.9"
     },
     "astrbot_plugin_csbaoyan": {
@@ -1809,6 +2019,8 @@
         "计算机",
         "保研"
       ],
+      "stars": 3,
+      "updated_at": "2025-06-02T06:30:29Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_composting_bucket": {
@@ -1818,6 +2030,8 @@
       "tags": [
         "DeepSeek"
       ],
+      "stars": 7,
+      "updated_at": "2025-04-27T09:15:38Z",
       "version": "v0.1"
     },
     "astrbot_plugin_doro_ending": {
@@ -1825,6 +2039,8 @@
       "author": "hello七七",
       "repo": "https://github.com/ttq7/doro_ending",
       "social_link": "https://github.com/ttq7/doro_ending",
+      "stars": 4,
+      "updated_at": "2025-05-08T10:58:58Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_get_weather_msg": {
@@ -1835,6 +2051,8 @@
         "天气"
       ],
       "social_link": "https://github.com/whzcc",
+      "stars": 1,
+      "updated_at": "2025-04-10T13:48:04Z",
       "version": "v1.2.0"
     },
     "astrbot_plugin_get_weather_cmd": {
@@ -1845,6 +2063,8 @@
         "天气"
       ],
       "social_link": "https://github.com/whzcc",
+      "stars": 0,
+      "updated_at": "2025-04-02T14:20:49Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_appreview": {
@@ -1855,6 +2075,8 @@
         "工具"
       ],
       "social_link": "https://qkingwlfw.icu",
+      "stars": 4,
+      "updated_at": "2025-06-04T07:39:07Z",
       "version": "v1.2.0"
     },
     "astrbot_plugin_archlinux_package_search": {
@@ -1866,6 +2088,8 @@
         "linux"
       ],
       "social_link": "https://github.com/xmengnet",
+      "stars": 2,
+      "updated_at": "2025-04-16T05:48:40Z",
       "version": "v0.0.1"
     },
     "astrbot_plugin_browser": {
@@ -1876,6 +2100,8 @@
         "浏览器"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
+      "stars": 11,
+      "updated_at": "2025-06-19T02:41:13Z",
       "version": "v1.1.3"
     },
     "astrbot_plugin_QQAdmin": {
@@ -1885,7 +2111,9 @@
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_QQAdmin",
       "tags": [
         "QQ群管"
-      ]
+      ],
+      "stars": 16,
+      "updated_at": "2025-06-20T16:43:46Z"
     },
     "astrbot_plugin_liars_bar": {
       "desc": "本插件是为 AstrBot 框架开发的游戏插件，实现了一个骗子酒馆",
@@ -1894,6 +2122,8 @@
       "tags": [
         "游戏"
       ],
+      "stars": 5,
+      "updated_at": "2025-05-04T12:33:58Z",
       "version": "1.3.6"
     },
     "astrbot_plugin_SessionFaker": {
@@ -1903,6 +2133,8 @@
       "tags": [
         "消息伪造"
       ],
+      "stars": 18,
+      "updated_at": "2025-06-19T02:46:35Z",
       "version": "v1.1.0"
     },
     "astrbot_plugin_aishit": {
@@ -1912,6 +2144,8 @@
         "造史"
       ],
       "repo": "https://github.com/advent259141/astrbot_plugin_aishit",
+      "stars": 4,
+      "updated_at": "2025-05-20T19:06:57Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_douniuniu": {
@@ -1922,6 +2156,8 @@
         "游戏"
       ],
       "social_link": "https://qm.qq.com/q/F7JTfmpsys",
+      "stars": 0,
+      "updated_at": "2025-04-13T18:00:59Z",
       "version": "v0.0.2"
     },
     "astrbot_plugin_no_dragon_lord": {
@@ -1933,6 +2169,8 @@
         "发言控制"
       ],
       "social_link": "https://space.bilibili.com/26584382",
+      "stars": 0,
+      "updated_at": "2025-04-03T07:59:13Z",
       "version": "v1.1"
     },
     "astrbot_plugin_cs2-box": {
@@ -1943,18 +2181,24 @@
         "开箱",
         "签到"
       ],
+      "stars": 1,
+      "updated_at": "2025-04-03T09:50:24Z",
       "version": "v1.0.0"
     },
     "httpposter": {
       "desc": "HTTP请求工具",
       "author": "Wayzinx",
       "repo": "https://github.com/Wayzinx/httpposter",
+      "stars": 1,
+      "updated_at": "2025-04-03T03:49:24Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_quarksave": {
       "desc": "调用quark-auto-save实现自动转存资源到自己的夸克网盘",
       "author": "lm379",
       "repo": "https://github.com/lm379/astrbot_plugin_quarksave",
+      "stars": 4,
+      "updated_at": "2025-05-26T12:03:24Z",
       "version": "v1.0.4"
     },
     "astrbot_plugins_ConvetPicture": {
@@ -1964,12 +2208,16 @@
       "tags": [
         "日常使用"
       ],
+      "stars": 5,
+      "updated_at": "2025-06-21T03:36:42Z",
       "version": "v1.1"
     },
     "astrbot_plugin_Merge_WeMSG": {
       "desc": "[仅gewechat]支持微信个人号(gewechat)的合并消息处理和转发",
       "author": "zj591227045",
       "repo": "https://github.com/zj591227045/astrbot_plugin_Merge_WeMSG",
+      "stars": 2,
+      "updated_at": "2025-04-06T10:55:03Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_wsde": {
@@ -1979,6 +2227,8 @@
       "tags": [
         "游戏"
       ],
+      "stars": 2,
+      "updated_at": "2025-04-30T12:06:18Z",
       "version": "v2.3"
     },
     "astrbot_plugin_QQProfile": {
@@ -1988,7 +2238,9 @@
       "tags": [
         "QQ资料"
       ],
-      "social_link": "https://github.com/Zhalslar/astrbot_plugin_QQProfile"
+      "social_link": "https://github.com/Zhalslar/astrbot_plugin_QQProfile",
+      "stars": 4,
+      "updated_at": "2025-06-19T02:41:22Z"
     },
     "astrbot_plugin_mcping": {
       "desc": "获取 Minecraft 服务器的状态（图片展示版）",
@@ -1998,6 +2250,8 @@
         "Minecraft"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_mcping",
+      "stars": 6,
+      "updated_at": "2025-06-19T02:41:51Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_lorebook_lite": {
@@ -2008,6 +2262,8 @@
         "lorebook",
         "世界书"
       ],
+      "stars": 7,
+      "updated_at": "2025-05-31T15:38:54Z",
       "version": "v0.1.8"
     },
     "daily_limit": {
@@ -2018,6 +2274,8 @@
         "工具",
         "安全"
       ],
+      "stars": 2,
+      "updated_at": "2025-05-05T10:03:15Z",
       "version": "v1.0.1"
     },
     "JmCli": {
@@ -2028,6 +2286,8 @@
         "JM",
         "禁漫"
       ],
+      "stars": 3,
+      "updated_at": "2025-04-23T02:39:08Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_quote_collocter": {
@@ -2039,6 +2299,8 @@
         "群u爆典"
       ],
       "social_link": "https://m.bilibili.com/space/172230783",
+      "stars": 6,
+      "updated_at": "2025-06-16T14:22:52Z",
       "version": "v1.3"
     },
     "astrbot_plugin_GPT_SoVITS": {
@@ -2049,6 +2311,8 @@
         "TTS"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
+      "stars": 15,
+      "updated_at": "2025-06-19T02:41:11Z",
       "version": "v1.1.9"
     },
     "astrbot_plugin_search_pic": {
@@ -2058,6 +2322,8 @@
       "tags": [
         "搜图"
       ],
+      "stars": 1,
+      "updated_at": "2025-04-28T15:42:07Z",
       "version": "v1.1.1"
     },
     "astrbot_plugin_timtip": {
@@ -2066,7 +2332,9 @@
       "repo": "https://github.com/IGCrystal/astrbot_plugin_timtip",
       "tags": [
         "工具"
-      ]
+      ],
+      "stars": 1,
+      "updated_at": "2025-06-13T04:32:18Z"
     },
     "astrbot_plugin_encipherer": {
       "desc": "集合包括Base64、URLencode、Punycode编码加解密工具的astrbot插件",
@@ -2075,6 +2343,8 @@
       "tags": [
         "工具"
       ],
+      "stars": 0,
+      "updated_at": "2025-04-25T14:46:59Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_answerbook": {
@@ -2082,6 +2352,8 @@
       "author": "浅夏旧入梦",
       "repo": "https://github.com/litsum/astrbot_plugin_answerbook",
       "social_link": "https://m.bilibili.com/space/172230783",
+      "stars": 1,
+      "updated_at": "2025-04-16T01:06:09Z",
       "version": "v1.0"
     },
     "astrbot_plugin_timedtask": {
@@ -2092,6 +2364,8 @@
         "定时",
         "通知"
       ],
+      "stars": 5,
+      "updated_at": "2025-06-06T08:13:47Z",
       "version": "v1.5.1"
     },
     "astrbot_plugin_doro_today": {
@@ -2103,6 +2377,8 @@
         "抽卡"
       ],
       "social_link": "https://github.com/Futureppo",
+      "stars": 11,
+      "updated_at": "2025-05-15T15:14:00Z",
       "version": "v1.0.12"
     },
     "astrbot_plugin_litematic": {
@@ -2113,6 +2389,8 @@
         "Minecraft",
         "游戏"
       ],
+      "stars": 4,
+      "updated_at": "2025-05-24T14:57:40Z",
       "version": "v1.3.0"
     },
     "AstrBot_plugin_Ewords": {
@@ -2124,6 +2402,8 @@
         "CET-4",
         "英语"
       ],
+      "stars": 5,
+      "updated_at": "2025-06-02T06:28:28Z",
       "version": "v1.1.2"
     },
     "astrbot_plugin_weather_wttr_in": {
@@ -2135,24 +2415,32 @@
         "函数调用"
       ],
       "social_link": "https://github.com/xiewoc",
+      "stars": 0,
+      "updated_at": "2025-03-30T04:54:50Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_kahunabot": {
       "desc": "一款基于 EVEonline API 侧重工业制造支援的综合性 QQ 插件",
       "author": "AraragiEro",
-      "repo": "https://github.com/AraragiEro/astrbot_plugin_kahunabot"
+      "repo": "https://github.com/AraragiEro/astrbot_plugin_kahunabot",
+      "stars": 6,
+      "updated_at": "2025-05-17T11:26:13Z"
     },
     "astrbot_plugin_qqpock": {
       "desc": "QQ 代戳",
       "repo": "https://github.com/791819/astrbot_plugin_qqpock",
       "author": "长安某",
       "social_link": "https://space.bilibili.com/1032860513",
+      "stars": 1,
+      "updated_at": "2025-03-29T14:24:10Z",
       "version": "v1.4.1"
     },
     "astrbot_plugin_vv_pic": {
       "desc": "发送最符合关键词的 vv 表情包",
       "author": "Lonelysky",
       "repo": "https://github.com/LonelySky7490/astrbot_plugin_vv_pic",
+      "stars": 3,
+      "updated_at": "2025-05-05T13:29:10Z",
       "version": "v0.6"
     },
     "astrbot_plugin_file_reader": {
@@ -2160,6 +2448,8 @@
       "author": "xiewoc",
       "repo": "https://github.com/xiewoc/astrbot_plugin_file_reader",
       "social_link": "https://github.com/xiewoc",
+      "stars": 3,
+      "updated_at": "2025-06-11T03:41:38Z",
       "version": "v1.0.1"
     },
     "encrypt-and-decrypt": {
@@ -2169,6 +2459,8 @@
       "tags": [
         "工具"
       ],
+      "stars": 0,
+      "updated_at": "2025-03-29T09:28:12Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_CounterStrikle": {
@@ -2179,6 +2471,8 @@
       ],
       "social_link": "https://github.com/Last-emo-boy",
       "repo": "https://github.com/Last-emo-boy/astrbot_plugin_CounterStrikle",
+      "stars": 0,
+      "updated_at": "2025-03-28T16:26:58Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_gomoku": {
@@ -2188,6 +2482,8 @@
       "tags": [
         "游戏"
       ],
+      "stars": 1,
+      "updated_at": "2025-04-17T05:21:25Z",
       "version": "v1.1.0"
     },
     "astrbot_plugin_membercontrast": {
@@ -2195,6 +2491,8 @@
       "author": "laopanmemz",
       "repo": "https://github.com/laopanmemz/astrbot_plugin_membercontrast",
       "social_link": "https://space.bilibili.com/447591776",
+      "stars": 1,
+      "updated_at": "2025-05-19T13:29:37Z",
       "version": "v1.2.0"
     },
     "astrbot_plugin_mermaid": {
@@ -2205,6 +2503,8 @@
         "思维导图",
         "流程图"
       ],
+      "stars": 3,
+      "updated_at": "2025-04-09T15:19:54Z",
       "version": "v1.3.0"
     },
     "astrbot_plugin_saris_fish": {
@@ -2215,12 +2515,16 @@
         "钓鱼"
       ],
       "repo": "https://github.com/chengcheng0325/astrbot_plugin_saris_fish",
+      "stars": 1,
+      "updated_at": "2025-04-09T16:09:30Z",
       "version": "v1.5.0"
     },
     "astrbot_plugin_rdimage": {
       "desc": "从 wenturc 获取随机图片的插件（无 HTML 解析）",
       "author": "IGCrystal",
-      "repo": "https://github.com/IGCrystal/astrbot_plugin_rdimage"
+      "repo": "https://github.com/IGCrystal/astrbot_plugin_rdimage",
+      "stars": 2,
+      "updated_at": "2025-06-09T14:32:23Z"
     },
     "astrbot_plugin_gewe_chatsummary": {
       "desc": "[仅 gewechat] 用来对最近消息调用 LLM 进行总结的插件",
@@ -2230,12 +2534,16 @@
         "工具",
         "总结"
       ],
+      "stars": 4,
+      "updated_at": "2025-06-13T07:18:15Z",
       "version": "v1.1"
     },
     "astrbot_plugin_idiom": {
       "desc": "成语接龙",
       "author": "zhx",
       "repo": "https://github.com/zhx8702/astrbot_plugin_idiom",
+      "stars": 2,
+      "updated_at": "2025-05-03T17:29:50Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_anime_gacha": {
@@ -2246,6 +2554,8 @@
         "番剧"
       ],
       "repo": "https://github.com/xco2/astrbot_plugin_anime_gacha",
+      "stars": 5,
+      "updated_at": "2025-04-27T09:15:23Z",
       "version": "v1.1.0"
     },
     "astrbot_plugin_nachoneko": {
@@ -2255,6 +2565,8 @@
         "甘城なつき"
       ],
       "repo": "https://github.com/Rinyin/astrbot_plugin_nachoneko",
+      "stars": 5,
+      "updated_at": "2025-05-09T11:00:59Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_jm_search": {
@@ -2265,6 +2577,8 @@
         "JM",
         "PDF"
       ],
+      "stars": 1,
+      "updated_at": "2025-05-18T15:28:10Z",
       "version": "v0.4"
     },
     "astrbot_plugin_jm_sender": {
@@ -2275,6 +2589,8 @@
       ],
       "repo": "https://github.com/EnderPPT/astrbot_plugin_jm_sender",
       "social_link": "https://github.com/EnderPPT",
+      "stars": 4,
+      "updated_at": "2025-04-27T09:20:34Z",
       "version": "1.0.0"
     },
     "jmcomic_downloader": {
@@ -2285,6 +2601,8 @@
       "tags": [
         "JM"
       ],
+      "stars": 3,
+      "updated_at": "2025-04-15T08:52:55Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_jmcomicsget": {
@@ -2295,6 +2613,8 @@
         "JM"
       ],
       "social_link": "https://github.com/Ayachi2225",
+      "stars": 2,
+      "updated_at": "2025-04-04T03:15:11Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_history_day": {
@@ -2305,12 +2625,16 @@
         "历史"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_history_day",
+      "stars": 4,
+      "updated_at": "2025-06-19T02:41:48Z",
       "version": "v1.0.7"
     },
     "astrbot_plugin_PockAttack": {
       "desc": "[仅 aiocqhttp] 在群聊中发送 攻击+@用户 或者其他关键词，机器人会戳一戳该用户",
       "author": "LouieKH359",
       "repo": "https://github.com/LouieKH359/astrbot_plugin_PockAttack",
+      "stars": 0,
+      "updated_at": "2025-03-25T09:28:47Z",
       "version": "v1.0"
     },
     "astrbot_plugin_memelite": {
@@ -2321,6 +2645,8 @@
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
       "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
+      "stars": 33,
+      "updated_at": "2025-06-21T07:35:48Z",
       "version": "v1.0.8"
     },
     "astrbot_plugin_saris_economic": {
@@ -2331,6 +2657,8 @@
         "签到",
         "经济"
       ],
+      "stars": 1,
+      "updated_at": "2025-04-13T16:22:54Z",
       "version": "v1.6.2"
     },
     "astrbot_plugin_saris_db": {
@@ -2340,6 +2668,8 @@
       "tags": [
         "前置"
       ],
+      "stars": 1,
+      "updated_at": "2025-04-09T17:14:21Z",
       "version": "v1.4.4"
     },
     "headline": {
@@ -2350,6 +2680,8 @@
       ],
       "social_link": "https://github.com/bbpn-cn/headline",
       "repo": "https://github.com/bbpn-cn/headline",
+      "stars": 2,
+      "updated_at": "2025-06-09T10:10:43Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_mai_sgin": {
@@ -2360,6 +2692,8 @@
         "签到"
       ],
       "repo": "https://github.com/Rinyin/astrbot_plugin_mai_sgin",
+      "stars": 4,
+      "updated_at": "2025-05-27T11:03:58Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_aiocensor": {
@@ -2371,12 +2705,16 @@
         "撤回",
         "禁言"
       ],
+      "stars": 0,
+      "updated_at": "2025-06-16T00:53:02Z",
       "version": "v0.1.2"
     },
     "astrbot_plugin_custom_menu": {
       "desc": "自定义菜单图片，图片放置在 menu 目录下，支持格式jpg,jpeg,png,gif,bmp。",
       "author": "Futureppo",
       "repo": "https://github.com/Futureppo/astrbot_plugin_custom_menu",
+      "stars": 4,
+      "updated_at": "2025-06-19T11:03:21Z",
       "version": "v2.0.1"
     },
     "astrbot_plugin_liferestart": {
@@ -2387,6 +2725,8 @@
       ],
       "social_link": "https://github.com/kterna/astrbot_plugin_liferestart",
       "repo": "https://github.com/kterna/astrbot_plugin_liferestart",
+      "stars": 1,
+      "updated_at": "2025-03-24T15:23:26Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_Lolicon": {
@@ -2396,6 +2736,8 @@
       "tags": [
         "nsfw"
       ],
+      "stars": 10,
+      "updated_at": "2025-05-28T15:35:53Z",
       "version": "v1.3"
     },
     "astrbot_plugin_Translation": {
@@ -2406,6 +2748,8 @@
         "翻译"
       ],
       "repo": "https://github.com/zengweis/astrbot_plugin_Translation",
+      "stars": 0,
+      "updated_at": "2025-03-29T11:07:57Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_box": {
@@ -2416,6 +2760,8 @@
         "功能"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
+      "stars": 26,
+      "updated_at": "2025-06-19T02:41:19Z",
       "version": "v1.1.3"
     },
     "astrbot_plugin_yuafeng": {
@@ -2426,6 +2772,8 @@
       ],
       "repo": "https://github.com/Zhalslar/astrbot_plugin_yuafeng",
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_yuafeng",
+      "stars": 5,
+      "updated_at": "2025-06-19T02:41:46Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_relationship": {
@@ -2435,18 +2783,24 @@
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_relationship",
       "tags": [
         "实用工具"
-      ]
+      ],
+      "stars": 8,
+      "updated_at": "2025-06-19T02:41:19Z"
     },
     "astrbot_plugin_pokecheck": {
       "desc": "[仅QQ可用]一个检测“戳”关键词的插件",
       "author": "huanyan434",
       "repo": "https://github.com/huanyan434/astrbot_plugin_pokecheck",
+      "stars": 5,
+      "updated_at": "2025-04-20T03:11:34Z",
       "version": "v1.1"
     },
     "astrbot_plugin_MultiAI_PollPad": {
       "desc": "轮询调用配置的大语言模型输出多个结果。同时将结果拷贝至在线文本编辑器，以便用户复制。需额外安装依赖，见帮助",
       "repo": "https://github.com/Ynkcc/astrbot_plugin_MultiAI_PollPad",
       "author": "Ynkcc",
+      "stars": 1,
+      "updated_at": "2025-03-28T10:42:14Z",
       "version": "v0.2.1"
     },
     "astrbot_plugin_push_lite": {
@@ -2456,6 +2810,8 @@
       "tags": [
         "消息推送"
       ],
+      "stars": 8,
+      "updated_at": "2025-05-01T15:59:28Z",
       "version": "v0.2.0"
     },
     "astrbot_plugin_hello77": {
@@ -2465,6 +2821,8 @@
         "梗"
       ],
       "repo": "https://github.com/ttq7/astrbot_plugin_hello77",
+      "stars": 3,
+      "updated_at": "2025-04-08T12:25:41Z",
       "version": "v1.2"
     },
     "astrbot_plugin_anti_withdrawal": {
@@ -2475,6 +2833,8 @@
         "防撤回"
       ],
       "repo": "https://github.com/NiceAir/astrbot_plugin_anti_withdrawal",
+      "stars": 1,
+      "updated_at": "2025-06-11T10:32:14Z",
       "version": "v2.0.2"
     },
     "astrbot_plugin_Getcwm": {
@@ -2484,6 +2844,8 @@
       "tags": [
         "刺猬猫"
       ],
+      "stars": 0,
+      "updated_at": "2025-04-15T09:26:24Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_majsoul-master": {
@@ -2494,6 +2856,8 @@
         "雀魂",
         "游戏"
       ],
+      "stars": 3,
+      "updated_at": "2025-05-14T10:57:58Z",
       "version": "1.5.1"
     },
     "astrbot_plugin_wordle_2_msg": {
@@ -2505,6 +2869,8 @@
         "游戏",
         "猜单词"
       ],
+      "stars": 2,
+      "updated_at": "2025-06-10T03:16:04Z",
       "version": "v2.2.1"
     },
     "astrbot_plugin_wordle_2_cmd": {
@@ -2516,6 +2882,8 @@
         "游戏",
         "猜单词"
       ],
+      "stars": 0,
+      "updated_at": "2025-06-10T03:14:25Z",
       "version": "v2.2.1"
     },
     "astrbot_plugin_wordle": {
@@ -2526,6 +2894,8 @@
         "游戏",
         "wordle"
       ],
+      "stars": 3,
+      "updated_at": "2025-05-03T15:48:25Z",
       "version": "v1.2.2"
     },
     "astrbot_plugin_server": {
@@ -2533,6 +2903,8 @@
       "author": "YANFD&Meguminlove",
       "social_link": "https://github.com/yanfd",
       "repo": "https://github.com/yanfd/astrbot_plugin_server",
+      "stars": 2,
+      "updated_at": "2025-03-29T17:11:51Z",
       "version": "v1.1"
     },
     "astrbot_plugin_videos_analysis": {
@@ -2544,6 +2916,8 @@
         "bilibili"
       ],
       "social_link": "https://github.com/miaoxutao123/",
+      "stars": 22,
+      "updated_at": "2025-06-08T20:17:41Z",
       "version": "v0.2.8"
     },
     "astrbot_plugin_sjzb": {
@@ -2554,30 +2928,40 @@
         "绝地潜兵2"
       ],
       "repo": "https://github.com/tenno1174/astrbot_plugin_sjzb",
+      "stars": 0,
+      "updated_at": "2025-03-27T15:06:26Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_emoji": {
       "desc": "基于达莉娅综合群娱插件的表情包制作插件，仅保留了@其他群员制作表情包的部分。由桑帛云API提供表情包制作。",
       "author": "KurisuRee7",
       "repo": "https://github.com/KurisuRee7/astrbot_plugin_emoji",
+      "stars": 1,
+      "updated_at": "2025-03-18T03:21:54Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_videosummary": {
       "desc": "使用 bibigpt 实现视频总结",
       "author": "kterna",
       "repo": "https://github.com/kterna/astrbot_plugin_videosummary",
+      "stars": 2,
+      "updated_at": "2025-05-27T04:55:41Z",
       "version": "v1.2.0"
     },
     "astrbot_plugin_bilibiliParse": {
       "desc": "用于解析哔哩哔哩视频，并以图片的形式发送给用户",
       "author": "功德无量",
       "repo": "https://github.com/7Hello12/astrbot_plugin_bilibiliParse",
+      "stars": 2,
+      "updated_at": "2025-05-27T04:54:53Z",
       "version": "v1.0"
     },
     "astrbot_plugin_picture_manager": {
       "desc": "图片管理插件，允许用户通过自定义触发指令从API或直接URL获取图片。",
       "author": "大沙北",
       "repo": "https://github.com/bigshabei/astrbot_plugin_picture_manager",
+      "stars": 4,
+      "updated_at": "2025-04-21T12:46:14Z",
       "version": "v1.8.0"
     },
     "astrbot_plugin_InitiativeDialogue": {
@@ -2587,6 +2971,8 @@
       "tags": [
         "主动对话"
       ],
+      "stars": 33,
+      "updated_at": "2025-05-23T06:09:12Z",
       "version": "v2.3.0"
     },
     "astrbot_plugin_sensoji": {
@@ -2599,6 +2985,8 @@
         "浅草寺",
         "趣味"
       ],
+      "stars": 4,
+      "updated_at": "2025-06-04T07:39:30Z",
       "version": "v1.2.5"
     },
     "astrbot_plugin_daily_news": {
@@ -2609,6 +2997,8 @@
         "功能",
         "推送"
       ],
+      "stars": 10,
+      "updated_at": "2025-06-03T08:25:03Z",
       "version": "v2.0"
     },
     "astrbot_plugin_gemini_exp": {
@@ -2616,6 +3006,8 @@
       "author": "Elen123bot",
       "repo": "https://github.com/Elen123bot/astrbot_plugin_gemini_exp",
       "social_link": "https://x.com/Alens454635",
+      "stars": 5,
+      "updated_at": "2025-04-10T08:27:11Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_chatsummary": {
@@ -2627,6 +3019,8 @@
       ],
       "social_link": "https://space.bilibili.com/447591776",
       "repo": "https://github.com/laopanmemz/astrbot_plugin_chatsummary",
+      "stars": 1,
+      "updated_at": "2025-05-19T07:50:13Z",
       "version": "v1.0.4"
     },
     "astrbot_plugin_bv": {
@@ -2636,24 +3030,32 @@
       "tags": [
         "bilibili"
       ],
+      "stars": 6,
+      "updated_at": "2025-05-28T05:51:14Z",
       "version": "v1.0"
     },
     "astrBot_PGR_Dialogue": {
       "desc": "检测到部分战双角色的名称(或别称)时，有概率发送一条语音文本",
       "author": "KurisuRee7",
       "repo": "https://github.com/KurisuRee7/astrBot_PGR_Dialogue",
+      "stars": 1,
+      "updated_at": "2025-04-20T13:00:37Z",
       "version": "v1.1"
     },
     "astrbot_plugin_beautiful_giri": {
       "desc": "合集",
       "author": "四郎",
       "repo": "https://github.com/XuYingJie-cmd/astrbot_plugin_beautiful_giri",
+      "stars": 2,
+      "updated_at": "2025-04-01T10:53:55Z",
       "version": "v1.1.2"
     },
     "astrbot_plugin_wechat_manager": {
       "desc": "[仅 gewechat] 微信关键字好友自动审核、关键字邀请进群",
       "author": "diudiu62",
       "repo": "https://github.com/diudiu62/astrbot_plugin_wechat_manager",
+      "stars": 6,
+      "updated_at": "2025-03-30T05:46:52Z",
       "version": "v1.1.8"
     },
     "astrbot_plugin_moyurenpro": {
@@ -2664,24 +3066,32 @@
         "功能",
         "定时任务"
       ],
+      "stars": 4,
+      "updated_at": "2025-04-14T16:18:25Z",
       "version": "v1.3.7"
     },
     "astrbot_plugin_image_understanding_Janus-Pro": {
       "desc": "为本地模型提供的图片理解补充，使用deepseek-ai/Janus-Pro系列模型",
       "author": "xiewoc",
       "repo": "https://github.com/xiewoc/astrbot_plugin_image_understanding_Janus-Pro",
+      "stars": 1,
+      "updated_at": "2025-03-11T06:02:59Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_CS_5E": {
       "desc": "基于5E赛事数据中心的CS赛事数据查询插件，菜单为 /5e_help。",
       "author": "Jason.Joestar",
       "repo": "https://github.com/advent259141/astrbot_plugin_CS_5E",
+      "stars": 3,
+      "updated_at": "2025-05-27T04:53:33Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_mp_sub": {
       "desc": "配合 MoviePilot 订阅影片",
       "author": "NEST",
       "repo": "https://github.com/4Nest/astrbot_plugin_mp_sub",
+      "stars": 16,
+      "updated_at": "2025-05-27T17:55:58Z",
       "version": "v1.1.1"
     },
     "astrbot_plugin_nofap": {
@@ -2691,12 +3101,16 @@
         "功能"
       ],
       "repo": "https://github.com/Aozaky/astrbot_plugin_nofap",
+      "stars": 3,
+      "updated_at": "2025-05-03T17:43:56Z",
       "version": "v1.1.0"
     },
     "astrbot_plugin_niuniuplus": {
       "desc": "原牛牛插件的升级版，卸载原插件并安装即可，数据通用",
       "author": "Jason.Joestar",
       "repo": "https://github.com/advent259141/astrbot_plugin_niuniuplus",
+      "stars": 9,
+      "updated_at": "2025-06-17T07:14:38Z",
       "version": "v2.3.4"
     },
     "astrbot_plugin_random_vtb": {
@@ -2707,29 +3121,39 @@
         "娱乐"
       ],
       "social_link": "https://space.bilibili.com/11874232",
+      "stars": 3,
+      "updated_at": "2025-05-14T10:57:59Z",
       "version": "v1.1.2"
     },
     "astrbot_plugin_server_status": {
       "desc": "实时监控服务器资源使用情况，支持多平台运行，提供清晰的系统状态报告。",
       "author": "腾讯元宝 & Meguminlove",
-      "repo": "https://github.com/Meguminlove/astrbot_plugin_server_status"
+      "repo": "https://github.com/Meguminlove/astrbot_plugin_server_status",
+      "stars": 4,
+      "updated_at": "2025-04-12T09:26:01Z"
     },
     "astrbot_plugin_guaguale": {
       "desc": "刮刮乐小游戏插件，使用[/刮刮乐帮助]查看指令",
       "author": "waterfeet",
       "repo": "https://github.com/waterfeet/astrbot_plugin_guaguale",
+      "stars": 4,
+      "updated_at": "2025-06-11T17:46:31Z",
       "version": "v2.0.2"
     },
     "TRPGdice": {
       "desc": "为跑团玩家设计的仿Dice!骰子插件",
       "author": "shiroling",
       "repo": "https://github.com/WhiteEurya/Astrbot_plugin_TRPGdice",
+      "stars": 4,
+      "updated_at": "2025-05-03T17:26:24Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_qltask": {
       "desc": "青龙面板任务管理插件",
       "author": "ZYDMYHZ",
       "repo": "https://github.com/ZYDMYHZ/astrbot_plugin_qltask",
+      "stars": 1,
+      "updated_at": "2025-04-26T11:38:25Z",
       "version": "v0.0.3"
     },
     "astrbot_plugin_SpectreCore": {
@@ -2741,6 +3165,8 @@
         "主动回复"
       ],
       "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
+      "stars": 47,
+      "updated_at": "2025-06-19T08:22:22Z",
       "version": "v2.1.3"
     },
     "astrbot_plugin_steamshot": {
@@ -2754,6 +3180,8 @@
         "数据查询",
         "图片"
       ],
+      "stars": 8,
+      "updated_at": "2025-06-14T11:00:26Z",
       "version": "v1.8.6"
     },
     "astrbot_plugin_GGAC_Messenger": {
@@ -2764,6 +3192,8 @@
         "功能",
         "推送"
       ],
+      "stars": 1,
+      "updated_at": "2025-06-09T02:18:41Z",
       "version": "v2.0"
     },
     "astrbot_plugin_github_cards": {
@@ -2773,6 +3203,8 @@
       "tags": [
         "功能"
       ],
+      "stars": 12,
+      "updated_at": "2025-06-12T00:57:08Z",
       "version": "1.0.1"
     },
     "astrbot_plugin_hltv": {
@@ -2784,6 +3216,8 @@
         "游戏",
         "数据查询"
       ],
+      "stars": 3,
+      "updated_at": "2025-03-18T17:15:29Z",
       "version": "v1.1"
     },
     "astrbot_plugin_moyuren": {
@@ -2794,6 +3228,8 @@
         "功能",
         "定时任务"
       ],
+      "stars": 18,
+      "updated_at": "2025-06-04T07:39:33Z",
       "version": "v2.3.4"
     },
     "astrbot_sowing_discord": {
@@ -2804,24 +3240,32 @@
         "功能",
         "搬史"
       ],
+      "stars": 262,
+      "updated_at": "2025-06-20T13:33:44Z",
       "version": "v0.912"
     },
     "astrbot_plugin_superpoke": {
       "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
       "author": "waterfeet",
       "repo": "https://github.com/waterfeet/astrbot_plugin_superpoke",
+      "stars": 2,
+      "updated_at": "2025-05-27T04:51:27Z",
       "version": "v1.2.0"
     },
     "astrbot_plugin_humanlike": {
       "desc": "anka - 让ai更像真人 - 学会沉默",
       "author": "anka",
       "repo": "https://github.com/anka-afk/astrbot_plugin_humanlike",
+      "stars": 18,
+      "updated_at": "2025-05-23T06:09:08Z",
       "version": "v0.2.2"
     },
     "astrbot_plugin_blue_archive": {
       "desc": "蔚蓝档案攻略查询 - 指令格式：攻略查询 <攻略名称>",
       "author": "anka",
       "repo": "https://github.com/anka-afk/astrbot_plugin_blue_archive",
+      "stars": 4,
+      "updated_at": "2025-05-17T13:55:45Z",
       "version": "v1.0"
     },
     "astrbot_plugin_meme_manager": {
@@ -2834,149 +3278,199 @@
         "webui",
         "图床"
       ],
+      "stars": 57,
+      "updated_at": "2025-06-19T20:40:54Z",
       "version": "v3.12"
     },
     "mccloud_command": {
       "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
       "author": "MC云-小馒头",
       "repo": "https://github.com/MCYUNIDC/mccloud_command",
+      "stars": 3,
+      "updated_at": "2025-05-02T07:48:42Z",
       "version": "v1.0"
     },
     "astrbot_plugin_music-search": {
       "desc": "让你的bot能够搜索歌曲并点歌的插件",
       "author": "榛子小猹猹",
       "repo": "https://github.com/Hazellol/astrbot_plugin_music-search",
+      "stars": 10,
+      "updated_at": "2025-05-29T17:01:18Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_wake_enhance": {
       "desc": "【唤醒增强】让 AstrBot 支持通过正则匹配唤醒机器人、唤醒后持续与机器人对话交互。",
       "author": "Soulter",
       "repo": "https://github.com/Soulter/astrbot_plugin_wake_enhance",
+      "stars": 5,
+      "updated_at": "2025-06-21T14:19:56Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_safebooru": {
       "desc": "/safebooru + tag = 好看的图，",
       "author": "w33d",
       "repo": "https://github.com/Last-emo-boy/astrbot_plugin_safebooru",
+      "stars": 2,
+      "updated_at": "2025-02-23T12:46:04Z",
       "version": "v1.1.3"
     },
     "astrbot_plugin_uptime": {
       "desc": "Uptime bot. 监测所订阅的站点是否可正常访问，异常时发出警报。",
       "author": "Soulter",
       "repo": "https://github.com/Soulter/astrbot_plugin_uptime",
+      "stars": 0,
+      "updated_at": "2025-02-23T12:56:12Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_flux": {
       "desc": "硅基流动文生图-支持OpenAI标准的格式接入，支持Flux.1-dev模型",
       "author": "七七七七",
       "repo": "https://github.com/18005575/astrbot_plugin_flux",
+      "stars": 3,
+      "updated_at": "2025-05-22T07:28:46Z",
       "version": "v1.5"
     },
     "mccloud_meme_sender": {
       "desc": "这是一个表情包发送插件，可以识别AI回复中的表情符号并发送对应的表情包。记得看帮助需要配置人格 地址：https://github.com/MCYUNIDC/mccloud_meme_sender",
       "author": "MC云-小馒头",
       "repo": "https://github.com/MCYUNIDC/mccloud_meme_sender",
+      "stars": 5,
+      "updated_at": "2025-05-20T08:10:01Z",
       "version": "v2.0"
     },
     "sauceno_search": {
       "desc": "Sauceno搜图插件，使用/搜图 指令搜图",
       "author": "榛子小猹猹",
       "repo": "https://github.com/Hazellol/astrbot_plugin_sauceno",
+      "stars": 12,
+      "updated_at": "2025-06-13T15:36:09Z",
       "version": "v1.0.0"
     },
     "lottery": {
       "desc": "抓阄插件，使用/抓阄 指令抓阄，教程https://github.com/MashiroSaber03/lottery",
       "author": "ましろSaber",
       "repo": "https://github.com/MashiroSaber03/lottery",
+      "stars": 1,
+      "updated_at": "2025-02-08T05:26:10Z",
       "version": "v1.3"
     },
     "genshinimpact": {
       "desc": "原神关键词检测插件，检测到`原神`关键词自动发送一条圣经",
       "author": "ましろSaber",
       "repo": "https://github.com/MashiroSaber03/genshinimpact",
+      "stars": 0,
+      "updated_at": "2025-02-08T07:09:40Z",
       "version": "v1.3"
     },
     "astrbot_plugin_blacklist": {
       "desc": "黑名单插件，禁止用户和 AstrBot 交互，适用于 aiocqhttp, gewechat",
       "author": "水蜜桃",
-      "repo": "https://github.com/dahetaoa/AstrBot-ban-Plugins"
+      "repo": "https://github.com/dahetaoa/AstrBot-ban-Plugins",
+      "stars": 1,
+      "updated_at": "2025-05-25T06:18:42Z"
     },
     "mccloud_zhipu_img": {
       "desc": "使用智谱AI生成图片。使用 /aimg <提示词> [大小] 生成图片。需要配置哦！",
       "author": "MC云-小馒头",
       "repo": "https://github.com/MCYUNIDC/mccloud_zhipu_img",
+      "stars": 2,
+      "updated_at": "2025-05-02T07:48:43Z",
       "version": "v2.0"
     },
     "mccloud_img": {
       "desc": "一个从API获取图片的插件，支持自定义API地址。使用 /img 获取图片。配置可填https://api.lolicon.app/setu/v2 *图二次元的获取。 ",
       "author": "MC云-小馒头",
       "repo": "https://github.com/MCYUNIDC/mccloud_img",
+      "stars": 2,
+      "updated_at": "2025-05-02T07:48:44Z",
       "version": "v1.0"
     },
     "r1-filter": {
       "desc": "过滤 DeepSeek R1 推理模型的思维链内容 [版本要求 >= v3.4.17]",
       "author": "Soulter",
       "repo": "https://github.com/Soulter/astrbot_plugin_r1_filter",
+      "stars": 11,
+      "updated_at": "2025-04-29T16:28:22Z",
       "version": "v1.0.0"
     },
     "mccloud_deepseek": {
       "desc": "可选择是否过滤推理模型的思考内容，仅支持MC云API。购买MC云服务器云电脑可享受免费API不限制支持deepseek-r1 v3模型。https://idc.stay33.cn/  [版本要求 >= v3.4.17]",
       "author": "MC云-小馒头",
       "repo": "https://github.com/MCYUNIDC/mccloud_deepseek",
+      "stars": 1,
+      "updated_at": "2025-05-02T07:48:44Z",
       "version": "v1.0"
     },
     "mccloud_site": {
       "desc": "一个集成了网站测试工具的插件，支持网站连通性测试、速度测试、域名查询、端口扫描和网站截图功能。使用/sitehelp查看帮助。",
       "author": "MC云-小馒头",
       "repo": "https://github.com/MCYUNIDC/mccloud_site",
+      "stars": 2,
+      "updated_at": "2025-05-02T07:48:46Z",
       "version": "v1.0"
     },
     "astrbot_websitetool": {
       "desc": "mccloud_site的修复版，解决了QQ识别不到的问题。使用说明与mccloud_site一样",
       "author": "wxgl",
       "repo": "https://github.com/wxgl/astrbot_websitetool",
+      "stars": 0,
+      "updated_at": "2025-02-12T09:58:50Z",
       "version": "v1.0"
     },
     "ai_reminder": {
       "desc": "智能定时任务,可以看做是高级提醒，可以让ai在特定时间执行特定任务,注意禁用原提醒插件",
       "author": "kjqwdw",
       "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
+      "stars": 13,
+      "updated_at": "2025-06-19T01:53:00Z",
       "version": "v1.1.2"
     },
     "ai_memory": {
       "desc": "一个AI记忆管理插件，可以让ai记住重要的事，记忆读取是ai自己调用的，有时候呆呆的ai不会自己调用，可以多问几次或者人格加上特定提示词,输入 /mem_help 查看记忆管理帮助",
       "author": "kjqwdw",
       "repo": "https://github.com/kjqwer/strbot_plugin_play_sy",
+      "stars": 10,
+      "updated_at": "2025-04-24T13:37:43Z",
       "version": "v1.0.0"
     },
     "huanju": {
       "desc": "欢乐21点游戏插件。输入 /hj help 查看关键词回复帮助。",
       "author": "kjqwdw",
       "repo": "https://github.com/kjqwer/astrbot_plugin_game_sy",
+      "stars": 5,
+      "updated_at": "2025-05-03T17:02:24Z",
       "version": "v1.0"
     },
     "astrbot_plugin_texas_holdem_poker": {
       "desc": "简单的德州扑克，/poker就可以开玩了",
       "author": "w33d",
       "repo": "https://github.com/Last-emo-boy/astrbot_plugin_texas_holdem_poker",
+      "stars": 3,
+      "updated_at": "2025-02-17T16:36:17Z",
       "version": "v1.4.0"
     },
     "astrbot_plugin_holdem_poker": {
       "desc": "修改自 w33d 的德州扑克。原插件仅支持微信，现支持 QQ 群。此外增加了每轮下注上限金额，为小盲注的10倍，可自行调整或删去",
       "author": "SamsaraMBJC",
       "repo": "https://github.com/SamsaraMBJC/astrbot_plugin_holdem_poker",
+      "stars": 5,
+      "updated_at": "2025-05-20T06:42:47Z",
       "version": "v1.5.0"
     },
     "astrbot_plugin_essential": {
       "desc": "随机动漫图片、以图搜番、Minecraft服务器、一言、今天吃什么、群早晚安记录、EPIC喜加一。帮助：https://github.com/Soulter/astrbot_plugin_essential",
       "author": "Soulter",
       "repo": "https://github.com/Soulter/astrbot_plugin_essential",
+      "stars": 25,
+      "updated_at": "2025-06-20T04:46:10Z",
       "version": "v1.0.9"
     },
     "astrbot_plugin_rss": {
       "desc": "支持通过 RSSHub 路由和直接 URL 订阅 RSS 源，并定时获取最新的 RSS 内容，如推特、B站、油管、博客等任何支持 RSS 2.0 的网站。",
       "author": "Soulter",
       "repo": "https://github.com/Soulter/astrbot_plugin_rss",
+      "stars": 15,
+      "updated_at": "2025-06-20T04:48:25Z",
       "version": "v1.1.0"
     },
     "astrbot_plugin_bilibili": {
@@ -2984,377 +3478,505 @@
       "author": "Flartiny & Soulter",
       "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
       "pinned": true,
+      "stars": 25,
+      "updated_at": "2025-06-21T13:48:48Z",
       "version": "v1.4.9"
     },
     "astrbot_plugin_leetcode": {
       "desc": "leetcode 每日一题、随机题目。",
       "author": "Soulter",
       "repo": "https://github.com/Soulter/astrbot_plugin_leetcode",
+      "stars": 4,
+      "updated_at": "2025-03-22T06:05:01Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_english": {
       "desc": "A proto of learning English on Astrbot.",
       "author": "Soulter",
       "repo": "https://github.com/Soulter/astrbot_plugin_english",
+      "stars": 1,
+      "updated_at": "2024-12-14T15:56:13Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_dice": {
       "desc": "一个骰子插件，支持设置面数和检定阈值，输入/dicehelp获取帮助",
       "author": "scwunai",
       "repo": "https://github.com/scwunai/Astrbot_Plugin_Dice_scwunai",
+      "stars": 0,
+      "updated_at": "2025-02-03T16:19:38Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_haos": {
       "desc": "这是简单的请求HAOSApi以获取HomeAssistant内注册的温湿度传感器数据的插件。输入/haoshelp获取帮助。请先根据帮助描述完成配置文件的配置填写后使用",
       "author": "scwunai",
       "repo": "https://github.com/scwunai/Astrbot_Plugin_HAOS_scwunai",
+      "stars": 1,
+      "updated_at": "2025-02-25T04:03:54Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_wol": {
       "desc": "局域网 WOL 唤醒插件，/wolhelp 查看帮助",
       "author": "Camreishi",
       "repo": "https://github.com/Camreishi/astrbot_plugin_wol",
+      "stars": 1,
+      "updated_at": "2025-02-03T07:17:41Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_SDGen": {
       "desc": "Stable Diffusion WebUI图片生成插件，/sd help 查看帮助",
       "author": "buding",
       "repo": "https://github.com/zouyonghe/astrbot_plugin_SDGen",
+      "stars": 14,
+      "updated_at": "2025-06-11T02:11:14Z",
       "version": "v1.1.2"
     },
     "astrbot_plugin_sysinfo": {
       "desc": "获取当前系统状态",
       "author": "mika",
-      "repo": "https://github.com/AstrBot-Devs/astrbot_plugin_sysinfo"
+      "repo": "https://github.com/AstrBot-Devs/astrbot_plugin_sysinfo",
+      "stars": 3,
+      "updated_at": "2025-02-10T12:26:19Z"
     },
     "astrbot_plugin_weather": {
       "desc": "一个基于心知天气免费API的天气查询插件",
       "author": "w33d",
       "repo": "https://github.com/Last-emo-boy/astrbot_plugin_weather",
+      "stars": 6,
+      "updated_at": "2025-05-16T04:42:34Z",
       "version": "v2.1.1"
     },
     "astrbot_plugin_cr4zyThursday": {
       "desc": "疯狂星期四！",
       "author": "w33d",
       "repo": "https://github.com/Last-emo-boy/astrbot_plugin_cr4zyThursday",
+      "stars": 5,
+      "updated_at": "2025-05-18T07:42:33Z",
       "version": "v1.1.0"
     },
     "astrbot_plugin_buckshot_roulette": {
       "desc": "一个好玩的简单恶魔轮盘",
       "author": "w33d",
       "repo": "https://github.com/Last-emo-boy/astrbot_plugin_buckshot_roulette",
+      "stars": 7,
+      "updated_at": "2025-05-23T15:02:01Z",
       "version": "v1.1.1"
     },
     "astrbot_plugin_github_tracker": {
       "desc": "一个定期查询跟踪repo的小工具",
       "author": "w33d",
       "repo": "https://github.com/Last-emo-boy/astrbot_plugin_github_tracker",
+      "stars": 2,
+      "updated_at": "2025-05-18T16:16:08Z",
       "version": "v1.2"
     },
     "astrbot_plugin_exchange_rate": {
       "desc": "一个查询汇率的工具",
       "author": "w33d",
       "repo": "https://github.com/Last-emo-boy/astrbot_plugin_exchange_rate",
+      "stars": 5,
+      "updated_at": "2025-04-09T15:06:04Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_cloudmusic": {
       "desc": "网易云音乐搜索、热评。并且支持了大模型函数调用工具。请说 `搜下春日影这首歌`。其他指令请看帮助",
       "author": "ave_mujica-saki",
-      "repo": "https://github.com/AstrBot-Devs/astrbot_plugin_cloudmusic"
+      "repo": "https://github.com/AstrBot-Devs/astrbot_plugin_cloudmusic",
+      "stars": 3,
+      "updated_at": "2025-05-24T12:46:36Z"
     },
     "qq_official_url_cleaner": {
       "desc": "为 QQ 官方 API 修改发送消息的链接，可改善消息被屏蔽的现象",
       "author": "ave_mujica-saki",
-      "repo": "https://github.com/AstrBot-Devs/qq_official_url_cleaner"
+      "repo": "https://github.com/AstrBot-Devs/qq_official_url_cleaner",
+      "stars": 1,
+      "updated_at": "2025-02-08T06:18:07Z"
     },
     "astrbot_plugin_VITS": {
       "desc": "硅基流动api语音合成",
       "author": "第九位魔神",
       "repo": "https://github.com/cyber-moshen/astrbot_plugin_VITS",
+      "stars": 6,
+      "updated_at": "2025-05-29T12:46:19Z",
       "version": "v1.2.0"
     },
     "astrbot_plugin_memes": {
       "desc": "这是能让机器人随机发表情包的插件，可手动添加表情包，表情包路径在AstrBot/data/meme/下",
       "author": "LunarMeal",
       "repo": "https://github.com/LunarMeal/astrbot_plugin_memes",
+      "stars": 8,
+      "updated_at": "2025-04-10T06:42:22Z",
       "version": "v3.0"
     },
     "astrbot_plugin_ignore_at": {
       "desc": "让机器人无视QQ的@全体成员,以及提供一个@唤醒机器人的开关",
       "author": "Cl_Fu",
-      "repo": "https://github.com/clfpwp/astrbot_plugin_ignore_at"
+      "repo": "https://github.com/clfpwp/astrbot_plugin_ignore_at",
+      "stars": 5,
+      "updated_at": "2025-05-08T03:08:19Z"
     },
     "astrbot_plugin_error_filter": {
       "desc": "选择是否过滤机器人的错误回复",
       "author": "LuffyLSX",
       "repo": "https://github.com/LuffyLSX/astrbot_plugin_error_filter",
+      "stars": 3,
+      "updated_at": "2025-05-03T12:17:00Z",
       "version": "v1.0"
     },
     "FateTrial_JMdownloader": {
       "desc": "一个下载JM漫画的插件，请勿用于违法用途",
       "author": "FateTrial",
       "repo": "https://github.com/FateTrial/FateTrial_JMdownloader",
+      "stars": 28,
+      "updated_at": "2025-04-26T14:44:24Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_lolicon_image-master": {
       "desc": "涩图插件2.0基于，原作者rikkamiss插件进行修改，使机器人可以发送R18图片",
       "author": "FateTrial",
       "repo": "https://github.com/FateTrial/astrbot_plugin_lolicon_image-master",
+      "stars": 7,
+      "updated_at": "2025-05-30T17:06:37Z",
       "version": "v2.0"
     },
     "astrbot_plugin_niuniu": {
       "desc": "牛牛插件，一个污污的小游戏插件，默认关闭，发送牛牛菜单获取帮助",
       "author": "长安某",
       "repo": "https://github.com/zgojin/astrbot_plugin_niuniu",
+      "stars": 11,
+      "updated_at": "2025-05-09T05:30:37Z",
       "version": "v4.7.1"
     },
     "astrbot_plugin_mohoyo_cos": {
       "desc": "获取米游社社区cos插件，支持LLM自识别",
       "author": "Cvandia",
       "repo": "https://github.com/Cvandia/astrbot_plugin_mohoyo_cos",
+      "stars": 4,
+      "updated_at": "2025-03-26T01:18:26Z",
       "version": "v1.1.2"
     },
     "astrbot_plugin_customT2I": {
       "desc": "用于在 astrbot 中切换和管理自定义模板",
       "author": "buding",
       "repo": "https://github.com/zouyonghe/astrbot_plugin_customT2I",
+      "stars": 4,
+      "updated_at": "2025-05-17T14:56:20Z",
       "version": "v0.0.3"
     },
     "astrbot_plugin_anti_porn": {
       "desc": "用于astrbot的反瑟瑟插件",
       "author": "buding",
       "repo": "https://github.com/zouyonghe/astrbot_plugin_anti_porn",
+      "stars": 6,
+      "updated_at": "2025-06-09T02:15:56Z",
       "version": "v1.0.5"
     },
     "FateTrial_zhipu_video": {
       "desc": "智谱AI视频生成插件",
       "author": "FateTrial",
       "repo": "https://github.com/FateTrial/FateTrial_zhipu_video",
+      "stars": 5,
+      "updated_at": "2025-05-12T08:39:18Z",
       "version": "v2.0.0"
     },
     "astrbot_plugin_tagger": {
       "desc": "识别图片并生成AI绘画tag标签",
       "author": "yudengghost",
       "repo": "https://github.com/yudengghost/astrbot_plugin_tagger",
+      "stars": 3,
+      "updated_at": "2025-03-29T18:07:56Z",
       "version": "v1.3"
     },
     "astrbot_plugin_RG": {
       "desc": "俄罗斯轮盘，群小游戏插件，通过装填[可带参数]、射爆，等指令控制，具体可看说明文档",
       "author": "长安某",
       "repo": "https://github.com/zgojin/astrbot_plugin_RG",
+      "stars": 1,
+      "updated_at": "2025-02-23T17:18:27Z",
       "version": "v1.3"
     },
     "astrbot_plugin_token_calculator": {
       "desc": "计算并显示每次对话消耗的token，部分provider可用",
       "author": "rinen0721",
       "repo": "https://github.com/rinen0721/astrbot_plugin_token_calculator",
+      "stars": 2,
+      "updated_at": "2025-02-11T00:58:22Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_qna": {
       "desc": "自动识别群聊提问并解答",
       "author": "buding",
       "repo": "https://github.com/zouyonghe/astrbot_plugin_qna",
+      "stars": 10,
+      "updated_at": "2025-05-04T11:12:23Z",
       "version": "v1.1.9"
     },
     "astrbot_plugin_waiter": {
       "desc": "用于开发者的对话管理插件",
       "author": "Cvandia",
       "repo": "https://github.com/Cvandia/astrbot_plugin_waiter",
+      "stars": 3,
+      "updated_at": "2025-04-08T11:22:22Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_public_servant": {
       "desc": "帮助考公人随时背书的插件(?)",
       "author": "yudengghost",
       "repo": "https://github.com/yudengghost/astrbot_plugin_public_servant",
+      "stars": 1,
+      "updated_at": "2025-02-13T15:02:20Z",
       "version": "v1.0"
     },
     "astrbot_plugin_comfyui": {
       "desc": "利用 LLM 的 function-calling 功能，调用本地启动的 ComfyUI 服务实现文生图功能",
       "author": "fanfanfan",
       "repo": "https://github.com/yuan199696/astrbot_plugin_comfyui",
+      "stars": 6,
+      "updated_at": "2025-05-12T00:47:29Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_for_sd_webui": {
       "desc": "使用/draw调用本地（127.0.0.1）的stable diffusion进行文生图",
       "author": "xiewoc",
       "repo": "https://github.com/xiewoc/astrbot_plugin_for_sd_webui",
+      "stars": 3,
+      "updated_at": "2025-03-15T17:47:02Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_botName": {
       "desc": "bot动态群名片插件,使用请先看插件说明",
       "author": "长安某",
       "repo": "https://github.com/zgojin/astrbot_plugin_botName",
+      "stars": 3,
+      "updated_at": "2025-04-23T04:32:30Z",
       "version": "v1.2"
     },
     "astrbot_plugin_tts_Cosyvoice2": {
       "desc": "Astrbot的tts功能补充（使用Cosyvoice2-0.5b本地模型）",
       "author": "xiewoc",
       "repo": "https://github.com/xiewoc/astrbot_plugin_tts_Cosyvoice2",
+      "stars": 8,
+      "updated_at": "2025-05-31T02:46:04Z",
       "version": "v1.0.9"
     },
     "astrbot_plugin_sign": {
       "desc": "一个(有点简陋)的签到插件，支持每日签到、查询签到信息、排行榜等功能。",
       "author": "枫莹",
       "repo": "https://github.com/FengYing1314/astrbot_plugin_sign",
+      "stars": 9,
+      "updated_at": "2025-05-26T00:42:23Z",
       "version": "v1.0.5"
     },
     "astrbot_plugin_token_auto": {
       "desc": "更好的管理token,防止token消耗过多",
       "author": "枫莹",
       "repo": "https://github.com/FengYing1314/astrbot_plugin_token_auto",
+      "stars": 7,
+      "updated_at": "2025-06-02T16:47:30Z",
       "version": "v1.3.0"
     },
     "FateTrial_setucontroller": {
       "desc": "一个支持自定义涩图属性的插件",
       "author": "FateTrial",
       "repo": "https://github.com/FateTrial/setu_controller",
+      "stars": 2,
+      "updated_at": "2025-04-16T06:40:35Z",
       "version": "v1.0"
     },
     "astrbot_plugin_web_searcher_pro": {
       "desc": "基于SearXNG的Web搜索插件",
       "author": "buding",
       "repo": "https://github.com/zouyonghe/astrbot_plugin_web_searcher_pro",
+      "stars": 9,
+      "updated_at": "2025-05-04T09:20:02Z",
       "version": "v1.0.3"
     },
     "astrbot_plugin_memeify": {
       "desc": "一个AstrBot的插件，用于LLM回复表情包的实现",
       "author": "lxfight",
-      "repo": "https://github.com/lxfight/astrbot_plugin_memeify"
+      "repo": "https://github.com/lxfight/astrbot_plugin_memeify",
+      "stars": 14,
+      "updated_at": "2025-06-14T05:00:05Z"
     },
     "astrbot_plugin_DailyWife": {
       "desc": "每日老婆插件，请配置NapCat！！",
       "author": "jmt059",
       "repo": "https://github.com/jmt059/DailyWife",
+      "stars": 4,
+      "updated_at": "2025-06-03T03:07:16Z",
       "version": "v0.8"
     },
     "astrbot_plugin_AW": {
       "desc": "群老婆插件，记得点右上角帮助查看readme",
       "author": "长安某",
       "repo": "https://github.com/zgojin/astrbot_plugin_AW",
+      "stars": 6,
+      "updated_at": "2025-06-20T02:30:06Z",
       "version": "v1.4"
     },
     "astrbot_plugin_mnemosyne": {
       "desc": "一个长期记忆插件，基于milvus数据库实现，详情请见README.md",
       "author": "lxfight",
       "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
+      "stars": 100,
+      "updated_at": "2025-06-19T03:55:14Z",
       "version": "v0.5.1"
     },
     "FateTrial_img_identify": {
       "desc": "智谱AI图像识别插件",
       "author": "FateTrial",
       "repo": "https://github.com/FateTrial/FateTrial_img_identify",
+      "stars": 2,
+      "updated_at": "2025-03-29T18:08:18Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_shell_executor": {
       "desc": "用于AstrBot的shell远程执行器",
       "author": "buding",
       "repo": "https://github.com/zouyonghe/astrbot_plugin_shell_executor",
+      "stars": 2,
+      "updated_at": "2025-04-16T00:50:00Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_pock": {
       "desc": "astrbot戳一戳监听",
       "author": "长安某",
       "repo": "https://github.com/zgojin/astrbot_plugin_pock",
+      "stars": 4,
+      "updated_at": "2025-05-23T03:13:23Z",
       "version": "v1.5"
     },
     "astrbot_plugin_astrbot_plugin_repetition": {
       "desc": "用于AstrBot的复读机插件",
       "author": "FengYing",
       "repo": "https://github.com/FengYing1314/astrbot_plugin_repetition",
+      "stars": 9,
+      "updated_at": "2025-05-23T08:43:21Z",
       "version": "v1.0.2"
     },
     "FateTrial_Star_Rail": {
       "desc": "崩铁查询插件",
       "author": "FateTrial",
       "repo": "https://github.com/FateTrial/FateTrial_Star_Rail",
+      "stars": 1,
+      "updated_at": "2025-02-27T07:15:56Z",
       "version": "v2.6"
     },
     "FateTrial_Genshin": {
       "desc": "原神查询插件",
       "author": "FateTrial",
       "repo": "https://github.com/FateTrial/FateTrial_Genshin",
+      "stars": 2,
+      "updated_at": "2025-03-12T20:04:13Z",
       "version": "v2.6"
     },
     "astrbot_plugin_aliyun_censor": {
       "desc": "为bot启用阿里云内容安全审核",
       "author": "Raven95676",
       "repo": "https://github.com/Raven95676/astrbot_plugin_aliyun_censor",
+      "stars": 2,
+      "updated_at": "2025-04-27T17:59:13Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_ebooks": {
       "desc": "一个功能强大的电子书插件，支持多平台电子书搜索和下载。",
       "author": "buding",
       "repo": "https://github.com/zouyonghe/astrbot_plugin_ebooks",
+      "stars": 12,
+      "updated_at": "2025-06-09T18:09:19Z",
       "version": "v1.0.9"
     },
     "astrbot_plugin_AIQTalk": {
       "desc": "基于QQ的AI声聊完成的（伪）TTS转语音",
       "author": "长安某",
       "repo": "https://github.com/zgojin/astrbot_plugin_AIQTalk",
+      "stars": 8,
+      "updated_at": "2025-05-03T09:33:24Z",
       "version": "v2.2"
     },
     "astrbot_plugin_KeyReply": {
       "desc": "关键词回复插件",
       "author": "长安某",
       "repo": "https://github.com/zgojin/astrbot_plugin_KeyReply",
+      "stars": 4,
+      "updated_at": "2025-04-30T19:56:15Z",
       "version": "v1.1"
     },
     "astrbot_plugin_better_facebread": {
       "desc": "使llm生成文字后能发送相同情感的表情包",
       "author": "xiewoc",
       "repo": "https://github.com/xiewoc/astrbot_plugin_better_facebread",
+      "stars": 3,
+      "updated_at": "2025-03-28T17:12:56Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_setu": {
       "desc": "Astrbot色图插件，支持自定义配置与标签指定",
       "author": "Raven95676",
       "repo": "https://github.com/Raven95676/astrbot_plugin_setu",
+      "stars": 7,
+      "updated_at": "2025-05-30T16:20:57Z",
       "version": "v1.2.0"
     },
     "astrbot_plugin_voicevox": {
       "desc": "基于VOICEVOX Engine的日语文本转语音插件",
       "author": "buding",
       "repo": "https://github.com/zouyonghe/astrbot_plugin_voicevox",
+      "stars": 4,
+      "updated_at": "2025-04-08T11:24:29Z",
       "version": "v1.0.3"
     },
     "astrbot_plugin_miaomiao": {
       "desc": "这是一个为 AstrBot 开发的插件，仍然在开发中，提供了一些有趣的功能，如随机推荐食物、扔骰子、生成语音等",
       "author": "喵喵",
       "repo": "https://github.com/miaoxutao123/astrbot_plugin_miaomiao",
+      "stars": 9,
+      "updated_at": "2025-05-15T10:13:08Z",
       "version": "v1.2.4"
     },
     "astrbot_plugin_image_video_understanding_Qwen2.5_VL": {
       "desc": "为本地模型提供的视频/图片理解补充，使用Qwen2.5_3B_VL模型",
       "author": "xiewoc",
       "repo": "https://github.com/xiewoc/astrbot_plugin_image_video_understanding_Qwen2_5_VL",
+      "stars": 1,
+      "updated_at": "2025-03-09T05:56:11Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_txsc": {
       "desc": "基于阿里云百炼通义万相-文生图的插件",
       "author": "zhuiye",
       "repo": "https://github.com/zhuiye8/astrbot_plugin_txsc",
+      "stars": 4,
+      "updated_at": "2025-04-24T02:32:13Z",
       "version": "v1.1"
     },
     "astrbot_plugin_keyword_reply": {
       "author": "腾讯元宝 & Meguminlove",
       "desc": "自定义内容回复插件",
-      "repo": "https://github.com/Meguminlove/astrbot_plugin_keyword_reply"
+      "repo": "https://github.com/Meguminlove/astrbot_plugin_keyword_reply",
+      "stars": 1,
+      "updated_at": "2025-03-15T09:54:35Z"
     },
     "astrbot_checkin_plugin": {
       "author": "Kimi & Meguminlove",
       "desc": "简单文字签到插件",
-      "repo": "https://github.com/Meguminlove/astrbot_checkin_plugin"
+      "repo": "https://github.com/Meguminlove/astrbot_checkin_plugin",
+      "stars": 1,
+      "updated_at": "2025-03-15T09:55:10Z"
     },
     "astrbot_plugin_Qsign": {
       "author": "长安某",
       "desc": "二次元图片签到以及好友买卖，对接牛牛商城，仅支持qq且仅支持非官方bot(其他平台请自行测试）",
       "repo": "https://github.com/zgojin/astrbot_plugin_Qsign",
+      "stars": 0,
+      "updated_at": "2025-03-12T01:25:33Z",
       "version": "v1.2.1"
     },
     "astrbot_plugin_thinkTags": {
       "author": "长安某",
       "desc": "过滤消息段中的think",
       "repo": "https://github.com/zgojin/astrbot_plugin_thinkTags",
+      "stars": 0,
+      "updated_at": "2025-03-17T06:52:05Z",
       "version": "v1.3"
     }
   }
