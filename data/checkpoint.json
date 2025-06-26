@@ -1,11 +1,40 @@
 {
-  "timestamp": "2025-06-25T12:43:29.770Z",
+  "timestamp": "2025-06-26T01:45:05.247Z",
   "github": {
-    "stars": 10078,
+    "stars": 10088,
     "forks": 701,
     "contributors": 72
   },
   "plugins": {
+    "yandere_github_stalker": {
+      "author": "Hakimyu",
+      "desc": "监控 GitHub 用户活动，采用病娇风格，并通过图片或文本的形式发送通知。",
+      "repo": "https://github.com/SXP-Simon/astrbot_plugin_yandere_github_stalker",
+      "tags": [
+        "GitHub",
+        "病娇"
+      ],
+      "stars": 3,
+      "updated_at": "2025-06-24T13:02:20Z",
+      "version": "1.0.0"
+    },
+    "tron_address": {
+      "author": "xinghanxu",
+      "desc": "波场地址查询插件",
+      "tags": [
+        "Tron"
+      ],
+      "social_link": "https://t.me/tianxu648"
+    },
+    "astrbot_plugin_test_helper": {
+      "author": "LumineStory",
+      "desc": "允许你通过一个简单的聊天指令，远程热更新你正在开发和测试的任何其他插件",
+      "social_link": "https://github.com/oyxning",
+      "repo": "https://github.com/oyxning/astrbot_plugin_test_helper",
+      "stars": 0,
+      "updated_at": "2025-06-23T13:44:58Z",
+      "version": "1.0.0"
+    },
     "astrbot_plugin_discord_self_embeded": {
       "author": "SXP-Simon",
       "desc": "一个用于 AstrBot 的 Discord Embed 适配器插件，可以自动将发送至 Discord 的文本消息转换为精美的 Embed 格式。",
@@ -31,17 +60,17 @@
       "author": "sa1guu",
       "desc": "三角洲鼠鼠偷吃模拟器（简易）",
       "repo": "https://github.com/sa1guu/astrbot_plugin_touchi",
-      "stars": 3,
-      "updated_at": "2025-06-25T12:40:31Z",
-      "version": "v1.2.0"
+      "stars": 6,
+      "updated_at": "2025-06-26T01:32:53Z",
+      "version": "v1.2.1"
     },
     "astrbot_plugin_Astrsupermarket": {
       "author": "和泉智宏本人",
       "repo": "https://github.com/0d00-Ciallo-0721/astrbot_plugin_Astrsupermarket",
       "desc": "一款专为 AstrBot 打造的高互动性 QQ 群聊插件，融合经济、社交、冒险等玩法",
       "stars": 0,
-      "updated_at": "2025-06-22T03:04:16Z",
-      "version": "v1.0"
+      "updated_at": "2025-06-25T15:38:00Z",
+      "version": "v1.1"
     },
     "astrbot_plugin_gameinfo": {
       "author": "bushikq",
@@ -828,7 +857,7 @@
       ],
       "social_link": "https://github.com/mingrixiangnai/astrbot_plugin_baike",
       "stars": 1,
-      "updated_at": "2025-06-02T20:44:33Z",
+      "updated_at": "2025-06-26T00:26:20Z",
       "version": 1
     },
     "astrbot_plugin_LatexPlotter": {
@@ -1321,7 +1350,7 @@
       "repo": "https://github.com/mingrixiangnai/qyws",
       "social_link": "https://github.com/mingrixiangnai/qyws",
       "stars": 0,
-      "updated_at": "2025-06-06T18:51:46Z",
+      "updated_at": "2025-06-26T00:26:47Z",
       "version": "v1.1"
     },
     "astrbot_plugin_animewifex": {
@@ -1349,7 +1378,7 @@
       ],
       "social_link": "https://github.com/mingrixiangnai/0721galgame",
       "stars": 2,
-      "updated_at": "2025-06-02T20:44:14Z",
+      "updated_at": "2025-06-25T18:32:39Z",
       "version": 1
     },
     "astrbot_plugin_terminal": {
@@ -1387,7 +1416,7 @@
       ],
       "social_link": "https://github.com/mingrixiangnai/0721anime",
       "stars": 2,
-      "updated_at": "2025-06-02T20:43:55Z",
+      "updated_at": "2025-06-26T00:26:05Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_fishing": {
@@ -1575,7 +1604,7 @@
       ],
       "social_link": "https://github.com/mingrixiangnai/chishenme",
       "stars": 0,
-      "updated_at": "2025-06-02T20:44:36Z",
+      "updated_at": "2025-06-26T00:26:34Z",
       "version": "v1.0"
     },
     "astrbot_plugin_osutrack": {
@@ -1709,7 +1738,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 15,
-      "updated_at": "2025-06-25T12:28:01Z",
+      "updated_at": "2025-06-26T01:07:05Z",
       "version": "v1.6.2"
     },
     "astrbot_plugin_status-pro": {
@@ -3551,8 +3580,8 @@
       "author": "Soulter",
       "repo": "https://github.com/Soulter/astrbot_plugin_essential",
       "stars": 25,
-      "updated_at": "2025-06-20T04:46:10Z",
-      "version": "v1.0.9"
+      "updated_at": "2025-06-25T14:33:42Z",
+      "version": "v1.1.0"
     },
     "astrbot_plugin_rss": {
       "desc": "支持通过 RSSHub 路由和直接 URL 订阅 RSS 源，并定时获取最新的 RSS 内容，如推特、B站、油管、博客等任何支持 RSS 2.0 的网站。",
@@ -4065,8 +4094,8 @@
       "desc": "过滤消息段中的think",
       "repo": "https://github.com/zgojin/astrbot_plugin_thinkTags",
       "stars": 0,
-      "updated_at": "2025-03-17T06:52:05Z",
-      "version": "v1.3"
+      "updated_at": "2025-06-25T14:36:40Z",
+      "version": "v1.1"
     }
   }
 }
