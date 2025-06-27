@@ -1,9 +1,9 @@
 {
-  "timestamp": "2025-06-27T01:46:16.414Z",
+  "timestamp": "2025-06-27T12:41:35.315Z",
   "github": {
-    "stars": 10117,
-    "forks": 705,
-    "contributors": 72
+    "stars": 10134,
+    "forks": 707,
+    "contributors": 73
   },
   "plugins": {
     "yandere_github_stalker": {
@@ -15,7 +15,7 @@
         "病娇"
       ],
       "stars": 3,
-      "updated_at": "2025-06-26T10:38:15Z",
+      "updated_at": "2025-06-27T10:02:34Z",
       "version": "1.1.0"
     },
     "tron_address": {
@@ -64,9 +64,9 @@
       "author": "sa1guu",
       "desc": "三角洲鼠鼠偷吃模拟器（简易）",
       "repo": "https://github.com/sa1guu/astrbot_plugin_touchi",
-      "stars": 8,
-      "updated_at": "2025-06-26T21:33:32Z",
-      "version": "v2.0.1"
+      "stars": 11,
+      "updated_at": "2025-06-27T12:00:56Z",
+      "version": "v2.1.1"
     },
     "astrbot_plugin_Astrsupermarket": {
       "author": "和泉智宏本人",
@@ -143,11 +143,15 @@
     "astrbot_plugin_deepresearch": {
       "author": "lxfight",
       "desc": "为 AstrBot 提供一种 DeepResearch 方案，并支持生成可视化 HTML 报告",
+      "repo": "https://github.com/lxfight/astrbot_plugin_deepresearch",
       "tags": [
         "deep research",
         "web search"
       ],
-      "social_link": "https://github.com/lxfight"
+      "social_link": "https://github.com/lxfight",
+      "stars": 12,
+      "updated_at": "2025-06-27T11:37:23Z",
+      "version": "0.1.0"
     },
     "astrbot_plugin_textadventure": {
       "author": "LumineStory",
@@ -230,8 +234,8 @@
       ],
       "social_link": "https://github.com/oyxning",
       "stars": 7,
-      "updated_at": "2025-06-24T15:37:16Z",
-      "version": "v1.0.0"
+      "updated_at": "2025-06-27T09:27:41Z",
+      "version": "v1.0.2"
     },
     "astrbot_plugin_alistfile": {
       "author": "linjianyan",
@@ -267,8 +271,8 @@
         "数据跟踪"
       ],
       "social_link": "https://github.com/lxfight",
-      "stars": 2,
-      "updated_at": "2025-06-18T17:14:55Z",
+      "stars": 3,
+      "updated_at": "2025-06-27T06:10:04Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_mathjax2image": {
@@ -461,8 +465,8 @@
         "种地"
       ],
       "repo": "https://github.com/Shu-Ying/astrbot_plugin_farm",
-      "stars": 8,
-      "updated_at": "2025-06-17T02:09:28Z",
+      "stars": 9,
+      "updated_at": "2025-06-27T04:34:28Z",
       "version": "v1.4.0"
     },
     "astrbot_plugin_weakblacklist": {
@@ -805,7 +809,7 @@
       "desc": "[仅 napcat] 使用Onnx检测发送的图片是否包含_百合园圣娅_并且有特定回复。",
       "repo": "https://github.com/orchidsziyou/astrbot_plugin_seiadetect",
       "stars": 1,
-      "updated_at": "2025-06-03T09:19:24Z",
+      "updated_at": "2025-06-27T03:18:29Z",
       "version": "v1.0"
     },
     "astrbot_plugin_knowledge_base": {
@@ -1034,8 +1038,8 @@
       "author": "LW",
       "desc": "MySQL存储聊天记录",
       "repo": "https://github.com/LWWD/astrbot_plugin_sql_history",
-      "stars": 1,
-      "updated_at": "2025-06-14T10:47:02Z",
+      "stars": 2,
+      "updated_at": "2025-06-27T06:27:54Z",
       "version": "v1.0"
     },
     "astrbot_plugin_error_notice": {
@@ -1253,16 +1257,6 @@
       "stars": 1,
       "updated_at": "2025-05-14T14:21:55Z",
       "version": "v1.1.0"
-    },
-    "astrbot_plugin_bilipic": {
-      "author": "明日香奈",
-      "desc": "发送BV号获取哔站视频封面图",
-      "repo": "https://github.com/mingrixiangnai/bilipic",
-      "tags": [
-        "图片",
-        "哔站"
-      ],
-      "social_link": "https://github.com/mingrixiangnai/bilipic"
     },
     "astrbot_plugin_memelite_rs": {
       "author": "Zhalslar",
@@ -1742,7 +1736,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 15,
-      "updated_at": "2025-06-27T01:08:07Z",
+      "updated_at": "2025-06-27T11:12:00Z",
       "version": "v1.6.2"
     },
     "astrbot_plugin_status-pro": {
@@ -1838,9 +1832,9 @@
       "author": "tinker",
       "desc": "[仅aiocqhttp] 为用户进群退群发送信息提示",
       "repo": "https://github.com/1113-yangfanou/astrbot_plugin_hello-bye",
-      "stars": 8,
-      "updated_at": "2025-05-28T11:21:48Z",
-      "version": "v1.8"
+      "stars": 9,
+      "updated_at": "2025-06-27T09:35:13Z",
+      "version": "v1.9"
     },
     "astrbot_plugin_pexels": {
       "author": "xiamuceer-j",
@@ -3362,8 +3356,8 @@
         "功能",
         "搬史"
       ],
-      "stars": 262,
-      "updated_at": "2025-06-20T13:33:44Z",
+      "stars": 263,
+      "updated_at": "2025-06-27T11:18:13Z",
       "version": "v0.912"
     },
     "astrbot_plugin_superpoke": {
@@ -3583,8 +3577,8 @@
       "desc": "随机动漫图片、以图搜番、Minecraft服务器、一言、今天吃什么、群早晚安记录、EPIC喜加一。帮助：https://github.com/Soulter/astrbot_plugin_essential",
       "author": "Soulter",
       "repo": "https://github.com/Soulter/astrbot_plugin_essential",
-      "stars": 25,
-      "updated_at": "2025-06-25T14:33:42Z",
+      "stars": 26,
+      "updated_at": "2025-06-27T05:04:13Z",
       "version": "v1.1.0"
     },
     "astrbot_plugin_rss": {
