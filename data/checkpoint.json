@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-06-27T12:41:35.315Z",
+  "timestamp": "2025-06-28T01:42:00.324Z",
   "github": {
-    "stars": 10134,
+    "stars": 10143,
     "forks": 707,
     "contributors": 73
   },
@@ -15,7 +15,7 @@
         "病娇"
       ],
       "stars": 3,
-      "updated_at": "2025-06-27T10:02:34Z",
+      "updated_at": "2025-06-27T13:54:32Z",
       "version": "1.1.0"
     },
     "tron_address": {
@@ -149,8 +149,8 @@
         "web search"
       ],
       "social_link": "https://github.com/lxfight",
-      "stars": 12,
-      "updated_at": "2025-06-27T11:37:23Z",
+      "stars": 13,
+      "updated_at": "2025-06-27T13:19:38Z",
       "version": "0.1.0"
     },
     "astrbot_plugin_textadventure": {
@@ -912,8 +912,8 @@
         "embedding"
       ],
       "social_link": "https://github.com/TheAnyan",
-      "stars": 7,
-      "updated_at": "2025-06-04T23:40:13Z",
+      "stars": 8,
+      "updated_at": "2025-06-27T16:08:50Z",
       "version": "v1.1.0"
     },
     "astrbot_plugin_stock": {
@@ -1736,7 +1736,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 15,
-      "updated_at": "2025-06-27T11:12:00Z",
+      "updated_at": "2025-06-28T01:05:23Z",
       "version": "v1.6.2"
     },
     "astrbot_plugin_status-pro": {
@@ -1870,8 +1870,8 @@
       "author": "wuyan1003",
       "repo": "https://github.com/wuyan1003/likability-level",
       "desc": "给聊天增加了一个好感度值，靠检测 LLM 输出特殊的值来实现，让 LLM 来判断好感度的上升或下降，并且过低的好感度值会被机器人自动拉黑，有管理员身份来自定义好感度值以及拉黑或移除用户（轻微防止被群U玩坏）",
-      "stars": 9,
-      "updated_at": "2025-06-09T10:11:29Z",
+      "stars": 10,
+      "updated_at": "2025-06-27T16:06:41Z",
       "version": "v1.2.0"
     },
     "astrbot_plugin_password": {
@@ -2877,7 +2877,7 @@
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
       "stars": 26,
-      "updated_at": "2025-06-19T02:41:19Z",
+      "updated_at": "2025-06-27T13:01:11Z",
       "version": "v1.1.3"
     },
     "astrbot_plugin_yuafeng": {
@@ -3282,8 +3282,8 @@
       ],
       "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
       "stars": 48,
-      "updated_at": "2025-06-22T20:00:24Z",
-      "version": "v2.1.3"
+      "updated_at": "2025-06-27T17:06:44Z",
+      "version": "v2.1.4"
     },
     "astrbot_plugin_steamshot": {
       "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
