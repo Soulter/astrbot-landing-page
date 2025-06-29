@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-06-29T01:55:05.019Z",
+  "timestamp": "2025-06-29T12:38:58.959Z",
   "github": {
-    "stars": 10165,
-    "forks": 707,
+    "stars": 10176,
+    "forks": 708,
     "contributors": 75
   },
   "plugins": {
@@ -103,8 +103,8 @@
       ],
       "social_link": "https://github.com/zhewang448",
       "stars": 1,
-      "updated_at": "2025-06-25T05:53:34Z",
-      "version": "v1.1.1"
+      "updated_at": "2025-06-29T03:41:36Z",
+      "version": "v1.1.5"
     },
     "astrbot_plugin_shutup": {
       "author": "Railgun19457",
@@ -177,8 +177,8 @@
       "tags": [
         "文字游戏"
       ],
-      "stars": 2,
-      "updated_at": "2025-06-21T05:50:55Z",
+      "stars": 3,
+      "updated_at": "2025-06-29T08:49:33Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_llmAtTool": {
@@ -940,8 +940,8 @@
         "股市"
       ],
       "stars": 0,
-      "updated_at": "2025-06-28T15:39:05Z",
-      "version": "v1.1.1"
+      "updated_at": "2025-06-29T09:51:46Z",
+      "version": "v1.2.0"
     },
     "astrbot_plugin_kfc_thursday": {
       "author": "和泉智宏",
@@ -1124,7 +1124,7 @@
         "fish"
       ],
       "stars": 16,
-      "updated_at": "2025-06-28T10:00:37Z",
+      "updated_at": "2025-06-29T06:11:56Z",
       "version": "1.3.12"
     },
     "astrbot_plugin_bilibili_live": {
@@ -1213,8 +1213,8 @@
         "禁漫"
       ],
       "social_link": "https://github.com/GEMILUXVII",
-      "stars": 5,
-      "updated_at": "2025-06-17T19:32:15Z",
+      "stars": 6,
+      "updated_at": "2025-06-29T08:02:01Z",
       "version": "1.0.7"
     },
     "astrbot_plugin_combine-messages": {
@@ -1752,7 +1752,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 15,
-      "updated_at": "2025-06-29T01:14:57Z",
+      "updated_at": "2025-06-29T11:11:05Z",
       "version": "v1.6.2"
     },
     "astrbot_plugin_status-pro": {
@@ -2563,8 +2563,8 @@
       "repo": "https://github.com/791819/astrbot_plugin_qqpock",
       "author": "长安某",
       "social_link": "https://space.bilibili.com/1032860513",
-      "stars": 1,
-      "updated_at": "2025-03-29T14:24:10Z",
+      "stars": 2,
+      "updated_at": "2025-06-29T09:00:20Z",
       "version": "v1.4.1"
     },
     "astrbot_plugin_vv_pic": {
@@ -2892,8 +2892,8 @@
         "功能"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
-      "stars": 26,
-      "updated_at": "2025-06-27T13:01:11Z",
+      "stars": 27,
+      "updated_at": "2025-06-29T09:21:41Z",
       "version": "v1.1.3"
     },
     "astrbot_plugin_yuafeng": {
@@ -2916,8 +2916,8 @@
       "tags": [
         "实用工具"
       ],
-      "stars": 8,
-      "updated_at": "2025-06-19T02:41:19Z"
+      "stars": 9,
+      "updated_at": "2025-06-29T08:34:36Z"
     },
     "astrbot_plugin_pokecheck": {
       "desc": "[仅QQ可用]一个检测“戳”关键词的插件",
