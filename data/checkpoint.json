@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-06-29T12:38:58.959Z",
+  "timestamp": "2025-06-30T01:50:40.717Z",
   "github": {
-    "stars": 10176,
+    "stars": 10182,
     "forks": 708,
     "contributors": 75
   },
@@ -10,8 +10,8 @@
       "author": "Aurora-xk & DeepSeek R1",
       "repo": "https://github.com/Aurora-xk/astrbot_plugin_shitu",
       "desc": "通过调用 AnimeTrace 网站提供的 API 进行动漫识图",
-      "stars": 0,
-      "updated_at": "2025-06-26T07:16:08Z",
+      "stars": 1,
+      "updated_at": "2025-06-29T16:28:17Z",
       "version": "v1.0"
     },
     "astrbot_plugin_cheru": {
@@ -165,8 +165,8 @@
         "web search"
       ],
       "social_link": "https://github.com/lxfight",
-      "stars": 14,
-      "updated_at": "2025-06-28T18:32:12Z",
+      "stars": 15,
+      "updated_at": "2025-06-29T16:27:31Z",
       "version": "0.1.0"
     },
     "astrbot_plugin_textadventure": {
@@ -481,9 +481,9 @@
         "种地"
       ],
       "repo": "https://github.com/Shu-Ying/astrbot_plugin_farm",
-      "stars": 9,
-      "updated_at": "2025-06-27T04:34:28Z",
-      "version": "v1.4.0"
+      "stars": 10,
+      "updated_at": "2025-06-29T21:54:27Z",
+      "version": "v1.5.1"
     },
     "astrbot_plugin_weakblacklist": {
       "author": "和泉智宏",
@@ -984,8 +984,8 @@
         "画像"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 14,
-      "updated_at": "2025-06-28T11:26:38Z",
+      "stars": 15,
+      "updated_at": "2025-06-29T15:39:55Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_Kanalyse": {
@@ -1123,8 +1123,8 @@
         "game",
         "fish"
       ],
-      "stars": 16,
-      "updated_at": "2025-06-29T06:11:56Z",
+      "stars": 17,
+      "updated_at": "2025-06-29T12:31:06Z",
       "version": "1.3.12"
     },
     "astrbot_plugin_bilibili_live": {
@@ -1200,8 +1200,8 @@
         "戳一戳"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 7,
-      "updated_at": "2025-06-26T03:16:01Z",
+      "stars": 8,
+      "updated_at": "2025-06-29T14:24:18Z",
       "version": "v1.0.8"
     },
     "astrbot_plugin_jm_cosmos": {
@@ -1577,8 +1577,8 @@
         "游戏"
       ],
       "stars": 1,
-      "updated_at": "2025-06-16T15:55:02Z",
-      "version": "v1.7.0"
+      "updated_at": "2025-06-29T12:38:14Z",
+      "version": "v1.7.1"
     },
     "astrbot_plugin_Group-Verification": {
       "author": "huotuo146",
@@ -1752,7 +1752,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 15,
-      "updated_at": "2025-06-29T11:11:05Z",
+      "updated_at": "2025-06-30T01:11:49Z",
       "version": "v1.6.2"
     },
     "astrbot_plugin_status-pro": {
@@ -3048,8 +3048,8 @@
         "bilibili"
       ],
       "social_link": "https://github.com/miaoxutao123/",
-      "stars": 22,
-      "updated_at": "2025-06-08T20:17:41Z",
+      "stars": 23,
+      "updated_at": "2025-06-29T16:15:06Z",
       "version": "v0.2.8"
     },
     "astrbot_plugin_sjzb": {
@@ -3372,8 +3372,8 @@
         "功能",
         "搬史"
       ],
-      "stars": 262,
-      "updated_at": "2025-06-28T18:28:42Z",
+      "stars": 263,
+      "updated_at": "2025-06-29T15:39:14Z",
       "version": "v0.912"
     },
     "astrbot_plugin_superpoke": {
@@ -3974,8 +3974,8 @@
       "author": "长安某",
       "repo": "https://github.com/zgojin/astrbot_plugin_pock",
       "stars": 4,
-      "updated_at": "2025-06-28T17:04:57Z",
-      "version": "v1.6"
+      "updated_at": "2025-06-30T01:22:24Z",
+      "version": "v1.7"
     },
     "astrbot_plugin_astrbot_plugin_repetition": {
       "desc": "用于AstrBot的复读机插件",
