@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-06-30T12:43:01.188Z",
+  "timestamp": "2025-07-01T01:56:06.180Z",
   "github": {
-    "stars": 10197,
-    "forks": 712,
+    "stars": 10205,
+    "forks": 711,
     "contributors": 75
   },
   "plugins": {
@@ -307,7 +307,7 @@
       "desc": "通过 OCR 识别咸鱼之王游戏中的宝箱数量",
       "repo": "https://github.com/cloudcranesss/astrbot_plugin_xyzw_box",
       "stars": 1,
-      "updated_at": "2025-06-19T15:17:52Z",
+      "updated_at": "2025-06-30T14:47:13Z",
       "version": "1.0.1"
     },
     "astrbot_scpsl_server": {
@@ -940,8 +940,8 @@
         "股市"
       ],
       "stars": 0,
-      "updated_at": "2025-06-29T09:51:46Z",
-      "version": "v1.2.0"
+      "updated_at": "2025-06-30T13:40:11Z",
+      "version": "v1.2.1"
     },
     "astrbot_plugin_kfc_thursday": {
       "author": "和泉智宏",
@@ -1752,7 +1752,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 15,
-      "updated_at": "2025-06-30T12:27:56Z",
+      "updated_at": "2025-07-01T01:15:19Z",
       "version": "v1.6.2"
     },
     "astrbot_plugin_status-pro": {
