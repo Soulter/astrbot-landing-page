@@ -1,17 +1,15 @@
 {
-  "timestamp": "2025-07-02T01:45:39.122Z",
+  "timestamp": "2025-07-02T12:42:22.389Z",
   "github": {
-    "stars": 10231,
-    "forks": 710,
+    "stars": 10244,
+    "forks": 713,
     "contributors": 75
   },
   "plugins": {
     "astrbot_plugin_at_somebody": {
       "name": "astrbot_plugin_at_somebody",
       "desc": "[仅限aiocqhttp] 在指定群内艾特(@)给定名单的用户+要通知的内容",
-      "repo": "https://github.com/jiongjiongJOJO/astrbot_plugin_at_somebody",
-      "stars": 0,
-      "updated_at": "2025-07-01T11:24:48Z"
+      "repo": "https://github.com/jiongjiongJOJO/astrbot_plugin_at_somebody"
     },
     "astrbot_plugin_deltaforce": {
       "name": "astrbot_plugin_deltaforce",
@@ -110,8 +108,6 @@
         "GitHub",
         "病娇"
       ],
-      "stars": 3,
-      "updated_at": "2025-06-27T13:54:32Z",
       "version": "1.1.0"
     },
     "tron_address": {
@@ -160,9 +156,7 @@
       "author": "sa1guu",
       "desc": "三角洲鼠鼠偷吃模拟器（简易）",
       "repo": "https://github.com/sa1guu/astrbot_plugin_touchi",
-      "stars": 15,
-      "updated_at": "2025-07-01T11:02:45Z",
-      "version": "v2.2.7"
+      "version": "v2.4.1"
     },
     "astrbot_plugin_Astrsupermarket": {
       "author": "和泉智宏本人",
@@ -199,8 +193,6 @@
       "author": "EncodedWitcher",
       "repo": "https://github.com/EncodedWitcher/astrbot_plugin_check-dst-room",
       "desc": "饥荒查房",
-      "stars": 0,
-      "updated_at": "2025-06-21T11:32:07Z",
       "version": "v1.2.0"
     },
     "astrbot_plugin_solve_longmsg": {
@@ -257,8 +249,8 @@
       "tags": [
         "文字游戏"
       ],
-      "stars": 3,
-      "updated_at": "2025-06-29T08:49:33Z",
+      "stars": 4,
+      "updated_at": "2025-07-02T09:55:24Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_llmAtTool": {
@@ -329,9 +321,9 @@
         "调教"
       ],
       "social_link": "https://github.com/oyxning",
-      "stars": 7,
-      "updated_at": "2025-06-27T09:27:41Z",
-      "version": "v1.0.2"
+      "stars": 8,
+      "updated_at": "2025-07-02T12:01:57Z",
+      "version": "v2.0.0"
     },
     "astrbot_plugin_alistfile": {
       "author": "linjianyan",
@@ -467,8 +459,8 @@
       ],
       "social_link": "https://github.com/oyxning",
       "desc": "祥压抑用户专属，基于关键词触发的香草小祥插件",
-      "stars": 3,
-      "updated_at": "2025-06-21T12:38:25Z",
+      "stars": 4,
+      "updated_at": "2025-07-02T10:01:47Z",
       "version": "1.4.0"
     },
     "astrbot_plugin_n8n": {
@@ -860,8 +852,8 @@
       "author": "VincentHo",
       "desc": "DZMM聊天插件，适配了DZMM返回的格式，并避免与AstrBot的模型混用，可用特别命令唤起DZMM的模型进行\"有趣生动\"的互动聊天。",
       "repo": "https://github.com/VincenttHo/astrbot_plugin_dzmm",
-      "stars": 9,
-      "updated_at": "2025-06-30T09:01:33Z",
+      "stars": 10,
+      "updated_at": "2025-07-02T06:45:44Z",
       "version": "v1.0.4"
     },
     "astrbot_plugin_text2image": {
@@ -917,8 +909,7 @@
         "知识库"
       ],
       "stars": 38,
-      "updated_at": "2025-07-02T01:39:39Z",
-      "version": "v0.5.8"
+      "updated_at": "2025-07-02T01:39:39Z"
     },
     "astrbot_uptime_kuma_webhook_plugin": {
       "author": "RC-CHN",
@@ -1090,8 +1081,6 @@
         "前缀"
       ],
       "social_link": "https://github.com/padoru233",
-      "stars": 2,
-      "updated_at": "2025-06-11T07:13:45Z",
       "version": "v0.1.0"
     },
     "astrbot_plugin_cyber_archaeology": {
@@ -1656,8 +1645,8 @@
         "minecraft",
         "游戏"
       ],
-      "stars": 1,
-      "updated_at": "2025-06-29T12:38:14Z",
+      "stars": 2,
+      "updated_at": "2025-07-02T09:13:43Z",
       "version": "v1.7.1"
     },
     "astrbot_plugin_Group-Verification": {
@@ -1832,7 +1821,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 16,
-      "updated_at": "2025-07-02T01:07:54Z",
+      "updated_at": "2025-07-02T11:12:38Z",
       "version": "v1.6.2"
     },
     "astrbot_plugin_status-pro": {
@@ -1992,8 +1981,8 @@
         "视频解析"
       ],
       "stars": 4,
-      "updated_at": "2025-06-17T16:40:26Z",
-      "version": "v1.2"
+      "updated_at": "2025-07-02T11:52:00Z",
+      "version": "v1.3"
     },
     "meanig": {
       "author": "hello七七",
@@ -3942,8 +3931,6 @@
       "desc": "利用 LLM 的 function-calling 功能，调用本地启动的 ComfyUI 服务实现文生图功能",
       "author": "fanfanfan",
       "repo": "https://github.com/yuan199696/astrbot_plugin_comfyui",
-      "stars": 6,
-      "updated_at": "2025-05-12T00:47:29Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_for_sd_webui": {
@@ -4030,7 +4017,7 @@
       "author": "lxfight",
       "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
       "stars": 100,
-      "updated_at": "2025-06-23T12:17:24Z",
+      "updated_at": "2025-07-02T07:24:50Z",
       "version": "v0.5.1"
     },
     "FateTrial_img_identify": {
