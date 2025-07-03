@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-07-02T12:42:22.389Z",
+  "timestamp": "2025-07-03T01:45:49.944Z",
   "github": {
-    "stars": 10244,
+    "stars": 10256,
     "forks": 713,
     "contributors": 75
   },
@@ -9,7 +9,9 @@
     "astrbot_plugin_at_somebody": {
       "name": "astrbot_plugin_at_somebody",
       "desc": "[仅限aiocqhttp] 在指定群内艾特(@)给定名单的用户+要通知的内容",
-      "repo": "https://github.com/jiongjiongJOJO/astrbot_plugin_at_somebody"
+      "repo": "https://github.com/jiongjiongJOJO/astrbot_plugin_at_somebody",
+      "stars": 0,
+      "updated_at": "2025-07-01T11:24:48Z"
     },
     "astrbot_plugin_deltaforce": {
       "name": "astrbot_plugin_deltaforce",
@@ -20,8 +22,8 @@
         "三角洲行动",
         "鼠鼠"
       ],
-      "stars": 0,
-      "updated_at": "2025-06-30T04:47:45Z",
+      "stars": 2,
+      "updated_at": "2025-07-02T14:34:36Z",
       "version": "v0.9"
     },
     "astrbot_plugin_LetAI_sendemojis": {
@@ -108,6 +110,8 @@
         "GitHub",
         "病娇"
       ],
+      "stars": 4,
+      "updated_at": "2025-07-02T19:10:20Z",
       "version": "1.1.0"
     },
     "tron_address": {
@@ -156,7 +160,9 @@
       "author": "sa1guu",
       "desc": "三角洲鼠鼠偷吃模拟器（简易）",
       "repo": "https://github.com/sa1guu/astrbot_plugin_touchi",
-      "version": "v2.4.1"
+      "stars": 18,
+      "updated_at": "2025-07-02T15:04:03Z",
+      "version": "v2.4.2"
     },
     "astrbot_plugin_Astrsupermarket": {
       "author": "和泉智宏本人",
@@ -193,6 +199,8 @@
       "author": "EncodedWitcher",
       "repo": "https://github.com/EncodedWitcher/astrbot_plugin_check-dst-room",
       "desc": "饥荒查房",
+      "stars": 0,
+      "updated_at": "2025-06-21T11:32:07Z",
       "version": "v1.2.0"
     },
     "astrbot_plugin_solve_longmsg": {
@@ -322,7 +330,7 @@
       ],
       "social_link": "https://github.com/oyxning",
       "stars": 8,
-      "updated_at": "2025-07-02T12:01:57Z",
+      "updated_at": "2025-07-02T17:31:31Z",
       "version": "v2.0.0"
     },
     "astrbot_plugin_alistfile": {
@@ -909,7 +917,8 @@
         "知识库"
       ],
       "stars": 38,
-      "updated_at": "2025-07-02T01:39:39Z"
+      "updated_at": "2025-07-02T01:39:39Z",
+      "version": "v0.5.8"
     },
     "astrbot_uptime_kuma_webhook_plugin": {
       "author": "RC-CHN",
@@ -1081,6 +1090,8 @@
         "前缀"
       ],
       "social_link": "https://github.com/padoru233",
+      "stars": 2,
+      "updated_at": "2025-06-11T07:13:45Z",
       "version": "v0.1.0"
     },
     "astrbot_plugin_cyber_archaeology": {
@@ -1821,7 +1832,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 16,
-      "updated_at": "2025-07-02T11:12:38Z",
+      "updated_at": "2025-07-03T01:07:38Z",
       "version": "v1.6.2"
     },
     "astrbot_plugin_status-pro": {
@@ -1981,7 +1992,7 @@
         "视频解析"
       ],
       "stars": 4,
-      "updated_at": "2025-07-02T11:52:00Z",
+      "updated_at": "2025-07-02T12:23:49Z",
       "version": "v1.3"
     },
     "meanig": {
@@ -2475,8 +2486,8 @@
         "工具",
         "安全"
       ],
-      "stars": 2,
-      "updated_at": "2025-05-05T10:03:15Z",
+      "stars": 1,
+      "updated_at": "2025-07-03T00:58:00Z",
       "version": "v1.0.1"
     },
     "JmCli": {
@@ -3118,7 +3129,7 @@
       ],
       "social_link": "https://github.com/miaoxutao123/",
       "stars": 24,
-      "updated_at": "2025-07-01T13:23:48Z",
+      "updated_at": "2025-07-02T15:50:46Z",
       "version": "v0.2.8"
     },
     "astrbot_plugin_sjzb": {
@@ -3366,8 +3377,8 @@
         "主动回复"
       ],
       "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-      "stars": 50,
-      "updated_at": "2025-06-30T10:48:29Z",
+      "stars": 51,
+      "updated_at": "2025-07-02T13:12:34Z",
       "version": "v2.1.4"
     },
     "astrbot_plugin_steamshot": {
@@ -3727,8 +3738,8 @@
       "desc": "Stable Diffusion WebUI图片生成插件，/sd help 查看帮助",
       "author": "buding",
       "repo": "https://github.com/zouyonghe/astrbot_plugin_SDGen",
-      "stars": 14,
-      "updated_at": "2025-06-11T02:11:14Z",
+      "stars": 15,
+      "updated_at": "2025-07-02T13:27:21Z",
       "version": "v1.1.2"
     },
     "astrbot_plugin_sysinfo": {
@@ -3931,6 +3942,8 @@
       "desc": "利用 LLM 的 function-calling 功能，调用本地启动的 ComfyUI 服务实现文生图功能",
       "author": "fanfanfan",
       "repo": "https://github.com/yuan199696/astrbot_plugin_comfyui",
+      "stars": 6,
+      "updated_at": "2025-05-12T00:47:29Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_for_sd_webui": {
