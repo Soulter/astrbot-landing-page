@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-07-03T01:45:49.944Z",
+  "timestamp": "2025-07-03T12:41:21.507Z",
   "github": {
-    "stars": 10256,
-    "forks": 713,
+    "stars": 10269,
+    "forks": 717,
     "contributors": 75
   },
   "plugins": {
@@ -23,7 +23,7 @@
         "鼠鼠"
       ],
       "stars": 2,
-      "updated_at": "2025-07-02T14:34:36Z",
+      "updated_at": "2025-07-03T02:40:50Z",
       "version": "v0.9"
     },
     "astrbot_plugin_LetAI_sendemojis": {
@@ -160,9 +160,9 @@
       "author": "sa1guu",
       "desc": "三角洲鼠鼠偷吃模拟器（简易）",
       "repo": "https://github.com/sa1guu/astrbot_plugin_touchi",
-      "stars": 18,
-      "updated_at": "2025-07-02T15:04:03Z",
-      "version": "v2.4.2"
+      "stars": 19,
+      "updated_at": "2025-07-03T07:23:12Z",
+      "version": "v2.4.5"
     },
     "astrbot_plugin_Astrsupermarket": {
       "author": "和泉智宏本人",
@@ -742,7 +742,7 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 27,
-      "updated_at": "2025-06-28T12:23:12Z",
+      "updated_at": "2025-07-03T07:00:19Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_renjian": {
@@ -1832,7 +1832,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 16,
-      "updated_at": "2025-07-03T01:07:38Z",
+      "updated_at": "2025-07-03T11:12:23Z",
       "version": "v1.6.2"
     },
     "astrbot_plugin_status-pro": {
@@ -2219,8 +2219,8 @@
         "复读"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_reread",
-      "stars": 9,
-      "updated_at": "2025-06-19T02:41:45Z",
+      "stars": 11,
+      "updated_at": "2025-07-03T09:05:34Z",
       "version": "v1.0.9"
     },
     "astrbot_plugin_csbaoyan": {
@@ -2857,8 +2857,8 @@
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
       "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
-      "stars": 34,
-      "updated_at": "2025-06-22T05:33:01Z",
+      "stars": 35,
+      "updated_at": "2025-07-03T04:28:21Z",
       "version": "v1.0.8"
     },
     "astrbot_plugin_saris_economic": {
@@ -3129,7 +3129,7 @@
       ],
       "social_link": "https://github.com/miaoxutao123/",
       "stars": 24,
-      "updated_at": "2025-07-02T15:50:46Z",
+      "updated_at": "2025-07-03T03:33:48Z",
       "version": "v0.2.8"
     },
     "astrbot_plugin_sjzb": {
@@ -3714,8 +3714,8 @@
       "desc": "一个骰子插件，支持设置面数和检定阈值，输入/dicehelp获取帮助",
       "author": "scwunai",
       "repo": "https://github.com/scwunai/Astrbot_Plugin_Dice_scwunai",
-      "stars": 0,
-      "updated_at": "2025-02-03T16:19:38Z",
+      "stars": 1,
+      "updated_at": "2025-07-03T05:37:05Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_haos": {
