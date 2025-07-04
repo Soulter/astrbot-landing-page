@@ -1,17 +1,51 @@
 {
-  "timestamp": "2025-07-04T01:45:41.289Z",
+  "timestamp": "2025-07-04T12:41:35.144Z",
   "github": {
-    "stars": 10283,
-    "forks": 718,
+    "stars": 10300,
+    "forks": 717,
     "contributors": 75
   },
   "plugins": {
+    "astrbot_plugin_bw_monitor": {
+      "name": "astrbot_plugin_bw_monitor",
+      "desc": "Bilibili Show 票务监控插件，支持群聊/私聊隔离，检测余票变化并推送通知。",
+      "repo": "https://github.com/satori5555/astrbot_plugin_bw_monitor",
+      "tags": [
+        "bilibili",
+        "ticket",
+        "推送",
+        "余票"
+      ],
+      "stars": 2,
+      "updated_at": "2025-07-04T07:41:21Z",
+      "version": "v1.0"
+    },
+    "astrbot_plugin_78animesearch": {
+      "name": "astrbot_plugin_78animesearch",
+      "desc": "通过 `/78dm [关键词]` 命令在 78动漫模型网搜索模玩信息",
+      "repo": "https://github.com/critans/astrbot_plugin_78animesearch",
+      "tags": [
+        "爬虫",
+        "78动漫"
+      ],
+      "stars": 0,
+      "updated_at": "2025-07-02T07:25:30Z",
+      "version": "v1.3"
+    },
+    "astrbot_plugin_hyrz": {
+      "name": "astrbot_plugin_hyrz",
+      "desc": "从火影忍者官网上查询火影忍者手游忍者信息",
+      "repo": "https://github.com/Aurora-xk/astrbot_plugin_hyrz",
+      "stars": 0,
+      "updated_at": "2025-07-01T13:12:56Z",
+      "version": "v1.1.1"
+    },
     "astrbot_plugin_at_somebody": {
       "name": "astrbot_plugin_at_somebody",
       "desc": "[仅限aiocqhttp] 在指定群内艾特(@)给定名单的用户+要通知的内容",
       "repo": "https://github.com/jiongjiongJOJO/astrbot_plugin_at_somebody",
-      "stars": 0,
-      "updated_at": "2025-07-01T11:24:48Z"
+      "stars": 1,
+      "updated_at": "2025-07-04T10:32:50Z"
     },
     "astrbot_plugin_deltaforce": {
       "name": "astrbot_plugin_deltaforce",
@@ -161,8 +195,8 @@
       "desc": "三角洲鼠鼠偷吃模拟器（简易）",
       "repo": "https://github.com/sa1guu/astrbot_plugin_touchi",
       "stars": 19,
-      "updated_at": "2025-07-03T22:13:22Z",
-      "version": "v2.4.5"
+      "updated_at": "2025-07-04T08:56:54Z",
+      "version": "v2.4.7"
     },
     "astrbot_plugin_Astrsupermarket": {
       "author": "和泉智宏本人",
@@ -257,8 +291,8 @@
       "tags": [
         "文字游戏"
       ],
-      "stars": 4,
-      "updated_at": "2025-07-02T09:55:24Z",
+      "stars": 5,
+      "updated_at": "2025-07-04T09:53:57Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_llmAtTool": {
@@ -330,7 +364,7 @@
       ],
       "social_link": "https://github.com/oyxning",
       "stars": 8,
-      "updated_at": "2025-07-03T13:52:40Z",
+      "updated_at": "2025-07-04T06:51:57Z",
       "version": "v2.1.0"
     },
     "astrbot_plugin_alistfile": {
@@ -916,8 +950,8 @@
         "RAG",
         "知识库"
       ],
-      "stars": 38,
-      "updated_at": "2025-07-02T01:39:39Z",
+      "stars": 39,
+      "updated_at": "2025-07-04T08:03:17Z",
       "version": "v0.5.8"
     },
     "astrbot_uptime_kuma_webhook_plugin": {
@@ -1203,8 +1237,8 @@
         "game",
         "fish"
       ],
-      "stars": 18,
-      "updated_at": "2025-07-04T01:21:50Z",
+      "stars": 19,
+      "updated_at": "2025-07-04T07:27:07Z",
       "version": "1.3.12"
     },
     "astrbot_plugin_bilibili_live": {
@@ -1305,7 +1339,7 @@
         "主动回复"
       ],
       "stars": 5,
-      "updated_at": "2025-06-22T08:34:03Z",
+      "updated_at": "2025-07-04T08:13:46Z",
       "version": "v1.3"
     },
     "astrbot_plugin_broadcast": {
@@ -1832,7 +1866,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 16,
-      "updated_at": "2025-07-04T01:07:20Z",
+      "updated_at": "2025-07-04T11:12:38Z",
       "version": "v1.6.2"
     },
     "astrbot_plugin_status-pro": {
@@ -3634,15 +3668,15 @@
       "author": "kjqwdw",
       "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
       "stars": 15,
-      "updated_at": "2025-06-28T11:22:53Z",
+      "updated_at": "2025-07-04T04:38:28Z",
       "version": "v1.1.2"
     },
     "ai_memory": {
       "desc": "一个AI记忆管理插件，可以让ai记住重要的事，记忆读取是ai自己调用的，有时候呆呆的ai不会自己调用，可以多问几次或者人格加上特定提示词,输入 /mem_help 查看记忆管理帮助",
       "author": "kjqwdw",
       "repo": "https://github.com/kjqwer/strbot_plugin_play_sy",
-      "stars": 10,
-      "updated_at": "2025-04-24T13:37:43Z",
+      "stars": 11,
+      "updated_at": "2025-07-04T07:33:28Z",
       "version": "v1.0.0"
     },
     "huanju": {
