@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-07-03T12:41:21.507Z",
+  "timestamp": "2025-07-04T01:45:41.289Z",
   "github": {
-    "stars": 10269,
-    "forks": 717,
+    "stars": 10283,
+    "forks": 718,
     "contributors": 75
   },
   "plugins": {
@@ -161,7 +161,7 @@
       "desc": "三角洲鼠鼠偷吃模拟器（简易）",
       "repo": "https://github.com/sa1guu/astrbot_plugin_touchi",
       "stars": 19,
-      "updated_at": "2025-07-03T07:23:12Z",
+      "updated_at": "2025-07-03T22:13:22Z",
       "version": "v2.4.5"
     },
     "astrbot_plugin_Astrsupermarket": {
@@ -330,8 +330,8 @@
       ],
       "social_link": "https://github.com/oyxning",
       "stars": 8,
-      "updated_at": "2025-07-02T17:31:31Z",
-      "version": "v2.0.0"
+      "updated_at": "2025-07-03T13:52:40Z",
+      "version": "v2.1.0"
     },
     "astrbot_plugin_alistfile": {
       "author": "linjianyan",
@@ -467,8 +467,8 @@
       ],
       "social_link": "https://github.com/oyxning",
       "desc": "祥压抑用户专属，基于关键词触发的香草小祥插件",
-      "stars": 4,
-      "updated_at": "2025-07-02T10:01:47Z",
+      "stars": 5,
+      "updated_at": "2025-07-03T13:52:59Z",
       "version": "1.4.0"
     },
     "astrbot_plugin_n8n": {
@@ -1203,8 +1203,8 @@
         "game",
         "fish"
       ],
-      "stars": 17,
-      "updated_at": "2025-06-29T12:31:06Z",
+      "stars": 18,
+      "updated_at": "2025-07-04T01:21:50Z",
       "version": "1.3.12"
     },
     "astrbot_plugin_bilibili_live": {
@@ -1609,8 +1609,8 @@
         "api"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-      "stars": 37,
-      "updated_at": "2025-06-19T02:41:12Z",
+      "stars": 38,
+      "updated_at": "2025-07-03T16:10:54Z",
       "version": "v1.0.7"
     },
     "astrbot_plugin_help": {
@@ -1832,7 +1832,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 16,
-      "updated_at": "2025-07-03T11:12:23Z",
+      "updated_at": "2025-07-04T01:07:20Z",
       "version": "v1.6.2"
     },
     "astrbot_plugin_status-pro": {
@@ -2972,8 +2972,8 @@
         "功能"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
-      "stars": 28,
-      "updated_at": "2025-07-02T00:52:04Z",
+      "stars": 29,
+      "updated_at": "2025-07-03T23:40:50Z",
       "version": "v1.1.3"
     },
     "astrbot_plugin_yuafeng": {
@@ -4029,8 +4029,8 @@
       "desc": "一个长期记忆插件，基于milvus数据库实现，详情请见README.md",
       "author": "lxfight",
       "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
-      "stars": 100,
-      "updated_at": "2025-07-02T07:24:50Z",
+      "stars": 101,
+      "updated_at": "2025-07-03T19:47:29Z",
       "version": "v0.5.1"
     },
     "FateTrial_img_identify": {
@@ -4054,8 +4054,8 @@
       "author": "长安某",
       "repo": "https://github.com/zgojin/astrbot_plugin_pock",
       "stars": 4,
-      "updated_at": "2025-06-30T01:22:24Z",
-      "version": "v1.7"
+      "updated_at": "2025-07-04T01:14:53Z",
+      "version": "v1.8"
     },
     "astrbot_plugin_astrbot_plugin_repetition": {
       "desc": "用于AstrBot的复读机插件",
