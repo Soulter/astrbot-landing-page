@@ -1,13 +1,35 @@
 {
-  "timestamp": "2025-07-04T12:41:35.144Z",
+  "timestamp": "2025-07-05T12:38:41.606Z",
   "github": {
-    "stars": 10300,
-    "forks": 717,
-    "contributors": 75
+    "stars": 10317,
+    "forks": 720,
+    "contributors": 77
   },
   "plugins": {
+    "astrbot_plugin_cmd_console": {
+      "desc": "提供 WebUI 的指令管理面板，可以启用/禁用插件的指令。",
+      "repo": "https://github.com/Hina-Chat/astrbot_plugin_cmd_console",
+      "tags": [
+        "工具",
+        "实用"
+      ],
+      "social_link": "https://magstic.art/",
+      "stars": 0,
+      "updated_at": "2025-07-04T01:39:17Z",
+      "version": "v1.0.0"
+    },
+    "astrbot_plugin_market": {
+      "desc": "指令版插件市场。(点个 star 吧~ 你的 star 是我更新的动力）",
+      "repo": "https://github.com/zgojin/astrbot_plugin_market",
+      "tags": [
+        "工具"
+      ],
+      "social_link": "astrbot.uk",
+      "stars": 0,
+      "updated_at": "2025-07-05T05:38:07Z",
+      "version": "v1.0"
+    },
     "astrbot_plugin_bw_monitor": {
-      "name": "astrbot_plugin_bw_monitor",
       "desc": "Bilibili Show 票务监控插件，支持群聊/私聊隔离，检测余票变化并推送通知。",
       "repo": "https://github.com/satori5555/astrbot_plugin_bw_monitor",
       "tags": [
@@ -16,39 +38,39 @@
         "推送",
         "余票"
       ],
+      "author": "satori5555",
       "stars": 2,
       "updated_at": "2025-07-04T07:41:21Z",
       "version": "v1.0"
     },
     "astrbot_plugin_78animesearch": {
-      "name": "astrbot_plugin_78animesearch",
       "desc": "通过 `/78dm [关键词]` 命令在 78动漫模型网搜索模玩信息",
       "repo": "https://github.com/critans/astrbot_plugin_78animesearch",
       "tags": [
         "爬虫",
         "78动漫"
       ],
+      "author": "critans",
       "stars": 0,
       "updated_at": "2025-07-02T07:25:30Z",
       "version": "v1.3"
     },
     "astrbot_plugin_hyrz": {
-      "name": "astrbot_plugin_hyrz",
       "desc": "从火影忍者官网上查询火影忍者手游忍者信息",
       "repo": "https://github.com/Aurora-xk/astrbot_plugin_hyrz",
+      "author": "Aurora-xk",
       "stars": 0,
       "updated_at": "2025-07-01T13:12:56Z",
       "version": "v1.1.1"
     },
     "astrbot_plugin_at_somebody": {
-      "name": "astrbot_plugin_at_somebody",
       "desc": "[仅限aiocqhttp] 在指定群内艾特(@)给定名单的用户+要通知的内容",
       "repo": "https://github.com/jiongjiongJOJO/astrbot_plugin_at_somebody",
+      "author": "jiongjiongJOJO",
       "stars": 1,
-      "updated_at": "2025-07-04T10:32:50Z"
+      "updated_at": "2025-07-04T14:30:32Z"
     },
     "astrbot_plugin_deltaforce": {
-      "name": "astrbot_plugin_deltaforce",
       "desc": "三角洲行动插件",
       "repo": "https://github.com/UyNewNas/astrbot_plugin_deltaforce",
       "tags": [
@@ -56,35 +78,35 @@
         "三角洲行动",
         "鼠鼠"
       ],
-      "stars": 2,
-      "updated_at": "2025-07-03T02:40:50Z",
+      "author": "UyNewNas",
+      "stars": 3,
+      "updated_at": "2025-07-04T20:57:22Z",
       "version": "v0.9"
     },
     "astrbot_plugin_LetAI_sendemojis": {
-      "name": "astrbot_plugin_LetAI_sendemojis",
       "desc": "智能分析AI对话内容并发送匹配表情包，支持情感识别、历史记录和多数据源，让聊天更生动有趣",
       "repo": "https://github.com/Heyh520/astrbot_plugin_LetAI_sendemojis",
       "tags": [
         "表情包",
         "聊天体验增强"
       ],
+      "author": "Heyh520",
       "stars": 0,
       "updated_at": "2025-06-30T15:47:54Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_monitor": {
-      "name": "astrbot_plugin_monitor",
       "desc": "[仅aiocqhttp] 群消息互通插件，通过bot查看其他群聊的聊天记录, 同时能通过bot向其他群聊发消息",
       "repo": "https://github.com/Zhalslar/astrbot_plugin_monitor",
       "tags": [
         "消息互通"
       ],
       "social_link": "https://github.com/Zhalslar",
+      "author": "Zhalslar",
       "stars": 0,
       "updated_at": "2025-06-30T09:45:22Z"
     },
     "astrbot_plugin_decision_roulette": {
-      "name": "astrbot_plugin_decision_roulette",
       "desc": "一个有趣且实用的插件，通过一张精美的静态结果卡片帮助用户做出决策，完美解决“选择困难症”或群组中意见不统一的难题。",
       "repo": "https://github.com/oyxning/astrbot_plugin_decision_roulette",
       "tags": [
@@ -194,8 +216,8 @@
       "author": "sa1guu",
       "desc": "三角洲鼠鼠偷吃模拟器（简易）",
       "repo": "https://github.com/sa1guu/astrbot_plugin_touchi",
-      "stars": 19,
-      "updated_at": "2025-07-04T08:56:54Z",
+      "stars": 20,
+      "updated_at": "2025-07-05T05:46:37Z",
       "version": "v2.4.7"
     },
     "astrbot_plugin_Astrsupermarket": {
@@ -217,7 +239,7 @@
       ],
       "social_link": "https://github.com/zhewang448",
       "stars": 1,
-      "updated_at": "2025-06-30T03:17:47Z",
+      "updated_at": "2025-07-05T01:56:50Z",
       "version": "v1.1.6"
     },
     "astrbot_plugin_shutup": {
@@ -488,8 +510,8 @@
         "图像转述"
       ],
       "desc": "将图像转述给不支持图像识别的大模型",
-      "stars": 1,
-      "updated_at": "2025-06-11T15:21:25Z",
+      "stars": 2,
+      "updated_at": "2025-07-05T08:24:35Z",
       "version": "v0.0.1"
     },
     "astrbot_plugin_sakisaki": {
@@ -501,8 +523,8 @@
       ],
       "social_link": "https://github.com/oyxning",
       "desc": "祥压抑用户专属，基于关键词触发的香草小祥插件",
-      "stars": 5,
-      "updated_at": "2025-07-03T13:52:59Z",
+      "stars": 6,
+      "updated_at": "2025-07-05T11:59:20Z",
       "version": "1.4.0"
     },
     "astrbot_plugin_n8n": {
@@ -894,8 +916,8 @@
       "author": "VincentHo",
       "desc": "DZMM聊天插件，适配了DZMM返回的格式，并避免与AstrBot的模型混用，可用特别命令唤起DZMM的模型进行\"有趣生动\"的互动聊天。",
       "repo": "https://github.com/VincenttHo/astrbot_plugin_dzmm",
-      "stars": 10,
-      "updated_at": "2025-07-02T06:45:44Z",
+      "stars": 11,
+      "updated_at": "2025-07-05T12:00:38Z",
       "version": "v1.0.4"
     },
     "astrbot_plugin_text2image": {
@@ -914,8 +936,8 @@
         "工具"
       ],
       "social_link": "https://github.com/Angus-fw",
-      "stars": 7,
-      "updated_at": "2025-06-26T07:08:32Z",
+      "stars": 8,
+      "updated_at": "2025-07-04T15:09:42Z",
       "version": "v1.1.4"
     },
     "astrbot_plugin_timetask": {
@@ -950,8 +972,8 @@
         "RAG",
         "知识库"
       ],
-      "stars": 39,
-      "updated_at": "2025-07-04T08:03:17Z",
+      "stars": 40,
+      "updated_at": "2025-07-05T08:21:42Z",
       "version": "v0.5.8"
     },
     "astrbot_uptime_kuma_webhook_plugin": {
@@ -1866,7 +1888,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 16,
-      "updated_at": "2025-07-04T11:12:38Z",
+      "updated_at": "2025-07-05T12:24:29Z",
       "version": "v1.6.2"
     },
     "astrbot_plugin_status-pro": {
@@ -2202,8 +2224,8 @@
       "tags": [
         "AGE"
       ],
-      "stars": 2,
-      "updated_at": "2025-04-26T14:47:18Z",
+      "stars": 3,
+      "updated_at": "2025-07-05T08:49:29Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_media302-save": {
@@ -2358,8 +2380,8 @@
       "tags": [
         "QQ群管"
       ],
-      "stars": 19,
-      "updated_at": "2025-07-01T23:31:45Z"
+      "stars": 20,
+      "updated_at": "2025-07-05T06:23:04Z"
     },
     "astrbot_plugin_liars_bar": {
       "desc": "本插件是为 AstrBot 框架开发的游戏插件，实现了一个骗子酒馆",
@@ -2669,8 +2691,8 @@
       "desc": "一款基于 EVEonline API 侧重工业制造支援的综合性 QQ 插件",
       "author": "AraragiEro",
       "repo": "https://github.com/AraragiEro/astrbot_plugin_kahunabot",
-      "stars": 6,
-      "updated_at": "2025-05-17T11:26:13Z"
+      "stars": 7,
+      "updated_at": "2025-07-04T17:16:38Z"
     },
     "astrbot_plugin_qqpock": {
       "desc": "QQ 代戳",
@@ -2685,8 +2707,8 @@
       "desc": "发送最符合关键词的 vv 表情包",
       "author": "Lonelysky",
       "repo": "https://github.com/LonelySky7490/astrbot_plugin_vv_pic",
-      "stars": 3,
-      "updated_at": "2025-05-05T13:29:10Z",
+      "stars": 4,
+      "updated_at": "2025-07-05T08:15:10Z",
       "version": "v0.6"
     },
     "astrbot_plugin_file_reader": {
@@ -3018,8 +3040,8 @@
       ],
       "repo": "https://github.com/Zhalslar/astrbot_plugin_yuafeng",
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_yuafeng",
-      "stars": 5,
-      "updated_at": "2025-06-19T02:41:46Z",
+      "stars": 6,
+      "updated_at": "2025-07-04T12:44:05Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_relationship": {
@@ -3217,8 +3239,8 @@
       "tags": [
         "主动对话"
       ],
-      "stars": 34,
-      "updated_at": "2025-06-28T02:44:04Z",
+      "stars": 35,
+      "updated_at": "2025-07-05T08:14:06Z",
       "version": "v2.3.0"
     },
     "astrbot_plugin_sensoji": {
@@ -3486,8 +3508,8 @@
         "功能",
         "搬史"
       ],
-      "stars": 264,
-      "updated_at": "2025-07-01T19:55:46Z",
+      "stars": 265,
+      "updated_at": "2025-07-05T00:30:53Z",
       "version": "v0.912"
     },
     "astrbot_plugin_superpoke": {
@@ -4063,8 +4085,8 @@
       "desc": "一个长期记忆插件，基于milvus数据库实现，详情请见README.md",
       "author": "lxfight",
       "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
-      "stars": 101,
-      "updated_at": "2025-07-03T19:47:29Z",
+      "stars": 103,
+      "updated_at": "2025-07-05T08:17:46Z",
       "version": "v0.5.1"
     },
     "FateTrial_img_identify": {
