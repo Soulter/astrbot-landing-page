@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-07-06T12:39:07.791Z",
+  "timestamp": "2025-07-07T01:51:04.853Z",
   "github": {
-    "stars": 10346,
-    "forks": 722,
+    "stars": 10361,
+    "forks": 725,
     "contributors": 78
   },
   "plugins": {
@@ -15,8 +15,8 @@
       ],
       "author": "Hina-Chat",
       "social_link": "https://magstic.art/",
-      "stars": 0,
-      "updated_at": "2025-07-04T01:39:17Z",
+      "stars": 1,
+      "updated_at": "2025-07-06T15:55:58Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_market": {
@@ -1293,8 +1293,8 @@
       "social_link": "https://github.com/GEMILUXVII",
       "pinned": true,
       "stars": 13,
-      "updated_at": "2025-06-24T03:50:31Z",
-      "version": "v1.3.8-rev1"
+      "updated_at": "2025-07-06T15:11:01Z",
+      "version": "v1.3.9"
     },
     "astrbot_plugin_liblibapi": {
       "author": "machinad",
@@ -1892,8 +1892,8 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 16,
-      "updated_at": "2025-07-06T12:24:39Z",
-      "version": "v1.6.2"
+      "updated_at": "2025-07-07T01:12:07Z",
+      "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
       "author": "tiker",
@@ -2964,8 +2964,8 @@
         "签到"
       ],
       "repo": "https://github.com/Rinyin/astrbot_plugin_mai_sgin",
-      "stars": 4,
-      "updated_at": "2025-05-27T11:03:58Z",
+      "stars": 5,
+      "updated_at": "2025-07-06T16:05:08Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_aiocensor": {
