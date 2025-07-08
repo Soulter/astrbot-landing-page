@@ -1,11 +1,19 @@
 {
-  "timestamp": "2025-07-08T01:46:32.714Z",
+  "timestamp": "2025-07-08T12:43:10.385Z",
   "github": {
-    "stars": 10390,
-    "forks": 728,
+    "stars": 10407,
+    "forks": 730,
     "contributors": 79
   },
   "plugins": {
+    "astrbot_plugin_mp": {
+      "desc": "一个适用于最新版本 MoviePilot 的小工具，支持搜索、订阅、消息转发等功能",
+      "author": "EWEDL",
+      "repo": "https://github.com/EWEDLCM/astrbot_plugin/tree/master/astrbot_plugin_mp",
+      "tags": [
+        "MoviePilot"
+      ]
+    },
     "astrbot_plugin_anti_recall": {
       "desc": "[仅限aiocqhttp] 防撤回插件，开启监控指定会话后，该会话内撤回的消息将转发给指定接收者",
       "author": "JOJO",
@@ -18,14 +26,6 @@
       "social_link": "https://blog.jojo.host/",
       "stars": 0,
       "updated_at": "2025-07-08T01:34:58Z"
-    },
-    "astrbot_plugin_mp": {
-      "desc": "一个适用于最新版本 MoviePilot 的小工具，支持搜索、订阅、消息转发等功能",
-      "author": "EWEDL",
-      "repo": "https://github.com/EWEDLCM/astrbot_plugin/tree/master/astrbot_plugin_mp",
-      "tags": [
-        "MoviePilot"
-      ]
     },
     "astrbot_plugin_ip_proxy": {
       "desc": "一个将HTTP代理API转换为本地代理的AstrBot插件",
@@ -248,9 +248,9 @@
       "author": "sa1guu",
       "desc": "三角洲鼠鼠偷吃模拟器（简易）",
       "repo": "https://github.com/sa1guu/astrbot_plugin_touchi",
-      "stars": 20,
-      "updated_at": "2025-07-07T14:55:12Z",
-      "version": "v2.4.9"
+      "stars": 21,
+      "updated_at": "2025-07-08T12:27:11Z",
+      "version": "v2.5.2"
     },
     "astrbot_plugin_Astrsupermarket": {
       "author": "和泉智宏本人",
@@ -829,8 +829,8 @@
         "音乐"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 28,
-      "updated_at": "2025-07-06T07:35:10Z",
+      "stars": 29,
+      "updated_at": "2025-07-08T05:16:41Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_renjian": {
@@ -941,7 +941,7 @@
         "函数工具"
       ],
       "stars": 7,
-      "updated_at": "2025-06-28T07:49:26Z",
+      "updated_at": "2025-07-08T07:13:07Z",
       "version": "v1.4.0"
     },
     "astrbot_plugin_dzmm": {
@@ -968,8 +968,8 @@
         "工具"
       ],
       "social_link": "https://github.com/Angus-fw",
-      "stars": 10,
-      "updated_at": "2025-07-07T16:06:16Z",
+      "stars": 11,
+      "updated_at": "2025-07-08T07:22:43Z",
       "version": "v1.1.4"
     },
     "astrbot_plugin_timetask": {
@@ -1697,8 +1697,8 @@
         "api"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-      "stars": 38,
-      "updated_at": "2025-07-03T16:10:54Z",
+      "stars": 39,
+      "updated_at": "2025-07-08T05:16:34Z",
       "version": "v1.0.7"
     },
     "astrbot_plugin_help": {
@@ -1920,7 +1920,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 17,
-      "updated_at": "2025-07-08T01:08:25Z",
+      "updated_at": "2025-07-08T12:28:34Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -2412,8 +2412,8 @@
       "tags": [
         "QQ群管"
       ],
-      "stars": 20,
-      "updated_at": "2025-07-05T06:23:04Z"
+      "stars": 23,
+      "updated_at": "2025-07-08T11:47:38Z"
     },
     "astrbot_plugin_liars_bar": {
       "desc": "本插件是为 AstrBot 框架开发的游戏插件，实现了一个骗子酒馆",
@@ -3722,8 +3722,8 @@
       "author": "kjqwdw",
       "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
       "stars": 15,
-      "updated_at": "2025-07-04T04:38:28Z",
-      "version": "v1.1.2"
+      "updated_at": "2025-07-08T05:00:52Z",
+      "version": "v1.2.0"
     },
     "ai_memory": {
       "desc": "一个AI记忆管理插件，可以让ai记住重要的事，记忆读取是ai自己调用的，有时候呆呆的ai不会自己调用，可以多问几次或者人格加上特定提示词,输入 /mem_help 查看记忆管理帮助",
@@ -4117,8 +4117,8 @@
       "desc": "一个长期记忆插件，基于milvus数据库实现，详情请见README.md",
       "author": "lxfight",
       "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
-      "stars": 103,
-      "updated_at": "2025-07-06T10:54:58Z",
+      "stars": 104,
+      "updated_at": "2025-07-08T05:40:05Z",
       "version": "v0.5.1"
     },
     "FateTrial_img_identify": {
