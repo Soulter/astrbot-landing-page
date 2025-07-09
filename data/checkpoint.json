@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-07-08T12:43:10.385Z",
+  "timestamp": "2025-07-09T01:47:40.079Z",
   "github": {
-    "stars": 10407,
-    "forks": 730,
+    "stars": 10412,
+    "forks": 731,
     "contributors": 79
   },
   "plugins": {
@@ -1920,7 +1920,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 17,
-      "updated_at": "2025-07-08T12:28:34Z",
+      "updated_at": "2025-07-09T01:09:08Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -3578,8 +3578,8 @@
         "webui",
         "图床"
       ],
-      "stars": 59,
-      "updated_at": "2025-07-01T11:50:26Z",
+      "stars": 60,
+      "updated_at": "2025-07-08T14:18:43Z",
       "version": "v3.12"
     },
     "mccloud_command": {
@@ -3753,8 +3753,8 @@
       "desc": "修改自 w33d 的德州扑克。原插件仅支持微信，现支持 QQ 群。此外增加了每轮下注上限金额，为小盲注的10倍，可自行调整或删去",
       "author": "SamsaraMBJC",
       "repo": "https://github.com/SamsaraMBJC/astrbot_plugin_holdem_poker",
-      "stars": 5,
-      "updated_at": "2025-05-20T06:42:47Z",
+      "stars": 6,
+      "updated_at": "2025-07-08T16:42:57Z",
       "version": "v1.5.0"
     },
     "astrbot_plugin_essential": {
