@@ -1,11 +1,55 @@
 {
-  "timestamp": "2025-07-12T01:50:46.779Z",
+  "timestamp": "2025-07-12T12:39:37.449Z",
   "github": {
-    "stars": 10490,
-    "forks": 736,
+    "stars": 10495,
+    "forks": 735,
     "contributors": 79
   },
   "plugins": {
+    "astrbot-plugin-magnet-preview": {
+      "name": "astrbot-plugin-magnet-preview",
+      "desc": "磁链预览。使用 Redis 作为缓存避免 API 过于频繁请求",
+      "author": "cloudcranesss",
+      "repo": "https://github.com/cloudcranesss/astrbot-plugin-magnet-preview",
+      "tags": [
+        "磁链预览",
+        "whatslink"
+      ],
+      "stars": 0,
+      "updated_at": "2025-07-12T10:23:06Z",
+      "version": "1.0.0"
+    },
+    "astrbot_plugin_rg": {
+      "desc": "群聊左轮手枪游戏插件，玩家可以在群聊中进行左轮手枪射击游戏，支持随机走火事件。",
+      "author": "piexian",
+      "repo": "https://github.com/piexian/astrbot_plugin_rg",
+      "stars": 1,
+      "updated_at": "2025-07-12T10:42:18Z",
+      "version": "v1.7.1"
+    },
+    "echo_avatar": {
+      "desc": "学习指定用户的说话方式并生成专业的Prompt，仅限全局管理员使用。",
+      "author": "LumineStory",
+      "repo": "https://github.com/oyxning/astrtbot_plugin_echo_avatar",
+      "tags": [
+        "模仿"
+      ],
+      "social_link": "https://github.com/oyxning",
+      "stars": 0,
+      "updated_at": "2025-07-11T14:46:05Z",
+      "version": "v0.1.0"
+    },
+    "astrbot_plugin_wwbirthday": {
+      "desc": "鸣潮角色生日播报",
+      "author": "arkina",
+      "repo": "https://github.com/yan3931/astrbot_plugin_wwbirthday",
+      "tags": [
+        "鸣潮"
+      ],
+      "stars": 3,
+      "updated_at": "2025-07-11T07:02:17Z",
+      "version": "v1.1.2"
+    },
     "EmailNotixion": {
       "name": "EmailNotixion",
       "desc": "实时IMAP邮件推送插件",
@@ -86,17 +130,6 @@
       "stars": 0,
       "updated_at": "2025-07-10T16:45:39Z",
       "version": "v1.0.0"
-    },
-    "astrbot_plugin_wwbirthday": {
-      "desc": "鸣潮角色生日播报",
-      "author": "arkina",
-      "repo": "https://github.com/yan3931/astrbot_plugin_wwbirthday",
-      "tags": [
-        "鸣潮"
-      ],
-      "stars": 3,
-      "updated_at": "2025-07-11T07:02:17Z",
-      "version": "v1.1.2"
     },
     "astrbot_plugin_linbot": {
       "desc": "LinBot - AstrBot 游戏系统插件，集成外部插件帮助中心、服务器监控和完整经济游戏系统（含 PVP 抢劫与失败惩罚机制）",
@@ -527,8 +560,8 @@
         "调教"
       ],
       "social_link": "https://github.com/oyxning",
-      "stars": 9,
-      "updated_at": "2025-07-07T11:42:30Z",
+      "stars": 10,
+      "updated_at": "2025-07-12T12:14:42Z",
       "version": "v2.1.0"
     },
     "astrbot_plugin_alistfile": {
@@ -581,8 +614,8 @@
       "author": "cloudcranesss",
       "desc": "通过 OCR 识别咸鱼之王游戏中的宝箱数量",
       "repo": "https://github.com/cloudcranesss/astrbot_plugin_xyzw_box",
-      "stars": 1,
-      "updated_at": "2025-06-30T14:47:13Z",
+      "stars": 0,
+      "updated_at": "2025-07-12T03:54:06Z",
       "version": "1.0.1"
     },
     "astrbot_scpsl_server": {
@@ -933,8 +966,8 @@
         "音乐"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 29,
-      "updated_at": "2025-07-08T05:16:41Z",
+      "stars": 30,
+      "updated_at": "2025-07-12T09:43:13Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_renjian": {
@@ -1088,8 +1121,8 @@
       "author": "wuyan1003",
       "desc": "给聊天增加了当前时间提示词，让模型有一定的时间观念，还会让模型知道你们上一次对话间隔了多久[可在插件配置选择是否开启，默认开启]",
       "repo": "https://github.com/wuyan1003/time_prompt",
-      "stars": 5,
-      "updated_at": "2025-06-24T16:40:04Z",
+      "stars": 6,
+      "updated_at": "2025-07-12T02:06:47Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_seiadetect": {
@@ -2015,7 +2048,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 17,
-      "updated_at": "2025-07-12T01:11:26Z",
+      "updated_at": "2025-07-12T12:24:53Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -2149,8 +2182,8 @@
       "author": "wuyan1003",
       "repo": "https://github.com/wuyan1003/likability-level",
       "desc": "给聊天增加了一个好感度值，靠检测 LLM 输出特殊的值来实现，让 LLM 来判断好感度的上升或下降，并且过低的好感度值会被机器人自动拉黑，有管理员身份来自定义好感度值以及拉黑或移除用户（轻微防止被群U玩坏）",
-      "stars": 10,
-      "updated_at": "2025-06-27T16:06:41Z",
+      "stars": 11,
+      "updated_at": "2025-07-12T04:41:45Z",
       "version": "v1.2.0"
     },
     "astrbot_plugin_password": {
@@ -2507,8 +2540,8 @@
       "tags": [
         "QQ群管"
       ],
-      "stars": 24,
-      "updated_at": "2025-07-11T10:05:53Z",
+      "stars": 25,
+      "updated_at": "2025-07-12T02:53:20Z",
       "version": "v3.0.6"
     },
     "astrbot_plugin_liars_bar": {
@@ -3032,8 +3065,8 @@
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
       "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
-      "stars": 37,
-      "updated_at": "2025-07-11T16:50:14Z",
+      "stars": 38,
+      "updated_at": "2025-07-12T08:04:20Z",
       "version": "v1.0.8"
     },
     "astrbot_plugin_saris_economic": {
@@ -3522,8 +3555,8 @@
       "desc": "为跑团玩家设计的仿Dice!骰子插件",
       "author": "shiroling",
       "repo": "https://github.com/WhiteEurya/Astrbot_plugin_TRPGdice",
-      "stars": 5,
-      "updated_at": "2025-07-09T10:29:41Z",
+      "stars": 6,
+      "updated_at": "2025-07-12T04:25:40Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_qltask": {
@@ -3764,8 +3797,8 @@
       "desc": "过滤 DeepSeek R1 推理模型的思维链内容 [版本要求 >= v3.4.17]",
       "author": "Soulter",
       "repo": "https://github.com/Soulter/astrbot_plugin_r1_filter",
-      "stars": 12,
-      "updated_at": "2025-07-01T04:23:17Z",
+      "stars": 13,
+      "updated_at": "2025-07-12T02:07:03Z",
       "version": "v1.0.0"
     },
     "mccloud_deepseek": {
