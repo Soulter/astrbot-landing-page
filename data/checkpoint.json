@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-07-12T12:39:37.449Z",
+  "timestamp": "2025-07-13T01:58:27.386Z",
   "github": {
-    "stars": 10495,
+    "stars": 10502,
     "forks": 735,
     "contributors": 79
   },
@@ -789,8 +789,8 @@
         "种地"
       ],
       "repo": "https://github.com/Shu-Ying/astrbot_plugin_farm",
-      "stars": 10,
-      "updated_at": "2025-06-29T21:54:27Z",
+      "stars": 12,
+      "updated_at": "2025-07-12T20:17:18Z",
       "version": "v1.5.1"
     },
     "astrbot_plugin_weakblacklist": {
@@ -966,8 +966,8 @@
         "音乐"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 30,
-      "updated_at": "2025-07-12T09:43:13Z",
+      "stars": 31,
+      "updated_at": "2025-07-12T12:41:42Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_renjian": {
@@ -2048,7 +2048,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 17,
-      "updated_at": "2025-07-12T12:24:53Z",
+      "updated_at": "2025-07-13T01:16:21Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -3934,8 +3934,6 @@
       "desc": "Stable Diffusion WebUI图片生成插件，/sd help 查看帮助",
       "author": "buding",
       "repo": "https://github.com/zouyonghe/astrbot_plugin_SDGen",
-      "stars": 15,
-      "updated_at": "2025-07-02T13:27:21Z",
       "version": "v1.1.2"
     },
     "astrbot_plugin_sysinfo": {
@@ -3988,16 +3986,12 @@
     "astrbot_plugin_cloudmusic": {
       "desc": "网易云音乐搜索、热评。并且支持了大模型函数调用工具。请说 `搜下春日影这首歌`。其他指令请看帮助",
       "author": "ave_mujica-saki",
-      "repo": "https://github.com/AstrBot-Devs/astrbot_plugin_cloudmusic",
-      "stars": 3,
-      "updated_at": "2025-05-24T12:46:36Z"
+      "repo": "https://github.com/AstrBot-Devs/astrbot_plugin_cloudmusic"
     },
     "qq_official_url_cleaner": {
       "desc": "为 QQ 官方 API 修改发送消息的链接，可改善消息被屏蔽的现象",
       "author": "ave_mujica-saki",
-      "repo": "https://github.com/AstrBot-Devs/qq_official_url_cleaner",
-      "stars": 1,
-      "updated_at": "2025-02-08T06:18:07Z"
+      "repo": "https://github.com/AstrBot-Devs/qq_official_url_cleaner"
     },
     "astrbot_plugin_VITS": {
       "desc": "硅基流动api语音合成",
@@ -4257,16 +4251,12 @@
       "desc": "用于AstrBot的复读机插件",
       "author": "FengYing",
       "repo": "https://github.com/FengYing1314/astrbot_plugin_repetition",
-      "stars": 9,
-      "updated_at": "2025-05-23T08:43:21Z",
       "version": "v1.0.2"
     },
     "FateTrial_Star_Rail": {
       "desc": "崩铁查询插件",
       "author": "FateTrial",
       "repo": "https://github.com/FateTrial/FateTrial_Star_Rail",
-      "stars": 1,
-      "updated_at": "2025-02-27T07:15:56Z",
       "version": "v2.6"
     },
     "FateTrial_Genshin": {
@@ -4289,16 +4279,12 @@
       "desc": "一个功能强大的电子书插件，支持多平台电子书搜索和下载。",
       "author": "buding",
       "repo": "https://github.com/zouyonghe/astrbot_plugin_ebooks",
-      "stars": 12,
-      "updated_at": "2025-07-10T02:38:26Z",
       "version": "v1.1.1"
     },
     "astrbot_plugin_AIQTalk": {
       "desc": "基于QQ的AI声聊完成的（伪）TTS转语音",
       "author": "长安某",
       "repo": "https://github.com/zgojin/astrbot_plugin_AIQTalk",
-      "stars": 9,
-      "updated_at": "2025-07-11T09:03:51Z",
       "version": "v2.2"
     },
     "astrbot_plugin_KeyReply": {
@@ -4321,8 +4307,6 @@
       "desc": "Astrbot色图插件，支持自定义配置与标签指定",
       "author": "Raven95676",
       "repo": "https://github.com/Raven95676/astrbot_plugin_setu",
-      "stars": 7,
-      "updated_at": "2025-05-30T16:20:57Z",
       "version": "v1.2.0"
     },
     "astrbot_plugin_voicevox": {
@@ -4345,8 +4329,6 @@
       "desc": "为本地模型提供的视频/图片理解补充，使用Qwen2.5_3B_VL模型",
       "author": "xiewoc",
       "repo": "https://github.com/xiewoc/astrbot_plugin_image_video_understanding_Qwen2_5_VL",
-      "stars": 1,
-      "updated_at": "2025-03-09T05:56:11Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_txsc": {
@@ -4375,16 +4357,12 @@
       "author": "长安某",
       "desc": "二次元图片签到以及好友买卖，对接牛牛商城，仅支持qq且仅支持非官方bot(其他平台请自行测试）",
       "repo": "https://github.com/zgojin/astrbot_plugin_Qsign",
-      "stars": 0,
-      "updated_at": "2025-03-12T01:25:33Z",
       "version": "v1.2.1"
     },
     "astrbot_plugin_thinkTags": {
       "author": "长安某",
       "desc": "过滤消息段中的think",
       "repo": "https://github.com/zgojin/astrbot_plugin_thinkTags",
-      "stars": 1,
-      "updated_at": "2025-06-30T06:12:23Z",
       "version": "v1.2"
     }
   }
