@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-07-14T12:45:13.497Z",
+  "timestamp": "2025-07-15T01:54:22.429Z",
   "github": {
-    "stars": 10537,
-    "forks": 741,
+    "stars": 10543,
+    "forks": 743,
     "contributors": 80
   },
   "plugins": {
@@ -11,8 +11,8 @@
       "author": "piexian",
       "repo": "https://github.com/piexian/astrbot_plugin_rg",
       "stars": 1,
-      "updated_at": "2025-07-14T00:36:12Z",
-      "version": "v1.7.5"
+      "updated_at": "2025-07-15T00:07:30Z",
+      "version": "v1.4.0"
     },
     "echo_avatar": {
       "desc": "学习指定用户的说话方式并生成专业的Prompt，仅限全局管理员使用。",
@@ -635,8 +635,8 @@
       ],
       "desc": "歌词接龙插件，当你发送一句歌词，机器人会回复下一句。",
       "stars": 1,
-      "updated_at": "2025-07-14T09:44:22Z",
-      "version": "v1.2.0"
+      "updated_at": "2025-07-15T01:04:46Z",
+      "version": "v1.2.1"
     },
     "astrbot_plugin_redstone": {
       "author": "LumineStory",
@@ -1416,8 +1416,8 @@
         "fish"
       ],
       "stars": 20,
-      "updated_at": "2025-07-14T08:29:13Z",
-      "version": "1.3.13"
+      "updated_at": "2025-07-14T15:16:36Z",
+      "version": "1.3.14"
     },
     "astrbot_plugin_bilibili_live": {
       "author": "Raven95676",
@@ -1818,8 +1818,8 @@
         "api"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-      "stars": 41,
-      "updated_at": "2025-07-13T12:24:53Z",
+      "stars": 42,
+      "updated_at": "2025-07-14T16:02:45Z",
       "version": "v1.0.7"
     },
     "astrbot_plugin_help": {
@@ -2035,7 +2035,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 17,
-      "updated_at": "2025-07-14T12:28:59Z",
+      "updated_at": "2025-07-15T01:27:51Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -2112,8 +2112,8 @@
         "pixiv"
       ],
       "stars": 19,
-      "updated_at": "2025-07-14T09:13:38Z",
-      "version": "1.2.3"
+      "updated_at": "2025-07-15T00:30:42Z",
+      "version": "1.2.6"
     },
     "astrbot_plugin_gotify": {
       "repo": "https://github.com/BetaCatX/astrbot_plugin_gotify",
@@ -2527,8 +2527,8 @@
       "tags": [
         "QQ群管"
       ],
-      "stars": 26,
-      "updated_at": "2025-07-14T12:26:21Z",
+      "stars": 27,
+      "updated_at": "2025-07-14T19:07:28Z",
       "version": "v3.0.7"
     },
     "astrbot_plugin_liars_bar": {
@@ -4077,8 +4077,8 @@
       "desc": "识别图片并生成AI绘画tag标签",
       "author": "yudengghost",
       "repo": "https://github.com/yudengghost/astrbot_plugin_tagger",
-      "stars": 3,
-      "updated_at": "2025-03-29T18:07:56Z",
+      "stars": 4,
+      "updated_at": "2025-07-14T14:30:47Z",
       "version": "v1.3"
     },
     "astrbot_plugin_RG": {
