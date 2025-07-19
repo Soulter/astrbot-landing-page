@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-07-19T01:47:45.986Z",
+  "timestamp": "2025-07-19T12:40:37.302Z",
   "github": {
-    "stars": 10630,
-    "forks": 746,
+    "stars": 10642,
+    "forks": 745,
     "contributors": 81
   },
   "plugins": {
@@ -16,8 +16,8 @@
       ],
       "social_link": "https://github.com/advent259141",
       "stars": 8,
-      "updated_at": "2025-07-18T15:22:26Z",
-      "version": "1.1.1"
+      "updated_at": "2025-07-19T11:15:06Z",
+      "version": "1.2.0"
     },
     "cngal_search": {
       "desc": "CnGal查询",
@@ -41,8 +41,8 @@
         "工具"
       ],
       "social_link": "https://github.com/EIA2024",
-      "stars": 0,
-      "updated_at": "2025-07-16T17:11:06Z",
+      "stars": 1,
+      "updated_at": "2025-07-19T02:38:11Z",
       "version": "v1.0"
     },
     "astrbot_plugin_deer_check": {
@@ -69,8 +69,8 @@
         "宠物"
       ],
       "stars": 3,
-      "updated_at": "2025-07-17T08:57:48Z",
-      "version": "v1.0"
+      "updated_at": "2025-07-19T11:07:56Z",
+      "version": "v1.1"
     },
     "astrbot_plugin_error_monitor": {
       "desc": "捕获 Immersive Error 抛出的异常，并提供 SMTP 邮件通知进行报告。",
@@ -129,8 +129,8 @@
       ],
       "social_link": "https://github.com/oyxning",
       "stars": 3,
-      "updated_at": "2025-07-18T10:29:06Z",
-      "version": "v0.2.0"
+      "updated_at": "2025-07-19T12:07:57Z",
+      "version": "v1.0.0"
     },
     "astrbot_plugin_wwbirthday": {
       "desc": "鸣潮角色生日播报",
@@ -154,8 +154,8 @@
         "推送",
         "工具"
       ],
-      "stars": 3,
-      "updated_at": "2025-07-18T17:10:11Z",
+      "stars": 4,
+      "updated_at": "2025-07-19T06:37:05Z",
       "version": "v1.0.4"
     },
     "astrbot_plugin_RecallGuard": {
@@ -179,8 +179,8 @@
         "沉浸式"
       ],
       "stars": 6,
-      "updated_at": "2025-07-18T10:26:37Z",
-      "version": "1.3.0"
+      "updated_at": "2025-07-19T09:21:31Z",
+      "version": "1.4.1"
     },
     "astrbot_plugin_choulaopo": {
       "name": "抽老婆",
@@ -236,8 +236,8 @@
       "desc": "一个简单的 LLM API 余额查询与 IP 查询小插件, 支持硅基流动，DeepSeek 与 OpenAI 余额查询及 IP 地址查询功能",
       "author": "Chris",
       "repo": "https://github.com/Chris95743/astrbot_plugin_balance",
-      "stars": 2,
-      "updated_at": "2025-07-10T15:50:42Z",
+      "stars": 3,
+      "updated_at": "2025-07-19T02:40:33Z",
       "version": "v1.1.0"
     },
     "astrbot_plugin_mp": {
@@ -655,7 +655,7 @@
       ],
       "social_link": "https://github.com/oyxning",
       "stars": 13,
-      "updated_at": "2025-07-16T13:55:53Z",
+      "updated_at": "2025-07-19T11:38:31Z",
       "version": "v3.0.0"
     },
     "astrbot_plugin_alistfile": {
@@ -1489,8 +1489,8 @@
         "聊天体验增强"
       ],
       "social_link": "https://wenturc.com/",
-      "stars": 6,
-      "updated_at": "2025-07-18T16:59:41Z",
+      "stars": 7,
+      "updated_at": "2025-07-19T10:18:33Z",
       "version": "v1.7.1"
     },
     "astrbot_plugin_lanraragi": {
@@ -1599,8 +1599,8 @@
         "戳一戳"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 10,
-      "updated_at": "2025-07-16T20:51:30Z",
+      "stars": 12,
+      "updated_at": "2025-07-19T12:15:19Z",
       "version": "v1.0.8"
     },
     "astrbot_plugin_jm_cosmos": {
@@ -1660,8 +1660,8 @@
         "我的世界"
       ],
       "social_link": "https://github.com/QiChenSn",
-      "stars": 3,
-      "updated_at": "2025-07-09T03:17:10Z",
+      "stars": 4,
+      "updated_at": "2025-07-19T10:34:57Z",
       "version": "v1.4.0"
     },
     "astrbot_plugin_yinlish": {
@@ -1845,8 +1845,8 @@
         "按钮"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 26,
-      "updated_at": "2025-07-18T12:25:26Z"
+      "stars": 25,
+      "updated_at": "2025-07-19T10:46:03Z"
     },
     "astrbot_plugin_SillyTavern_card": {
       "author": "LKarxa",
@@ -2142,7 +2142,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 17,
-      "updated_at": "2025-07-18T17:15:57Z",
+      "updated_at": "2025-07-19T02:34:24Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
