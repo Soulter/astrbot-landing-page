@@ -1,9 +1,9 @@
 {
-  "timestamp": "2025-07-18T12:46:14.845Z",
+  "timestamp": "2025-07-19T01:47:45.986Z",
   "github": {
-    "stars": 10627,
-    "forks": 747,
-    "contributors": 80
+    "stars": 10630,
+    "forks": 746,
+    "contributors": 81
   },
   "plugins": {
     "astrbot_plugin_Heartflow": {
@@ -15,8 +15,8 @@
         "拟人"
       ],
       "social_link": "https://github.com/advent259141",
-      "stars": 5,
-      "updated_at": "2025-07-18T10:46:00Z",
+      "stars": 8,
+      "updated_at": "2025-07-18T15:22:26Z",
       "version": "1.1.1"
     },
     "cngal_search": {
@@ -155,8 +155,8 @@
         "工具"
       ],
       "stars": 3,
-      "updated_at": "2025-07-18T01:34:29Z",
-      "version": "v1.0.3"
+      "updated_at": "2025-07-18T17:10:11Z",
+      "version": "v1.0.4"
     },
     "astrbot_plugin_RecallGuard": {
       "name": "astrbot_plugin_RecallGuard",
@@ -1117,8 +1117,8 @@
         "娱乐",
         "工具"
       ],
-      "stars": 0,
-      "updated_at": "2025-05-28T07:09:14Z",
+      "stars": 1,
+      "updated_at": "2025-07-18T15:18:06Z",
       "version": "v1.0"
     },
     "astrbot_plugin_wwuid_reply_enhance": {
@@ -1490,7 +1490,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 6,
-      "updated_at": "2025-07-09T07:44:48Z",
+      "updated_at": "2025-07-18T16:59:41Z",
       "version": "v1.7.1"
     },
     "astrbot_plugin_lanraragi": {
@@ -1522,8 +1522,8 @@
         "game",
         "fish"
       ],
-      "stars": 20,
-      "updated_at": "2025-07-16T10:50:18Z",
+      "stars": 21,
+      "updated_at": "2025-07-18T17:37:03Z",
       "version": "1.3.14"
     },
     "astrbot_plugin_bilibili_live": {
@@ -2142,7 +2142,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 17,
-      "updated_at": "2025-07-18T12:28:45Z",
+      "updated_at": "2025-07-18T17:15:57Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -2420,8 +2420,8 @@
         "绝区零"
       ],
       "social_link": "https://docs.sayu-bot.com/",
-      "stars": 14,
-      "updated_at": "2025-06-10T23:01:16Z",
+      "stars": 15,
+      "updated_at": "2025-07-18T14:35:08Z",
       "version": "v0.3"
     },
     "astrbot_plugin_xyzw": {
@@ -2767,8 +2767,8 @@
         "Minecraft"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_mcping",
-      "stars": 6,
-      "updated_at": "2025-06-19T02:41:51Z",
+      "stars": 7,
+      "updated_at": "2025-07-19T00:12:55Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_lorebook_lite": {
@@ -2851,7 +2851,7 @@
         "工具"
       ],
       "stars": 1,
-      "updated_at": "2025-07-10T09:18:58Z"
+      "updated_at": "2025-07-18T16:56:35Z"
     },
     "astrbot_plugin_encipherer": {
       "desc": "集合包括Base64、URLencode、Punycode编码加解密工具的astrbot插件",
@@ -2917,7 +2917,7 @@
         "英语"
       ],
       "stars": 5,
-      "updated_at": "2025-06-02T06:28:28Z",
+      "updated_at": "2025-07-18T17:19:13Z",
       "version": "v1.1.2"
     },
     "astrbot_plugin_weather_wttr_in": {
@@ -3038,7 +3038,7 @@
       "author": "IGCrystal",
       "repo": "https://github.com/IGCrystal/astrbot_plugin_rdimage",
       "stars": 2,
-      "updated_at": "2025-07-10T09:13:39Z"
+      "updated_at": "2025-07-18T16:56:22Z"
     },
     "astrbot_plugin_gewe_chatsummary": {
       "desc": "[仅 gewechat] 用来对最近消息调用 LLM 进行总结的插件",
@@ -3274,8 +3274,8 @@
         "功能"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
-      "stars": 31,
-      "updated_at": "2025-07-13T12:25:18Z",
+      "stars": 32,
+      "updated_at": "2025-07-18T17:38:26Z",
       "version": "v1.1.4"
     },
     "astrbot_plugin_yuafeng": {
@@ -4144,8 +4144,8 @@
       "desc": "牛牛插件，一个污污的小游戏插件，默认关闭，发送牛牛菜单获取帮助",
       "author": "长安某",
       "repo": "https://github.com/zgojin/astrbot_plugin_niuniu",
-      "stars": 12,
-      "updated_at": "2025-07-13T15:22:45Z",
+      "stars": 11,
+      "updated_at": "2025-07-18T15:19:50Z",
       "version": "v4.7.2"
     },
     "astrbot_plugin_mohoyo_cos": {
