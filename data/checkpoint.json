@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-07-19T12:40:37.302Z",
+  "timestamp": "2025-07-20T02:00:07.266Z",
   "github": {
-    "stars": 10642,
-    "forks": 745,
+    "stars": 10650,
+    "forks": 746,
     "contributors": 81
   },
   "plugins": {
@@ -155,8 +155,8 @@
         "工具"
       ],
       "stars": 4,
-      "updated_at": "2025-07-19T06:37:05Z",
-      "version": "v1.0.4"
+      "updated_at": "2025-07-19T15:55:46Z",
+      "version": "v1.0.5"
     },
     "astrbot_plugin_RecallGuard": {
       "name": "astrbot_plugin_RecallGuard",
@@ -179,7 +179,7 @@
         "沉浸式"
       ],
       "stars": 6,
-      "updated_at": "2025-07-19T09:21:31Z",
+      "updated_at": "2025-07-19T14:58:08Z",
       "version": "1.4.1"
     },
     "astrbot_plugin_choulaopo": {
@@ -359,8 +359,8 @@
         "聊天体验增强"
       ],
       "author": "Heyh520",
-      "stars": 0,
-      "updated_at": "2025-06-30T15:47:54Z",
+      "stars": 1,
+      "updated_at": "2025-07-19T21:48:48Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_monitor": {
@@ -1199,8 +1199,8 @@
         "工具"
       ],
       "social_link": "https://github.com/Angus-fw",
-      "stars": 12,
-      "updated_at": "2025-07-10T10:14:43Z",
+      "stars": 13,
+      "updated_at": "2025-07-19T13:44:05Z",
       "version": "v1.1.4"
     },
     "astrbot_plugin_timetask": {
@@ -1489,8 +1489,8 @@
         "聊天体验增强"
       ],
       "social_link": "https://wenturc.com/",
-      "stars": 7,
-      "updated_at": "2025-07-19T10:18:33Z",
+      "stars": 4,
+      "updated_at": "2025-07-19T15:03:32Z",
       "version": "v1.7.1"
     },
     "astrbot_plugin_lanraragi": {
@@ -2142,7 +2142,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 17,
-      "updated_at": "2025-07-19T02:34:24Z",
+      "updated_at": "2025-07-19T14:52:58Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -2634,8 +2634,8 @@
       "tags": [
         "QQ群管"
       ],
-      "stars": 29,
-      "updated_at": "2025-07-18T06:50:06Z",
+      "stars": 31,
+      "updated_at": "2025-07-19T15:23:44Z",
       "version": "v3.0.7"
     },
     "astrbot_plugin_liars_bar": {
@@ -2829,7 +2829,7 @@
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
       "stars": 22,
-      "updated_at": "2025-07-18T07:04:42Z",
+      "updated_at": "2025-07-19T14:03:36Z",
       "version": "v1.1.9"
     },
     "astrbot_plugin_search_pic": {
@@ -3484,7 +3484,10 @@
       "repo": "https://github.com/advent259141/astrbot_plugin_InitiativeDialogue",
       "tags": [
         "主动对话"
-      ]
+      ],
+      "stars": 1,
+      "updated_at": "2025-07-19T14:10:08Z",
+      "version": "v2.3.0"
     },
     "astrbot_plugin_sensoji": {
       "desc": "这是一个模拟日本浅草寺抽签功能的插件。用户可以通过发送 /抽签 命令随机抽取一个签文，获取运势提示。签文包含吉凶结果（如“大吉”、“凶”等）以及对应的运势描述。",
@@ -4035,9 +4038,7 @@
     "astrbot_plugin_sysinfo": {
       "desc": "获取当前系统状态",
       "author": "mika",
-      "repo": "https://github.com/AstrBot-Devs/astrbot_plugin_sysinfo",
-      "stars": 3,
-      "updated_at": "2025-02-10T12:26:19Z"
+      "repo": "https://github.com/AstrBot-Devs/astrbot_plugin_sysinfo"
     },
     "astrbot_plugin_weather": {
       "desc": "一个基于心知天气免费API的天气查询插件",
@@ -4082,9 +4083,7 @@
     "astrbot_plugin_cloudmusic": {
       "desc": "网易云音乐搜索、热评。并且支持了大模型函数调用工具。请说 `搜下春日影这首歌`。其他指令请看帮助",
       "author": "ave_mujica-saki",
-      "repo": "https://github.com/AstrBot-Devs/astrbot_plugin_cloudmusic",
-      "stars": 3,
-      "updated_at": "2025-05-24T12:46:36Z"
+      "repo": "https://github.com/AstrBot-Devs/astrbot_plugin_cloudmusic"
     },
     "qq_official_url_cleaner": {
       "desc": "为 QQ 官方 API 修改发送消息的链接，可改善消息被屏蔽的现象",
@@ -4193,8 +4192,8 @@
       "author": "长安某",
       "repo": "https://github.com/zgojin/astrbot_plugin_RG",
       "stars": 2,
-      "updated_at": "2025-07-15T10:04:47Z",
-      "version": "v1.3"
+      "updated_at": "2025-07-19T15:47:31Z",
+      "version": "v1.3.2# 插件版本号。格式：v1.1.1 或者 v1.1"
     },
     "astrbot_plugin_token_calculator": {
       "desc": "计算并显示每次对话消耗的token，部分provider可用",
@@ -4469,16 +4468,12 @@
       "author": "长安某",
       "desc": "二次元图片签到以及好友买卖，对接牛牛商城，仅支持qq且仅支持非官方bot(其他平台请自行测试）",
       "repo": "https://github.com/zgojin/astrbot_plugin_Qsign",
-      "stars": 0,
-      "updated_at": "2025-03-12T01:25:33Z",
       "version": "v1.2.1"
     },
     "astrbot_plugin_thinkTags": {
       "author": "长安某",
       "desc": "过滤消息段中的think",
       "repo": "https://github.com/zgojin/astrbot_plugin_thinkTags",
-      "stars": 1,
-      "updated_at": "2025-06-30T06:12:23Z",
       "version": "v1.2"
     }
   }
