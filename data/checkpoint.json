@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-07-20T12:41:12.995Z",
+  "timestamp": "2025-07-21T01:57:17.252Z",
   "github": {
-    "stars": 10660,
-    "forks": 747,
+    "stars": 10671,
+    "forks": 748,
     "contributors": 81
   },
   "plugins": {
@@ -14,8 +14,8 @@
         "战地风云"
       ],
       "stars": 0,
-      "updated_at": "2025-07-20T11:13:49Z",
-      "version": "v1.0.2"
+      "updated_at": "2025-07-20T13:44:55Z",
+      "version": "v1.0.3"
     },
     "astrbot_plugin_SteamSaleTracker": {
       "desc": "这是一个 Steam 游戏价格监控插件",
@@ -26,8 +26,8 @@
         "游戏"
       ],
       "social_link": "https://github.com/zhewang448",
-      "stars": 2,
-      "updated_at": "2025-07-20T12:25:29Z",
+      "stars": 3,
+      "updated_at": "2025-07-21T00:26:27Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_Heartflow": {
@@ -39,8 +39,8 @@
         "拟人"
       ],
       "social_link": "https://github.com/advent259141",
-      "stars": 8,
-      "updated_at": "2025-07-19T11:15:06Z",
+      "stars": 9,
+      "updated_at": "2025-07-20T14:30:20Z",
       "version": "1.2.0"
     },
     "cngal_search": {
@@ -152,8 +152,8 @@
         "模仿"
       ],
       "social_link": "https://github.com/oyxning",
-      "stars": 3,
-      "updated_at": "2025-07-20T08:56:26Z",
+      "stars": 4,
+      "updated_at": "2025-07-20T15:34:56Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_wwbirthday": {
@@ -202,9 +202,9 @@
         "主动回复",
         "沉浸式"
       ],
-      "stars": 6,
-      "updated_at": "2025-07-19T14:58:08Z",
-      "version": "1.4.1"
+      "stars": 7,
+      "updated_at": "2025-07-20T16:28:14Z",
+      "version": "1.4.3"
     },
     "astrbot_plugin_choulaopo": {
       "name": "抽老婆",
@@ -1084,8 +1084,8 @@
         "音乐"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 34,
-      "updated_at": "2025-07-20T03:48:59Z",
+      "stars": 35,
+      "updated_at": "2025-07-20T23:24:08Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_renjian": {
@@ -1259,8 +1259,8 @@
         "RAG",
         "知识库"
       ],
-      "stars": 41,
-      "updated_at": "2025-07-06T09:10:57Z",
+      "stars": 42,
+      "updated_at": "2025-07-21T00:56:56Z",
       "version": "v0.5.8"
     },
     "astrbot_uptime_kuma_webhook_plugin": {
@@ -1363,7 +1363,7 @@
         "股市"
       ],
       "stars": 1,
-      "updated_at": "2025-07-14T09:28:28Z",
+      "updated_at": "2025-07-20T14:46:46Z",
       "version": "v1.2.2"
     },
     "astrbot_plugin_kfc_thursday": {
@@ -1382,8 +1382,8 @@
       "desc": "视频搜索，让你和群友一起刷视频（目前仅支持B站、QQ平台，后续兼容更多）",
       "repo": "https://github.com/Zhalslar/astrbot_plugin_search_video",
       "social_link": "https://github.com/Zhalslar",
-      "stars": 15,
-      "updated_at": "2025-07-15T15:58:10Z",
+      "stars": 16,
+      "updated_at": "2025-07-21T00:33:20Z",
       "version": "v1.0.4"
     },
     "astrbot_plugin_zt": {
@@ -1574,7 +1574,6 @@
         "词云"
       ],
       "social_link": "https://github.com/GEMILUXVII",
-      "pinned": true,
       "stars": 13,
       "updated_at": "2025-07-06T15:11:01Z",
       "version": "v1.3.9"
@@ -1623,8 +1622,8 @@
         "戳一戳"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 13,
-      "updated_at": "2025-07-20T06:49:42Z",
+      "stars": 14,
+      "updated_at": "2025-07-20T23:23:47Z",
       "version": "v1.0.8"
     },
     "astrbot_plugin_jm_cosmos": {
@@ -1705,8 +1704,8 @@
         "表情包"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 23,
-      "updated_at": "2025-07-13T05:03:30Z",
+      "stars": 24,
+      "updated_at": "2025-07-20T23:23:37Z",
       "version": "v2.0.6"
     },
     "astrbot_plugin_voiceprint": {
@@ -2166,7 +2165,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 17,
-      "updated_at": "2025-07-19T14:52:58Z",
+      "updated_at": "2025-07-21T01:22:04Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -2609,8 +2608,8 @@
         "天气"
       ],
       "social_link": "https://github.com/whzcc",
-      "stars": 0,
-      "updated_at": "2025-04-02T14:20:49Z",
+      "stars": 1,
+      "updated_at": "2025-07-20T16:16:27Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_appreview": {
@@ -3298,8 +3297,8 @@
         "功能"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
-      "stars": 32,
-      "updated_at": "2025-07-18T17:38:26Z",
+      "stars": 33,
+      "updated_at": "2025-07-20T23:23:29Z",
       "version": "v1.1.4"
     },
     "astrbot_plugin_yuafeng": {
@@ -4006,7 +4005,6 @@
       "desc": "哔哩哔哩动态推送、视频信息、直播间信息查询插件",
       "author": "Flartiny & Soulter",
       "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
-      "pinned": true,
       "stars": 26,
       "updated_at": "2025-07-15T13:19:33Z",
       "version": "v1.4.9"
@@ -4346,6 +4344,8 @@
       "desc": "一个长期记忆插件，基于milvus数据库实现，详情请见README.md",
       "author": "lxfight",
       "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
+      "stars": 104,
+      "updated_at": "2025-07-18T02:19:40Z",
       "version": "v0.5.1"
     },
     "FateTrial_img_identify": {
@@ -4481,7 +4481,7 @@
       "desc": "自定义内容回复插件",
       "repo": "https://github.com/Meguminlove/astrbot_plugin_keyword_reply",
       "stars": 1,
-      "updated_at": "2025-03-15T09:54:35Z"
+      "updated_at": "2025-07-20T14:56:20Z"
     },
     "astrbot_checkin_plugin": {
       "author": "Kimi & Meguminlove",
