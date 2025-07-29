@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-07-28T12:48:52.263Z",
+  "timestamp": "2025-07-29T02:04:28.295Z",
   "github": {
-    "stars": 10918,
-    "forks": 771,
+    "stars": 10941,
+    "forks": 773,
     "contributors": 81
   },
   "plugins": {
@@ -24,7 +24,7 @@
         "图片反搜"
       ],
       "stars": 0,
-      "updated_at": "2025-07-25T20:45:48Z",
+      "updated_at": "2025-07-28T18:01:19Z",
       "version": "2.3"
     },
     "astrbot_plugin_LLMTempBan": {
@@ -49,8 +49,8 @@
         "用户信息",
         "主动回复"
       ],
-      "stars": 0,
-      "updated_at": "2025-07-24T11:10:34Z",
+      "stars": 1,
+      "updated_at": "2025-07-28T14:44:13Z",
       "version": "v1.0.1"
     },
     "treasure_bag_plugin": {
@@ -165,8 +165,8 @@
         "游戏"
       ],
       "social_link": "https://github.com/zhewang448",
-      "stars": 4,
-      "updated_at": "2025-07-27T13:30:20Z",
+      "stars": 5,
+      "updated_at": "2025-07-28T15:02:05Z",
       "version": "v1.1.0"
     },
     "astrbot_plugin_Heartflow": {
@@ -1447,19 +1447,6 @@
       "updated_at": "2025-06-15T06:50:58Z",
       "version": "0.0.4"
     },
-    "astrbot_plugin_baike": {
-      "author": "明日香奈",
-      "desc": "输入【/百科 要搜索的词条】即可查询百度百科简略内容",
-      "repo": "https://github.com/mingrixiangnai/astrbot_plugin_baike",
-      "tags": [
-        "百科",
-        "信息"
-      ],
-      "social_link": "https://github.com/mingrixiangnai/astrbot_plugin_baike",
-      "stars": 1,
-      "updated_at": "2025-06-26T00:26:20Z",
-      "version": "1.0"
-    },
     "astrbot_plugin_LatexPlotter": {
       "author": "xunxi",
       "desc": "本插件为 AstrBot 设计，旨在提供强大的 LaTeX 数学公式渲染功能。它可以将用户输入的 LaTeX 字符串渲染成高质量的图片，并支持通过逗号分隔实现多行、分步骤的公式展示。插件具有高度的可配置性，允许用户调整渲染效果，如DPI、字体大小、颜色、行间距等。",
@@ -1794,8 +1781,8 @@
         "禁漫"
       ],
       "social_link": "https://github.com/GEMILUXVII",
-      "stars": 14,
-      "updated_at": "2025-07-26T21:06:17Z",
+      "stars": 17,
+      "updated_at": "2025-07-28T17:22:33Z",
       "version": "1.0.7"
     },
     "astrbot_plugin_combine-messages": {
@@ -1966,7 +1953,7 @@
       ],
       "social_link": "https://github.com/mingrixiangnai/0721galgame",
       "stars": 2,
-      "updated_at": "2025-06-26T21:59:25Z",
+      "updated_at": "2025-07-28T18:23:58Z",
       "version": "1.0"
     },
     "astrbot_plugin_terminal": {
@@ -2317,7 +2304,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 15,
-      "updated_at": "2025-07-28T11:22:38Z",
+      "updated_at": "2025-07-28T23:26:30Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -3005,8 +2992,8 @@
         "TTS"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
-      "stars": 22,
-      "updated_at": "2025-07-19T14:03:36Z",
+      "stars": 23,
+      "updated_at": "2025-07-28T15:40:16Z",
       "version": "v1.1.9"
     },
     "astrbot_plugin_search_pic": {
@@ -3339,8 +3326,8 @@
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
       "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
-      "stars": 41,
-      "updated_at": "2025-07-21T01:47:30Z",
+      "stars": 42,
+      "updated_at": "2025-07-28T15:04:24Z",
       "version": "v1.0.8"
     },
     "astrbot_plugin_saris_economic": {
@@ -3479,8 +3466,8 @@
       "tags": [
         "实用工具"
       ],
-      "stars": 10,
-      "updated_at": "2025-07-15T03:34:47Z",
+      "stars": 11,
+      "updated_at": "2025-07-28T22:20:14Z",
       "version": "v1.0.7"
     },
     "astrbot_plugin_pokecheck": {
@@ -4579,8 +4566,8 @@
       "author": "lxfight",
       "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
       "tags": [],
-      "stars": 105,
-      "updated_at": "2025-07-26T12:09:21Z",
+      "stars": 106,
+      "updated_at": "2025-07-28T15:09:54Z",
       "version": "v0.5.1"
     },
     "FateTrial_img_identify": {
