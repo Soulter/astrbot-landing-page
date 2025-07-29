@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-07-29T02:04:28.295Z",
+  "timestamp": "2025-07-29T12:49:12.608Z",
   "github": {
-    "stars": 10941,
-    "forks": 773,
+    "stars": 10966,
+    "forks": 774,
     "contributors": 81
   },
   "plugins": {
@@ -13,8 +13,8 @@
       "tags": "文件解析",
       "social_link": "https://qm.qq.com/q/d4lwUp9ap4",
       "stars": 0,
-      "updated_at": "2025-07-27T17:06:12Z",
-      "version": "v1.0.0"
+      "updated_at": "2025-07-29T08:30:46Z",
+      "version": "v1.0.1"
     },
     "astrbot_plugin_img_rev_seacher": {
       "desc": "图片反搜项目，以图搜图，找出处",
@@ -127,8 +127,8 @@
         "服务器",
         "监控"
       ],
-      "stars": 1,
-      "updated_at": "2025-07-26T18:48:30Z",
+      "stars": 2,
+      "updated_at": "2025-07-29T09:49:39Z",
       "version": "v1.1"
     },
     "astrbot_plugin_scheduler": {
@@ -323,8 +323,8 @@
       "author": "和泉智宏",
       "repo": "https://github.com/0d00-Ciallo-0721/astrbot_plugin_RecallGuard",
       "tags": [],
-      "stars": 0,
-      "updated_at": "2025-07-28T07:04:17Z",
+      "stars": 1,
+      "updated_at": "2025-07-29T06:04:38Z",
       "version": "v2.0"
     },
     "astrbot_plugin_reply_directly": {
@@ -467,7 +467,7 @@
       ],
       "author": "satori5555",
       "stars": 3,
-      "updated_at": "2025-07-28T04:23:32Z",
+      "updated_at": "2025-07-29T02:55:25Z",
       "version": "v1.0"
     },
     "astrbot_plugin_78animesearch": {
@@ -744,8 +744,8 @@
         "web search"
       ],
       "social_link": "https://github.com/lxfight",
-      "stars": 16,
-      "updated_at": "2025-07-24T08:47:00Z",
+      "stars": 18,
+      "updated_at": "2025-07-29T07:52:43Z",
       "version": "0.1.0"
     },
     "astrbot_plugin_textadventure": {
@@ -756,8 +756,8 @@
       "tags": [
         "文字游戏"
       ],
-      "stars": 8,
-      "updated_at": "2025-07-22T14:47:58Z",
+      "stars": 9,
+      "updated_at": "2025-07-29T03:04:17Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_llmAtTool": {
@@ -884,7 +884,7 @@
       "social_link": "https://xingyu.ink",
       "tags": [],
       "stars": 0,
-      "updated_at": "2025-06-13T16:06:10Z",
+      "updated_at": "2025-07-29T10:07:58Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_wbank": {
@@ -1140,8 +1140,8 @@
         "Steam"
       ],
       "social_link": "https://github.com/Maoer233",
-      "stars": 3,
-      "updated_at": "2025-06-11T10:03:12Z",
+      "stars": 4,
+      "updated_at": "2025-07-29T10:01:48Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_xiaoxue": {
@@ -1480,8 +1480,8 @@
       ],
       "social_link": "https://space.bilibili.com/447591776",
       "stars": 2,
-      "updated_at": "2025-07-28T05:02:47Z",
-      "version": "v1.1.1"
+      "updated_at": "2025-07-29T02:09:50Z",
+      "version": "v1.1.2"
     },
     "astrbot_plugin_embedding_adapter": {
       "author": "AnYan",
@@ -1691,8 +1691,8 @@
         "fish"
       ],
       "stars": 25,
-      "updated_at": "2025-07-27T16:49:12Z",
-      "version": "1.4.5"
+      "updated_at": "2025-07-29T10:20:31Z",
+      "version": "1.4.6"
     },
     "astrbot_plugin_bilibili_live": {
       "author": "Raven95676",
@@ -1781,8 +1781,8 @@
         "禁漫"
       ],
       "social_link": "https://github.com/GEMILUXVII",
-      "stars": 17,
-      "updated_at": "2025-07-28T17:22:33Z",
+      "stars": 18,
+      "updated_at": "2025-07-29T01:29:10Z",
       "version": "1.0.7"
     },
     "astrbot_plugin_combine-messages": {
@@ -2304,7 +2304,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 15,
-      "updated_at": "2025-07-28T23:26:30Z",
+      "updated_at": "2025-07-29T11:22:27Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -3074,7 +3074,7 @@
         "英语"
       ],
       "stars": 5,
-      "updated_at": "2025-07-18T17:19:13Z",
+      "updated_at": "2025-07-29T09:35:40Z",
       "version": "v1.1.2"
     },
     "astrbot_plugin_weather_wttr_in": {
