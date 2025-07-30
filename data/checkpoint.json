@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-07-30T01:54:53.690Z",
+  "timestamp": "2025-07-30T12:48:43.413Z",
   "github": {
-    "stars": 10988,
-    "forks": 776,
+    "stars": 11014,
+    "forks": 778,
     "contributors": 81
   },
   "plugins": {
@@ -36,8 +36,8 @@
       ],
       "social_link": "https://astrbot.uk",
       "stars": 2,
-      "updated_at": "2025-07-24T09:47:56Z",
-      "version": "v1.0"
+      "updated_at": "2025-07-30T03:38:34Z",
+      "version": "v1.0.2"
     },
     "astrbot_proactive_reply": {
       "desc": "一个支持聊天附带用户信息和定时主动发送消息的 AstrBot 插件",
@@ -385,7 +385,7 @@
       "repo": "https://github.com/mmyddd/astrbot_plugin_group_sign",
       "tags": [],
       "stars": 0,
-      "updated_at": "2025-07-10T16:45:39Z",
+      "updated_at": "2025-07-30T00:51:48Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_balance": {
@@ -907,8 +907,8 @@
         "接歌词"
       ],
       "desc": "歌词接龙插件，当你发送一句歌词，机器人会回复下一句。",
-      "stars": 1,
-      "updated_at": "2025-07-21T07:34:55Z",
+      "stars": 2,
+      "updated_at": "2025-07-30T01:07:22Z",
       "version": "v1.2.2"
     },
     "astrbot_plugin_redstone": {
@@ -1193,8 +1193,8 @@
         "文字转语音"
       ],
       "social_link": "https://github.com/xiewoc",
-      "stars": 2,
-      "updated_at": "2025-06-06T18:57:24Z",
+      "stars": 3,
+      "updated_at": "2025-07-30T09:50:44Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_sysinfoimg": {
@@ -1228,8 +1228,8 @@
         "音乐"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 36,
-      "updated_at": "2025-07-22T12:01:46Z",
+      "stars": 38,
+      "updated_at": "2025-07-30T04:08:13Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_renjian": {
@@ -1480,7 +1480,7 @@
       ],
       "social_link": "https://space.bilibili.com/447591776",
       "stars": 2,
-      "updated_at": "2025-07-29T02:09:50Z",
+      "updated_at": "2025-07-30T02:15:42Z",
       "version": "v1.1.2"
     },
     "astrbot_plugin_embedding_adapter": {
@@ -1492,7 +1492,7 @@
       ],
       "social_link": "https://github.com/TheAnyan",
       "stars": 9,
-      "updated_at": "2025-07-14T11:48:36Z",
+      "updated_at": "2025-07-30T06:27:07Z",
       "version": "v1.1.0"
     },
     "astrbot_plugin_stock": {
@@ -1781,8 +1781,8 @@
         "禁漫"
       ],
       "social_link": "https://github.com/GEMILUXVII",
-      "stars": 19,
-      "updated_at": "2025-07-29T17:40:44Z",
+      "stars": 20,
+      "updated_at": "2025-07-30T02:01:13Z",
       "version": "1.0.7"
     },
     "astrbot_plugin_combine-messages": {
@@ -2096,8 +2096,8 @@
         "api"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-      "stars": 53,
-      "updated_at": "2025-07-28T06:24:16Z",
+      "stars": 54,
+      "updated_at": "2025-07-30T07:22:13Z",
       "version": "v1.0.7"
     },
     "astrbot_plugin_help": {
@@ -2234,8 +2234,8 @@
         "信息",
         "监控面板"
       ],
-      "stars": 1,
-      "updated_at": "2025-06-12T01:22:52Z",
+      "stars": 2,
+      "updated_at": "2025-07-30T03:36:55Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_tarot": {
@@ -2304,7 +2304,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 15,
-      "updated_at": "2025-07-29T23:25:08Z",
+      "updated_at": "2025-07-30T11:23:11Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -2810,8 +2810,8 @@
       "tags": [
         "QQ群管"
       ],
-      "stars": 32,
-      "updated_at": "2025-07-27T14:44:46Z",
+      "stars": 33,
+      "updated_at": "2025-07-30T06:35:29Z",
       "version": "v3.0.7"
     },
     "astrbot_plugin_liars_bar": {
@@ -3326,8 +3326,8 @@
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
       "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
-      "stars": 42,
-      "updated_at": "2025-07-28T15:04:24Z",
+      "stars": 43,
+      "updated_at": "2025-07-30T01:36:57Z",
       "version": "v1.0.8"
     },
     "astrbot_plugin_saris_economic": {
@@ -3442,8 +3442,8 @@
         "功能"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
-      "stars": 36,
-      "updated_at": "2025-07-24T13:11:41Z",
+      "stars": 37,
+      "updated_at": "2025-07-30T03:28:16Z",
       "version": "v1.1.4"
     },
     "astrbot_plugin_yuafeng": {
@@ -3851,8 +3851,8 @@
         "主动回复"
       ],
       "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-      "stars": 57,
-      "updated_at": "2025-07-29T15:33:16Z",
+      "stars": 58,
+      "updated_at": "2025-07-30T01:48:25Z",
       "version": "v2.1.4"
     },
     "astrbot_plugin_steamshot": {
@@ -4566,8 +4566,8 @@
       "author": "lxfight",
       "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
       "tags": [],
-      "stars": 107,
-      "updated_at": "2025-07-29T15:39:33Z",
+      "stars": 108,
+      "updated_at": "2025-07-30T04:32:14Z",
       "version": "v0.5.1"
     },
     "FateTrial_img_identify": {
