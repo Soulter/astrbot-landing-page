@@ -1,9 +1,9 @@
 {
-  "timestamp": "2025-07-30T12:48:43.413Z",
+  "timestamp": "2025-07-31T01:54:21.426Z",
   "github": {
-    "stars": 11014,
+    "stars": 11024,
     "forks": 778,
-    "contributors": 81
+    "contributors": 80
   },
   "plugins": {
     "astrbot_plugin_lanzoucloud": {
@@ -24,7 +24,7 @@
         "图片反搜"
       ],
       "stars": 0,
-      "updated_at": "2025-07-28T18:01:19Z",
+      "updated_at": "2025-07-30T17:35:15Z",
       "version": "2.3"
     },
     "astrbot_plugin_LLMTempBan": {
@@ -218,8 +218,8 @@
         "健康",
         "娱乐"
       ],
-      "stars": 1,
-      "updated_at": "2025-07-26T01:38:42Z",
+      "stars": 2,
+      "updated_at": "2025-07-30T14:11:32Z",
       "version": "v1.2"
     },
     "astrbot_plugin_pet": {
@@ -361,8 +361,8 @@
       "repo": "https://github.com/Chris95743/astrbot_plugin_file",
       "author": null,
       "tags": [],
-      "stars": 3,
-      "updated_at": "2025-07-11T11:27:07Z",
+      "stars": 4,
+      "updated_at": "2025-07-30T12:22:48Z",
       "version": "v1.2.0"
     },
     "astrobot_plugin_code_executor": {
@@ -453,8 +453,8 @@
       ],
       "social_link": "astrbot.uk",
       "stars": 0,
-      "updated_at": "2025-07-26T04:33:28Z",
-      "version": "v1.1"
+      "updated_at": "2025-07-30T13:08:32Z",
+      "version": "v1.2.1"
     },
     "astrbot_plugin_bw_monitor": {
       "desc": "Bilibili Show 票务监控插件，支持群聊/私聊隔离，检测余票变化并推送通知。",
@@ -534,8 +534,8 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "author": "Zhalslar",
-      "stars": 2,
-      "updated_at": "2025-07-16T20:52:06Z",
+      "stars": 3,
+      "updated_at": "2025-07-30T21:50:12Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_decision_roulette": {
@@ -1782,7 +1782,7 @@
       ],
       "social_link": "https://github.com/GEMILUXVII",
       "stars": 20,
-      "updated_at": "2025-07-30T02:01:13Z",
+      "updated_at": "2025-07-30T20:03:44Z",
       "version": "1.0.7"
     },
     "astrbot_plugin_combine-messages": {
@@ -2303,8 +2303,8 @@
         "工具"
       ],
       "social_link": "https://wenturc.com/",
-      "stars": 15,
-      "updated_at": "2025-07-30T11:23:11Z",
+      "stars": 17,
+      "updated_at": "2025-07-30T23:25:17Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -2824,6 +2824,17 @@
       "stars": 6,
       "updated_at": "2025-07-15T14:33:07Z",
       "version": "1.3.6"
+    },
+    "astrbot_plugin_SessionFaker": {
+      "desc": "一个用于AstrBot的QQ消息伪造插件，可以创建包含多个用户发言的伪造转发消息，支持自动获取QQ昵称",
+      "author": "Jason.Joestar",
+      "repo": "https://github.com/advent259141/astrbot_plugin_SessionFaker",
+      "tags": [
+        "消息伪造"
+      ],
+      "stars": 1,
+      "updated_at": "2025-07-30T11:51:56Z",
+      "version": "v1.1.0"
     },
     "astrbot_plugin_douniuniu": {
       "desc": "QQ 群小游戏，培养你的牛牛，然后塔塔开！",
@@ -3803,8 +3814,8 @@
       "social_link": "https://space.bilibili.com/11874232",
       "tags": [],
       "stars": 3,
-      "updated_at": "2025-06-22T15:42:44Z",
-      "version": "v1.1.4"
+      "updated_at": "2025-07-30T14:16:53Z",
+      "version": "v1.1.5"
     },
     "astrbot_plugin_server_status": {
       "desc": "实时监控服务器资源使用情况，支持多平台运行，提供清晰的系统状态报告。",
