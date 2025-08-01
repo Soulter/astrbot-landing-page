@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-08-01T02:04:35.343Z",
+  "timestamp": "2025-08-01T12:47:11.631Z",
   "github": {
-    "stars": 11048,
-    "forks": 780,
+    "stars": 11060,
+    "forks": 782,
     "contributors": 80
   },
   "plugins": {
@@ -166,8 +166,8 @@
       ],
       "social_link": "https://github.com/zhewang448",
       "stars": 7,
-      "updated_at": "2025-07-31T07:07:50Z",
-      "version": "v1.1.0"
+      "updated_at": "2025-08-01T03:12:10Z",
+      "version": "v1.1.1"
     },
     "astrbot_plugin_Heartflow": {
       "desc": "基于简单的心流机制的群聊主动回复插件，带来更生动的主动回复体验",
@@ -257,8 +257,8 @@
         "实用"
       ],
       "social_link": "https://magstic.art/",
-      "stars": 1,
-      "updated_at": "2025-07-28T05:30:52Z",
+      "stars": 2,
+      "updated_at": "2025-08-01T06:02:09Z",
       "version": "1.0.1"
     },
     "astrbot_plugin_eat_history": {
@@ -656,8 +656,8 @@
       "repo": "https://github.com/sa1guu/astrbot_plugin_touchi",
       "tags": [],
       "stars": 23,
-      "updated_at": "2025-07-23T00:38:44Z",
-      "version": "v2.5.4"
+      "updated_at": "2025-08-01T03:22:20Z",
+      "version": "v2.5.5"
     },
     "astrbot_plugin_Astrsupermarket": {
       "author": "和泉智宏本人",
@@ -1229,7 +1229,7 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 38,
-      "updated_at": "2025-07-31T12:35:54Z",
+      "updated_at": "2025-08-01T02:50:28Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_renjian": {
@@ -1321,7 +1321,7 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 5,
-      "updated_at": "2025-06-19T02:41:23Z",
+      "updated_at": "2025-08-01T10:30:37Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_delete_and_block_filter": {
@@ -1411,8 +1411,8 @@
         "RAG",
         "知识库"
       ],
-      "stars": 45,
-      "updated_at": "2025-07-31T08:45:06Z",
+      "stars": 46,
+      "updated_at": "2025-08-01T06:11:32Z",
       "version": "v0.5.8"
     },
     "astrbot_uptime_kuma_webhook_plugin": {
@@ -1548,8 +1548,8 @@
         "画像"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 17,
-      "updated_at": "2025-07-25T14:37:41Z",
+      "stars": 18,
+      "updated_at": "2025-08-01T09:12:32Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_Kanalyse": {
@@ -2304,7 +2304,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 17,
-      "updated_at": "2025-07-31T22:25:17Z",
+      "updated_at": "2025-08-01T11:22:36Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -2385,8 +2385,8 @@
         "pixiv"
       ],
       "stars": 19,
-      "updated_at": "2025-07-26T16:06:54Z",
-      "version": "1.2.6"
+      "updated_at": "2025-08-01T08:25:09Z",
+      "version": "1.2.7"
     },
     "astrbot_plugin_gotify": {
       "repo": "https://github.com/BetaCatX/astrbot_plugin_gotify",
@@ -3924,8 +3924,8 @@
         "功能",
         "搬史"
       ],
-      "stars": 283,
-      "updated_at": "2025-07-31T22:53:34Z",
+      "stars": 285,
+      "updated_at": "2025-08-01T11:15:56Z",
       "version": "v0.912"
     },
     "astrbot_plugin_superpoke": {
