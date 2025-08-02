@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-08-01T12:47:11.631Z",
+  "timestamp": "2025-08-02T01:48:58.965Z",
   "github": {
     "stars": 11060,
-    "forks": 782,
+    "forks": 783,
     "contributors": 80
   },
   "plugins": {
@@ -362,7 +362,7 @@
       "author": null,
       "tags": [],
       "stars": 4,
-      "updated_at": "2025-07-30T12:22:48Z",
+      "updated_at": "2025-08-01T15:51:12Z",
       "version": "v1.2.0"
     },
     "astrobot_plugin_code_executor": {
@@ -883,8 +883,8 @@
       "desc": "SCP：SL 服务器查询插件，仿照 server_Qchat 功能",
       "social_link": "https://xingyu.ink",
       "tags": [],
-      "stars": 0,
-      "updated_at": "2025-07-29T10:07:58Z",
+      "stars": 1,
+      "updated_at": "2025-08-01T13:57:58Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_wbank": {
@@ -1372,8 +1372,8 @@
         "工具"
       ],
       "social_link": "https://github.com/Angus-fw",
-      "stars": 14,
-      "updated_at": "2025-07-22T15:54:55Z",
+      "stars": 15,
+      "updated_at": "2025-08-01T11:43:40Z",
       "version": "v1.1.4"
     },
     "astrbot_plugin_timetask": {
@@ -1620,8 +1620,8 @@
       "desc": "MySQL存储聊天记录",
       "repo": "https://github.com/LWWD/astrbot_plugin_sql_history",
       "tags": [],
-      "stars": 2,
-      "updated_at": "2025-06-27T06:27:54Z",
+      "stars": 3,
+      "updated_at": "2025-08-01T13:02:12Z",
       "version": "v1.0"
     },
     "astrbot_plugin_error_notice": {
@@ -2304,7 +2304,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 17,
-      "updated_at": "2025-08-01T11:22:36Z",
+      "updated_at": "2025-08-01T22:24:43Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -3429,8 +3429,8 @@
       "tags": [
         "nsfw"
       ],
-      "stars": 10,
-      "updated_at": "2025-05-28T15:35:53Z",
+      "stars": 11,
+      "updated_at": "2025-08-01T11:46:49Z",
       "version": "v1.3"
     },
     "astrbot_plugin_Translation": {
@@ -3862,8 +3862,8 @@
         "主动回复"
       ],
       "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-      "stars": 58,
-      "updated_at": "2025-07-30T01:48:25Z",
+      "stars": 59,
+      "updated_at": "2025-08-01T12:09:11Z",
       "version": "v2.1.4"
     },
     "astrbot_plugin_steamshot": {
@@ -4019,8 +4019,8 @@
       "author": "七七七七",
       "repo": "https://github.com/18005575/astrbot_plugin_flux",
       "tags": [],
-      "stars": 3,
-      "updated_at": "2025-05-22T07:28:46Z",
+      "stars": 2,
+      "updated_at": "2025-08-01T21:01:40Z",
       "version": "v1.5"
     },
     "mccloud_meme_sender": {
@@ -4037,8 +4037,8 @@
       "author": "榛子小猹猹",
       "repo": "https://github.com/Hazellol/astrbot_plugin_sauceno",
       "tags": [],
-      "stars": 14,
-      "updated_at": "2025-07-16T13:41:35Z",
+      "stars": 15,
+      "updated_at": "2025-08-01T11:44:15Z",
       "version": "v1.0.0"
     },
     "lottery": {
