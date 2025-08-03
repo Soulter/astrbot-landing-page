@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-08-02T12:41:38.704Z",
+  "timestamp": "2025-08-03T02:02:36.684Z",
   "github": {
-    "stars": 11067,
+    "stars": 11077,
     "forks": 783,
     "contributors": 83
   },
@@ -449,9 +449,9 @@
         "文件处理"
       ],
       "author": null,
-      "stars": 8,
-      "updated_at": "2025-08-02T09:11:08Z",
-      "version": "2.2.2--refix"
+      "stars": 9,
+      "updated_at": "2025-08-02T18:39:02Z",
+      "version": "2.2.3--img"
     },
     "astrbot_plugin_group_sign": {
       "name": "group_sign",
@@ -2175,8 +2175,8 @@
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
       "stars": 56,
-      "updated_at": "2025-08-02T08:14:31Z",
-      "version": "v1.0.8"
+      "updated_at": "2025-08-02T18:42:48Z",
+      "version": "v1.0.9"
     },
     "astrbot_plugin_help": {
       "author": "tinker",
@@ -2381,8 +2381,8 @@
         "工具"
       ],
       "social_link": "https://wenturc.com/",
-      "stars": 17,
-      "updated_at": "2025-08-02T11:20:42Z",
+      "stars": 18,
+      "updated_at": "2025-08-02T22:23:57Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -3115,8 +3115,8 @@
         "工具"
       ],
       "stars": 0,
-      "updated_at": "2025-04-25T14:46:59Z",
-      "version": "v1.0.1"
+      "updated_at": "2025-08-02T14:12:08Z",
+      "version": "v2.0.0"
     },
     "astrbot_plugin_answerbook": {
       "desc": "一个简单的答案之书插件,发送 答案之书+问题 即可使用",
@@ -3531,8 +3531,8 @@
         "功能"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
-      "stars": 37,
-      "updated_at": "2025-07-30T03:28:16Z",
+      "stars": 38,
+      "updated_at": "2025-08-02T21:05:48Z",
       "version": "v1.1.4"
     },
     "astrbot_plugin_yuafeng": {
