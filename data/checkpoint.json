@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-08-03T12:44:15.813Z",
+  "timestamp": "2025-08-04T02:02:52.313Z",
   "github": {
-    "stars": 11092,
+    "stars": 11100,
     "forks": 786,
     "contributors": 83
   },
@@ -253,8 +253,8 @@
         "拟人"
       ],
       "social_link": "https://github.com/advent259141",
-      "stars": 16,
-      "updated_at": "2025-07-31T19:24:36Z",
+      "stars": 17,
+      "updated_at": "2025-08-03T15:20:05Z",
       "version": "1.2.0"
     },
     "cngal_search": {
@@ -1385,8 +1385,8 @@
       "desc": "明日方舟抽卡查询",
       "repo": "https://github.com/R1ckyQaQ/astrbot_plugin_mrfz_haunting_query",
       "tags": [],
-      "stars": 5,
-      "updated_at": "2025-07-16T20:53:15Z",
+      "stars": 6,
+      "updated_at": "2025-08-03T18:15:37Z",
       "version": "v1.1"
     },
     "astrbot_plugin_deepwiki": {
@@ -1722,8 +1722,8 @@
         "贴表情"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 8,
-      "updated_at": "2025-07-31T14:14:52Z",
+      "stars": 9,
+      "updated_at": "2025-08-03T14:29:36Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_pock_mini": {
@@ -2174,8 +2174,8 @@
         "api"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-      "stars": 56,
-      "updated_at": "2025-08-03T04:06:52Z",
+      "stars": 57,
+      "updated_at": "2025-08-03T17:41:15Z",
       "version": "v1.0.9"
     },
     "astrbot_plugin_help": {
@@ -2382,7 +2382,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 18,
-      "updated_at": "2025-08-03T11:21:47Z",
+      "updated_at": "2025-08-03T22:24:37Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -3940,8 +3940,8 @@
         "主动回复"
       ],
       "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-      "stars": 60,
-      "updated_at": "2025-08-02T08:18:51Z",
+      "stars": 61,
+      "updated_at": "2025-08-03T15:37:47Z",
       "version": "v2.1.4"
     },
     "astrbot_plugin_steamshot": {
@@ -4655,8 +4655,8 @@
       "author": "lxfight",
       "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
       "tags": [],
-      "stars": 109,
-      "updated_at": "2025-07-31T05:04:36Z",
+      "stars": 110,
+      "updated_at": "2025-08-03T15:26:38Z",
       "version": "v0.5.1"
     },
     "FateTrial_img_identify": {
