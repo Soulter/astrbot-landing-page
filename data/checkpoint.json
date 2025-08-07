@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-08-07T01:55:54.040Z",
+  "timestamp": "2025-08-07T12:49:09.287Z",
   "github": {
-    "stars": 11175,
-    "forks": 793,
+    "stars": 11194,
+    "forks": 792,
     "contributors": 83
   },
   "plugins": {
@@ -78,8 +78,8 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 2,
-      "updated_at": "2025-08-05T15:16:35Z",
-      "version": "v1.0.0"
+      "updated_at": "2025-08-07T10:26:14Z",
+      "version": "v1.0.1"
     },
     "astrbot_plugin_error_pro": {
       "desc": "屏蔽机器人的错误消息，选择是否发送给管理员，支持AI友好解释。",
@@ -791,8 +791,8 @@
         "GitHub",
         "病娇"
       ],
-      "stars": 6,
-      "updated_at": "2025-08-04T17:14:11Z",
+      "stars": 7,
+      "updated_at": "2025-08-07T06:54:31Z",
       "version": "1.1.0"
     },
     "tron_address": {
@@ -1725,7 +1725,7 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 5,
-      "updated_at": "2025-07-25T03:28:58Z",
+      "updated_at": "2025-08-07T09:19:32Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_portrayal": {
@@ -2285,8 +2285,8 @@
         "api"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-      "stars": 57,
-      "updated_at": "2025-08-05T13:55:56Z",
+      "stars": 60,
+      "updated_at": "2025-08-07T09:18:00Z",
       "version": "v1.0.9"
     },
     "astrbot_plugin_help": {
@@ -2388,8 +2388,8 @@
       ],
       "social_link": "https://github.com/gameswu",
       "stars": 8,
-      "updated_at": "2025-07-26T01:20:51Z",
-      "version": "v0.2.0"
+      "updated_at": "2025-08-07T11:12:56Z",
+      "version": "v0.2.1"
     },
     "astrbot_plugin_group_information": {
       "author": "Futureppo",
@@ -2493,7 +2493,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 18,
-      "updated_at": "2025-08-06T23:25:38Z",
+      "updated_at": "2025-08-07T11:23:22Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -3642,8 +3642,8 @@
         "功能"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
-      "stars": 39,
-      "updated_at": "2025-08-05T18:04:05Z",
+      "stars": 40,
+      "updated_at": "2025-08-07T06:09:56Z",
       "version": "v1.1.4"
     },
     "astrbot_plugin_yuafeng": {
@@ -4131,8 +4131,8 @@
       "author": "anka",
       "repo": "https://github.com/anka-afk/astrbot_plugin_humanlike",
       "tags": [],
-      "stars": 20,
-      "updated_at": "2025-07-31T23:02:06Z",
+      "stars": 21,
+      "updated_at": "2025-08-07T02:21:43Z",
       "version": "v0.2.2"
     },
     "astrbot_plugin_blue_archive": {
@@ -4154,8 +4154,8 @@
         "webui",
         "图床"
       ],
-      "stars": 70,
-      "updated_at": "2025-08-05T08:43:15Z",
+      "stars": 71,
+      "updated_at": "2025-08-07T01:51:38Z",
       "version": "v3.13"
     },
     "mccloud_command": {
