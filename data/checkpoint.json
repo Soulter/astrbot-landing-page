@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-08-07T12:49:09.287Z",
+  "timestamp": "2025-08-08T01:55:19.844Z",
   "github": {
-    "stars": 11194,
-    "forks": 792,
+    "stars": 11203,
+    "forks": 794,
     "contributors": 83
   },
   "plugins": {
@@ -2089,8 +2089,8 @@
         "工作"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 7,
-      "updated_at": "2025-06-28T16:38:19Z",
+      "stars": 8,
+      "updated_at": "2025-08-07T12:10:45Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_primermath": {
@@ -2493,7 +2493,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 18,
-      "updated_at": "2025-08-07T11:23:22Z",
+      "updated_at": "2025-08-07T22:26:08Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -3192,8 +3192,8 @@
         "TTS"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
-      "stars": 24,
-      "updated_at": "2025-08-04T06:35:35Z",
+      "stars": 25,
+      "updated_at": "2025-08-07T19:42:49Z",
       "version": "v1.1.9"
     },
     "astrbot_plugin_search_pic": {
