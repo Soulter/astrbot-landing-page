@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-08-08T01:55:19.844Z",
+  "timestamp": "2025-08-08T12:47:40.209Z",
   "github": {
-    "stars": 11203,
-    "forks": 794,
+    "stars": 11222,
+    "forks": 797,
     "contributors": 83
   },
   "plugins": {
@@ -77,8 +77,8 @@
         "屏幕控制"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 2,
-      "updated_at": "2025-08-07T10:26:14Z",
+      "stars": 3,
+      "updated_at": "2025-08-08T08:14:51Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_error_pro": {
@@ -157,8 +157,8 @@
         "海龟汤"
       ],
       "stars": 2,
-      "updated_at": "2025-08-05T12:36:19Z",
-      "version": "v1.0.0"
+      "updated_at": "2025-08-08T02:09:50Z",
+      "version": "v1.0.1"
     },
     "astrbot_plugin_update_manager": {
       "desc": "一个用于一键更新所有 AstrBot 插件的工具，支持定时检查。",
@@ -338,8 +338,8 @@
       "tags": [
         "战地风云"
       ],
-      "stars": 2,
-      "updated_at": "2025-07-23T03:34:55Z",
+      "stars": 3,
+      "updated_at": "2025-08-08T02:57:43Z",
       "version": "v1.0.5"
     },
     "astrbot_plugin_SteamSaleTracker": {
@@ -579,8 +579,8 @@
       "author": "Chris",
       "repo": "https://github.com/Chris95743/astrbot_plugin_balance",
       "tags": [],
-      "stars": 3,
-      "updated_at": "2025-07-31T17:56:24Z",
+      "stars": 4,
+      "updated_at": "2025-08-08T03:55:35Z",
       "version": "v1.4.0"
     },
     "astrbot_plugin_mp": {
@@ -607,8 +607,8 @@
         "aiocqhttp"
       ],
       "social_link": "https://blog.jojo.host/",
-      "stars": 2,
-      "updated_at": "2025-07-13T08:44:41Z",
+      "stars": 3,
+      "updated_at": "2025-08-08T02:46:28Z",
       "version": "v0.0.2"
     },
     "astrbot_plugin_ip_proxy": {
@@ -779,8 +779,8 @@
       "desc": "切噜语翻译器",
       "repo": "https://github.com/irs1122/astrbot_plugin_cheru",
       "tags": [],
-      "stars": 1,
-      "updated_at": "2025-06-30T04:33:49Z",
+      "stars": 0,
+      "updated_at": "2025-08-08T01:39:14Z",
       "version": "v1.0"
     },
     "yandere_github_stalker": {
@@ -1017,8 +1017,8 @@
         "调教"
       ],
       "social_link": "https://github.com/oyxning",
-      "stars": 17,
-      "updated_at": "2025-07-29T15:13:36Z",
+      "stars": 18,
+      "updated_at": "2025-08-08T02:49:15Z",
       "version": "v3.0.0"
     },
     "astrbot_plugin_alistfile": {
@@ -1145,8 +1145,8 @@
       ],
       "social_link": "https://github.com/oyxning",
       "desc": "祥压抑用户专属，基于关键词触发的香草小祥插件",
-      "stars": 10,
-      "updated_at": "2025-07-17T02:11:54Z",
+      "stars": 11,
+      "updated_at": "2025-08-08T02:50:07Z",
       "version": "1.5.1"
     },
     "astrbot_plugin_n8n": {
@@ -1158,8 +1158,8 @@
       ],
       "social_link": "https://wxp.hk",
       "desc": null,
-      "stars": 0,
-      "updated_at": "2025-06-08T14:01:34Z",
+      "stars": 1,
+      "updated_at": "2025-08-08T03:01:40Z",
       "version": "v1.0"
     },
     "astrobot_send_msg_to_gotify": {
@@ -1531,8 +1531,8 @@
         "生图",
         "函数工具"
       ],
-      "stars": 7,
-      "updated_at": "2025-07-08T07:13:07Z",
+      "stars": 8,
+      "updated_at": "2025-08-08T01:55:46Z",
       "version": "v1.4.0"
     },
     "astrbot_plugin_dzmm": {
@@ -1970,8 +1970,8 @@
         "禁漫"
       ],
       "social_link": "https://github.com/GEMILUXVII",
-      "stars": 23,
-      "updated_at": "2025-08-02T08:12:35Z",
+      "stars": 25,
+      "updated_at": "2025-08-08T08:36:55Z",
       "version": "1.0.7"
     },
     "astrbot_plugin_combine-messages": {
@@ -2180,7 +2180,7 @@
       ],
       "social_link": "https://github.com/mingrixiangnai/0721anime",
       "stars": 2,
-      "updated_at": "2025-06-26T00:26:05Z",
+      "updated_at": "2025-08-08T02:23:34Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_fishing": {
@@ -2387,8 +2387,8 @@
         "osu!track"
       ],
       "social_link": "https://github.com/gameswu",
-      "stars": 8,
-      "updated_at": "2025-08-07T11:12:56Z",
+      "stars": 9,
+      "updated_at": "2025-08-08T03:55:58Z",
       "version": "v0.2.1"
     },
     "astrbot_plugin_group_information": {
@@ -2492,8 +2492,8 @@
         "工具"
       ],
       "social_link": "https://wenturc.com/",
-      "stars": 18,
-      "updated_at": "2025-08-07T22:26:08Z",
+      "stars": 19,
+      "updated_at": "2025-08-08T11:22:45Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -3000,7 +3000,7 @@
         "QQ群管"
       ],
       "stars": 34,
-      "updated_at": "2025-08-06T06:38:58Z",
+      "updated_at": "2025-08-08T10:32:56Z",
       "version": "v3.0.8"
     },
     "astrbot_plugin_liars_bar": {
@@ -3192,8 +3192,8 @@
         "TTS"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
-      "stars": 25,
-      "updated_at": "2025-08-07T19:42:49Z",
+      "stars": 26,
+      "updated_at": "2025-08-08T02:18:15Z",
       "version": "v1.1.9"
     },
     "astrbot_plugin_search_pic": {
@@ -3618,8 +3618,8 @@
       "tags": [
         "nsfw"
       ],
-      "stars": 11,
-      "updated_at": "2025-08-01T11:46:49Z",
+      "stars": 12,
+      "updated_at": "2025-08-08T02:32:27Z",
       "version": "v1.3"
     },
     "astrbot_plugin_Translation": {
@@ -3861,8 +3861,8 @@
       "tags": [
         "主动对话"
       ],
-      "stars": 2,
-      "updated_at": "2025-07-23T04:20:12Z",
+      "stars": 3,
+      "updated_at": "2025-08-08T02:56:56Z",
       "version": "v2.3.0"
     },
     "astrbot_plugin_sensoji": {
@@ -4361,8 +4361,8 @@
       "author": "Soulter",
       "repo": "https://github.com/Soulter/astrbot_plugin_essential",
       "tags": [],
-      "stars": 27,
-      "updated_at": "2025-07-20T10:14:48Z",
+      "stars": 28,
+      "updated_at": "2025-08-08T02:31:58Z",
       "version": "v1.1.0"
     },
     "astrbot_plugin_rss": {
@@ -4757,8 +4757,8 @@
       "author": "长安某",
       "repo": "https://github.com/zgojin/astrbot_plugin_AW",
       "tags": [],
-      "stars": 8,
-      "updated_at": "2025-08-05T08:16:07Z",
+      "stars": 9,
+      "updated_at": "2025-08-08T02:35:42Z",
       "version": "v1.5.3"
     },
     "astrbot_plugin_mnemosyne": {
