@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-08-08T12:47:40.209Z",
+  "timestamp": "2025-08-09T01:45:12.242Z",
   "github": {
-    "stars": 11222,
-    "forks": 797,
+    "stars": 11230,
+    "forks": 796,
     "contributors": 83
   },
   "plugins": {
@@ -14,8 +14,8 @@
       "tags": [
         "海龟汤"
       ],
-      "stars": 1,
-      "updated_at": "2025-08-06T02:16:17Z",
+      "stars": 2,
+      "updated_at": "2025-08-08T17:52:31Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_typst_render": {
@@ -78,7 +78,7 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 3,
-      "updated_at": "2025-08-08T08:14:51Z",
+      "updated_at": "2025-08-08T15:08:57Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_error_pro": {
@@ -364,8 +364,8 @@
         "拟人"
       ],
       "social_link": "https://github.com/advent259141",
-      "stars": 18,
-      "updated_at": "2025-08-06T08:26:04Z",
+      "stars": 19,
+      "updated_at": "2025-08-08T15:07:07Z",
       "version": "1.2.0"
     },
     "cngal_search": {
@@ -537,8 +537,8 @@
         "工具",
         "娱乐"
       ],
-      "stars": 3,
-      "updated_at": "2025-07-29T15:10:46Z",
+      "stars": 4,
+      "updated_at": "2025-08-08T21:39:26Z",
       "version": "v1.0.3"
     },
     "astrbot_plugin_file": {
@@ -561,7 +561,7 @@
       ],
       "author": null,
       "stars": 10,
-      "updated_at": "2025-08-04T16:12:02Z",
+      "updated_at": "2025-08-08T16:34:12Z",
       "version": "2.2.3--img"
     },
     "astrbot_plugin_group_sign": {
@@ -1879,8 +1879,8 @@
         "game",
         "fish"
       ],
-      "stars": 30,
-      "updated_at": "2025-08-06T01:11:56Z",
+      "stars": 31,
+      "updated_at": "2025-08-08T12:52:28Z",
       "version": "1.4.6"
     },
     "astrbot_plugin_bilibili_live": {
@@ -2285,8 +2285,8 @@
         "api"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-      "stars": 60,
-      "updated_at": "2025-08-07T09:18:00Z",
+      "stars": 61,
+      "updated_at": "2025-08-08T13:33:33Z",
       "version": "v1.0.9"
     },
     "astrbot_plugin_help": {
@@ -2493,7 +2493,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 19,
-      "updated_at": "2025-08-08T11:22:45Z",
+      "updated_at": "2025-08-08T23:23:29Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -2870,8 +2870,8 @@
       "desc": "[仅QQ] 赞我！（一个名片点赞插件）。可选是否开启白名单。",
       "social_link": "https://github.com/Futureppo",
       "repo": "https://github.com/Futureppo/astrbot_plugin_zanwo",
-      "stars": 9,
-      "updated_at": "2025-07-21T05:20:11Z",
+      "stars": 10,
+      "updated_at": "2025-08-08T14:24:08Z",
       "version": "v1.0.8"
     },
     "astrbot_plugin_ehentai_bot": {
@@ -2893,8 +2893,8 @@
         "复读"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_reread",
-      "stars": 14,
-      "updated_at": "2025-07-31T12:53:11Z",
+      "stars": 15,
+      "updated_at": "2025-08-08T14:01:22Z",
       "version": "v1.1.0"
     },
     "astrbot_plugin_csbaoyan": {
@@ -3667,8 +3667,8 @@
         "实用工具"
       ],
       "stars": 13,
-      "updated_at": "2025-08-05T08:43:26Z",
-      "version": "v2.0.0"
+      "updated_at": "2025-08-08T14:46:59Z",
+      "version": "v2.0.1"
     },
     "astrbot_plugin_pokecheck": {
       "desc": "[仅QQ可用]一个检测“戳”关键词的插件",
@@ -4695,7 +4695,7 @@
       "repo": "https://github.com/xiewoc/astrbot_plugin_tts_Cosyvoice2",
       "tags": [],
       "stars": 10,
-      "updated_at": "2025-08-05T13:34:59Z",
+      "updated_at": "2025-08-08T13:55:37Z",
       "version": "v1.1.0"
     },
     "astrbot_plugin_sign": {
