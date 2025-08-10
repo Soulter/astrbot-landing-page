@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-08-09T12:41:05.661Z",
+  "timestamp": "2025-08-10T01:58:59.223Z",
   "github": {
-    "stars": 11238,
+    "stars": 11243,
     "forks": 798,
     "contributors": 83
   },
@@ -52,8 +52,8 @@
         "Markdown",
         "文转图"
       ],
-      "stars": 0,
-      "updated_at": "2025-08-09T11:09:10Z",
+      "stars": 1,
+      "updated_at": "2025-08-09T20:52:16Z",
       "version": "v1.1.0"
     },
     "pjsk_guess_song": {
@@ -77,8 +77,8 @@
         "屏幕控制"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 3,
-      "updated_at": "2025-08-08T15:08:57Z",
+      "stars": 4,
+      "updated_at": "2025-08-09T17:26:54Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_error_pro": {
@@ -171,8 +171,8 @@
       ],
       "social_link": "https://github.com/zhewang448",
       "stars": 2,
-      "updated_at": "2025-08-05T03:32:16Z",
-      "version": "v1.0.1"
+      "updated_at": "2025-08-09T12:55:55Z",
+      "version": "v1.0.2"
     },
     "astrbot_plugins_canvas": {
       "desc": "基于 Gemini AI 模型的画图改图插件，可通过指令或自然语言调用。",
@@ -642,8 +642,8 @@
       ],
       "social_link": "astrbot.uk",
       "stars": 0,
-      "updated_at": "2025-07-30T13:08:32Z",
-      "version": "v1.2.1"
+      "updated_at": "2025-08-09T19:57:50Z",
+      "version": "v1.3.0"
     },
     "astrbot_plugin_bw_monitor": {
       "desc": "Bilibili Show 票务监控插件，支持群聊/私聊隔离，检测余票变化并推送通知。",
@@ -2493,7 +2493,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 19,
-      "updated_at": "2025-08-09T11:19:31Z",
+      "updated_at": "2025-08-09T23:23:10Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -2988,7 +2988,7 @@
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
       "stars": 14,
-      "updated_at": "2025-08-05T17:42:03Z",
+      "updated_at": "2025-08-09T20:13:30Z",
       "version": "v1.1.3"
     },
     "astrbot_plugin_QQAdmin": {
@@ -4938,7 +4938,7 @@
       "repo": "https://github.com/zgojin/astrbot_plugin_Qsign",
       "tags": [],
       "stars": 0,
-      "updated_at": "2025-03-12T01:25:33Z",
+      "updated_at": "2025-08-09T19:35:03Z",
       "version": "v1.2.1"
     },
     "astrbot_plugin_thinkTags": {
