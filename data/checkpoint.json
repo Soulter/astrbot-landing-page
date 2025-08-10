@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-08-10T01:58:59.223Z",
+  "timestamp": "2025-08-10T12:41:20.246Z",
   "github": {
-    "stars": 11243,
+    "stars": 11255,
     "forks": 798,
     "contributors": 83
   },
@@ -15,7 +15,7 @@
         "海龟汤"
       ],
       "stars": 2,
-      "updated_at": "2025-08-09T05:19:19Z",
+      "updated_at": "2025-08-10T06:20:47Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_typst_render": {
@@ -53,7 +53,7 @@
         "文转图"
       ],
       "stars": 1,
-      "updated_at": "2025-08-09T20:52:16Z",
+      "updated_at": "2025-08-10T09:34:57Z",
       "version": "v1.1.0"
     },
     "pjsk_guess_song": {
@@ -171,7 +171,7 @@
       ],
       "social_link": "https://github.com/zhewang448",
       "stars": 2,
-      "updated_at": "2025-08-09T12:55:55Z",
+      "updated_at": "2025-08-10T02:30:23Z",
       "version": "v1.0.2"
     },
     "astrbot_plugins_canvas": {
@@ -364,8 +364,8 @@
         "拟人"
       ],
       "social_link": "https://github.com/advent259141",
-      "stars": 19,
-      "updated_at": "2025-08-08T15:07:07Z",
+      "stars": 20,
+      "updated_at": "2025-08-10T02:08:40Z",
       "version": "1.2.0"
     },
     "cngal_search": {
@@ -1713,7 +1713,7 @@
       "social_link": "https://github.com/Zhalslar",
       "tags": [],
       "stars": 18,
-      "updated_at": "2025-08-06T04:48:08Z",
+      "updated_at": "2025-08-10T09:22:08Z",
       "version": "v1.0.6"
     },
     "astrbot_plugin_zt": {
@@ -2493,7 +2493,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 19,
-      "updated_at": "2025-08-09T23:23:10Z",
+      "updated_at": "2025-08-10T10:25:11Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -2659,8 +2659,8 @@
         "抖音",
         "视频解析"
       ],
-      "stars": 4,
-      "updated_at": "2025-08-06T18:36:06Z",
+      "stars": 5,
+      "updated_at": "2025-08-10T09:39:13Z",
       "version": "v1.4"
     },
     "meanig": {
