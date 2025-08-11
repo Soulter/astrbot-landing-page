@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-08-11T01:55:27.388Z",
+  "timestamp": "2025-08-11T12:47:16.661Z",
   "github": {
-    "stars": 11263,
-    "forks": 799,
+    "stars": 11280,
+    "forks": 801,
     "contributors": 83
   },
   "plugins": {
@@ -15,9 +15,9 @@
         "工具",
         "增强"
       ],
-      "stars": 1,
-      "updated_at": "2025-08-10T17:38:27Z",
-      "version": "2.5.0"
+      "stars": 5,
+      "updated_at": "2025-08-11T09:47:06Z",
+      "version": "2.6.3"
     },
     "astrbot_plugin_Group-Verification_PRO": {
       "desc": "一个强大的 QQ 群成员入群验证插件。新成员需回答动态生成的 100 以内加减法问题方可入群。支持完全自定义的提示消息（成功、失败、超时警告、踢出等）和时间控制（验证超时、警告时机、踢出延迟）。当用户回答错误时，会自动生成新题目并重置验证时间，有效防止机器人账号。",
@@ -42,8 +42,8 @@
       ],
       "social_link": "https://github.com/sugayoiya",
       "stars": 1,
-      "updated_at": "2025-08-10T19:18:55Z",
-      "version": "v1.0.7"
+      "updated_at": "2025-08-11T04:28:39Z",
+      "version": "v1.0.8"
     },
     "sunsetbot_search": {
       "desc": "获取 sunsetbot.top 今日/明日火烧云数据",
@@ -65,9 +65,9 @@
       "tags": [
         "海龟汤"
       ],
-      "stars": 2,
-      "updated_at": "2025-08-10T06:20:47Z",
-      "version": "v1.0.1"
+      "stars": 3,
+      "updated_at": "2025-08-11T10:07:14Z",
+      "version": "v1.0.2"
     },
     "astrbot_plugin_typst_render": {
       "name": "astrbot_plugin_typst_render",
@@ -116,8 +116,8 @@
         "猜歌",
         "初音未来 缤纷舞台"
       ],
-      "stars": 1,
-      "updated_at": "2025-08-06T12:34:21Z",
+      "stars": 2,
+      "updated_at": "2025-08-11T01:34:37Z",
       "version": "v1.1.1"
     },
     "astrbot_plugin_screenctrl": {
@@ -172,8 +172,8 @@
       "repo": "https://github.com/Omnisch/astrbot_plugin_image_censor",
       "tags": [],
       "stars": 0,
-      "updated_at": "2025-08-03T07:07:21Z",
-      "version": "v1.1.1"
+      "updated_at": "2025-08-11T03:18:17Z",
+      "version": "v1.1.2"
     },
     "astrbot_plugin_3dmapi": {
       "desc": "3dmmod 搜索插件，支持在 3dmgame Mod 站搜索相关 Mod 内容",
@@ -235,8 +235,8 @@
         "工具"
       ],
       "social_link": "https://astrbot.uk",
-      "stars": 1,
-      "updated_at": "2025-07-27T05:22:25Z",
+      "stars": 2,
+      "updated_at": "2025-08-11T05:02:08Z",
       "version": "v1.2"
     },
     "astrbot_plugin_lanzoucloud": {
@@ -1468,8 +1468,8 @@
         "音乐"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 39,
-      "updated_at": "2025-08-04T00:40:56Z",
+      "stars": 40,
+      "updated_at": "2025-08-11T09:32:42Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_renjian": {
@@ -1930,8 +1930,8 @@
         "game",
         "fish"
       ],
-      "stars": 31,
-      "updated_at": "2025-08-08T12:52:28Z",
+      "stars": 32,
+      "updated_at": "2025-08-11T03:11:02Z",
       "version": "1.4.6"
     },
     "astrbot_plugin_bilibili_live": {
@@ -2009,7 +2009,7 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 16,
-      "updated_at": "2025-08-02T08:13:43Z",
+      "updated_at": "2025-08-11T07:10:27Z",
       "version": "v1.0.8"
     },
     "astrbot_plugin_jm_cosmos": {
@@ -2021,8 +2021,8 @@
         "禁漫"
       ],
       "social_link": "https://github.com/GEMILUXVII",
-      "stars": 25,
-      "updated_at": "2025-08-08T08:36:55Z",
+      "stars": 26,
+      "updated_at": "2025-08-11T09:24:10Z",
       "version": "1.0.7"
     },
     "astrbot_plugin_combine-messages": {
@@ -2230,8 +2230,8 @@
         "动漫"
       ],
       "social_link": "https://github.com/mingrixiangnai/0721anime",
-      "stars": 2,
-      "updated_at": "2025-08-08T02:23:34Z",
+      "stars": 3,
+      "updated_at": "2025-08-11T07:20:12Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_fishing": {
@@ -2336,8 +2336,8 @@
         "api"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-      "stars": 61,
-      "updated_at": "2025-08-08T13:33:33Z",
+      "stars": 62,
+      "updated_at": "2025-08-11T09:32:37Z",
       "version": "v1.0.9"
     },
     "astrbot_plugin_help": {
@@ -2544,7 +2544,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 19,
-      "updated_at": "2025-08-10T23:22:57Z",
+      "updated_at": "2025-08-11T11:22:32Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -2710,8 +2710,8 @@
         "抖音",
         "视频解析"
       ],
-      "stars": 5,
-      "updated_at": "2025-08-10T09:39:13Z",
+      "stars": 6,
+      "updated_at": "2025-08-11T10:57:30Z",
       "version": "v1.4"
     },
     "meanig": {
@@ -2921,8 +2921,8 @@
       "desc": "[仅QQ] 赞我！（一个名片点赞插件）。可选是否开启白名单。",
       "social_link": "https://github.com/Futureppo",
       "repo": "https://github.com/Futureppo/astrbot_plugin_zanwo",
-      "stars": 10,
-      "updated_at": "2025-08-08T14:24:08Z",
+      "stars": 11,
+      "updated_at": "2025-08-11T08:13:50Z",
       "version": "v1.0.8"
     },
     "astrbot_plugin_ehentai_bot": {
@@ -3693,8 +3693,8 @@
         "功能"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
-      "stars": 40,
-      "updated_at": "2025-08-07T06:09:56Z",
+      "stars": 41,
+      "updated_at": "2025-08-11T09:32:46Z",
       "version": "v1.1.4"
     },
     "astrbot_plugin_yuafeng": {
@@ -3717,8 +3717,8 @@
       "tags": [
         "实用工具"
       ],
-      "stars": 13,
-      "updated_at": "2025-08-10T17:44:54Z",
+      "stars": 14,
+      "updated_at": "2025-08-11T06:29:49Z",
       "version": "v2.0.2"
     },
     "astrbot_plugin_pokecheck": {
@@ -3747,7 +3747,7 @@
         "消息推送"
       ],
       "stars": 8,
-      "updated_at": "2025-07-16T14:57:10Z",
+      "updated_at": "2025-08-11T07:52:09Z",
       "version": "v0.2.1"
     },
     "astrbot_plugin_hello77": {
@@ -4164,8 +4164,8 @@
         "功能",
         "搬史"
       ],
-      "stars": 287,
-      "updated_at": "2025-08-06T08:16:22Z",
+      "stars": 288,
+      "updated_at": "2025-08-11T09:29:41Z",
       "version": "v0.912"
     },
     "astrbot_plugin_superpoke": {
@@ -4205,8 +4205,8 @@
         "webui",
         "图床"
       ],
-      "stars": 72,
-      "updated_at": "2025-08-09T03:02:18Z",
+      "stars": 73,
+      "updated_at": "2025-08-11T05:18:40Z",
       "version": "v3.13"
     },
     "mccloud_command": {
