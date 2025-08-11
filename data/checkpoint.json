@@ -1,11 +1,62 @@
 {
-  "timestamp": "2025-08-10T12:41:20.246Z",
+  "timestamp": "2025-08-11T01:55:27.388Z",
   "github": {
-    "stars": 11255,
-    "forks": 798,
+    "stars": 11263,
+    "forks": 799,
     "contributors": 83
   },
   "plugins": {
+    "intelligent_retry": {
+      "desc": "当LLM回复为空或包含特定错误关键词时，自动进行多次重试，提高交互稳定性。",
+      "author": "木有知 & 长安某",
+      "repo": "https://github.com/muyouzhi6/astrabot_plugin_retry",
+      "tags": [
+        "LLM",
+        "工具",
+        "增强"
+      ],
+      "stars": 1,
+      "updated_at": "2025-08-10T17:38:27Z",
+      "version": "2.5.0"
+    },
+    "astrbot_plugin_Group-Verification_PRO": {
+      "desc": "一个强大的 QQ 群成员入群验证插件。新成员需回答动态生成的 100 以内加减法问题方可入群。支持完全自定义的提示消息（成功、失败、超时警告、踢出等）和时间控制（验证超时、警告时机、踢出延迟）。当用户回答错误时，会自动生成新题目并重置验证时间，有效防止机器人账号。",
+      "author": "huntuo146",
+      "repo": "https://github.com/huntuo146/astrbot_plugin_Group-Verification_PRO",
+      "tags": [
+        "新成员验证",
+        "群审核"
+      ],
+      "social_link": "https://github.com/huntuo146",
+      "stars": 1,
+      "updated_at": "2025-08-08T11:48:53Z",
+      "version": "1.0.4"
+    },
+    "pokemon_fusion": {
+      "desc": "宝可梦融合插件，支持指定宝可梦融合和随机融合。",
+      "author": "sugayoiya",
+      "repo": "https://github.com/sugayoiya/astrbot_plugin_pokemon_fusion",
+      "tags": [
+        "pokemon",
+        "fusion"
+      ],
+      "social_link": "https://github.com/sugayoiya",
+      "stars": 1,
+      "updated_at": "2025-08-10T19:18:55Z",
+      "version": "v1.0.7"
+    },
+    "sunsetbot_search": {
+      "desc": "获取 sunsetbot.top 今日/明日火烧云数据",
+      "author": "棒棒糖",
+      "repo": "https://github.com/zhoufan47/astrbot_plugin_sunsetbot_search",
+      "tags": [
+        "天气",
+        "火烧云"
+      ],
+      "stars": 1,
+      "updated_at": "2025-08-06T11:09:19Z",
+      "version": "v1.0.1"
+    },
     "astrbot_plugin_soupai": {
       "name": "astrbot_plugin_soupai",
       "desc": "AI 海龟汤推理游戏插件，支持自动生成谜题、智能判断、验证系统、智能提示、存储库管理等功能。网络题库包含近300道海龟汤，还在持续更新中。",
@@ -642,8 +693,8 @@
       ],
       "social_link": "astrbot.uk",
       "stars": 0,
-      "updated_at": "2025-08-09T19:57:50Z",
-      "version": "v1.3.0"
+      "updated_at": "2025-08-10T17:21:16Z",
+      "version": "v1.3.1"
     },
     "astrbot_plugin_bw_monitor": {
       "desc": "Bilibili Show 票务监控插件，支持群聊/私聊隔离，检测余票变化并推送通知。",
@@ -1600,8 +1651,8 @@
         "RAG",
         "知识库"
       ],
-      "stars": 48,
-      "updated_at": "2025-08-06T03:37:43Z",
+      "stars": 49,
+      "updated_at": "2025-08-10T11:01:17Z",
       "version": "v0.5.8"
     },
     "astrbot_uptime_kuma_webhook_plugin": {
@@ -1633,8 +1684,8 @@
         "doro"
       ],
       "stars": 2,
-      "updated_at": "2025-06-15T06:50:58Z",
-      "version": "0.0.4"
+      "updated_at": "2025-08-10T17:53:00Z",
+      "version": "0.0.5"
     },
     "astrbot_plugin_LatexPlotter": {
       "author": "xunxi",
@@ -2493,7 +2544,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 19,
-      "updated_at": "2025-08-10T10:25:11Z",
+      "updated_at": "2025-08-10T23:22:57Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -2999,8 +3050,8 @@
       "tags": [
         "QQ群管"
       ],
-      "stars": 34,
-      "updated_at": "2025-08-08T10:32:56Z",
+      "stars": 35,
+      "updated_at": "2025-08-10T16:18:34Z",
       "version": "v3.0.8"
     },
     "astrbot_plugin_liars_bar": {
@@ -3087,8 +3138,8 @@
       "tags": [
         "日常使用"
       ],
-      "stars": 5,
-      "updated_at": "2025-06-21T03:36:42Z",
+      "stars": 6,
+      "updated_at": "2025-08-10T14:39:36Z",
       "version": "v1.1"
     },
     "astrbot_plugin_Merge_WeMSG": {
@@ -3667,8 +3718,8 @@
         "实用工具"
       ],
       "stars": 13,
-      "updated_at": "2025-08-08T14:46:59Z",
-      "version": "v2.0.1"
+      "updated_at": "2025-08-10T17:44:54Z",
+      "version": "v2.0.2"
     },
     "astrbot_plugin_pokecheck": {
       "desc": "[仅QQ可用]一个检测“戳”关键词的插件",
