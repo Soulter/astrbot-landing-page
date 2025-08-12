@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-08-11T12:47:16.661Z",
+  "timestamp": "2025-08-12T01:44:23.379Z",
   "github": {
-    "stars": 11280,
+    "stars": 11286,
     "forks": 801,
     "contributors": 83
   },
@@ -117,7 +117,7 @@
         "初音未来 缤纷舞台"
       ],
       "stars": 2,
-      "updated_at": "2025-08-11T01:34:37Z",
+      "updated_at": "2025-08-11T18:43:46Z",
       "version": "v1.1.1"
     },
     "astrbot_plugin_screenctrl": {
@@ -415,8 +415,9 @@
         "拟人"
       ],
       "social_link": "https://github.com/advent259141",
+      "pinned": true,
       "stars": 20,
-      "updated_at": "2025-08-10T02:08:40Z",
+      "updated_at": "2025-08-11T19:48:10Z",
       "version": "1.2.0"
     },
     "cngal_search": {
@@ -1548,7 +1549,7 @@
       "repo": "https://github.com/R1ckyQaQ/astrbot_plugin_mrfz_haunting_query",
       "tags": [],
       "stars": 6,
-      "updated_at": "2025-08-03T18:15:37Z",
+      "updated_at": "2025-08-11T13:13:27Z",
       "version": "v1.1"
     },
     "astrbot_plugin_deepwiki": {
@@ -1651,8 +1652,8 @@
         "RAG",
         "知识库"
       ],
-      "stars": 49,
-      "updated_at": "2025-08-10T11:01:17Z",
+      "stars": 50,
+      "updated_at": "2025-08-11T13:53:16Z",
       "version": "v0.5.8"
     },
     "astrbot_uptime_kuma_webhook_plugin": {
@@ -1663,8 +1664,8 @@
         "监控",
         "服务器"
       ],
-      "stars": 2,
-      "updated_at": "2025-06-02T06:53:22Z",
+      "stars": 3,
+      "updated_at": "2025-08-11T13:29:18Z",
       "version": "0.1.0"
     },
     "astrbot_plugin_mcmod_modsearch": {
@@ -2008,9 +2009,9 @@
         "戳一戳"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 16,
-      "updated_at": "2025-08-11T07:10:27Z",
-      "version": "v1.0.8"
+      "stars": 17,
+      "updated_at": "2025-08-11T17:11:32Z",
+      "version": "v1.0.9"
     },
     "astrbot_plugin_jm_cosmos": {
       "author": "GEMILUXVII",
@@ -2021,8 +2022,8 @@
         "禁漫"
       ],
       "social_link": "https://github.com/GEMILUXVII",
-      "stars": 26,
-      "updated_at": "2025-08-11T09:24:10Z",
+      "stars": 27,
+      "updated_at": "2025-08-11T16:41:41Z",
       "version": "1.0.7"
     },
     "astrbot_plugin_combine-messages": {
@@ -2544,7 +2545,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 19,
-      "updated_at": "2025-08-11T11:22:32Z",
+      "updated_at": "2025-08-11T23:22:27Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -2624,8 +2625,8 @@
       "tags": [
         "pixiv"
       ],
-      "stars": 21,
-      "updated_at": "2025-08-02T09:36:33Z",
+      "stars": 22,
+      "updated_at": "2025-08-11T16:41:51Z",
       "version": "1.2.8"
     },
     "astrbot_plugin_gotify": {
@@ -3735,8 +3736,8 @@
       "repo": "https://github.com/Ynkcc/astrbot_plugin_MultiAI_PollPad",
       "author": "Ynkcc",
       "tags": [],
-      "stars": 1,
-      "updated_at": "2025-03-28T10:42:14Z",
+      "stars": 2,
+      "updated_at": "2025-08-11T11:46:16Z",
       "version": "v0.2.1"
     },
     "astrbot_plugin_push_lite": {
@@ -3853,8 +3854,8 @@
         "bilibili"
       ],
       "social_link": "https://github.com/miaoxutao123/",
-      "stars": 28,
-      "updated_at": "2025-08-02T08:07:36Z",
+      "stars": 29,
+      "updated_at": "2025-08-11T16:41:25Z",
       "version": "v0.2.8"
     },
     "astrbot_plugin_sjzb": {
@@ -4313,8 +4314,8 @@
       "author": "MC云-小馒头",
       "repo": "https://github.com/MCYUNIDC/mccloud_zhipu_img",
       "tags": [],
-      "stars": 2,
-      "updated_at": "2025-05-02T07:48:43Z",
+      "stars": 3,
+      "updated_at": "2025-08-11T14:40:11Z",
       "version": "v2.0"
     },
     "mccloud_img": {
