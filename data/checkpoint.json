@@ -1,11 +1,53 @@
 {
-  "timestamp": "2025-08-13T01:46:11.152Z",
+  "timestamp": "2025-08-13T12:44:35.336Z",
   "github": {
-    "stars": 11314,
+    "stars": 11326,
     "forks": 804,
     "contributors": 84
   },
   "plugins": {
+    "astrbot_plugin_Mirecraft_motd": {
+      "desc": "基于 AstrBot 的 motd 探测服务器插件",
+      "author": "ChuranNeko",
+      "repo": "https://github.com/ChuranNeko/astrbot_plugin_Mirecraft_motd",
+      "tags": [
+        "Mirecraft"
+      ],
+      "stars": 2,
+      "updated_at": "2025-08-12T09:35:30Z",
+      "version": "v1.0.1"
+    },
+    "astrbot_plugin_daily_reminder": {
+      "desc": "让机器人支持定时消息",
+      "author": "小懒",
+      "repo": "https://github.com/xiaolan0216/astrbot_plugin_daily_reminder",
+      "tags": [],
+      "stars": 0,
+      "updated_at": "2025-08-10T06:52:59Z",
+      "version": "v1.0"
+    },
+    "astrbot_plugin_schedule_injector": {
+      "desc": "在 LLM 请求前注入日程/目标上下文，并在回复后解析隐藏 JSON 更新日程。支持白名单、每日目标与微目标",
+      "author": "xunxiing",
+      "repo": "https://github.com/xunxiing/astrbot_plugin_schedule_injector",
+      "tags": [
+        "角色扮演",
+        "日程"
+      ],
+      "social_link": "https://github.com/xunxiing",
+      "stars": 0,
+      "updated_at": "2025-08-10T04:00:55Z",
+      "version": "0.1.0"
+    },
+    "astrbot_plugin_image_size_limit": {
+      "desc": "限制图片尺寸",
+      "author": "ctrlkk",
+      "repo": "https://github.com/ctrlkk/astrbot_plugin_image_size_limit",
+      "tags": [],
+      "stars": 0,
+      "updated_at": "2025-08-10T03:02:39Z",
+      "version": "v0.1"
+    },
     "intelligent_retry": {
       "desc": "当LLM回复为空或包含特定错误关键词时，自动进行多次重试，提高交互稳定性。",
       "author": "木有知 & 长安某",
@@ -65,8 +107,8 @@
       "tags": [
         "海龟汤"
       ],
-      "stars": 3,
-      "updated_at": "2025-08-11T10:07:14Z",
+      "stars": 4,
+      "updated_at": "2025-08-13T05:30:28Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_typst_render": {
@@ -104,8 +146,8 @@
         "文转图"
       ],
       "stars": 1,
-      "updated_at": "2025-08-10T09:34:57Z",
-      "version": "v1.1.0"
+      "updated_at": "2025-08-13T09:13:57Z",
+      "version": "v1.1.2"
     },
     "pjsk_guess_song": {
       "desc": "PJSK 猜歌游戏插件",
@@ -117,8 +159,8 @@
         "初音未来 缤纷舞台"
       ],
       "stars": 3,
-      "updated_at": "2025-08-12T14:27:01Z",
-      "version": "v1.1.1"
+      "updated_at": "2025-08-13T09:53:34Z",
+      "version": "v1.1.2"
     },
     "astrbot_plugin_screenctrl": {
       "desc": "屏幕控制插件，支持截屏、点击、按键等",
@@ -222,8 +264,8 @@
       ],
       "social_link": "https://github.com/zhewang448",
       "stars": 2,
-      "updated_at": "2025-08-10T02:30:23Z",
-      "version": "v1.0.2"
+      "updated_at": "2025-08-13T02:30:41Z",
+      "version": "v2.0.0"
     },
     "astrbot_plugins_canvas": {
       "desc": "基于 Gemini AI 模型的画图改图插件，可通过指令或自然语言调用。",
@@ -390,8 +432,8 @@
         "战地风云"
       ],
       "stars": 4,
-      "updated_at": "2025-08-12T17:31:12Z",
-      "version": "v1.0.5"
+      "updated_at": "2025-08-13T08:12:12Z",
+      "version": "v1.0.6"
     },
     "astrbot_plugin_SteamSaleTracker": {
       "desc": "这是一个 Steam 游戏价格监控插件",
@@ -416,8 +458,8 @@
       ],
       "social_link": "https://github.com/advent259141",
       "pinned": true,
-      "stars": 21,
-      "updated_at": "2025-08-12T01:59:43Z",
+      "stars": 22,
+      "updated_at": "2025-08-13T05:30:08Z",
       "version": "1.2.0"
     },
     "cngal_search": {
@@ -525,8 +567,8 @@
         "模仿"
       ],
       "social_link": "https://github.com/oyxning",
-      "stars": 5,
-      "updated_at": "2025-08-12T08:54:33Z",
+      "stars": 6,
+      "updated_at": "2025-08-13T04:50:44Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_wwbirthday": {
@@ -887,8 +929,8 @@
       "tags": [
         "随机人格"
       ],
-      "stars": 1,
-      "updated_at": "2025-07-16T14:23:21Z",
+      "stars": 2,
+      "updated_at": "2025-08-13T00:51:21Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_touchi": {
@@ -973,7 +1015,7 @@
         "平台适配器"
       ],
       "stars": 7,
-      "updated_at": "2025-08-04T23:15:14Z",
+      "updated_at": "2025-08-13T06:19:54Z",
       "version": "v0.0.3"
     },
     "astrbot_plugin_deepresearch": {
@@ -1549,8 +1591,8 @@
       "repo": "https://github.com/R1ckyQaQ/astrbot_plugin_mrfz_haunting_query",
       "tags": [],
       "stars": 6,
-      "updated_at": "2025-08-12T11:16:19Z",
-      "version": "v1.2"
+      "updated_at": "2025-08-13T07:50:49Z",
+      "version": "v1.3"
     },
     "astrbot_plugin_deepwiki": {
       "author": "Zhalslar",
@@ -2093,8 +2135,8 @@
         "表情包"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 30,
-      "updated_at": "2025-08-04T15:30:13Z",
+      "stars": 31,
+      "updated_at": "2025-08-13T10:47:45Z",
       "version": "v2.0.6"
     },
     "astrbot_plugin_voiceprint": {
@@ -2337,8 +2379,8 @@
         "api"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-      "stars": 62,
-      "updated_at": "2025-08-11T09:32:37Z",
+      "stars": 63,
+      "updated_at": "2025-08-13T03:54:40Z",
       "version": "v1.0.9"
     },
     "astrbot_plugin_help": {
@@ -2545,7 +2587,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 20,
-      "updated_at": "2025-08-12T23:23:06Z",
+      "updated_at": "2025-08-13T11:21:40Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -2945,8 +2987,8 @@
         "复读"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_reread",
-      "stars": 15,
-      "updated_at": "2025-08-08T14:01:22Z",
+      "stars": 16,
+      "updated_at": "2025-08-13T09:21:01Z",
       "version": "v1.1.0"
     },
     "astrbot_plugin_csbaoyan": {
@@ -3062,8 +3104,8 @@
       "tags": [
         "游戏"
       ],
-      "stars": 6,
-      "updated_at": "2025-07-15T14:33:07Z",
+      "stars": 7,
+      "updated_at": "2025-08-13T08:22:18Z",
       "version": "1.3.6"
     },
     "astrbot_plugin_SessionFaker": {
@@ -3855,7 +3897,7 @@
       ],
       "social_link": "https://github.com/miaoxutao123/",
       "stars": 30,
-      "updated_at": "2025-08-12T15:35:22Z",
+      "updated_at": "2025-08-13T04:29:05Z",
       "version": "v0.2.8"
     },
     "astrbot_plugin_sjzb": {
@@ -4103,8 +4145,8 @@
         "主动回复"
       ],
       "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-      "stars": 62,
-      "updated_at": "2025-08-04T00:31:34Z",
+      "stars": 64,
+      "updated_at": "2025-08-13T10:38:27Z",
       "version": "v2.1.4"
     },
     "astrbot_plugin_steamshot": {
@@ -4818,8 +4860,8 @@
       "author": "lxfight",
       "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
       "tags": [],
-      "stars": 113,
-      "updated_at": "2025-08-12T07:24:08Z",
+      "stars": 114,
+      "updated_at": "2025-08-13T07:42:51Z",
       "version": "v0.5.1"
     },
     "FateTrial_img_identify": {
