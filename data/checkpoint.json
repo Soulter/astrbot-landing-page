@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-08-14T01:46:50.307Z",
+  "timestamp": "2025-08-14T12:45:33.793Z",
   "github": {
-    "stars": 11334,
-    "forks": 805,
+    "stars": 11347,
+    "forks": 806,
     "contributors": 85
   },
   "plugins": {
@@ -57,8 +57,8 @@
         "工具",
         "增强"
       ],
-      "stars": 7,
-      "updated_at": "2025-08-12T04:47:36Z",
+      "stars": 8,
+      "updated_at": "2025-08-14T09:07:03Z",
       "version": "2.6.3"
     },
     "astrbot_plugin_Group-Verification_PRO": {
@@ -159,8 +159,8 @@
         "初音未来 缤纷舞台"
       ],
       "stars": 3,
-      "updated_at": "2025-08-13T11:35:05Z",
-      "version": "v1.1.2"
+      "updated_at": "2025-08-14T11:18:38Z",
+      "version": "v1.1.3"
     },
     "astrbot_plugin_screenctrl": {
       "desc": "屏幕控制插件，支持截屏、点击、按键等",
@@ -264,7 +264,7 @@
       ],
       "social_link": "https://github.com/zhewang448",
       "stars": 2,
-      "updated_at": "2025-08-13T14:38:50Z",
+      "updated_at": "2025-08-14T07:58:20Z",
       "version": "v2.1.0"
     },
     "astrbot_plugins_canvas": {
@@ -432,8 +432,8 @@
         "战地风云"
       ],
       "stars": 4,
-      "updated_at": "2025-08-13T08:12:12Z",
-      "version": "v1.0.6"
+      "updated_at": "2025-08-14T06:12:36Z",
+      "version": "v1.0.8"
     },
     "astrbot_plugin_SteamSaleTracker": {
       "desc": "这是一个 Steam 游戏价格监控插件",
@@ -458,8 +458,8 @@
       ],
       "social_link": "https://github.com/advent259141",
       "pinned": true,
-      "stars": 23,
-      "updated_at": "2025-08-13T14:29:53Z",
+      "stars": 24,
+      "updated_at": "2025-08-14T09:03:45Z",
       "version": "1.2.0"
     },
     "cngal_search": {
@@ -864,8 +864,8 @@
       "repo": "https://github.com/Aurora-xk/astrbot_plugin_shitu",
       "desc": "通过调用 AnimeTrace 网站提供的 API 进行动漫识图",
       "tags": [],
-      "stars": 1,
-      "updated_at": "2025-07-24T10:21:32Z",
+      "stars": 2,
+      "updated_at": "2025-08-14T10:58:38Z",
       "version": "v1.1"
     },
     "astrbot_plugin_cheru": {
@@ -1511,8 +1511,8 @@
         "音乐"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 40,
-      "updated_at": "2025-08-11T09:32:42Z",
+      "stars": 41,
+      "updated_at": "2025-08-14T01:47:40Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_renjian": {
@@ -1806,8 +1806,8 @@
       "repo": "https://github.com/Zhalslar/astrbot_plugin_search_video",
       "social_link": "https://github.com/Zhalslar",
       "tags": [],
-      "stars": 18,
-      "updated_at": "2025-08-10T09:22:08Z",
+      "stars": 19,
+      "updated_at": "2025-08-14T01:49:45Z",
       "version": "v1.0.6"
     },
     "astrbot_plugin_zt": {
@@ -2003,8 +2003,8 @@
         "词云"
       ],
       "social_link": "https://github.com/GEMILUXVII",
-      "stars": 13,
-      "updated_at": "2025-07-06T15:11:01Z",
+      "stars": 14,
+      "updated_at": "2025-08-14T04:49:42Z",
       "version": "v1.3.9"
     },
     "astrbot_plugin_liblibapi": {
@@ -2135,8 +2135,8 @@
         "表情包"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 31,
-      "updated_at": "2025-08-13T10:47:45Z",
+      "stars": 32,
+      "updated_at": "2025-08-14T02:26:08Z",
       "version": "v2.0.6"
     },
     "astrbot_plugin_voiceprint": {
@@ -2379,9 +2379,9 @@
         "api"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-      "stars": 64,
-      "updated_at": "2025-08-13T12:51:29Z",
-      "version": "v1.0.9"
+      "stars": 66,
+      "updated_at": "2025-08-14T08:35:02Z",
+      "version": "v2.0.0"
     },
     "astrbot_plugin_help": {
       "author": "tinker",
@@ -2389,8 +2389,8 @@
       "repo": "https://github.com/tinkerbellqwq/astrbot_plugin_help",
       "social_link": "https://github.com/tinkerbellqwq",
       "tags": [],
-      "stars": 19,
-      "updated_at": "2025-08-12T09:27:38Z",
+      "stars": 20,
+      "updated_at": "2025-08-14T01:48:02Z",
       "version": "v1.1.2"
     },
     "astrbot_qqemotionreply": {
@@ -2587,7 +2587,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 20,
-      "updated_at": "2025-08-13T23:23:00Z",
+      "updated_at": "2025-08-14T11:21:40Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -2934,8 +2934,8 @@
       "tags": [
         "AGE"
       ],
-      "stars": 3,
-      "updated_at": "2025-07-21T07:22:05Z",
+      "stars": 4,
+      "updated_at": "2025-08-14T05:10:41Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_media302-save": {
@@ -3274,8 +3274,8 @@
         "群u爆典"
       ],
       "social_link": "https://m.bilibili.com/space/172230783",
-      "stars": 6,
-      "updated_at": "2025-06-16T14:22:52Z",
+      "stars": 7,
+      "updated_at": "2025-08-14T06:41:40Z",
       "version": "v1.3"
     },
     "astrbot_plugin_GPT_SoVITS": {
@@ -3419,7 +3419,7 @@
       "social_link": "https://github.com/xiewoc",
       "tags": [],
       "stars": 3,
-      "updated_at": "2025-08-02T10:29:43Z",
+      "updated_at": "2025-08-14T08:37:14Z",
       "version": "v1.0.1"
     },
     "encrypt-and-decrypt": {
@@ -3620,8 +3620,8 @@
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
       "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
-      "stars": 43,
-      "updated_at": "2025-07-30T01:36:57Z",
+      "stars": 44,
+      "updated_at": "2025-08-14T01:47:28Z",
       "version": "v1.0.8"
     },
     "astrbot_plugin_saris_economic": {
@@ -3736,8 +3736,8 @@
         "功能"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
-      "stars": 41,
-      "updated_at": "2025-08-11T09:32:46Z",
+      "stars": 43,
+      "updated_at": "2025-08-14T04:25:15Z",
       "version": "v1.1.4"
     },
     "astrbot_plugin_yuafeng": {
@@ -3896,8 +3896,8 @@
         "bilibili"
       ],
       "social_link": "https://github.com/miaoxutao123/",
-      "stars": 30,
-      "updated_at": "2025-08-13T04:29:05Z",
+      "stars": 32,
+      "updated_at": "2025-08-14T02:29:50Z",
       "version": "v0.2.8"
     },
     "astrbot_plugin_sjzb": {
@@ -4207,8 +4207,8 @@
         "功能",
         "搬史"
       ],
-      "stars": 288,
-      "updated_at": "2025-08-11T09:29:41Z",
+      "stars": 289,
+      "updated_at": "2025-08-14T10:06:39Z",
       "version": "v0.912"
     },
     "astrbot_plugin_superpoke": {
@@ -4617,8 +4617,8 @@
       "author": "LunarMeal",
       "repo": "https://github.com/LunarMeal/astrbot_plugin_memes",
       "tags": [],
-      "stars": 9,
-      "updated_at": "2025-07-25T14:33:40Z",
+      "stars": 10,
+      "updated_at": "2025-08-14T09:06:29Z",
       "version": "v3.0"
     },
     "astrbot_plugin_ignore_at": {
@@ -4789,7 +4789,7 @@
       "repo": "https://github.com/xiewoc/astrbot_plugin_tts_Cosyvoice2",
       "tags": [],
       "stars": 10,
-      "updated_at": "2025-08-08T13:55:37Z",
+      "updated_at": "2025-08-14T08:39:05Z",
       "version": "v1.1.0"
     },
     "astrbot_plugin_sign": {
