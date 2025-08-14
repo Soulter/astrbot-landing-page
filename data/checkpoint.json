@@ -1,9 +1,9 @@
 {
-  "timestamp": "2025-08-13T12:44:35.336Z",
+  "timestamp": "2025-08-14T01:46:50.307Z",
   "github": {
-    "stars": 11326,
-    "forks": 804,
-    "contributors": 84
+    "stars": 11334,
+    "forks": 805,
+    "contributors": 85
   },
   "plugins": {
     "astrbot_plugin_Mirecraft_motd": {
@@ -159,7 +159,7 @@
         "初音未来 缤纷舞台"
       ],
       "stars": 3,
-      "updated_at": "2025-08-13T09:53:34Z",
+      "updated_at": "2025-08-13T11:35:05Z",
       "version": "v1.1.2"
     },
     "astrbot_plugin_screenctrl": {
@@ -264,8 +264,8 @@
       ],
       "social_link": "https://github.com/zhewang448",
       "stars": 2,
-      "updated_at": "2025-08-13T02:30:41Z",
-      "version": "v2.0.0"
+      "updated_at": "2025-08-13T14:38:50Z",
+      "version": "v2.1.0"
     },
     "astrbot_plugins_canvas": {
       "desc": "基于 Gemini AI 模型的画图改图插件，可通过指令或自然语言调用。",
@@ -458,8 +458,8 @@
       ],
       "social_link": "https://github.com/advent259141",
       "pinned": true,
-      "stars": 22,
-      "updated_at": "2025-08-13T05:30:08Z",
+      "stars": 23,
+      "updated_at": "2025-08-13T14:29:53Z",
       "version": "1.2.0"
     },
     "cngal_search": {
@@ -736,8 +736,8 @@
       ],
       "social_link": "astrbot.uk",
       "stars": 0,
-      "updated_at": "2025-08-10T17:21:16Z",
-      "version": "v1.3.1"
+      "updated_at": "2025-08-13T17:00:47Z",
+      "version": "v1.3.2"
     },
     "astrbot_plugin_bw_monitor": {
       "desc": "Bilibili Show 票务监控插件，支持群聊/私聊隔离，检测余票变化并推送通知。",
@@ -1726,8 +1726,8 @@
       "tags": [
         "doro"
       ],
-      "stars": 2,
-      "updated_at": "2025-08-10T17:53:00Z",
+      "stars": 3,
+      "updated_at": "2025-08-13T12:47:05Z",
       "version": "0.0.5"
     },
     "astrbot_plugin_LatexPlotter": {
@@ -1974,7 +1974,7 @@
         "fish"
       ],
       "stars": 33,
-      "updated_at": "2025-08-12T16:20:48Z",
+      "updated_at": "2025-08-13T17:27:05Z",
       "version": "1.4.6"
     },
     "astrbot_plugin_bilibili_live": {
@@ -2379,8 +2379,8 @@
         "api"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-      "stars": 63,
-      "updated_at": "2025-08-13T03:54:40Z",
+      "stars": 64,
+      "updated_at": "2025-08-13T12:51:29Z",
       "version": "v1.0.9"
     },
     "astrbot_plugin_help": {
@@ -2587,7 +2587,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 20,
-      "updated_at": "2025-08-13T11:21:40Z",
+      "updated_at": "2025-08-13T23:23:00Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -3094,8 +3094,8 @@
         "QQ群管"
       ],
       "stars": 35,
-      "updated_at": "2025-08-12T00:26:58Z",
-      "version": "v3.0.8"
+      "updated_at": "2025-08-13T18:37:14Z",
+      "version": "v3.0.9"
     },
     "astrbot_plugin_liars_bar": {
       "desc": "本插件是为 AstrBot 框架开发的游戏插件，实现了一个骗子酒馆",
@@ -3408,8 +3408,8 @@
       "author": "Lonelysky",
       "repo": "https://github.com/LonelySky7490/astrbot_plugin_vv_pic",
       "tags": [],
-      "stars": 4,
-      "updated_at": "2025-07-22T07:16:31Z",
+      "stars": 5,
+      "updated_at": "2025-08-13T13:06:25Z",
       "version": "v0.6"
     },
     "astrbot_plugin_file_reader": {
@@ -4183,8 +4183,8 @@
       "tags": [
         "功能"
       ],
-      "stars": 13,
-      "updated_at": "2025-07-14T11:21:25Z",
+      "stars": 14,
+      "updated_at": "2025-08-13T13:32:43Z",
       "version": "1.0.2"
     },
     "astrbot_plugin_moyuren": {
