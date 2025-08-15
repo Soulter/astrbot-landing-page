@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-08-15T01:47:14.736Z",
+  "timestamp": "2025-08-15T12:41:24.846Z",
   "github": {
-    "stars": 11352,
-    "forks": 805,
+    "stars": 11366,
+    "forks": 806,
     "contributors": 85
   },
   "plugins": {
@@ -71,8 +71,8 @@
         "撤回"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 2,
-      "updated_at": "2025-08-12T08:30:49Z",
+      "stars": 3,
+      "updated_at": "2025-08-15T05:31:34Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_record_converter": {
@@ -248,8 +248,8 @@
         "Markdown",
         "文转图"
       ],
-      "stars": 1,
-      "updated_at": "2025-08-13T09:13:57Z",
+      "stars": 2,
+      "updated_at": "2025-08-15T03:07:01Z",
       "version": "v1.1.2"
     },
     "pjsk_guess_song": {
@@ -287,7 +287,7 @@
         "轮询"
       ],
       "stars": 2,
-      "updated_at": "2025-08-12T08:45:23Z",
+      "updated_at": "2025-08-15T09:06:09Z",
       "version": "v1.2.0"
     },
     "astrbot_plugin_silent": {
@@ -1318,8 +1318,8 @@
       ],
       "desc": "[仅aiocqhttp]让bot 转人工/转人机，真人客服 接入对话/结束对话",
       "social_link": "https://github.com/Zhalslar",
-      "stars": 13,
-      "updated_at": "2025-08-04T17:15:04Z",
+      "stars": 14,
+      "updated_at": "2025-08-15T07:57:01Z",
       "version": "v1.0.4"
     },
     "astrbot_plugin_reimage": {
@@ -1909,8 +1909,8 @@
       "repo": "https://github.com/Zhalslar/astrbot_plugin_search_video",
       "social_link": "https://github.com/Zhalslar",
       "tags": [],
-      "stars": 19,
-      "updated_at": "2025-08-14T01:49:45Z",
+      "stars": 20,
+      "updated_at": "2025-08-15T10:04:54Z",
       "version": "v1.0.6"
     },
     "astrbot_plugin_zt": {
@@ -2167,8 +2167,8 @@
         "禁漫"
       ],
       "social_link": "https://github.com/GEMILUXVII",
-      "stars": 29,
-      "updated_at": "2025-08-12T15:00:53Z",
+      "stars": 30,
+      "updated_at": "2025-08-15T03:42:30Z",
       "version": "1.0.7"
     },
     "astrbot_plugin_combine-messages": {
@@ -2690,7 +2690,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 20,
-      "updated_at": "2025-08-14T23:22:38Z",
+      "updated_at": "2025-08-15T11:20:13Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -3839,8 +3839,8 @@
         "功能"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
-      "stars": 43,
-      "updated_at": "2025-08-14T04:25:15Z",
+      "stars": 44,
+      "updated_at": "2025-08-15T08:50:21Z",
       "version": "v1.1.4"
     },
     "astrbot_plugin_yuafeng": {
@@ -4226,8 +4226,8 @@
       "author": "shiroling",
       "repo": "https://github.com/WhiteEurya/Astrbot_plugin_TRPGdice",
       "tags": [],
-      "stars": 6,
-      "updated_at": "2025-07-12T04:25:40Z",
+      "stars": 7,
+      "updated_at": "2025-08-15T08:58:47Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_qltask": {
