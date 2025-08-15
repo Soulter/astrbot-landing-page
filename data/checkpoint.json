@@ -1,11 +1,114 @@
 {
-  "timestamp": "2025-08-14T12:45:33.793Z",
+  "timestamp": "2025-08-15T01:47:14.736Z",
   "github": {
-    "stars": 11347,
-    "forks": 806,
+    "stars": 11352,
+    "forks": 805,
     "contributors": 85
   },
   "plugins": {
+    "astrbot_plugin_index_tts": {
+      "desc": "基于index-tts对AstrBot的语音转文字(TTS)补充",
+      "author": "xiewoc",
+      "repo": "https://github.com/xiewoc/astrbot_plugin_index_tts",
+      "tags": [
+        "TTS",
+        "文字转语音"
+      ],
+      "social_link": "https://github.com/xiewoc",
+      "stars": 0,
+      "updated_at": "2025-08-14T01:29:57Z",
+      "version": "v1.0.0"
+    },
+    "astrbot_plugin_aolastar": {
+      "desc": "通过Aolarhapsody后端 API 解析奥拉星游戏内容",
+      "author": "vmoranv",
+      "repo": "https://github.com/vmoranv/astrbot_plugin_aolastar",
+      "tags": [
+        "奥拉星"
+      ],
+      "social_link": "https://github.com/vmoranv",
+      "stars": 0,
+      "updated_at": "2025-08-13T09:46:52Z",
+      "version": "1.0.0"
+    },
+    "astrbot_plugin_identity_strategy": {
+      "desc": "为群聊/私聊注入指定的应对提示词（纯配置，无命令；支持特殊ID与空白策略）",
+      "author": "CaQing ＆ GPT-5 Pro",
+      "repo": "https://github.com/caqingtgas/astrbot_plugin_identity_strategy",
+      "tags": [],
+      "stars": 0,
+      "updated_at": "2025-08-13T08:05:25Z",
+      "version": "1.0.0"
+    },
+    "astrbot_plugin_qzone": {
+      "desc": "QQ空间对接插件, 可自动发说说、表白墙投稿审核、查看说说、点赞、评论等",
+      "author": "Zhalslar",
+      "repo": "https://github.com/Zhalslar/astrbot_plugin_qzone",
+      "tags": [
+        "QQ空间",
+        "说说",
+        "表白墙"
+      ],
+      "social_link": "https://github.com/Zhalslar",
+      "stars": 1,
+      "updated_at": "2025-08-14T17:53:52Z",
+      "version": "v1.0.2"
+    },
+    "astrbot_plugin_matchreminder": {
+      "desc": "算法比赛查询和今日比赛自动提醒 - 支持 CF、牛客、AtCoder 平台",
+      "author": "LuBanQAQ",
+      "repo": "https://github.com/LuBanQAQ/astrbot_plugin_matchreminder",
+      "tags": [],
+      "stars": 1,
+      "updated_at": "2025-08-12T16:13:23Z",
+      "version": "v1.0.3"
+    },
+    "astrbot_plugin_recall": {
+      "desc": "智能撤回插件，自动判断并撤回bot自身发的长文本、复读词、违禁词、色图、报错等",
+      "author": "Zhalslar",
+      "repo": "https://github.com/Zhalslar/astrbot_plugin_recall",
+      "tags": [
+        "撤回"
+      ],
+      "social_link": "https://github.com/Zhalslar",
+      "stars": 2,
+      "updated_at": "2025-08-12T08:30:49Z",
+      "version": "v1.0.0"
+    },
+    "astrbot_plugin_record_converter": {
+      "desc": "QQ 语音转化插件，包括语音转文件，文件转语音，克服了 QQ 语音无法转发的问题",
+      "author": "Zhalslar",
+      "repo": "https://github.com/Zhalslar/astrbot_plugin_record_converter",
+      "tags": [
+        "语音转化"
+      ],
+      "social_link": "https://github.com/Zhalslar",
+      "stars": 0,
+      "updated_at": "2025-08-14T11:27:52Z",
+      "version": "v1.0.1"
+    },
+    "astrbot_plugin_spark_tts": {
+      "desc": "用于使用 Spark-TTS 进行文字转语音。",
+      "author": "xiewoc",
+      "repo": "https://github.com/xiewoc/astrbot_plugin_spark_tts",
+      "tags": [
+        "TTS",
+        "语音转文字"
+      ],
+      "social_link": "https://github.com/xiewoc",
+      "stars": 0,
+      "updated_at": "2025-08-13T13:12:09Z",
+      "version": "v0.0.1"
+    },
+    "astrbot_plugin_provider_ark": {
+      "desc": "将可应用上下文缓存API的火山方舟(Volcengine Ark) 注册为 AstrBot 的对话服务提供商(Provider)(支持 /provider 切换)",
+      "author": "CaQing ＆ GPT-5",
+      "repo": "https://github.com/caqingtgas/astrbot_plugin_provider_ark",
+      "tags": [],
+      "stars": 0,
+      "updated_at": "2025-08-13T14:19:32Z",
+      "version": "1.0.1"
+    },
     "astrbot_plugin_Mirecraft_motd": {
       "desc": "基于 AstrBot 的 motd 探测服务器插件",
       "author": "ChuranNeko",
@@ -71,7 +174,7 @@
       ],
       "social_link": "https://github.com/huntuo146",
       "stars": 1,
-      "updated_at": "2025-08-08T11:48:53Z",
+      "updated_at": "2025-08-14T18:25:37Z",
       "version": "1.0.4"
     },
     "pokemon_fusion": {
@@ -159,7 +262,7 @@
         "初音未来 缤纷舞台"
       ],
       "stars": 3,
-      "updated_at": "2025-08-14T11:18:38Z",
+      "updated_at": "2025-08-14T12:33:57Z",
       "version": "v1.1.3"
     },
     "astrbot_plugin_screenctrl": {
@@ -264,7 +367,7 @@
       ],
       "social_link": "https://github.com/zhewang448",
       "stars": 2,
-      "updated_at": "2025-08-14T07:58:20Z",
+      "updated_at": "2025-08-14T12:23:30Z",
       "version": "v2.1.0"
     },
     "astrbot_plugins_canvas": {
@@ -431,8 +534,8 @@
       "tags": [
         "战地风云"
       ],
-      "stars": 4,
-      "updated_at": "2025-08-14T06:12:36Z",
+      "stars": 5,
+      "updated_at": "2025-08-14T11:41:55Z",
       "version": "v1.0.8"
     },
     "astrbot_plugin_SteamSaleTracker": {
@@ -736,8 +839,8 @@
       ],
       "social_link": "astrbot.uk",
       "stars": 0,
-      "updated_at": "2025-08-13T17:00:47Z",
-      "version": "v1.3.2"
+      "updated_at": "2025-08-14T16:38:23Z",
+      "version": "v1.4.0"
     },
     "astrbot_plugin_bw_monitor": {
       "desc": "Bilibili Show 票务监控插件，支持群聊/私聊隔离，检测余票变化并推送通知。",
@@ -2556,8 +2659,8 @@
       "repo": "https://github.com/bigshabei/astrbot_plugin_wuziqi",
       "tags": [],
       "stars": 3,
-      "updated_at": "2025-07-31T23:17:49Z",
-      "version": "1.3.4"
+      "updated_at": "2025-08-14T14:31:56Z",
+      "version": "2.0.0"
     },
     "astrbot_plugin_dogdiary": {
       "repo": "https://github.com/bigshabei/astrbot_plugin_dogdiary",
@@ -2587,7 +2690,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 20,
-      "updated_at": "2025-08-14T11:21:40Z",
+      "updated_at": "2025-08-14T23:22:38Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -2905,8 +3008,8 @@
         "短视频",
         "美图"
       ],
-      "stars": 1,
-      "updated_at": "2025-07-17T06:57:10Z",
+      "stars": 2,
+      "updated_at": "2025-08-14T14:35:54Z",
       "version": "v1.1"
     },
     "astrbot_plugin_60s_news": {
