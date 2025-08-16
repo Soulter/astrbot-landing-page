@@ -2,7 +2,8 @@
   "language": "English",
   "nav": {
     "quickStart": "Quick Start",
-    "github": "GitHub"
+    "github": "GitHub",
+    "plugin": "Plugins"
   },
   "hero": {
     "slogan": "The Multi-Platform LLM Bot Infrastructure",

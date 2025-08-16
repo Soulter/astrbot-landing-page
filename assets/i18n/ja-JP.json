@@ -2,7 +2,8 @@
   "language": "日本語",
   "nav": {
     "quickStart": "クイックスタート",
-    "github": "GitHub"
+    "github": "GitHub",
+    "plugin": "プラグイン"
   },
   "hero": {
     "slogan": "マルチプラットフォームLLMボットインフラ",

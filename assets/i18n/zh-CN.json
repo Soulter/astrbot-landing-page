@@ -2,7 +2,8 @@
   "language": "简体中文",
   "nav": {
     "quickStart": "快速上手",
-    "github": "GitHub"
+    "github": "GitHub",
+    "plugin": "插件"
   },
   "hero": {
     "slogan": "多平台大模型机器人基础设施",
