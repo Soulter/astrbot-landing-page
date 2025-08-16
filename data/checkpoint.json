@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-08-16T01:41:51.693Z",
+  "timestamp": "2025-08-16T12:39:35.731Z",
   "github": {
-    "stars": 11374,
-    "forks": 806,
+    "stars": 11385,
+    "forks": 808,
     "contributors": 85
   },
   "plugins": {
@@ -27,8 +27,8 @@
         "奥拉星"
       ],
       "social_link": "https://github.com/vmoranv",
-      "stars": 0,
-      "updated_at": "2025-08-15T13:58:49Z",
+      "stars": 1,
+      "updated_at": "2025-08-16T06:16:15Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_identity_strategy": {
@@ -50,8 +50,8 @@
         "表白墙"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 2,
-      "updated_at": "2025-08-15T12:53:38Z",
+      "stars": 3,
+      "updated_at": "2025-08-16T04:32:10Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_matchreminder": {
@@ -71,8 +71,8 @@
         "撤回"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 4,
-      "updated_at": "2025-08-15T16:49:00Z",
+      "stars": 5,
+      "updated_at": "2025-08-16T04:32:07Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_record_converter": {
@@ -83,8 +83,8 @@
         "语音转化"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 0,
-      "updated_at": "2025-08-14T11:27:52Z",
+      "stars": 1,
+      "updated_at": "2025-08-16T10:25:42Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_spark_tts": {
@@ -262,7 +262,7 @@
         "初音未来 缤纷舞台"
       ],
       "stars": 4,
-      "updated_at": "2025-08-15T15:32:47Z",
+      "updated_at": "2025-08-16T11:13:23Z",
       "version": "v1.1.3"
     },
     "astrbot_plugin_screenctrl": {
@@ -1191,8 +1191,8 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 4,
-      "updated_at": "2025-08-15T12:53:49Z",
-      "version": "v1.0.0"
+      "updated_at": "2025-08-16T08:43:45Z",
+      "version": "v1.0.1"
     },
     "astrbot_plugin_runes": {
       "author": "雨爲/yuweitk",
@@ -2690,7 +2690,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 20,
-      "updated_at": "2025-08-15T23:22:45Z",
+      "updated_at": "2025-08-16T11:18:14Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -3079,8 +3079,8 @@
         "ehentai"
       ],
       "stars": 5,
-      "updated_at": "2025-07-29T16:24:30Z",
-      "version": "v2.3"
+      "updated_at": "2025-08-16T04:12:03Z",
+      "version": "v3.0"
     },
     "astrbot_plugin_reread": {
       "desc": "不依赖任何数据库的群聊复读姬，可单独设置文本、图片、表情、At消息的复读阈值，可设置复读概率，可要求消息要来自不同人，可设置违禁词",
@@ -4505,7 +4505,7 @@
       "repo": "https://github.com/wxgl/astrbot_websitetool",
       "tags": [],
       "stars": 0,
-      "updated_at": "2025-02-12T09:58:50Z",
+      "updated_at": "2025-08-16T02:41:48Z",
       "version": "v1.0"
     },
     "ai_reminder": {
@@ -4514,8 +4514,8 @@
       "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
       "tags": [],
       "stars": 16,
-      "updated_at": "2025-07-23T15:32:24Z",
-      "version": "v1.2.0"
+      "updated_at": "2025-08-16T01:12:30Z",
+      "version": "v1.2.2"
     },
     "ai_memory": {
       "desc": "一个AI记忆管理插件，可以让ai记住重要的事，记忆读取是ai自己调用的，有时候呆呆的ai不会自己调用，可以多问几次或者人格加上特定提示词,输入 /mem_help 查看记忆管理帮助",
