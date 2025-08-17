@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-08-17T01:52:28.451Z",
+  "timestamp": "2025-08-17T12:40:09.410Z",
   "github": {
-    "stars": 11400,
-    "forks": 810,
+    "stars": 11423,
+    "forks": 813,
     "contributors": 85
   },
   "plugins": {
@@ -50,8 +50,8 @@
         "表白墙"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 3,
-      "updated_at": "2025-08-16T04:32:10Z",
+      "stars": 4,
+      "updated_at": "2025-08-17T08:23:25Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_matchreminder": {
@@ -210,8 +210,8 @@
       "tags": [
         "海龟汤"
       ],
-      "stars": 4,
-      "updated_at": "2025-08-13T05:30:28Z",
+      "stars": 5,
+      "updated_at": "2025-08-17T01:58:39Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_typst_render": {
@@ -470,8 +470,8 @@
         "Galgame"
       ],
       "social_link": "https://github.com/yaoyuesuzu",
-      "stars": 0,
-      "updated_at": "2025-07-22T09:54:23Z",
+      "stars": 1,
+      "updated_at": "2025-08-17T06:58:48Z",
       "version": "v1.6.0"
     },
     "astrbot_plugin_url_2_knowledge_base": {
@@ -534,8 +534,8 @@
       "tags": [
         "战地风云"
       ],
-      "stars": 6,
-      "updated_at": "2025-08-15T16:48:59Z",
+      "stars": 7,
+      "updated_at": "2025-08-17T09:44:27Z",
       "version": "v1.0.8"
     },
     "astrbot_plugin_SteamSaleTracker": {
@@ -615,8 +615,8 @@
         "宠物"
       ],
       "stars": 5,
-      "updated_at": "2025-08-05T17:44:15Z",
-      "version": "v1.1"
+      "updated_at": "2025-08-17T08:15:18Z",
+      "version": "v1.2"
     },
     "astrbot_plugin_error_monitor": {
       "desc": "捕获 Immersive Error 抛出的异常，并提供 SMTP 邮件通知进行报告。",
@@ -1614,8 +1614,8 @@
         "音乐"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 42,
-      "updated_at": "2025-08-15T12:53:48Z",
+      "stars": 43,
+      "updated_at": "2025-08-17T08:31:36Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_renjian": {
@@ -2065,7 +2065,7 @@
       "social_link": "https://github.com/orchidsziyou/astrbot_plugins_JMPlugins",
       "tags": [],
       "stars": 2,
-      "updated_at": "2025-08-09T10:05:23Z",
+      "updated_at": "2025-08-17T09:43:51Z",
       "version": "v1.3"
     },
     "astrbot_plugin_fishing2": {
@@ -2318,8 +2318,8 @@
       "repo": "https://github.com/monbed/astrbot_plugin_animewifex",
       "tags": [],
       "stars": 1,
-      "updated_at": "2025-05-25T15:32:44Z",
-      "version": "v1.5.4"
+      "updated_at": "2025-08-17T02:23:14Z",
+      "version": "v1.5.5"
     },
     "astrbot_plugin_emojimix": {
       "author": "Flartiny",
@@ -2690,7 +2690,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 20,
-      "updated_at": "2025-08-16T23:21:22Z",
+      "updated_at": "2025-08-17T11:18:34Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
