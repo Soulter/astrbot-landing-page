@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-08-16T12:39:35.731Z",
+  "timestamp": "2025-08-17T01:52:28.451Z",
   "github": {
-    "stars": 11385,
-    "forks": 808,
+    "stars": 11400,
+    "forks": 810,
     "contributors": 85
   },
   "plugins": {
@@ -16,8 +16,8 @@
       ],
       "social_link": "https://github.com/xiewoc",
       "stars": 0,
-      "updated_at": "2025-08-15T17:01:13Z",
-      "version": "v1.0.1"
+      "updated_at": "2025-08-16T16:24:14Z",
+      "version": "v1.0.2"
     },
     "astrbot_plugin_aolastar": {
       "desc": "通过Aolarhapsody后端 API 解析奥拉星游戏内容",
@@ -262,7 +262,7 @@
         "初音未来 缤纷舞台"
       ],
       "stars": 4,
-      "updated_at": "2025-08-16T11:13:23Z",
+      "updated_at": "2025-08-16T15:28:18Z",
       "version": "v1.1.3"
     },
     "astrbot_plugin_screenctrl": {
@@ -757,8 +757,8 @@
         "文件处理"
       ],
       "author": null,
-      "stars": 10,
-      "updated_at": "2025-08-08T16:34:12Z",
+      "stars": 11,
+      "updated_at": "2025-08-16T13:46:47Z",
       "version": "2.2.3--img"
     },
     "astrbot_plugin_group_sign": {
@@ -826,8 +826,8 @@
       ],
       "author": "Hina-Chat",
       "social_link": "https://magstic.art/",
-      "stars": 1,
-      "updated_at": "2025-07-09T11:54:44Z",
+      "stars": 0,
+      "updated_at": "2025-08-16T18:21:45Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_market": {
@@ -2482,8 +2482,8 @@
         "api"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-      "stars": 66,
-      "updated_at": "2025-08-14T08:35:02Z",
+      "stars": 67,
+      "updated_at": "2025-08-16T17:29:32Z",
       "version": "v2.0.0"
     },
     "astrbot_plugin_help": {
@@ -2690,7 +2690,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 20,
-      "updated_at": "2025-08-16T11:18:14Z",
+      "updated_at": "2025-08-16T23:21:22Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -3055,8 +3055,8 @@
       "repo": "https://github.com/exusiaiwei/astrbot_plugin_jrrp",
       "desc": "一个简单的今日人品插件, 可以查询用户的每日人品值和运势。",
       "tags": [],
-      "stars": 3,
-      "updated_at": "2025-06-03T16:59:27Z",
+      "stars": 4,
+      "updated_at": "2025-08-16T16:12:46Z",
       "version": "v1.2.0"
     },
     "astrbot_plugin_zanwo": {
@@ -3184,8 +3184,8 @@
         "浏览器"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
-      "stars": 14,
-      "updated_at": "2025-08-09T20:13:30Z",
+      "stars": 15,
+      "updated_at": "2025-08-16T11:39:29Z",
       "version": "v1.1.3"
     },
     "astrbot_plugin_QQAdmin": {
@@ -3197,7 +3197,7 @@
         "QQ群管"
       ],
       "stars": 36,
-      "updated_at": "2025-08-15T12:52:04Z",
+      "updated_at": "2025-08-16T17:11:58Z",
       "version": "v3.0.9"
     },
     "astrbot_plugin_liars_bar": {
@@ -3352,8 +3352,8 @@
         "工具",
         "安全"
       ],
-      "stars": 1,
-      "updated_at": "2025-07-03T00:58:00Z",
+      "stars": 2,
+      "updated_at": "2025-08-16T11:38:28Z",
       "version": "v1.0.1"
     },
     "JmCli": {
