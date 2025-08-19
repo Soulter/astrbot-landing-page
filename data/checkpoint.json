@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-08-18T12:46:08.956Z",
+  "timestamp": "2025-08-19T01:41:13.668Z",
   "github": {
-    "stars": 11469,
-    "forks": 816,
+    "stars": 11482,
+    "forks": 817,
     "contributors": 85
   },
   "plugins": {
@@ -16,7 +16,7 @@
       ],
       "social_link": "https://github.com/qa296/",
       "stars": 1,
-      "updated_at": "2025-08-18T05:06:02Z",
+      "updated_at": "2025-08-18T18:31:59Z",
       "version": "v0.1.0"
     },
     "astrbot_plugin_outputpro": {
@@ -2588,8 +2588,8 @@
         "ai绘图",
         "llm tool"
       ],
-      "stars": 6,
-      "updated_at": "2025-07-23T05:10:16Z",
+      "stars": 7,
+      "updated_at": "2025-08-18T12:23:58Z",
       "version": "v0.0.2"
     },
     "astrbot_plugin_mcqq": {
@@ -2760,7 +2760,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 20,
-      "updated_at": "2025-08-18T11:21:44Z",
+      "updated_at": "2025-08-18T23:21:43Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -3737,7 +3737,7 @@
       "repo": "https://github.com/EnderPPT/astrbot_plugin_jm_sender",
       "social_link": "https://github.com/EnderPPT",
       "stars": 4,
-      "updated_at": "2025-04-27T09:20:34Z",
+      "updated_at": "2025-08-18T13:23:06Z",
       "version": "1.0.0"
     },
     "jmcomic_downloader": {
@@ -4069,8 +4069,8 @@
         "bilibili"
       ],
       "social_link": "https://github.com/miaoxutao123/",
-      "stars": 33,
-      "updated_at": "2025-08-15T12:53:51Z",
+      "stars": 34,
+      "updated_at": "2025-08-18T12:23:40Z",
       "version": "v0.2.8"
     },
     "astrbot_plugin_sjzb": {
@@ -4584,7 +4584,7 @@
       "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
       "tags": [],
       "stars": 17,
-      "updated_at": "2025-08-17T17:58:14Z",
+      "updated_at": "2025-08-18T12:36:26Z",
       "version": "v1.2.2"
     },
     "ai_memory": {
@@ -5205,8 +5205,8 @@
       "repo": "https://github.com/zgojin/astrbot_plugin_Qsign",
       "tags": [],
       "stars": 0,
-      "updated_at": "2025-08-09T19:35:03Z",
-      "version": "v1.2.1"
+      "updated_at": "2025-08-18T14:53:03Z",
+      "version": "v2.0.0"
     },
     "astrbot_plugin_thinkTags": {
       "author": "长安某",
