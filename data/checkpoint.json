@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-08-19T12:41:49.442Z",
+  "timestamp": "2025-08-20T01:39:41.398Z",
   "github": {
-    "stars": 11512,
+    "stars": 11521,
     "forks": 819,
     "contributors": 85
   },
@@ -23,8 +23,8 @@
         "表情包"
       ],
       "social_link": "https://github.com/SodaSizzle",
-      "stars": 2,
-      "updated_at": "2025-08-17T13:29:15Z",
+      "stars": 4,
+      "updated_at": "2025-08-19T14:07:41Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_self_learning": {
@@ -37,8 +37,8 @@
         "人格"
       ],
       "social_link": "https://github.com/NickCharlie",
-      "stars": 2,
-      "updated_at": "2025-08-19T07:37:39Z",
+      "stars": 5,
+      "updated_at": "2025-08-19T18:13:56Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_baiduocr": {
@@ -66,8 +66,8 @@
       ],
       "social_link": "https://t.me/astrbot_plugin_HINS",
       "stars": 1,
-      "updated_at": "2025-08-19T09:29:57Z",
-      "version": "v1.0.0"
+      "updated_at": "2025-08-19T19:58:38Z",
+      "version": "v1.1.0"
     },
     "astrbot_plugin_xfbank": {
       "desc": "一个简易的银行插件",
@@ -88,7 +88,7 @@
         "运势"
       ],
       "stars": 3,
-      "updated_at": "2025-08-19T08:36:43Z",
+      "updated_at": "2025-08-19T15:22:28Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_wakepro": {
@@ -113,7 +113,7 @@
       ],
       "social_link": "https://github.com/qa296/",
       "stars": 2,
-      "updated_at": "2025-08-19T09:16:02Z",
+      "updated_at": "2025-08-19T16:57:54Z",
       "version": "v0.2.0"
     },
     "astrbot_plugin_iearning_style": {
@@ -125,8 +125,8 @@
         "拟人"
       ],
       "social_link": "https://github.com/qa296",
-      "stars": 2,
-      "updated_at": "2025-08-18T12:19:08Z",
+      "stars": 3,
+      "updated_at": "2025-08-19T17:16:46Z",
       "version": "v0.1.2"
     },
     "astrbot_plugin_who_at_me": {
@@ -137,8 +137,8 @@
         "工具"
       ],
       "social_link": "astrbot.uk",
-      "stars": 0,
-      "updated_at": "2025-08-19T06:02:12Z",
+      "stars": 1,
+      "updated_at": "2025-08-19T13:23:49Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_outputpro": {
@@ -174,8 +174,8 @@
         "语音转文字"
       ],
       "stars": 2,
-      "updated_at": "2025-08-18T06:59:43Z",
-      "version": "1.2.0"
+      "updated_at": "2025-08-19T13:58:05Z",
+      "version": "1.2.1"
     },
     "astrbot_plugin_bangumi": {
       "desc": "一个用于查询 Bangumi条目的插件",
@@ -242,8 +242,8 @@
         "表白墙"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 7,
-      "updated_at": "2025-08-17T22:20:43Z",
+      "stars": 8,
+      "updated_at": "2025-08-19T14:41:58Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_matchreminder": {
@@ -353,8 +353,8 @@
         "增强"
       ],
       "stars": 8,
-      "updated_at": "2025-08-14T09:07:03Z",
-      "version": "2.6.3"
+      "updated_at": "2025-08-19T17:06:52Z",
+      "version": "2.8.3"
     },
     "astrbot_plugin_Group-Verification_PRO": {
       "desc": "一个强大的 QQ 群成员入群验证插件。新成员需回答动态生成的 100 以内加减法问题方可入群。支持完全自定义的提示消息（成功、失败、超时警告、踢出等）和时间控制（验证超时、警告时机、踢出延迟）。当用户回答错误时，会自动生成新题目并重置验证时间，有效防止机器人账号。",
@@ -365,8 +365,8 @@
         "群审核"
       ],
       "social_link": "https://github.com/huntuo146",
-      "stars": 1,
-      "updated_at": "2025-08-14T18:25:37Z",
+      "stars": 2,
+      "updated_at": "2025-08-19T14:20:16Z",
       "version": "1.0.4"
     },
     "pokemon_fusion": {
@@ -969,7 +969,7 @@
       "repo": "https://github.com/Chris95743/astrbot_plugin_balance",
       "tags": [],
       "stars": 5,
-      "updated_at": "2025-08-18T08:12:30Z",
+      "updated_at": "2025-08-19T11:20:28Z",
       "version": "v1.4.0"
     },
     "astrbot_plugin_mp": {
@@ -1242,8 +1242,8 @@
       "repo": "https://github.com/0d00-Ciallo-0721/astrbot_plugin_Astrsupermarket",
       "desc": "一款专为 AstrBot 打造的高互动性 QQ 群聊插件，融合经济、社交、冒险等玩法",
       "tags": [],
-      "stars": 1,
-      "updated_at": "2025-07-01T11:08:21Z",
+      "stars": 2,
+      "updated_at": "2025-08-19T14:46:21Z",
       "version": "v1.1"
     },
     "astrbot_plugin_gameinfo": {
@@ -2346,8 +2346,8 @@
         "戳一戳"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 19,
-      "updated_at": "2025-08-19T06:50:03Z",
+      "stars": 20,
+      "updated_at": "2025-08-19T14:19:40Z",
       "version": "v1.0.9"
     },
     "astrbot_plugin_jm_cosmos": {
@@ -2736,8 +2736,8 @@
         "成员审核"
       ],
       "social_link": "https://github.com/huntuo146",
-      "stars": 4,
-      "updated_at": "2025-08-06T03:01:40Z",
+      "stars": 5,
+      "updated_at": "2025-08-19T14:19:37Z",
       "version": "1.2.1"
     },
     "astrbot_plugin_Volcengine-Text-to-image": {
@@ -2882,7 +2882,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 20,
-      "updated_at": "2025-08-19T10:25:42Z",
+      "updated_at": "2025-08-19T23:21:37Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -4192,7 +4192,7 @@
       ],
       "social_link": "https://github.com/miaoxutao123/",
       "stars": 34,
-      "updated_at": "2025-08-18T12:23:40Z",
+      "updated_at": "2025-08-19T13:41:05Z",
       "version": "v0.2.8"
     },
     "astrbot_plugin_sjzb": {
@@ -4543,8 +4543,8 @@
         "webui",
         "图床"
       ],
-      "stars": 73,
-      "updated_at": "2025-08-11T05:18:40Z",
+      "stars": 74,
+      "updated_at": "2025-08-19T14:49:42Z",
       "version": "v3.13"
     },
     "mccloud_command": {
@@ -5300,7 +5300,7 @@
       "repo": "https://github.com/zhuiye8/astrbot_plugin_txsc",
       "tags": [],
       "stars": 4,
-      "updated_at": "2025-08-18T07:54:12Z",
+      "updated_at": "2025-08-19T11:28:22Z",
       "version": "v2.0.0"
     },
     "astrbot_plugin_keyword_reply": {
