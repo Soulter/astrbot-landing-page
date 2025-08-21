@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-08-20T12:41:43.071Z",
+  "timestamp": "2025-08-21T01:38:49.179Z",
   "github": {
-    "stars": 11541,
+    "stars": 11554,
     "forks": 825,
     "contributors": 85
   },
@@ -65,9 +65,9 @@
         "社交"
       ],
       "social_link": "https://t.me/astrbot_plugin_HINS",
-      "stars": 1,
-      "updated_at": "2025-08-20T07:43:48Z",
-      "version": "v1.1.0"
+      "stars": 2,
+      "updated_at": "2025-08-20T17:03:14Z",
+      "version": "v1.2.0"
     },
     "astrbot_plugin_xfbank": {
       "desc": "一个简易的银行插件",
@@ -113,7 +113,7 @@
       ],
       "social_link": "https://github.com/qa296/",
       "stars": 2,
-      "updated_at": "2025-08-20T06:41:51Z",
+      "updated_at": "2025-08-20T16:09:18Z",
       "version": "v0.2.0"
     },
     "astrbot_plugin_iearning_style": {
@@ -174,7 +174,7 @@
         "语音转文字"
       ],
       "stars": 2,
-      "updated_at": "2025-08-20T10:36:12Z",
+      "updated_at": "2025-08-20T16:27:09Z",
       "version": "1.2.2"
     },
     "astrbot_plugin_bangumi": {
@@ -195,7 +195,7 @@
       "repo": "https://github.com/furryHM-mrz/asbot_plugin_furry_jtwzbq",
       "tags": [],
       "stars": 1,
-      "updated_at": "2025-08-16T16:39:23Z",
+      "updated_at": "2025-08-20T13:37:06Z",
       "version": "v2.0.0"
     },
     "astrbot_plugin_index_tts": {
@@ -309,8 +309,8 @@
         "Mirecraft"
       ],
       "stars": 2,
-      "updated_at": "2025-08-12T09:35:30Z",
-      "version": "v1.0.1"
+      "updated_at": "2025-08-20T21:39:33Z",
+      "version": "v1.1.0"
     },
     "astrbot_plugin_daily_reminder": {
       "desc": "让机器人支持定时消息",
@@ -352,9 +352,9 @@
         "工具",
         "增强"
       ],
-      "stars": 8,
-      "updated_at": "2025-08-20T11:03:57Z",
-      "version": "4.4.0"
+      "stars": 9,
+      "updated_at": "2025-08-20T14:20:11Z",
+      "version": "2.6.3"
     },
     "astrbot_plugin_Group-Verification_PRO": {
       "desc": "一个强大的 QQ 群成员入群验证插件。新成员需回答动态生成的 100 以内加减法问题方可入群。支持完全自定义的提示消息（成功、失败、超时警告、踢出等）和时间控制（验证超时、警告时机、踢出延迟）。当用户回答错误时，会自动生成新题目并重置验证时间，有效防止机器人账号。",
@@ -441,8 +441,8 @@
         "文转图"
       ],
       "stars": 2,
-      "updated_at": "2025-08-15T03:07:01Z",
-      "version": "v1.1.2"
+      "updated_at": "2025-08-20T15:56:38Z",
+      "version": "v1.1.3"
     },
     "pjsk_guess_song": {
       "desc": "PJSK 猜歌游戏插件",
@@ -2247,8 +2247,8 @@
       ],
       "social_link": "https://github.com/Putarku",
       "stars": 0,
-      "updated_at": "2025-07-23T15:04:13Z",
-      "version": "v1.3"
+      "updated_at": "2025-08-20T16:03:05Z",
+      "version": "v1.4"
     },
     "astrbot_plugins_JMPlugins": {
       "author": "orchidsziyou",
@@ -2359,8 +2359,8 @@
         "禁漫"
       ],
       "social_link": "https://github.com/GEMILUXVII",
-      "stars": 30,
-      "updated_at": "2025-08-15T03:42:30Z",
+      "stars": 31,
+      "updated_at": "2025-08-20T12:25:13Z",
       "version": "1.0.7"
     },
     "astrbot_plugin_combine-messages": {
@@ -2684,8 +2684,8 @@
       "repo": "https://github.com/tinkerbellqwq/astrbot_plugin_help",
       "social_link": "https://github.com/tinkerbellqwq",
       "tags": [],
-      "stars": 20,
-      "updated_at": "2025-08-14T01:48:02Z",
+      "stars": 21,
+      "updated_at": "2025-08-20T16:17:44Z",
       "version": "v1.1.2"
     },
     "astrbot_qqemotionreply": {
@@ -2882,7 +2882,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 20,
-      "updated_at": "2025-08-20T11:19:24Z",
+      "updated_at": "2025-08-20T23:20:55Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
