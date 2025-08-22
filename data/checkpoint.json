@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-08-21T12:41:27.394Z",
+  "timestamp": "2025-08-22T01:39:18.933Z",
   "github": {
-    "stars": 11585,
-    "forks": 828,
+    "stars": 11600,
+    "forks": 831,
     "contributors": 85
   },
   "plugins": {
@@ -37,8 +37,8 @@
         "人格"
       ],
       "social_link": "https://github.com/NickCharlie",
-      "stars": 5,
-      "updated_at": "2025-08-21T10:55:22Z",
+      "stars": 7,
+      "updated_at": "2025-08-21T16:46:24Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_baiduocr": {
@@ -65,9 +65,9 @@
         "社交"
       ],
       "social_link": "https://t.me/astrbot_plugin_HINS",
-      "stars": 2,
-      "updated_at": "2025-08-20T17:03:14Z",
-      "version": "v1.2.0"
+      "stars": 3,
+      "updated_at": "2025-08-21T13:36:24Z",
+      "version": "v1.3.0"
     },
     "astrbot_plugin_xfbank": {
       "desc": "一个简易的银行插件",
@@ -185,8 +185,8 @@
         "bangumi"
       ],
       "social_link": "https://github.com/Amatsutsumi/astrbot_plugin_bangumi",
-      "stars": 1,
-      "updated_at": "2025-08-13T03:07:11Z",
+      "stars": 2,
+      "updated_at": "2025-08-21T15:25:17Z",
       "version": "v1.0"
     },
     "asbot_plugin_furry_jtwzbq": {
@@ -309,8 +309,8 @@
         "Mirecraft"
       ],
       "stars": 2,
-      "updated_at": "2025-08-21T05:58:21Z",
-      "version": "v1.4.0"
+      "updated_at": "2025-08-21T19:02:17Z",
+      "version": "v1.6.0"
     },
     "astrbot_plugin_daily_reminder": {
       "desc": "让机器人支持定时消息",
@@ -558,8 +558,8 @@
         "定时任务"
       ],
       "social_link": "https://github.com/zhewang448",
-      "stars": 2,
-      "updated_at": "2025-08-14T12:23:30Z",
+      "stars": 3,
+      "updated_at": "2025-08-21T14:01:04Z",
       "version": "v2.1.0"
     },
     "astrbot_plugins_canvas": {
@@ -1006,7 +1006,7 @@
       "repo": "https://github.com/timetetng/astrbot_plugin_ip_proxy",
       "tags": [],
       "stars": 1,
-      "updated_at": "2025-08-05T17:46:09Z",
+      "updated_at": "2025-08-21T16:08:57Z",
       "version": "v1.5"
     },
     "astrbot_plugin_cmd_console": {
@@ -2882,7 +2882,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 20,
-      "updated_at": "2025-08-21T11:20:07Z",
+      "updated_at": "2025-08-21T23:21:22Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -4706,8 +4706,8 @@
       "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
       "tags": [],
       "stars": 17,
-      "updated_at": "2025-08-21T09:15:09Z",
-      "version": "v1.2.3"
+      "updated_at": "2025-08-21T23:21:10Z",
+      "version": "v1.2.4"
     },
     "ai_memory": {
       "desc": "一个AI记忆管理插件，可以让ai记住重要的事，记忆读取是ai自己调用的，有时候呆呆的ai不会自己调用，可以多问几次或者人格加上特定提示词,输入 /mem_help 查看记忆管理帮助",
@@ -4993,8 +4993,8 @@
       "author": "FateTrial",
       "repo": "https://github.com/FateTrial/FateTrial_zhipu_video",
       "tags": [],
-      "stars": 5,
-      "updated_at": "2025-05-12T08:39:18Z",
+      "stars": 6,
+      "updated_at": "2025-08-21T15:24:23Z",
       "version": "v2.0.0"
     },
     "astrbot_plugin_tagger": {
@@ -5074,8 +5074,8 @@
       "author": "长安某",
       "repo": "https://github.com/zgojin/astrbot_plugin_botName",
       "tags": [],
-      "stars": 4,
-      "updated_at": "2025-08-06T04:27:45Z",
+      "stars": 5,
+      "updated_at": "2025-08-21T15:23:24Z",
       "version": "v2.0"
     },
     "astrbot_plugin_tts_Cosyvoice2": {
