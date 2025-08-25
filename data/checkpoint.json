@@ -1,11 +1,54 @@
 {
-  "timestamp": "2025-08-25T01:43:36.535Z",
+  "timestamp": "2025-08-25T12:42:21.943Z",
   "github": {
-    "stars": 11673,
+    "stars": 11685,
     "forks": 833,
     "contributors": 86
   },
   "plugins": {
+    "xfbank": {
+      "desc": "一个简易的银行插件",
+      "author": "XiaoFu1025",
+      "repo": "https://github.com/XiaoFu1025/astrbot_plugin_xfbank",
+      "tags": [
+        "Bank",
+        "虚拟银行"
+      ],
+      "stars": 1,
+      "updated_at": "2025-08-24T16:14:27Z",
+      "version": "v1.1.114514"
+    },
+    "astrbot_plugin_ms_aiimg": {
+      "desc": "接入魔搭社区文生图模型",
+      "author": "竹和木",
+      "repo": "https://github.com/3451996649/astrbot_plugin_ms_aiimg",
+      "tags": [],
+      "stars": 0,
+      "updated_at": "2025-08-24T08:23:58Z",
+      "version": "v1.0"
+    },
+    "asbot_plugin_furry_mzxyy": {
+      "desc": "毛主席一言",
+      "author": "furryhm",
+      "repo": "https://github.com/furryHM-mrz/asbot_plugin_furry_mzxyy",
+      "tags": [],
+      "stars": 1,
+      "updated_at": "2025-08-25T05:26:04Z",
+      "version": "v1.0.0"
+    },
+    "astrbot_plugin_auto_ban_new": {
+      "desc": "在指定群聊中对新入群用户自动禁言并发送欢迎消息，支持多种方式解除监听。帮助群管理员更好地管理新成员，确保新成员先阅读群规再发言。",
+      "author": "糯米茨",
+      "repo": "https://github.com/nuomicici/astrbot_plugin_auto_ban_new",
+      "tags": [
+        "禁言",
+        "群管"
+      ],
+      "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
+      "stars": 2,
+      "updated_at": "2025-08-23T05:16:42Z",
+      "version": "v1.0"
+    },
     "command_to_llm": {
       "desc": "将指令（比如/help）转换为LLM函数（比如 get_help）调用，让AI能够通过LLM函数执行其他插件的指令，支持动态添加和管理指令映射",
       "author": "kjqwdw",
@@ -25,7 +68,6 @@
       "author": "天各一方",
       "repo": "https://github.com/Catfish872/lark_send_patcher",
       "tags": [],
-      "social_link": "",
       "stars": 0,
       "updated_at": "2025-07-20T18:12:13Z",
       "version": "v1.0.0"
@@ -37,7 +79,6 @@
       "tags": [
         "调试"
       ],
-      "social_link": "",
       "stars": 0,
       "updated_at": "2025-08-04T16:42:12Z",
       "version": "1.1"
@@ -47,7 +88,6 @@
       "author": "furryhm",
       "repo": "https://github.com/furryHM-mrz/asbot_plugin_furry-API-",
       "tags": [],
-      "social_link": "",
       "stars": 2,
       "updated_at": "2025-08-20T13:51:01Z",
       "version": "v2.0"
@@ -57,7 +97,6 @@
       "author": "furryhm",
       "repo": "https://github.com/furryHM-mrz/asbot_plugin_furry-API-hy",
       "tags": [],
-      "social_link": "",
       "stars": 2,
       "updated_at": "2025-08-20T13:51:21Z",
       "version": "v3.4"
@@ -66,8 +105,8 @@
       "desc": "为 [老九网盘数据库系统](https://github.com/ctwj/urldb) 设计的AstrBot插件，支持被@时搜索功能。",
       "author": "老九",
       "repo": "https://github.com/ctwj/astrbot_plugin_urldb",
-      "tags": [],
       "social_link": "https://pan.l9.lc",
+      "tags": [],
       "stars": 2,
       "updated_at": "2025-08-19T04:41:29Z",
       "version": "v0.5"
@@ -77,9 +116,8 @@
       "author": "furryhm",
       "repo": "https://github.com/furryHM-mrz/astrbot_plugin_furry_cgsjk",
       "tags": [],
-      "social_link": "",
       "stars": 0,
-      "updated_at": "2025-08-21T11:38:42Z",
+      "updated_at": "2025-08-25T00:23:38Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_typst_support": {
@@ -89,7 +127,6 @@
       "tags": [
         "typst"
       ],
-      "social_link": "",
       "stars": 0,
       "updated_at": "2025-08-22T17:06:40Z",
       "version": "v1.1.0"
@@ -111,7 +148,6 @@
       "tags": [
         "股市"
       ],
-      "social_link": "",
       "stars": 5,
       "updated_at": "2025-08-24T16:56:08Z",
       "version": "v1.0.3"
@@ -122,8 +158,8 @@
       "repo": "https://github.com/zgojin/astrbot_plugin_figurine_workshop",
       "tags": "娱乐",
       "social_link": "astrbot.uk",
-      "stars": 2,
-      "updated_at": "2025-08-24T13:23:56Z",
+      "stars": 5,
+      "updated_at": "2025-08-25T10:17:13Z",
       "version": "v1.0.1"
     },
     "should_I_respond": {
@@ -131,8 +167,8 @@
       "author": "idk114-514",
       "repo": "https://github.com/idk114-514/should_I_respond",
       "tags": [],
-      "stars": 0,
-      "updated_at": "2025-08-21T12:28:19Z",
+      "stars": 1,
+      "updated_at": "2025-08-25T08:57:50Z",
       "version": "v0.0.1"
     },
     "astrbot_plugin_lmarena": {
@@ -145,8 +181,8 @@
         "手办化"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 21,
-      "updated_at": "2025-08-24T16:20:55Z",
+      "stars": 24,
+      "updated_at": "2025-08-25T10:31:16Z",
       "version": "v1.0.4"
     },
     "astrbot_plugin_Mirecraft_motd": {
@@ -217,8 +253,8 @@
       ],
       "social_link": "https://github.com/danfong1104",
       "stars": 0,
-      "updated_at": "2025-08-22T03:59:39Z",
-      "version": "v2.0.0"
+      "updated_at": "2025-08-25T03:48:42Z",
+      "version": "v2.0.1"
     },
     "astrbot_plugin_tts_emotion_router": {
       "desc": "按情绪路由到不同音色与语速的 TTS 插件（硅基流动 API，其他OpenAI语音接口api同样适配），支持隐藏标记与启发式情绪识别、概率/长度/冷却门控与会话开关。",
@@ -230,9 +266,9 @@
         "SiliconFlow"
       ],
       "social_link": "https://github.com/muyouzhi6",
-      "stars": 8,
-      "updated_at": "2025-08-24T17:09:24Z",
-      "version": "0.1.1"
+      "stars": 9,
+      "updated_at": "2025-08-25T09:17:48Z",
+      "version": "0.2.1"
     },
     "astrbot_plugin_keyword_monitor": {
       "desc": "当群里出现关键词时触发自动提醒。",
@@ -266,7 +302,7 @@
       "social_link": "https://github.com/muyouzhi6",
       "tags": [],
       "stars": 2,
-      "updated_at": "2025-08-23T11:17:01Z",
+      "updated_at": "2025-08-25T03:11:47Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_provider_ark_ResponsesAPI": {
@@ -362,8 +398,8 @@
         "唤醒增强"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 8,
-      "updated_at": "2025-08-24T16:23:47Z",
+      "stars": 9,
+      "updated_at": "2025-08-25T10:18:46Z",
       "version": "v1.0.3"
     },
     "astrbot_plugin_memora_connect": {
@@ -605,8 +641,8 @@
         "增强"
       ],
       "stars": 10,
-      "updated_at": "2025-08-23T11:04:20Z",
-      "version": "2.6.4"
+      "updated_at": "2025-08-25T11:17:47Z",
+      "version": "2.9.1"
     },
     "astrbot_plugin_Group-Verification_PRO": {
       "desc": "一个强大的 QQ 群成员入群验证插件。新成员需回答动态生成的 100 以内加减法问题方可入群。支持完全自定义的提示消息（成功、失败、超时警告、踢出等）和时间控制（验证超时、警告时机、踢出延迟）。当用户回答错误时，会自动生成新题目并重置验证时间，有效防止机器人账号。",
@@ -681,7 +717,7 @@
         "弗一把"
       ],
       "stars": 1,
-      "updated_at": "2025-08-05T07:27:15Z",
+      "updated_at": "2025-08-25T07:10:23Z",
       "version": "v1.6.0"
     },
     "astrbot_plugin_better_markdown_to_image": {
@@ -1168,8 +1204,8 @@
         "娱乐"
       ],
       "stars": 4,
-      "updated_at": "2025-08-24T12:55:31Z",
-      "version": "v2.0.2"
+      "updated_at": "2025-08-25T10:32:20Z",
+      "version": "v2.0.4"
     },
     "astrbot_plugin_file": {
       "name": "astrbot_plugin_file",
@@ -1508,8 +1544,8 @@
         "selenium"
       ],
       "social_link": "https://github.com/zhewang448",
-      "stars": 2,
-      "updated_at": "2025-08-23T05:51:11Z",
+      "stars": 3,
+      "updated_at": "2025-08-25T05:04:12Z",
       "version": "v1.1.8"
     },
     "astrbot_plugin_shutup": {
@@ -2058,8 +2094,8 @@
         "音乐"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 46,
-      "updated_at": "2025-08-23T12:03:37Z",
+      "stars": 48,
+      "updated_at": "2025-08-25T10:58:45Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_renjian": {
@@ -2173,7 +2209,7 @@
         "函数工具"
       ],
       "stars": 8,
-      "updated_at": "2025-08-08T01:55:46Z",
+      "updated_at": "2025-08-25T10:28:33Z",
       "version": "v1.4.0"
     },
     "astrbot_plugin_dzmm": {
@@ -2926,8 +2962,8 @@
         "api"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-      "stars": 70,
-      "updated_at": "2025-08-24T16:09:38Z",
+      "stars": 72,
+      "updated_at": "2025-08-25T06:26:53Z",
       "version": "v2.0.0"
     },
     "astrbot_plugin_help": {
@@ -3134,7 +3170,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 20,
-      "updated_at": "2025-08-24T23:20:59Z",
+      "updated_at": "2025-08-25T11:20:11Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -3534,9 +3570,9 @@
         "复读"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_reread",
-      "stars": 16,
-      "updated_at": "2025-08-24T10:19:56Z",
-      "version": "v1.1.1"
+      "stars": 17,
+      "updated_at": "2025-08-25T09:07:57Z",
+      "version": "v1.1.2"
     },
     "astrbot_plugin_csbaoyan": {
       "desc": "计算机保研院校信息查询、通知订阅插件。数据来源于 GitHub CS-BAOYAN (绿群官方)组织。",
@@ -4443,8 +4479,8 @@
         "bilibili"
       ],
       "social_link": "https://github.com/miaoxutao123/",
-      "stars": 36,
-      "updated_at": "2025-08-24T16:20:00Z",
+      "stars": 37,
+      "updated_at": "2025-08-25T05:29:17Z",
       "version": "v0.2.9"
     },
     "astrbot_plugin_sjzb": {
@@ -5390,7 +5426,7 @@
       "repo": "https://github.com/jmt059/DailyWife",
       "tags": [],
       "stars": 5,
-      "updated_at": "2025-07-11T09:11:15Z",
+      "updated_at": "2025-08-25T09:18:48Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_AW": {
