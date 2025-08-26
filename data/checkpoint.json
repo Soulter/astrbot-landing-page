@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-08-25T12:42:21.943Z",
+  "timestamp": "2025-08-26T01:40:01.109Z",
   "github": {
-    "stars": 11685,
-    "forks": 833,
+    "stars": 11693,
+    "forks": 834,
     "contributors": 86
   },
   "plugins": {
@@ -98,8 +98,8 @@
       "repo": "https://github.com/furryHM-mrz/asbot_plugin_furry-API-hy",
       "tags": [],
       "stars": 2,
-      "updated_at": "2025-08-20T13:51:21Z",
-      "version": "v3.4"
+      "updated_at": "2025-08-25T12:13:01Z",
+      "version": "v3.4.1"
     },
     "astrbot_plugin_urldb": {
       "desc": "为 [老九网盘数据库系统](https://github.com/ctwj/urldb) 设计的AstrBot插件，支持被@时搜索功能。",
@@ -158,8 +158,8 @@
       "repo": "https://github.com/zgojin/astrbot_plugin_figurine_workshop",
       "tags": "娱乐",
       "social_link": "astrbot.uk",
-      "stars": 5,
-      "updated_at": "2025-08-25T10:17:13Z",
+      "stars": 7,
+      "updated_at": "2025-08-25T19:52:24Z",
       "version": "v1.0.1"
     },
     "should_I_respond": {
@@ -182,7 +182,7 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 24,
-      "updated_at": "2025-08-25T10:31:16Z",
+      "updated_at": "2025-08-25T12:56:00Z",
       "version": "v1.0.4"
     },
     "astrbot_plugin_Mirecraft_motd": {
@@ -266,9 +266,9 @@
         "SiliconFlow"
       ],
       "social_link": "https://github.com/muyouzhi6",
-      "stars": 9,
-      "updated_at": "2025-08-25T09:17:48Z",
-      "version": "0.2.1"
+      "stars": 10,
+      "updated_at": "2025-08-25T18:40:36Z",
+      "version": "0.2.2"
     },
     "astrbot_plugin_keyword_monitor": {
       "desc": "当群里出现关键词时触发自动提醒。",
@@ -365,8 +365,8 @@
       ],
       "social_link": "https://t.me/astrbot_plugin_HINS",
       "stars": 3,
-      "updated_at": "2025-08-23T17:17:28Z",
-      "version": "v1.3.1"
+      "updated_at": "2025-08-25T18:57:08Z",
+      "version": "v1.3.5"
     },
     "astrbot_plugin_xfbank": {
       "desc": "一个简易的银行插件",
@@ -399,8 +399,8 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 9,
-      "updated_at": "2025-08-25T10:18:46Z",
-      "version": "v1.0.3"
+      "updated_at": "2025-08-25T11:31:08Z",
+      "version": "v1.0.4"
     },
     "astrbot_plugin_memora_connect": {
       "desc": "一个模仿人类记忆方式的记忆插件。",
@@ -641,8 +641,8 @@
         "增强"
       ],
       "stars": 10,
-      "updated_at": "2025-08-25T11:17:47Z",
-      "version": "2.9.1"
+      "updated_at": "2025-08-25T18:42:06Z",
+      "version": "2.9.3"
     },
     "astrbot_plugin_Group-Verification_PRO": {
       "desc": "一个强大的 QQ 群成员入群验证插件。新成员需回答动态生成的 100 以内加减法问题方可入群。支持完全自定义的提示消息（成功、失败、超时警告、踢出等）和时间控制（验证超时、警告时机、踢出延迟）。当用户回答错误时，会自动生成新题目并重置验证时间，有效防止机器人账号。",
@@ -653,8 +653,8 @@
         "群审核"
       ],
       "social_link": "https://github.com/huntuo146",
-      "stars": 2,
-      "updated_at": "2025-08-19T14:20:16Z",
+      "stars": 3,
+      "updated_at": "2025-08-25T11:57:54Z",
       "version": "1.0.4"
     },
     "pokemon_fusion": {
@@ -767,7 +767,7 @@
         "轮询"
       ],
       "stars": 3,
-      "updated_at": "2025-08-24T16:31:05Z",
+      "updated_at": "2025-08-25T13:32:26Z",
       "version": "v1.2.0"
     },
     "astrbot_plugin_silent": {
@@ -1204,7 +1204,7 @@
         "娱乐"
       ],
       "stars": 4,
-      "updated_at": "2025-08-25T10:32:20Z",
+      "updated_at": "2025-08-25T16:02:24Z",
       "version": "v2.0.4"
     },
     "astrbot_plugin_file": {
@@ -2209,8 +2209,8 @@
         "函数工具"
       ],
       "stars": 8,
-      "updated_at": "2025-08-25T10:28:33Z",
-      "version": "v1.4.0"
+      "updated_at": "2025-08-25T13:26:35Z",
+      "version": "v1.4.1"
     },
     "astrbot_plugin_dzmm": {
       "author": "VincentHo",
@@ -2277,8 +2277,8 @@
         "RAG",
         "知识库"
       ],
-      "stars": 56,
-      "updated_at": "2025-08-24T14:10:30Z",
+      "stars": 57,
+      "updated_at": "2025-08-25T16:45:44Z",
       "version": "v0.5.9"
     },
     "astrbot_uptime_kuma_webhook_plugin": {
@@ -2498,8 +2498,8 @@
         "主动消息",
         "通知"
       ],
-      "stars": 4,
-      "updated_at": "2025-08-04T06:14:18Z",
+      "stars": 5,
+      "updated_at": "2025-08-25T14:51:37Z",
       "version": "v1.0.3"
     },
     "astrbot_plugin_emoji_like": {
@@ -2511,7 +2511,7 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 11,
-      "updated_at": "2025-08-22T01:52:25Z",
+      "updated_at": "2025-08-25T12:08:44Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_pock_mini": {
@@ -2962,8 +2962,8 @@
         "api"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-      "stars": 72,
-      "updated_at": "2025-08-25T06:26:53Z",
+      "stars": 73,
+      "updated_at": "2025-08-25T14:10:44Z",
       "version": "v2.0.0"
     },
     "astrbot_plugin_help": {
@@ -3170,7 +3170,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 20,
-      "updated_at": "2025-08-25T11:20:11Z",
+      "updated_at": "2025-08-25T23:21:34Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -3677,7 +3677,7 @@
         "QQ群管"
       ],
       "stars": 37,
-      "updated_at": "2025-08-23T09:20:32Z",
+      "updated_at": "2025-08-25T19:03:08Z",
       "version": "v3.0.9"
     },
     "astrbot_plugin_liars_bar": {
@@ -4790,8 +4790,8 @@
         "功能",
         "搬史"
       ],
-      "stars": 288,
-      "updated_at": "2025-08-22T09:49:33Z",
+      "stars": 287,
+      "updated_at": "2025-08-25T11:43:49Z",
       "version": "v0.912"
     },
     "astrbot_plugin_superpoke": {
