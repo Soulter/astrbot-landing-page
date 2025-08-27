@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-08-27T01:37:05.742Z",
+  "timestamp": "2025-08-27T12:40:48.069Z",
   "github": {
-    "stars": 11726,
+    "stars": 11734,
     "forks": 838,
     "contributors": 87
   },
@@ -148,8 +148,8 @@
       "tags": [
         "股市"
       ],
-      "stars": 6,
-      "updated_at": "2025-08-26T00:44:31Z",
+      "stars": 7,
+      "updated_at": "2025-08-27T03:11:21Z",
       "version": "v1.0.3"
     },
     "astrbot_plugin_figurine_workshop": {
@@ -158,8 +158,8 @@
       "repo": "https://github.com/zgojin/astrbot_plugin_figurine_workshop",
       "tags": "娱乐",
       "social_link": "astrbot.uk",
-      "stars": 8,
-      "updated_at": "2025-08-26T05:13:42Z",
+      "stars": 10,
+      "updated_at": "2025-08-27T10:45:30Z",
       "version": "v1.0.1"
     },
     "should_I_respond": {
@@ -181,8 +181,8 @@
         "手办化"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 27,
-      "updated_at": "2025-08-26T15:50:39Z",
+      "stars": 30,
+      "updated_at": "2025-08-27T10:21:26Z",
       "version": "v1.0.4"
     },
     "astrbot_plugin_Mirecraft_motd": {
@@ -337,7 +337,7 @@
       ],
       "social_link": "https://github.com/NickCharlie",
       "stars": 15,
-      "updated_at": "2025-08-26T21:43:53Z",
+      "updated_at": "2025-08-27T05:33:18Z",
       "version": "1.2.4"
     },
     "astrbot_plugin_baiduocr": {
@@ -398,9 +398,9 @@
         "唤醒增强"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 11,
-      "updated_at": "2025-08-26T17:07:03Z",
-      "version": "v1.0.8"
+      "stars": 12,
+      "updated_at": "2025-08-27T05:04:17Z",
+      "version": "v1.0.9"
     },
     "astrbot_plugin_memora_connect": {
       "desc": "一个模仿人类记忆方式的记忆插件。",
@@ -436,8 +436,8 @@
         "工具"
       ],
       "social_link": "astrbot.uk",
-      "stars": 1,
-      "updated_at": "2025-08-24T06:19:16Z",
+      "stars": 2,
+      "updated_at": "2025-08-27T10:45:28Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_outputpro": {
@@ -449,8 +449,8 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 3,
-      "updated_at": "2025-08-21T03:57:46Z",
-      "version": "v1.0.0"
+      "updated_at": "2025-08-27T10:52:23Z",
+      "version": "v1.0.1"
     },
     "astrbot_plugin_image_summary": {
       "desc": "[仅aiocqhttp] 图片外显插件, 将群外显示的“图片”二字替换成更丰富的句子",
@@ -527,8 +527,8 @@
       "author": "CaQing ＆ GPT-5 Pro",
       "repo": "https://github.com/caqingtgas/astrbot_plugin_identity_strategy",
       "tags": [],
-      "stars": 0,
-      "updated_at": "2025-08-19T01:36:39Z",
+      "stars": 1,
+      "updated_at": "2025-08-27T05:25:21Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_qzone": {
@@ -574,8 +574,8 @@
         "语音转化"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 2,
-      "updated_at": "2025-08-22T06:35:56Z",
+      "stars": 3,
+      "updated_at": "2025-08-27T08:26:45Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_spark_tts": {
@@ -766,8 +766,8 @@
         "屏蔽",
         "轮询"
       ],
-      "stars": 3,
-      "updated_at": "2025-08-25T13:32:26Z",
+      "stars": 4,
+      "updated_at": "2025-08-27T07:48:00Z",
       "version": "v1.2.0"
     },
     "astrbot_plugin_silent": {
@@ -776,8 +776,8 @@
       "repo": "https://github.com/chris95743/astrbot_plugin_silent",
       "social_link": "https://wickh.cn",
       "tags": [],
-      "stars": 1,
-      "updated_at": "2025-08-01T05:01:41Z",
+      "stars": 2,
+      "updated_at": "2025-08-27T07:48:18Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_random_likes": {
@@ -1213,8 +1213,8 @@
       "repo": "https://github.com/Chris95743/astrbot_plugin_file",
       "author": null,
       "tags": [],
-      "stars": 5,
-      "updated_at": "2025-08-20T10:57:06Z",
+      "stars": 6,
+      "updated_at": "2025-08-27T07:48:02Z",
       "version": "v1.2.0"
     },
     "astrobot_plugin_code_executor": {
@@ -1256,8 +1256,8 @@
       "author": "Chris",
       "repo": "https://github.com/Chris95743/astrbot_plugin_balance",
       "tags": [],
-      "stars": 6,
-      "updated_at": "2025-08-24T16:21:07Z",
+      "stars": 7,
+      "updated_at": "2025-08-27T07:48:05Z",
       "version": "v1.4.0"
     },
     "astrbot_plugin_mp": {
@@ -2094,8 +2094,8 @@
         "音乐"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 48,
-      "updated_at": "2025-08-25T10:58:45Z",
+      "stars": 49,
+      "updated_at": "2025-08-27T08:54:06Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_renjian": {
@@ -2208,8 +2208,8 @@
         "生图",
         "函数工具"
       ],
-      "stars": 8,
-      "updated_at": "2025-08-25T13:26:35Z",
+      "stars": 9,
+      "updated_at": "2025-08-27T09:02:29Z",
       "version": "v1.4.1"
     },
     "astrbot_plugin_dzmm": {
@@ -2647,8 +2647,8 @@
         "禁漫"
       ],
       "social_link": "https://github.com/GEMILUXVII",
-      "stars": 32,
-      "updated_at": "2025-08-22T11:14:04Z",
+      "stars": 33,
+      "updated_at": "2025-08-27T01:43:50Z",
       "version": "1.0.7"
     },
     "astrbot_plugin_combine-messages": {
@@ -2877,8 +2877,8 @@
         "按钮"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 26,
-      "updated_at": "2025-08-23T09:21:31Z",
+      "stars": 27,
+      "updated_at": "2025-08-27T06:17:43Z",
       "version": "v2.0.0"
     },
     "astrbot_plugin_SillyTavern_card": {
@@ -3170,7 +3170,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 20,
-      "updated_at": "2025-08-26T23:20:21Z",
+      "updated_at": "2025-08-27T11:18:55Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -4135,7 +4135,7 @@
         "PDF"
       ],
       "stars": 1,
-      "updated_at": "2025-05-18T15:28:10Z",
+      "updated_at": "2025-08-27T09:19:35Z",
       "version": "v0.4"
     },
     "astrbot_plugin_jm_sender": {
@@ -4743,8 +4743,8 @@
         "数据查询",
         "图片"
       ],
-      "stars": 11,
-      "updated_at": "2025-08-15T17:31:24Z",
+      "stars": 12,
+      "updated_at": "2025-08-27T05:26:39Z",
       "version": "v1.8.6"
     },
     "astrbot_plugin_GGAC_Messenger": {
@@ -5443,8 +5443,8 @@
       "author": "lxfight",
       "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
       "tags": [],
-      "stars": 116,
-      "updated_at": "2025-08-23T09:17:08Z",
+      "stars": 117,
+      "updated_at": "2025-08-27T05:21:30Z",
       "version": "v0.5.1"
     },
     "FateTrial_img_identify": {
