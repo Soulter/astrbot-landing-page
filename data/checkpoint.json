@@ -1,9 +1,9 @@
 {
-  "timestamp": "2025-08-26T12:43:39.585Z",
+  "timestamp": "2025-08-27T01:37:05.742Z",
   "github": {
-    "stars": 11718,
-    "forks": 836,
-    "contributors": 86
+    "stars": 11726,
+    "forks": 838,
+    "contributors": 87
   },
   "plugins": {
     "xfbank": {
@@ -32,8 +32,8 @@
       "author": "furryhm",
       "repo": "https://github.com/furryHM-mrz/asbot_plugin_furry_mzxyy",
       "tags": [],
-      "stars": 2,
-      "updated_at": "2025-08-26T01:56:02Z",
+      "stars": 3,
+      "updated_at": "2025-08-26T18:27:58Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_auto_ban_new": {
@@ -46,7 +46,7 @@
       ],
       "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
       "stars": 2,
-      "updated_at": "2025-08-23T05:16:42Z",
+      "updated_at": "2025-08-26T12:25:28Z",
       "version": "v1.0"
     },
     "command_to_llm": {
@@ -98,8 +98,8 @@
       "repo": "https://github.com/furryHM-mrz/asbot_plugin_furry-API-hy",
       "tags": [],
       "stars": 2,
-      "updated_at": "2025-08-25T12:13:01Z",
-      "version": "v3.4.1"
+      "updated_at": "2025-08-26T15:35:15Z",
+      "version": "v3.5.0"
     },
     "astrbot_plugin_urldb": {
       "desc": "为 [老九网盘数据库系统](https://github.com/ctwj/urldb) 设计的AstrBot插件，支持被@时搜索功能。",
@@ -181,8 +181,8 @@
         "手办化"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 23,
-      "updated_at": "2025-08-26T05:01:08Z",
+      "stars": 27,
+      "updated_at": "2025-08-26T15:50:39Z",
       "version": "v1.0.4"
     },
     "astrbot_plugin_Mirecraft_motd": {
@@ -336,9 +336,9 @@
         "人格"
       ],
       "social_link": "https://github.com/NickCharlie",
-      "stars": 14,
-      "updated_at": "2025-08-26T10:43:49Z",
-      "version": "1.2.3"
+      "stars": 15,
+      "updated_at": "2025-08-26T21:43:53Z",
+      "version": "1.2.4"
     },
     "astrbot_plugin_baiduocr": {
       "desc": "百度智能云的 OCR 文字识别服务。新用户有千次的免费调用次数，适合轻度使用",
@@ -399,8 +399,8 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 11,
-      "updated_at": "2025-08-26T10:47:16Z",
-      "version": "v1.0.5"
+      "updated_at": "2025-08-26T17:07:03Z",
+      "version": "v1.0.8"
     },
     "astrbot_plugin_memora_connect": {
       "desc": "一个模仿人类记忆方式的记忆插件。",
@@ -641,8 +641,8 @@
         "增强"
       ],
       "stars": 10,
-      "updated_at": "2025-08-26T10:07:23Z",
-      "version": "2.9.4"
+      "updated_at": "2025-08-26T14:13:59Z",
+      "version": "2.9.6"
     },
     "astrbot_plugin_Group-Verification_PRO": {
       "desc": "一个强大的 QQ 群成员入群验证插件。新成员需回答动态生成的 100 以内加减法问题方可入群。支持完全自定义的提示消息（成功、失败、超时警告、踢出等）和时间控制（验证超时、警告时机、踢出延迟）。当用户回答错误时，会自动生成新题目并重置验证时间，有效防止机器人账号。",
@@ -753,8 +753,8 @@
         "屏幕控制"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 6,
-      "updated_at": "2025-08-24T16:24:58Z",
+      "stars": 7,
+      "updated_at": "2025-08-26T13:03:02Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_error_pro": {
@@ -1204,7 +1204,7 @@
         "娱乐"
       ],
       "stars": 4,
-      "updated_at": "2025-08-25T16:02:24Z",
+      "updated_at": "2025-08-26T12:15:25Z",
       "version": "v2.0.4"
     },
     "astrbot_plugin_file": {
@@ -2806,8 +2806,8 @@
       "desc": "一个用于 AstrBot 的插件，实现类似Google Emoji Kitchen(合成emoji)的效果。",
       "repo": "https://github.com/Flartiny/astrbot_plugin_emojimix",
       "tags": [],
-      "stars": 3,
-      "updated_at": "2025-07-14T11:49:53Z",
+      "stars": 4,
+      "updated_at": "2025-08-26T17:43:47Z",
       "version": "v1.0.2"
     },
     "astrBot_plugin_0721galgame": {
@@ -3170,7 +3170,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 20,
-      "updated_at": "2025-08-26T11:20:32Z",
+      "updated_at": "2025-08-26T23:20:21Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -5426,8 +5426,8 @@
       "repo": "https://github.com/jmt059/DailyWife",
       "tags": [],
       "stars": 5,
-      "updated_at": "2025-08-25T09:18:48Z",
-      "version": "v1.0.1"
+      "updated_at": "2025-08-26T14:00:29Z",
+      "version": "v1.0.2"
     },
     "astrbot_plugin_AW": {
       "desc": "群老婆插件，记得点右上角帮助查看readme",
@@ -5623,9 +5623,9 @@
       "desc": "过滤消息段中的think",
       "repo": "https://github.com/zgojin/astrbot_plugin_thinkTags",
       "tags": [],
-      "stars": 2,
-      "updated_at": "2025-08-24T16:15:59Z",
-      "version": "v1.4"
+      "stars": 3,
+      "updated_at": "2025-08-26T16:25:22Z",
+      "version": "v1.4.1"
     }
   }
 }
