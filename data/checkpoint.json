@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-08-28T12:40:21.804Z",
+  "timestamp": "2025-08-29T01:36:39.826Z",
   "github": {
-    "stars": 11758,
+    "stars": 11766,
     "forks": 840,
     "contributors": 87
   },
@@ -181,8 +181,8 @@
         "手办化"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 30,
-      "updated_at": "2025-08-27T10:21:26Z",
+      "stars": 33,
+      "updated_at": "2025-08-28T18:24:24Z",
       "version": "v1.0.4"
     },
     "astrbot_plugin_Mirecraft_motd": {
@@ -425,7 +425,7 @@
       ],
       "social_link": "https://github.com/qa296",
       "stars": 4,
-      "updated_at": "2025-08-21T03:47:30Z",
+      "updated_at": "2025-08-28T13:29:10Z",
       "version": "v0.1.2"
     },
     "astrbot_plugin_who_at_me": {
@@ -2277,8 +2277,8 @@
         "RAG",
         "知识库"
       ],
-      "stars": 58,
-      "updated_at": "2025-08-26T02:26:05Z",
+      "stars": 59,
+      "updated_at": "2025-08-28T15:37:31Z",
       "version": "v0.5.9"
     },
     "astrbot_uptime_kuma_webhook_plugin": {
@@ -3170,7 +3170,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 20,
-      "updated_at": "2025-08-28T11:18:38Z",
+      "updated_at": "2025-08-28T23:20:38Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -3559,7 +3559,7 @@
         "ehentai"
       ],
       "stars": 5,
-      "updated_at": "2025-08-28T05:58:16Z",
+      "updated_at": "2025-08-28T11:32:23Z",
       "version": "v3.0"
     },
     "astrbot_plugin_reread": {
@@ -4320,7 +4320,7 @@
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
       "stars": 45,
-      "updated_at": "2025-08-27T11:47:37Z",
+      "updated_at": "2025-08-28T17:46:16Z",
       "version": "v1.1.4"
     },
     "astrbot_plugin_yuafeng": {
@@ -4729,7 +4729,7 @@
       ],
       "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
       "stars": 66,
-      "updated_at": "2025-08-26T06:35:38Z",
+      "updated_at": "2025-08-28T19:34:38Z",
       "version": "v2.1.4"
     },
     "astrbot_plugin_steamshot": {
