@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-08-29T01:36:39.826Z",
+  "timestamp": "2025-08-29T12:40:00.409Z",
   "github": {
-    "stars": 11766,
-    "forks": 840,
+    "stars": 11784,
+    "forks": 841,
     "contributors": 87
   },
   "plugins": {
@@ -89,8 +89,8 @@
       "repo": "https://github.com/furryHM-mrz/asbot_plugin_furry-API-",
       "tags": [],
       "stars": 2,
-      "updated_at": "2025-08-20T13:51:01Z",
-      "version": "v2.0"
+      "updated_at": "2025-08-29T08:39:14Z",
+      "version": "v2.1"
     },
     "asbot_plugin_furry-API-hy": {
       "desc": "调用趣绮梦云黑API的群黑云查询踢出还有进群自动检测黑云有问题自动踢出的插件",
@@ -181,8 +181,8 @@
         "手办化"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 33,
-      "updated_at": "2025-08-28T18:24:24Z",
+      "stars": 36,
+      "updated_at": "2025-08-29T09:38:43Z",
       "version": "v1.0.4"
     },
     "astrbot_plugin_Mirecraft_motd": {
@@ -337,8 +337,8 @@
       ],
       "social_link": "https://github.com/NickCharlie",
       "stars": 16,
-      "updated_at": "2025-08-27T16:36:28Z",
-      "version": "1.2.4"
+      "updated_at": "2025-08-29T05:47:45Z",
+      "version": "1.2.5"
     },
     "astrbot_plugin_baiduocr": {
       "desc": "百度智能云的 OCR 文字识别服务。新用户有千次的免费调用次数，适合轻度使用",
@@ -412,8 +412,8 @@
       ],
       "social_link": "https://github.com/qa296/",
       "stars": 7,
-      "updated_at": "2025-08-28T07:30:25Z",
-      "version": "v0.2.1"
+      "updated_at": "2025-08-29T05:07:11Z",
+      "version": "v0.2.2"
     },
     "astrbot_plugin_iearning_style": {
       "desc": "使机器人可以从聊天中学习他人说话方式",
@@ -449,7 +449,7 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 3,
-      "updated_at": "2025-08-27T10:52:23Z",
+      "updated_at": "2025-08-29T04:52:57Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_image_summary": {
@@ -1041,8 +1041,8 @@
       ],
       "social_link": "https://github.com/advent259141",
       "pinned": true,
-      "stars": 36,
-      "updated_at": "2025-08-24T13:09:27Z",
+      "stars": 37,
+      "updated_at": "2025-08-29T00:30:45Z",
       "version": "1.3.0"
     },
     "cngal_search": {
@@ -1166,8 +1166,8 @@
         "工具"
       ],
       "stars": 4,
-      "updated_at": "2025-07-21T03:45:55Z",
-      "version": "v1.0.6"
+      "updated_at": "2025-08-29T03:15:03Z",
+      "version": "v1.0.7"
     },
     "astrbot_plugin_RecallGuard": {
       "name": "astrbot_plugin_RecallGuard",
@@ -2522,8 +2522,8 @@
         "聊天体验增强"
       ],
       "social_link": "https://wenturc.com/",
-      "stars": 4,
-      "updated_at": "2025-07-19T15:03:32Z",
+      "stars": 3,
+      "updated_at": "2025-08-29T08:42:49Z",
       "version": "v1.7.1"
     },
     "astrbot_plugin_lanraragi": {
@@ -3170,7 +3170,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 20,
-      "updated_at": "2025-08-28T23:20:38Z",
+      "updated_at": "2025-08-29T11:18:30Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -4203,8 +4203,8 @@
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
       "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
-      "stars": 49,
-      "updated_at": "2025-08-24T13:58:44Z",
+      "stars": 50,
+      "updated_at": "2025-08-29T10:36:11Z",
       "version": "v1.0.8"
     },
     "astrbot_plugin_saris_economic": {
@@ -4994,8 +4994,8 @@
       "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
       "tags": [],
       "stars": 18,
-      "updated_at": "2025-08-28T10:49:47Z",
-      "version": "v1.2.7"
+      "updated_at": "2025-08-29T11:01:37Z",
+      "version": "v1.2.8"
     },
     "ai_memory": {
       "desc": "一个AI记忆管理插件，可以让ai记住重要的事，记忆读取是ai自己调用的，有时候呆呆的ai不会自己调用，可以多问几次或者人格加上特定提示词,输入 /mem_help 查看记忆管理帮助",
@@ -5057,8 +5057,8 @@
       "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
       "tags": [],
       "stars": 28,
-      "updated_at": "2025-08-02T08:25:31Z",
-      "version": "v1.4.9"
+      "updated_at": "2025-08-29T05:20:09Z",
+      "version": "v1.4.10"
     },
     "astrbot_plugin_leetcode": {
       "desc": "leetcode 每日一题、随机题目。",
