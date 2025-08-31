@@ -1,11 +1,82 @@
 {
-  "timestamp": "2025-08-31T01:41:09.464Z",
+  "timestamp": "2025-08-31T12:36:44.628Z",
   "github": {
-    "stars": 11807,
+    "stars": 11814,
     "forks": 842,
     "contributors": 87
   },
   "plugins": {
+    "astrbot_plugin_mememaker_api": {
+      "author": "jmt059",
+      "repo": "https://github.com/jmt059/astrbot_plugin_mememaker_api",
+      "desc": "表情包制作插件(api版)，功能齐全，需要调用 meme-generator 服务",
+      "tags": [
+        "meme",
+        "表情包"
+      ],
+      "stars": 0,
+      "updated_at": "2025-08-26T16:31:36Z",
+      "version": "v1.0.1"
+    },
+    "wxauto_repost": {
+      "desc": "微信消息转发框架插件 - 基于 wxauto 库和 OneBotV11 协议，支持微信消息与 OneBotV11 协议的双向转发",
+      "author": "汐灿",
+      "repo": "https://github.com/luosheng520qaq/wxauto-repost-onebotv11",
+      "tags": [
+        "wechat",
+        "wxauto"
+      ],
+      "social_link": "blog.isla.ltd",
+      "stars": 1,
+      "updated_at": "2025-08-29T14:31:06Z",
+      "version": "1.1.0"
+    },
+    "astrbot_plugin_AnimeMagnet": {
+      "desc": "这是一个动漫磁链查询插件，可以获取动漫磁链",
+      "author": "Hxfrzc",
+      "repo": "https://github.com/Hxfrzc/astrbot_plugin_AnimeMagnet",
+      "tags": [
+        "动漫",
+        "番剧",
+        "磁链"
+      ],
+      "stars": 4,
+      "updated_at": "2025-08-25T18:27:14Z",
+      "version": "v1.0"
+    },
+    "astrbot_plugin_restrict_syscmd": {
+      "desc": "限制仅管理员可用某些指令（支持自定义），静默处理不回复，防止bot被测，防止被恶意new、reset等",
+      "author": "木有知",
+      "repo": "https://github.com/muyouzhi6/astrbot_plugin_restrict_syscmd",
+      "tags": [],
+      "stars": 1,
+      "updated_at": "2025-08-30T18:40:01Z",
+      "version": "0.2.0"
+    },
+    "astrbot_plugin_jojo_stand_panel": {
+      "desc": "一个用于 AstrBot 的 JOJO 替身面板生成插件，调用 TripleYing 的 API 生成 JOJO 风格替身面板图片。支持随机生成、自定义设置、替身系统等功能。",
+      "author": "Dogend",
+      "repo": "https://github.com/Dogend233/astrbot_plugin_jojo_stand_panel",
+      "tags": [
+        "JOJO"
+      ],
+      "social_link": "http://www.tripleying.com/jojo",
+      "stars": 0,
+      "updated_at": "2025-08-29T17:06:36Z",
+      "version": "v2.1.0"
+    },
+    "astrbot_plugin_qun_album": {
+      "desc": "[仅napcat>=4.8.100] 群相册插件，记录群友怪话",
+      "author": "Zhalslar",
+      "repo": "https://github.com/Zhalslar/astrbot_plugin_qun_album",
+      "tags": [
+        "群相册"
+      ],
+      "social_link": "https://github.com/Zhalslar",
+      "stars": 3,
+      "updated_at": "2025-08-28T13:30:47Z",
+      "version": "v1.0.2"
+    },
     "astrbot_plugin_favourpro": {
       "desc": "这是一个与现有好感度系统完全不同的插件。它不再是一个简单的数值计算工具，而是旨在为 AI 模拟一个多维度、自主且保密的内心世界。AI 会根据与用户的互动，真实地改变其内在的“好感度”、“态度”和“关系”，并通过回应风格的变化自然地流露出来。",
       "author": "天各一方",
@@ -109,7 +180,7 @@
       "repo": "https://github.com/furryHM-mrz/asbot_plugin_furry-API-",
       "tags": [],
       "stars": 2,
-      "updated_at": "2025-08-29T08:39:14Z",
+      "updated_at": "2025-08-31T07:54:10Z",
       "version": "v2.1"
     },
     "asbot_plugin_furry-API-hy": {
@@ -128,7 +199,7 @@
       "social_link": "https://pan.l9.lc",
       "tags": [],
       "stars": 2,
-      "updated_at": "2025-08-19T04:41:29Z",
+      "updated_at": "2025-08-31T00:36:31Z",
       "version": "v0.5"
     },
     "astrbot_plugin_furry_cgsjk": {
@@ -201,8 +272,8 @@
         "手办化"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 39,
-      "updated_at": "2025-08-30T16:41:08Z",
+      "stars": 44,
+      "updated_at": "2025-08-31T09:26:24Z",
       "version": "v2.0.0"
     },
     "astrbot_plugin_Mirecraft_motd": {
@@ -287,8 +358,8 @@
       ],
       "social_link": "https://github.com/muyouzhi6",
       "stars": 13,
-      "updated_at": "2025-08-30T19:05:23Z",
-      "version": "0.3.0"
+      "updated_at": "2025-08-31T10:17:46Z",
+      "version": "0.3.2"
     },
     "astrbot_plugin_keyword_monitor": {
       "desc": "当群里出现关键词时触发自动提醒。",
@@ -2297,8 +2368,8 @@
         "RAG",
         "知识库"
       ],
-      "stars": 58,
-      "updated_at": "2025-08-30T13:50:30Z",
+      "stars": 59,
+      "updated_at": "2025-08-31T03:07:44Z",
       "version": "v0.5.9"
     },
     "astrbot_uptime_kuma_webhook_plugin": {
@@ -2531,7 +2602,7 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 11,
-      "updated_at": "2025-08-25T12:08:44Z",
+      "updated_at": "2025-08-31T08:26:10Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_pock_mini": {
@@ -2667,8 +2738,8 @@
         "禁漫"
       ],
       "social_link": "https://github.com/GEMILUXVII",
-      "stars": 34,
-      "updated_at": "2025-08-30T10:57:48Z",
+      "stars": 35,
+      "updated_at": "2025-08-31T03:08:32Z",
       "version": "1.0.7"
     },
     "astrbot_plugin_combine-messages": {
@@ -3190,7 +3261,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 20,
-      "updated_at": "2025-08-30T23:19:39Z",
+      "updated_at": "2025-08-31T11:16:59Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -3291,8 +3362,8 @@
       "desc": "[仅aiocqhttp] 为用户进群退群发送信息提示",
       "repo": "https://github.com/1113-yangfanou/astrbot_plugin_hello-bye",
       "tags": [],
-      "stars": 12,
-      "updated_at": "2025-08-12T18:56:35Z",
+      "stars": 13,
+      "updated_at": "2025-08-31T01:59:54Z",
       "version": "v1.10"
     },
     "astrbot_plugin_pexels": {
@@ -3697,7 +3768,7 @@
         "QQ群管"
       ],
       "stars": 37,
-      "updated_at": "2025-08-30T17:40:32Z",
+      "updated_at": "2025-08-31T03:00:53Z",
       "version": "v3.1.2"
     },
     "astrbot_plugin_liars_bar": {
@@ -4022,8 +4093,8 @@
       "social_link": "https://github.com/xiewoc",
       "tags": [],
       "stars": 3,
-      "updated_at": "2025-08-14T08:37:14Z",
-      "version": "v1.0.1"
+      "updated_at": "2025-08-31T06:52:28Z",
+      "version": "v1.0.2"
     },
     "encrypt-and-decrypt": {
       "desc": "将明文加密为我要吃饭四个字组成的密文",
@@ -4284,8 +4355,8 @@
         "禁言"
       ],
       "stars": 2,
-      "updated_at": "2025-08-22T07:00:30Z",
-      "version": "v0.1.2"
+      "updated_at": "2025-08-31T10:35:37Z",
+      "version": "v0.1.3"
     },
     "astrbot_plugin_custom_menu": {
       "desc": "自定义菜单图片，图片放置在 menu 目录下，支持格式jpg,jpeg,png,gif,bmp。",
@@ -4499,8 +4570,8 @@
         "bilibili"
       ],
       "social_link": "https://github.com/miaoxutao123/",
-      "stars": 37,
-      "updated_at": "2025-08-25T05:29:17Z",
+      "stars": 38,
+      "updated_at": "2025-08-31T06:52:14Z",
       "version": "v0.2.9"
     },
     "astrbot_plugin_sjzb": {
@@ -5392,7 +5463,7 @@
       "repo": "https://github.com/xiewoc/astrbot_plugin_tts_Cosyvoice2",
       "tags": [],
       "stars": 10,
-      "updated_at": "2025-08-30T14:00:34Z",
+      "updated_at": "2025-08-31T03:34:56Z",
       "version": "v1.1.1"
     },
     "astrbot_plugin_sign": {
