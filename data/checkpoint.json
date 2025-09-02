@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-09-02T01:37:54.575Z",
+  "timestamp": "2025-09-02T12:41:27.439Z",
   "github": {
-    "stars": 11837,
+    "stars": 11850,
     "forks": 844,
     "contributors": 87
   },
@@ -16,8 +16,8 @@
         "画图",
         "AI绘画"
       ],
-      "stars": 9,
-      "updated_at": "2025-09-01T16:07:51Z",
+      "stars": 11,
+      "updated_at": "2025-09-02T10:46:51Z",
       "version": "v1.3"
     },
     "github_star_verify": {
@@ -50,7 +50,7 @@
       "repo": "https://github.com/Alent7/astrbot_plugin_boss_notifier",
       "tags": [],
       "stars": 1,
-      "updated_at": "2025-08-29T21:56:44Z",
+      "updated_at": "2025-09-02T05:49:10Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_furry_dsgg": {
@@ -181,8 +181,8 @@
         "群管"
       ],
       "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
-      "stars": 2,
-      "updated_at": "2025-08-26T12:25:28Z",
+      "stars": 3,
+      "updated_at": "2025-09-02T03:38:32Z",
       "version": "v1.0"
     },
     "command_to_llm": {
@@ -294,7 +294,7 @@
         "股市"
       ],
       "stars": 7,
-      "updated_at": "2025-08-27T03:11:21Z",
+      "updated_at": "2025-09-02T10:40:06Z",
       "version": "v1.0.3"
     },
     "astrbot_plugin_figurine_workshop": {
@@ -412,8 +412,8 @@
       ],
       "social_link": "https://github.com/muyouzhi6",
       "stars": 13,
-      "updated_at": "2025-09-01T16:27:54Z",
-      "version": "0.4.1"
+      "updated_at": "2025-09-02T09:16:16Z",
+      "version": "0.4.2"
     },
     "astrbot_plugin_keyword_monitor": {
       "desc": "当群里出现关键词时触发自动提醒。",
@@ -557,8 +557,8 @@
       ],
       "social_link": "https://github.com/qa296/",
       "stars": 7,
-      "updated_at": "2025-08-30T10:07:00Z",
-      "version": "v0.2.3"
+      "updated_at": "2025-09-02T10:18:16Z",
+      "version": "v0.2.4"
     },
     "astrbot_plugin_iearning_style": {
       "desc": "使机器人可以从聊天中学习他人说话方式",
@@ -581,8 +581,8 @@
         "工具"
       ],
       "social_link": "astrbot.uk",
-      "stars": 2,
-      "updated_at": "2025-08-27T10:45:28Z",
+      "stars": 3,
+      "updated_at": "2025-09-02T05:26:04Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_outputpro": {
@@ -664,8 +664,8 @@
       ],
       "social_link": "https://github.com/vmoranv",
       "stars": 1,
-      "updated_at": "2025-08-16T06:16:15Z",
-      "version": "1.0.0"
+      "updated_at": "2025-09-02T04:25:30Z",
+      "version": "1.0.2"
     },
     "astrbot_plugin_identity_strategy": {
       "desc": "为群聊/私聊注入指定的应对提示词（纯配置，无命令；支持特殊ID与空白策略）",
@@ -786,8 +786,8 @@
         "增强"
       ],
       "stars": 11,
-      "updated_at": "2025-08-31T17:36:10Z",
-      "version": "2.9.6"
+      "updated_at": "2025-09-02T09:11:43Z",
+      "version": "2.9.7"
     },
     "astrbot_plugin_Group-Verification_PRO": {
       "desc": "一个强大的 QQ 群成员入群验证插件。新成员需回答动态生成的 100 以内加减法问题方可入群。支持完全自定义的提示消息（成功、失败、超时警告、踢出等）和时间控制（验证超时、警告时机、踢出延迟）。当用户回答错误时，会自动生成新题目并重置验证时间，有效防止机器人账号。",
@@ -1186,8 +1186,8 @@
       ],
       "social_link": "https://github.com/advent259141",
       "pinned": true,
-      "stars": 37,
-      "updated_at": "2025-08-29T00:30:45Z",
+      "stars": 38,
+      "updated_at": "2025-09-02T06:47:22Z",
       "version": "1.3.0"
     },
     "cngal_search": {
@@ -1349,8 +1349,8 @@
         "娱乐"
       ],
       "stars": 4,
-      "updated_at": "2025-08-26T12:15:25Z",
-      "version": "v2.0.4"
+      "updated_at": "2025-09-02T09:25:26Z",
+      "version": "v2.0.5"
     },
     "astrbot_plugin_file": {
       "name": "astrbot_plugin_file",
@@ -1439,8 +1439,8 @@
       "repo": "https://github.com/timetetng/astrbot_plugin_ip_proxy",
       "tags": [],
       "stars": 1,
-      "updated_at": "2025-08-21T16:08:57Z",
-      "version": "v1.5"
+      "updated_at": "2025-09-02T03:14:37Z",
+      "version": "v1.6"
     },
     "astrbot_plugin_cmd_console": {
       "desc": "提供 WebUI 的指令管理面板，可以启用/禁用插件的指令。",
@@ -1545,8 +1545,8 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "author": "Zhalslar",
-      "stars": 4,
-      "updated_at": "2025-08-15T12:53:45Z",
+      "stars": 5,
+      "updated_at": "2025-09-02T03:16:22Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_decision_roulette": {
@@ -1968,8 +1968,8 @@
       "social_link": "https://github.com/oyxning",
       "desc": "祥压抑用户专属，基于关键词触发的香草小祥插件",
       "stars": 11,
-      "updated_at": "2025-08-08T02:50:07Z",
-      "version": "1.5.1"
+      "updated_at": "2025-09-02T07:10:33Z",
+      "version": "1.6.0"
     },
     "astrbot_plugin_n8n": {
       "author": "Wanxp",
@@ -3315,7 +3315,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 20,
-      "updated_at": "2025-09-01T23:20:34Z",
+      "updated_at": "2025-09-02T11:19:18Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -4465,8 +4465,8 @@
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
       "stars": 46,
-      "updated_at": "2025-08-31T16:38:12Z",
-      "version": "v1.1.4"
+      "updated_at": "2025-09-02T09:16:02Z",
+      "version": "v1.1.5"
     },
     "astrbot_plugin_yuafeng": {
       "desc": "对接枫林API提供的接口，随机发 美女视频、帅哥视频、精美图片、逆天音频、伤感文案等等",
@@ -4888,8 +4888,8 @@
         "数据查询",
         "图片"
       ],
-      "stars": 12,
-      "updated_at": "2025-08-27T05:26:39Z",
+      "stars": 13,
+      "updated_at": "2025-09-02T08:29:20Z",
       "version": "v1.8.6"
     },
     "astrbot_plugin_GGAC_Messenger": {
