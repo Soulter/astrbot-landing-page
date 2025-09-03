@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-09-02T12:41:27.439Z",
+  "timestamp": "2025-09-03T01:24:21.038Z",
   "github": {
-    "stars": 11850,
+    "stars": 11857,
     "forks": 844,
     "contributors": 87
   },
@@ -16,8 +16,8 @@
         "画图",
         "AI绘画"
       ],
-      "stars": 11,
-      "updated_at": "2025-09-02T10:46:51Z",
+      "stars": 14,
+      "updated_at": "2025-09-02T22:09:33Z",
       "version": "v1.3"
     },
     "github_star_verify": {
@@ -40,9 +40,9 @@
         "总结"
       ],
       "social_link": "https://github.com/SXP-Simon",
-      "stars": 4,
-      "updated_at": "2025-09-01T15:00:29Z",
-      "version": "v1.6.0"
+      "stars": 5,
+      "updated_at": "2025-09-02T22:10:07Z",
+      "version": "v1.7.0"
     },
     "astrbot_plugin_boss_notifier": {
       "desc": "AstrBot头目通知插件，可更新头目信息并通知订阅者",
@@ -71,8 +71,8 @@
         "api",
         "表情包"
       ],
-      "stars": 3,
-      "updated_at": "2025-09-01T09:49:17Z",
+      "stars": 4,
+      "updated_at": "2025-09-02T16:33:31Z",
       "version": "v1.0.1"
     },
     "wxauto_repost": {
@@ -97,8 +97,8 @@
         "番剧",
         "磁链"
       ],
-      "stars": 4,
-      "updated_at": "2025-08-25T18:27:14Z",
+      "stars": 5,
+      "updated_at": "2025-09-02T22:10:39Z",
       "version": "v1.0"
     },
     "astrbot_plugin_restrict_syscmd": {
@@ -106,8 +106,8 @@
       "author": "木有知",
       "repo": "https://github.com/muyouzhi6/astrbot_plugin_restrict_syscmd",
       "tags": [],
-      "stars": 1,
-      "updated_at": "2025-08-30T18:40:01Z",
+      "stars": 2,
+      "updated_at": "2025-09-02T13:41:25Z",
       "version": "0.2.0"
     },
     "astrbot_plugin_jojo_stand_panel": {
@@ -182,7 +182,7 @@
       ],
       "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
       "stars": 3,
-      "updated_at": "2025-09-02T03:38:32Z",
+      "updated_at": "2025-09-02T13:07:12Z",
       "version": "v1.0"
     },
     "command_to_llm": {
@@ -253,7 +253,7 @@
       "repo": "https://github.com/furryHM-mrz/astrbot_plugin_furry_cg",
       "tags": [],
       "stars": 0,
-      "updated_at": "2025-08-25T12:12:50Z",
+      "updated_at": "2025-09-02T15:35:24Z",
       "version": "1.0.1"
     },
     "astrbot_plugin_furry_cgsjk": {
@@ -326,8 +326,8 @@
         "手办化"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 53,
-      "updated_at": "2025-09-01T14:06:29Z",
+      "stars": 57,
+      "updated_at": "2025-09-02T22:13:00Z",
       "version": "v2.0.2"
     },
     "astrbot_plugin_Mirecraft_motd": {
@@ -446,8 +446,8 @@
       "repo": "https://github.com/muyouzhi6/astrbot_plugin_immersive_control",
       "social_link": "https://github.com/muyouzhi6",
       "tags": [],
-      "stars": 2,
-      "updated_at": "2025-08-25T03:11:47Z",
+      "stars": 3,
+      "updated_at": "2025-09-02T22:13:59Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_provider_ark_ResponsesAPI": {
@@ -1311,7 +1311,7 @@
         "工具"
       ],
       "stars": 4,
-      "updated_at": "2025-08-29T15:28:49Z",
+      "updated_at": "2025-09-02T13:46:40Z",
       "version": "v1.0.7"
     },
     "astrbot_plugin_RecallGuard": {
@@ -1667,8 +1667,8 @@
       "repo": "https://github.com/sa1guu/astrbot_plugin_touchi",
       "tags": [],
       "stars": 24,
-      "updated_at": "2025-08-02T00:10:04Z",
-      "version": "v2.5.5"
+      "updated_at": "2025-09-02T15:52:26Z",
+      "version": "v2.5.6"
     },
     "astrbot_plugin_Astrsupermarket": {
       "author": "和泉智宏本人",
@@ -1690,8 +1690,8 @@
       ],
       "social_link": "https://github.com/zhewang448",
       "stars": 3,
-      "updated_at": "2025-08-25T05:04:12Z",
-      "version": "v1.1.8"
+      "updated_at": "2025-09-02T13:38:20Z",
+      "version": "v1.1.9"
     },
     "astrbot_plugin_shutup": {
       "author": "Railgun19457",
@@ -3131,8 +3131,8 @@
         "填满"
       ],
       "desc": "[仅 aiocqhttp] 给 QQ 引用的消息贴表情",
-      "stars": 1,
-      "updated_at": "2025-05-10T13:29:13Z",
+      "stars": 2,
+      "updated_at": "2025-09-02T14:58:17Z",
       "version": "v1.1.0"
     },
     "astrbot_plugin_llm_draw_plus": {
@@ -3315,7 +3315,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 20,
-      "updated_at": "2025-09-02T11:19:18Z",
+      "updated_at": "2025-09-02T23:18:51Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -4874,8 +4874,8 @@
       ],
       "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
       "stars": 66,
-      "updated_at": "2025-08-28T19:34:38Z",
-      "version": "v2.1.4"
+      "updated_at": "2025-09-02T20:31:25Z",
+      "version": "v2.1.5"
     },
     "astrbot_plugin_steamshot": {
       "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
