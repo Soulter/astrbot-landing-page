@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-09-03T12:39:39.681Z",
+  "timestamp": "2025-09-04T01:24:22.050Z",
   "github": {
-    "stars": 11874,
-    "forks": 844,
+    "stars": 11884,
+    "forks": 845,
     "contributors": 87
   },
   "plugins": {
@@ -16,8 +16,8 @@
         "画图",
         "AI绘画"
       ],
-      "stars": 14,
-      "updated_at": "2025-09-03T08:22:44Z",
+      "stars": 15,
+      "updated_at": "2025-09-03T11:49:08Z",
       "version": "v1.5"
     },
     "github_star_verify": {
@@ -26,8 +26,8 @@
       "repo": "https://github.com/Qian23333/astrbot_plugin_github_star_verify",
       "tags": [],
       "stars": 0,
-      "updated_at": "2025-09-01T10:32:24Z",
-      "version": "v2.0.1"
+      "updated_at": "2025-09-03T11:44:15Z",
+      "version": "v2.1.0"
     },
     "astrbot-qq-group-daily-analysis": {
       "desc": "QQ群日常分析插件 - 生成精美的群聊分析报告，支持话题分析、用户称号、群聊金句等功能",
@@ -243,8 +243,8 @@
       "repo": "https://github.com/ctwj/astrbot_plugin_urldb",
       "social_link": "https://pan.l9.lc",
       "tags": [],
-      "stars": 2,
-      "updated_at": "2025-09-01T06:02:30Z",
+      "stars": 3,
+      "updated_at": "2025-09-03T14:11:43Z",
       "version": "v0.5"
     },
     "astrbot_plugin_furry_cg": {
@@ -437,8 +437,8 @@
       ],
       "social_link": "https://github.com/Futureppo",
       "stars": 0,
-      "updated_at": "2025-08-21T07:37:51Z",
-      "version": "v1.0.0"
+      "updated_at": "2025-09-03T11:49:52Z",
+      "version": "v1.0.1"
     },
     "astrbot_plugin_immersive_control": {
       "desc": "🎮 给 AI 植入神奇小玩具的娱乐插件，3分钟沉浸式互动体验。",
@@ -543,8 +543,8 @@
         "唤醒增强"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 13,
-      "updated_at": "2025-09-03T05:22:52Z",
+      "stars": 14,
+      "updated_at": "2025-09-03T12:01:17Z",
       "version": "v1.1.2"
     },
     "astrbot_plugin_memora_connect": {
@@ -1031,8 +1031,8 @@
         "找出处"
       ],
       "stars": 1,
-      "updated_at": "2025-09-01T15:59:19Z",
-      "version": "3.3"
+      "updated_at": "2025-09-03T14:17:28Z",
+      "version": "3.4"
     },
     "astrbot_plugin_LLMTempBan": {
       "desc": "让 Bot 学会主动拉黑或者通过管理员指令拉黑。",
@@ -1522,8 +1522,8 @@
       ],
       "author": "UyNewNas",
       "stars": 7,
-      "updated_at": "2025-08-31T17:42:13Z",
-      "version": "v1.0"
+      "updated_at": "2025-09-03T17:51:36Z",
+      "version": "v1.2"
     },
     "astrbot_plugin_LetAI_sendemojis": {
       "desc": "智能分析AI对话内容并发送匹配表情包，支持情感识别、历史记录和多数据源，让聊天更生动有趣",
@@ -2534,8 +2534,8 @@
       "repo": "https://github.com/Zhalslar/astrbot_plugin_search_video",
       "social_link": "https://github.com/Zhalslar",
       "tags": [],
-      "stars": 23,
-      "updated_at": "2025-08-22T10:26:13Z",
+      "stars": 24,
+      "updated_at": "2025-09-03T21:55:31Z",
       "version": "v1.0.6"
     },
     "astrbot_plugin_zt": {
@@ -3023,7 +3023,7 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 27,
-      "updated_at": "2025-08-27T06:17:43Z",
+      "updated_at": "2025-09-03T14:24:09Z",
       "version": "v2.0.0"
     },
     "astrbot_plugin_SillyTavern_card": {
@@ -3315,7 +3315,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 20,
-      "updated_at": "2025-09-03T11:18:16Z",
+      "updated_at": "2025-09-03T23:19:26Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -4465,8 +4465,8 @@
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
       "stars": 46,
-      "updated_at": "2025-09-03T08:47:28Z",
-      "version": "v1.1.6"
+      "updated_at": "2025-09-03T15:56:48Z",
+      "version": "v1.1.7"
     },
     "astrbot_plugin_yuafeng": {
       "desc": "对接枫林API提供的接口，随机发 美女视频、帅哥视频、精美图片、逆天音频、伤感文案等等",
