@@ -1,9 +1,9 @@
 {
-  "timestamp": "2025-09-05T01:26:41.347Z",
+  "timestamp": "2025-09-05T12:38:58.998Z",
   "github": {
-    "stars": 11903,
-    "forks": 847,
-    "contributors": 88
+    "stars": 11916,
+    "forks": 848,
+    "contributors": 89
   },
   "plugins": {
     "astrbot_plugin_m": {
@@ -13,8 +13,8 @@
       "tags": [
         "音乐"
       ],
-      "stars": 0,
-      "updated_at": "2025-09-04T14:57:23Z",
+      "stars": 1,
+      "updated_at": "2025-09-05T05:42:52Z",
       "version": "2.1.0"
     },
     "astrbot_plugin_slg": {
@@ -25,8 +25,8 @@
         "游戏",
         "slg"
       ],
-      "stars": 1,
-      "updated_at": "2025-09-02T15:53:32Z",
+      "stars": 2,
+      "updated_at": "2025-09-05T10:56:14Z",
       "version": "1.3.16"
     },
     "qq_group_sign": {
@@ -49,8 +49,8 @@
         "memory",
         "rag"
       ],
-      "stars": 10,
-      "updated_at": "2025-09-04T15:57:07Z",
+      "stars": 12,
+      "updated_at": "2025-09-05T08:27:30Z",
       "version": "1.0.1"
     },
     "astrbot_plugin_mathitools": {
@@ -93,7 +93,7 @@
       ],
       "social_link": "https://github.com/muyouzhi6",
       "stars": 3,
-      "updated_at": "2025-09-04T15:52:03Z",
+      "updated_at": "2025-09-05T06:18:42Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_multimsg": {
@@ -154,8 +154,8 @@
         "总结"
       ],
       "social_link": "https://github.com/SXP-Simon",
-      "stars": 6,
-      "updated_at": "2025-09-03T09:11:54Z",
+      "stars": 7,
+      "updated_at": "2025-09-05T08:55:52Z",
       "version": "v1.9.0"
     },
     "astrbot_plugin_boss_notifier": {
@@ -221,7 +221,7 @@
       "repo": "https://github.com/muyouzhi6/astrbot_plugin_restrict_syscmd",
       "tags": [],
       "stars": 2,
-      "updated_at": "2025-09-02T13:41:25Z",
+      "updated_at": "2025-09-05T06:20:00Z",
       "version": "0.2.0"
     },
     "astrbot_plugin_jojo_stand_panel": {
@@ -233,7 +233,7 @@
       ],
       "social_link": "http://www.tripleying.com/jojo",
       "stars": 2,
-      "updated_at": "2025-09-04T14:45:43Z",
+      "updated_at": "2025-09-05T00:30:24Z",
       "version": "v2.1.0"
     },
     "astrbot_plugin_qun_album": {
@@ -296,8 +296,8 @@
       ],
       "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
       "stars": 3,
-      "updated_at": "2025-09-02T13:07:12Z",
-      "version": "v1.0"
+      "updated_at": "2025-09-05T10:00:21Z",
+      "version": "v1.1"
     },
     "command_to_llm": {
       "desc": "将指令（比如/help）转换为LLM函数（比如 get_help）调用，让AI能够通过LLM函数执行其他插件的指令，支持动态添加和管理指令映射",
@@ -367,7 +367,7 @@
       "repo": "https://github.com/furryHM-mrz/astrbot_plugin_furry_cg",
       "tags": [],
       "stars": 1,
-      "updated_at": "2025-09-03T06:31:31Z",
+      "updated_at": "2025-09-05T06:38:09Z",
       "version": "1.0.1"
     },
     "astrbot_plugin_furry_cgsjk": {
@@ -440,8 +440,8 @@
         "手办化"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 58,
-      "updated_at": "2025-09-04T10:03:52Z",
+      "stars": 59,
+      "updated_at": "2025-09-05T04:30:59Z",
       "version": "v2.0.2"
     },
     "astrbot_plugin_Mirecraft_motd": {
@@ -526,7 +526,7 @@
       ],
       "social_link": "https://github.com/muyouzhi6",
       "stars": 14,
-      "updated_at": "2025-09-04T02:29:32Z",
+      "updated_at": "2025-09-05T06:20:48Z",
       "version": "0.4.2"
     },
     "astrbot_plugin_keyword_monitor": {
@@ -561,7 +561,7 @@
       "social_link": "https://github.com/muyouzhi6",
       "tags": [],
       "stars": 3,
-      "updated_at": "2025-09-02T22:13:59Z",
+      "updated_at": "2025-09-05T06:20:26Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_provider_ark_ResponsesAPI": {
@@ -670,8 +670,8 @@
         "记忆"
       ],
       "social_link": "https://github.com/qa296/",
-      "stars": 8,
-      "updated_at": "2025-09-04T14:22:36Z",
+      "stars": 9,
+      "updated_at": "2025-09-05T03:34:05Z",
       "version": "v0.2.4"
     },
     "astrbot_plugin_iearning_style": {
@@ -900,7 +900,7 @@
         "增强"
       ],
       "stars": 11,
-      "updated_at": "2025-09-02T09:11:43Z",
+      "updated_at": "2025-09-05T06:19:09Z",
       "version": "2.9.7"
     },
     "astrbot_plugin_Group-Verification_PRO": {
@@ -1425,8 +1425,8 @@
         "工具"
       ],
       "stars": 4,
-      "updated_at": "2025-09-03T01:48:15Z",
-      "version": "v1.0.7"
+      "updated_at": "2025-09-05T03:16:32Z",
+      "version": "v1.0.8"
     },
     "astrbot_plugin_RecallGuard": {
       "name": "astrbot_plugin_RecallGuard",
@@ -1674,8 +1674,8 @@
       ],
       "author": "oyxning",
       "social_link": "https://github.com/oyxning/",
-      "stars": 3,
-      "updated_at": "2025-07-16T14:22:27Z",
+      "stars": 4,
+      "updated_at": "2025-09-05T04:20:58Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_top_chehui": {
@@ -1856,8 +1856,8 @@
         "Kook",
         "平台适配器"
       ],
-      "stars": 7,
-      "updated_at": "2025-08-13T06:19:54Z",
+      "stars": 8,
+      "updated_at": "2025-09-05T03:47:06Z",
       "version": "v0.0.3"
     },
     "astrbot_plugin_deepresearch": {
@@ -1869,8 +1869,8 @@
         "web search"
       ],
       "social_link": "https://github.com/lxfight",
-      "stars": 19,
-      "updated_at": "2025-08-22T05:56:26Z",
+      "stars": 20,
+      "updated_at": "2025-09-05T09:44:50Z",
       "version": "0.1.0"
     },
     "astrbot_plugin_textadventure": {
@@ -2341,8 +2341,8 @@
       "tags": [
         "玩具"
       ],
-      "stars": 8,
-      "updated_at": "2025-06-13T15:36:04Z",
+      "stars": 9,
+      "updated_at": "2025-09-05T09:42:52Z",
       "version": "v0.1"
     },
     "astrbot_plugin_music": {
@@ -2536,8 +2536,8 @@
         "RAG",
         "知识库"
       ],
-      "stars": 60,
-      "updated_at": "2025-09-04T16:09:02Z",
+      "stars": 61,
+      "updated_at": "2025-09-05T03:22:38Z",
       "version": "v0.5.9"
     },
     "astrbot_uptime_kuma_webhook_plugin": {
@@ -3221,8 +3221,8 @@
         "api"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-      "stars": 73,
-      "updated_at": "2025-09-04T13:09:10Z",
+      "stars": 74,
+      "updated_at": "2025-09-05T09:36:56Z",
       "version": "v2.0.0"
     },
     "astrbot_plugin_help": {
@@ -3257,8 +3257,8 @@
         "ai绘图",
         "llm tool"
       ],
-      "stars": 7,
-      "updated_at": "2025-08-18T12:23:58Z",
+      "stars": 8,
+      "updated_at": "2025-09-05T03:48:40Z",
       "version": "v0.0.2"
     },
     "astrbot_plugin_mcqq": {
@@ -3429,7 +3429,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 20,
-      "updated_at": "2025-09-04T18:34:10Z",
+      "updated_at": "2025-09-05T01:36:16Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -4067,8 +4067,8 @@
         "Minecraft"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_mcping",
-      "stars": 9,
-      "updated_at": "2025-08-02T07:02:14Z",
+      "stars": 8,
+      "updated_at": "2025-09-05T05:44:35Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_lorebook_lite": {
