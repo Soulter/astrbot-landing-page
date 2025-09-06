@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-09-06T01:24:10.689Z",
+  "timestamp": "2025-09-06T12:34:44.700Z",
   "github": {
-    "stars": 11922,
-    "forks": 848,
+    "stars": 11938,
+    "forks": 849,
     "contributors": 89
   },
   "plugins": {
@@ -26,7 +26,7 @@
         "slg"
       ],
       "stars": 2,
-      "updated_at": "2025-09-05T10:56:14Z",
+      "updated_at": "2025-09-06T10:22:54Z",
       "version": "1.3.16"
     },
     "qq_group_sign": {
@@ -92,8 +92,8 @@
         "OneBot"
       ],
       "social_link": "https://github.com/muyouzhi6",
-      "stars": 3,
-      "updated_at": "2025-09-05T06:18:42Z",
+      "stars": 4,
+      "updated_at": "2025-09-06T02:59:11Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_multimsg": {
@@ -418,7 +418,7 @@
       "tags": "娱乐",
       "social_link": "astrbot.uk",
       "stars": 14,
-      "updated_at": "2025-09-03T01:06:59Z",
+      "updated_at": "2025-09-06T05:59:12Z",
       "version": "v1.0.1"
     },
     "should_I_respond": {
@@ -1486,7 +1486,7 @@
       ],
       "author": null,
       "stars": 12,
-      "updated_at": "2025-09-04T18:33:28Z",
+      "updated_at": "2025-09-06T08:19:45Z",
       "version": "2.2.3--img"
     },
     "astrbot_plugin_group_sign": {
@@ -2155,7 +2155,7 @@
       ],
       "social_link": "https://github.com/FengYing1314",
       "stars": 2,
-      "updated_at": "2025-06-07T08:54:16Z",
+      "updated_at": "2025-09-06T00:30:13Z",
       "version": "v1.1.0"
     },
     "astrbot_plugin_zhuge": {
@@ -2353,8 +2353,8 @@
         "音乐"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 51,
-      "updated_at": "2025-09-04T03:21:18Z",
+      "stars": 52,
+      "updated_at": "2025-09-06T08:56:12Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_renjian": {
@@ -3221,9 +3221,9 @@
         "api"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-      "stars": 74,
-      "updated_at": "2025-09-05T09:36:56Z",
-      "version": "v2.0.0"
+      "stars": 76,
+      "updated_at": "2025-09-06T10:28:59Z",
+      "version": "v2.0.1"
     },
     "astrbot_plugin_help": {
       "author": "tinker",
@@ -3335,8 +3335,8 @@
         "群消息"
       ],
       "social_link": "https://github.com/Futureppo",
-      "stars": 3,
-      "updated_at": "2025-07-10T11:51:51Z",
+      "stars": 4,
+      "updated_at": "2025-09-06T08:46:32Z",
       "version": "v1.0.8"
     },
     "astrbot_plugin_OriginiumSeal": {
@@ -3429,7 +3429,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 20,
-      "updated_at": "2025-09-05T01:36:16Z",
+      "updated_at": "2025-09-06T01:26:04Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -3486,8 +3486,8 @@
       "tags": [
         "ccb"
       ],
-      "stars": 4,
-      "updated_at": "2025-08-30T18:52:00Z",
+      "stars": 5,
+      "updated_at": "2025-09-06T06:23:34Z",
       "version": "v0.1.0"
     },
     "astrbot-gold-plugin": {
@@ -3595,8 +3595,8 @@
         "抖音",
         "视频解析"
       ],
-      "stars": 6,
-      "updated_at": "2025-08-11T10:57:30Z",
+      "stars": 7,
+      "updated_at": "2025-09-06T08:46:35Z",
       "version": "v1.4"
     },
     "meanig": {
@@ -3946,8 +3946,8 @@
       "tags": [
         "游戏"
       ],
-      "stars": 7,
-      "updated_at": "2025-08-13T08:22:18Z",
+      "stars": 8,
+      "updated_at": "2025-09-06T08:46:37Z",
       "version": "1.3.6"
     },
     "astrbot_plugin_SessionFaker": {
@@ -5025,8 +5025,8 @@
       "tags": [
         "功能"
       ],
-      "stars": 14,
-      "updated_at": "2025-08-13T13:32:43Z",
+      "stars": 15,
+      "updated_at": "2025-09-06T08:39:56Z",
       "version": "1.0.2"
     },
     "astrbot_plugin_moyuren": {
@@ -5594,8 +5594,8 @@
       "author": "yudengghost",
       "repo": "https://github.com/yudengghost/astrbot_plugin_public_servant",
       "tags": [],
-      "stars": 1,
-      "updated_at": "2025-02-13T15:02:20Z",
+      "stars": 2,
+      "updated_at": "2025-09-06T08:36:56Z",
       "version": "v1.0"
     },
     "astrbot_plugin_comfyui": {
@@ -5640,7 +5640,7 @@
       "repo": "https://github.com/FengYing1314/astrbot_plugin_sign",
       "tags": [],
       "stars": 9,
-      "updated_at": "2025-05-26T00:42:23Z",
+      "updated_at": "2025-09-06T00:30:31Z",
       "version": "v1.0.5"
     },
     "astrbot_plugin_token_auto": {
@@ -5649,7 +5649,7 @@
       "repo": "https://github.com/FengYing1314/astrbot_plugin_token_auto",
       "tags": [],
       "stars": 7,
-      "updated_at": "2025-06-02T16:47:30Z",
+      "updated_at": "2025-09-06T00:30:49Z",
       "version": "v1.3.0"
     },
     "FateTrial_setucontroller": {
@@ -5739,7 +5739,7 @@
       "repo": "https://github.com/FengYing1314/astrbot_plugin_repetition",
       "tags": [],
       "stars": 9,
-      "updated_at": "2025-07-21T18:45:30Z",
+      "updated_at": "2025-09-06T00:28:59Z",
       "version": "v1.0.2"
     },
     "FateTrial_Star_Rail": {
