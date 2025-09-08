@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-09-08T01:39:04.407Z",
+  "timestamp": "2025-09-08T12:41:56.275Z",
   "github": {
-    "stars": 11964,
-    "forks": 848,
+    "stars": 11986,
+    "forks": 852,
     "contributors": 90
   },
   "plugins": {
@@ -154,8 +154,8 @@
         "总结"
       ],
       "social_link": "https://github.com/SXP-Simon",
-      "stars": 8,
-      "updated_at": "2025-09-07T16:26:11Z",
+      "stars": 9,
+      "updated_at": "2025-09-08T09:13:25Z",
       "version": "v1.9.0"
     },
     "astrbot_plugin_boss_notifier": {
@@ -253,8 +253,8 @@
       "author": "天各一方",
       "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
       "tags": [],
-      "stars": 11,
-      "updated_at": "2025-09-07T01:04:17Z",
+      "stars": 13,
+      "updated_at": "2025-09-08T07:51:54Z",
       "version": "v1.0.4"
     },
     "astrbot_plugin_vtb_adapter": {
@@ -431,7 +431,7 @@
       "version": "v0.0.1"
     },
     "astrbot_plugin_lmarena": {
-      "desc": "对接 LMArena 调用 nano_banana 等模型进行生图，如手办化",
+      "desc": "全面对接lmarena(模型竞技场)，免费无限调用模型，如调用nano-banana进行手办化",
       "author": "Zhalslar",
       "repo": "https://github.com/Zhalslar/astrbot_plugin_lmarena",
       "tags": [
@@ -525,8 +525,8 @@
         "SiliconFlow"
       ],
       "social_link": "https://github.com/muyouzhi6",
-      "stars": 16,
-      "updated_at": "2025-09-07T14:04:42Z",
+      "stars": 17,
+      "updated_at": "2025-09-08T03:00:27Z",
       "version": "0.4.2"
     },
     "astrbot_plugin_keyword_monitor": {
@@ -582,7 +582,7 @@
       ],
       "social_link": "https://github.com/SodaSizzle",
       "stars": 8,
-      "updated_at": "2025-09-07T07:36:20Z",
+      "updated_at": "2025-09-08T07:03:07Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_self_learning": {
@@ -595,8 +595,8 @@
         "人格"
       ],
       "social_link": "https://github.com/NickCharlie",
-      "stars": 16,
-      "updated_at": "2025-08-29T05:47:45Z",
+      "stars": 18,
+      "updated_at": "2025-09-08T05:41:56Z",
       "version": "1.2.5"
     },
     "astrbot_plugin_baiduocr": {
@@ -650,7 +650,7 @@
       "version": "v1.0.0"
     },
     "astrbot_plugin_wakepro": {
-      "desc": "更强大的唤醒增强插件：提及唤醒、唤醒延长、空@唤醒、话题相关性唤醒、答疑唤醒、无聊唤醒、闭嘴机制、被骂沉默机制",
+      "desc": "更强大的唤醒增强插件：唤醒CD、唤醒合并、提及唤醒、唤醒延长、空@唤醒、话题相关性唤醒、答疑唤醒、无聊唤醒、闭嘴机制、被骂沉默机制、屏蔽人机",
       "author": "Zhalslar",
       "repo": "https://github.com/Zhalslar/astrbot_plugin_wakepro",
       "tags": [
@@ -791,7 +791,7 @@
       "version": "1.0.0"
     },
     "astrbot_plugin_qzone": {
-      "desc": "QQ空间对接插件, 可自动发说说、表白墙投稿审核、查看说说、点赞、评论等",
+      "desc": "QQ空间对接插件, 可自动发说说、表白墙投稿审核、查看说说",
       "author": "Zhalslar",
       "repo": "https://github.com/Zhalslar/astrbot_plugin_qzone",
       "tags": [
@@ -826,7 +826,7 @@
       "version": "v1.0.1"
     },
     "astrbot_plugin_record_converter": {
-      "desc": "QQ 语音转化插件，包括语音转文件，文件转语音，克服了 QQ 语音无法转发的问题",
+      "desc": "QQ 语音转化插件，包括语音转文件，文件转语音，同时内置QQ声聊实现TTS",
       "author": "Zhalslar",
       "repo": "https://github.com/Zhalslar/astrbot_plugin_record_converter",
       "tags": [
@@ -1005,16 +1005,16 @@
       "version": "v1.1.3"
     },
     "astrbot_plugin_screenctrl": {
-      "desc": "屏幕控制插件，支持截屏、点击、按键等",
+      "desc": "截屏插件，支持单次截屏、连续截屏、定时截屏，需将bot挂载在有屏幕的设备上",
       "author": "Zhalslar",
       "repo": "https://github.com/Zhalslar/astrbot_plugin_screenctrl",
       "tags": [
-        "屏幕控制"
+        "截屏"
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 7,
-      "updated_at": "2025-09-07T17:37:54Z",
-      "version": "v1.0.2"
+      "updated_at": "2025-09-08T02:27:18Z",
+      "version": "v1.0.3"
     },
     "astrbot_plugin_error_pro": {
       "desc": "屏蔽机器人的错误消息，选择是否发送给管理员，支持AI友好解释。",
@@ -2347,7 +2347,7 @@
     },
     "astrbot_plugin_music": {
       "author": "Zhalslar",
-      "desc": "点歌插件，支持按钮点歌、ai点歌、音乐卡片播放、语音播放、热评、歌词、歌单、多音源、无需VIP、全平台兼容",
+      "desc": "点歌插件，支持音乐卡片、语音播放、热评、歌词、歌单、无需VIP、全平台兼容",
       "repo": "https://github.com/Zhalslar/astrbot_plugin_music",
       "tags": [
         "音乐"
@@ -2923,7 +2923,7 @@
     },
     "astrbot_plugin_broadcast": {
       "author": "Zhalslar",
-      "desc": "[仅aiocqhttp] 广播助手，帮助你向所有群聊广播消息(支持任何格式消息)",
+      "desc": "[仅aiocqhttp] 广播助手，帮助你向所有群聊广播消息(理论上支持任何格式消息)",
       "repo": "https://github.com/Zhalslar/astrbot_plugin_broadcast",
       "tags": [
         "广播"
@@ -2935,7 +2935,7 @@
     },
     "astrbot_plugin_nobot": {
       "author": "Zhalslar",
-      "desc": "[仅 aiocqhttp]] 找出并禁言群里的人机!",
+      "desc": "[仅 aiocqhttp] 找出并禁言群里的人机!",
       "repo": "https://github.com/Zhalslar/astrbot_plugin_nobot",
       "tags": [
         "人机"
@@ -3429,7 +3429,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 20,
-      "updated_at": "2025-09-07T01:41:08Z",
+      "updated_at": "2025-09-08T01:41:01Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_status-pro": {
@@ -3928,7 +3928,7 @@
       "version": "v1.1.3"
     },
     "astrbot_plugin_QQAdmin": {
-      "desc": "[仅aiocqhttp]QQ群管插件，功能包括：禁言、全体禁言、踢人、拉黑、改群昵称、改头衔、设管理员、设精华、撤回消息等等",
+      "desc": "[仅aiocqhttp]QQ群管插件，功能包括：禁言、全体禁言、踢人、拉黑、改群昵称、改头衔、设管理员、设精华、发群公告、撤回消息、刷屏检测、宵禁等等",
       "author": "Zhalslar",
       "repo": "https://github.com/Zhalslar/astrbot_plugin_QQAdmin",
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_QQAdmin",
@@ -4048,7 +4048,7 @@
       "version": "v2.3"
     },
     "astrbot_plugin_QQProfile": {
-      "desc": "[仅aiocqhttp]配置bot的头像、昵称、签名、状态、机型等QQ资料",
+      "desc": "[仅aiocqhttp] 通过命令配置bot的头像、昵称、签名、状态, 切换人格时同步改变头像、昵称",
       "author": "Zhalslar",
       "repo": "https://github.com/Zhalslar/astrbot_plugin_QQProfile",
       "tags": [
@@ -4056,8 +4056,8 @@
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_QQProfile",
       "stars": 5,
-      "updated_at": "2025-08-03T01:19:47Z",
-      "version": "v1.1.1"
+      "updated_at": "2025-09-08T05:34:06Z",
+      "version": "v1.1.2"
     },
     "astrbot_plugin_mcping": {
       "desc": "获取 Minecraft 服务器的状态（图片展示版）",
@@ -4738,8 +4738,8 @@
         "bilibili"
       ],
       "social_link": "https://github.com/miaoxutao123/",
-      "stars": 40,
-      "updated_at": "2025-09-05T11:59:31Z",
+      "stars": 41,
+      "updated_at": "2025-09-08T04:55:08Z",
       "version": "v0.2.12"
     },
     "astrbot_plugin_sjzb": {
@@ -5828,8 +5828,8 @@
       "author": "喵喵",
       "repo": "https://github.com/miaoxutao123/astrbot_plugin_miaomiao",
       "tags": [],
-      "stars": 9,
-      "updated_at": "2025-05-15T10:13:08Z",
+      "stars": 10,
+      "updated_at": "2025-09-08T03:05:21Z",
       "version": "v1.2.4"
     },
     "astrbot_plugin_image_video_understanding_Qwen2.5_VL": {
