@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-09-07T12:35:33.432Z",
+  "timestamp": "2025-09-08T01:39:04.407Z",
   "github": {
-    "stars": 11960,
+    "stars": 11964,
     "forks": 848,
     "contributors": 90
   },
@@ -154,8 +154,8 @@
         "总结"
       ],
       "social_link": "https://github.com/SXP-Simon",
-      "stars": 7,
-      "updated_at": "2025-09-07T08:25:01Z",
+      "stars": 8,
+      "updated_at": "2025-09-07T16:26:11Z",
       "version": "v1.9.0"
     },
     "astrbot_plugin_boss_notifier": {
@@ -310,8 +310,8 @@
       ],
       "social_link": "https://github.com/kjqwer",
       "stars": 3,
-      "updated_at": "2025-08-29T23:51:02Z",
-      "version": "v1.0.0"
+      "updated_at": "2025-09-07T14:07:21Z",
+      "version": "v1.0.1"
     },
     "astrbot_plugin_lark_send_patcher": {
       "desc": "通过猴子补丁的方式，优化了飞书Lark适配器下，机器人发送的消息引用太频繁的问题。现在飞书下所有的机器人回复从引用消息变更为直接发送。插件可能会随着astrbot本体版本更新，涉及到lark_adapter和lark_event重大更新时失效。",
@@ -358,7 +358,7 @@
       "social_link": "https://pan.l9.lc",
       "tags": [],
       "stars": 3,
-      "updated_at": "2025-09-03T14:11:43Z",
+      "updated_at": "2025-09-07T16:24:19Z",
       "version": "v0.5"
     },
     "astrbot_plugin_furry_cg": {
@@ -525,8 +525,8 @@
         "SiliconFlow"
       ],
       "social_link": "https://github.com/muyouzhi6",
-      "stars": 15,
-      "updated_at": "2025-09-06T14:37:22Z",
+      "stars": 16,
+      "updated_at": "2025-09-07T14:04:42Z",
       "version": "0.4.2"
     },
     "astrbot_plugin_keyword_monitor": {
@@ -1013,8 +1013,8 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 7,
-      "updated_at": "2025-08-26T13:03:02Z",
-      "version": "v1.0.1"
+      "updated_at": "2025-09-07T17:37:54Z",
+      "version": "v1.0.2"
     },
     "astrbot_plugin_error_pro": {
       "desc": "屏蔽机器人的错误消息，选择是否发送给管理员，支持AI友好解释。",
@@ -2525,7 +2525,7 @@
       "repo": "https://github.com/orchidsziyou/astrbot_plugin_seiadetect",
       "tags": [],
       "stars": 3,
-      "updated_at": "2025-09-05T11:34:19Z",
+      "updated_at": "2025-09-07T13:31:42Z",
       "version": "v1.0"
     },
     "astrbot_plugin_knowledge_base": {
@@ -5253,8 +5253,8 @@
       "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
       "tags": [],
       "stars": 17,
-      "updated_at": "2025-09-07T11:17:47Z",
-      "version": "v1.2.8"
+      "updated_at": "2025-09-07T14:06:48Z",
+      "version": "v1.2.9"
     },
     "ai_memory": {
       "desc": "一个AI记忆管理插件，可以让ai记住重要的事，记忆读取是ai自己调用的，有时候呆呆的ai不会自己调用，可以多问几次或者人格加上特定提示词,输入 /mem_help 查看记忆管理帮助",
@@ -5316,8 +5316,8 @@
       "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
       "tags": [],
       "stars": 28,
-      "updated_at": "2025-08-31T13:57:30Z",
-      "version": "v1.4.10"
+      "updated_at": "2025-09-07T13:31:21Z",
+      "version": "v1.4.11"
     },
     "astrbot_plugin_leetcode": {
       "desc": "leetcode 每日一题、随机题目。",
