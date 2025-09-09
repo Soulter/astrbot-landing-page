@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-09-08T12:41:56.275Z",
+  "timestamp": "2025-09-09T01:27:59.901Z",
   "github": {
-    "stars": 11986,
+    "stars": 11990,
     "forks": 852,
     "contributors": 90
   },
@@ -131,8 +131,8 @@
         "AI绘画"
       ],
       "stars": 17,
-      "updated_at": "2025-09-07T06:04:46Z",
-      "version": "v1.6"
+      "updated_at": "2025-09-08T16:26:57Z",
+      "version": "v1.8"
     },
     "github_star_verify": {
       "desc": "[aiocqhttp]使用 GitHub 仓库的 Star 状态作为入群验证条件，仅允许已 Star 指定仓库的用户留在群内。",
@@ -233,8 +233,8 @@
       ],
       "social_link": "http://www.tripleying.com/jojo",
       "stars": 2,
-      "updated_at": "2025-09-05T00:30:24Z",
-      "version": "v2.1.0"
+      "updated_at": "2025-09-08T15:42:02Z",
+      "version": "v2.1.1"
     },
     "astrbot_plugin_qun_album": {
       "desc": "[仅napcat>=4.8.100] 群相册插件，记录群友怪话",
@@ -357,8 +357,8 @@
       "repo": "https://github.com/ctwj/astrbot_plugin_urldb",
       "social_link": "https://pan.l9.lc",
       "tags": [],
-      "stars": 3,
-      "updated_at": "2025-09-07T16:24:19Z",
+      "stars": 4,
+      "updated_at": "2025-09-08T15:38:50Z",
       "version": "v0.5"
     },
     "astrbot_plugin_furry_cg": {
@@ -1300,8 +1300,8 @@
       ],
       "social_link": "https://github.com/advent259141",
       "pinned": true,
-      "stars": 39,
-      "updated_at": "2025-09-05T18:25:47Z",
+      "stars": 40,
+      "updated_at": "2025-09-08T13:38:47Z",
       "version": "1.3.0"
     },
     "cngal_search": {
@@ -1591,8 +1591,8 @@
         "余票"
       ],
       "author": "satori5555",
-      "stars": 3,
-      "updated_at": "2025-07-29T02:55:25Z",
+      "stars": 2,
+      "updated_at": "2025-09-08T15:30:27Z",
       "version": "v1.0"
     },
     "astrbot_plugin_78animesearch": {
@@ -3269,9 +3269,9 @@
         "minecraft",
         "游戏"
       ],
-      "stars": 5,
-      "updated_at": "2025-08-15T12:53:46Z",
-      "version": "v1.7.1"
+      "stars": 6,
+      "updated_at": "2025-09-08T14:07:54Z",
+      "version": "v1.7.3"
     },
     "astrbot_plugin_Group-Verification": {
       "author": "huotuo146",
@@ -3715,9 +3715,9 @@
         "绝区零"
       ],
       "social_link": "https://docs.sayu-bot.com/",
-      "stars": 15,
-      "updated_at": "2025-08-03T10:12:00Z",
-      "version": "v0.4"
+      "stars": 16,
+      "updated_at": "2025-09-08T15:18:06Z",
+      "version": "v0.4.1"
     },
     "astrbot_plugin_xyzw": {
       "author": "四郎",
@@ -4056,7 +4056,7 @@
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_QQProfile",
       "stars": 5,
-      "updated_at": "2025-09-08T05:34:06Z",
+      "updated_at": "2025-09-08T14:27:19Z",
       "version": "v1.1.2"
     },
     "astrbot_plugin_mcping": {
