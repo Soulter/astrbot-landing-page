@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-09-11T01:27:38.419Z",
+  "timestamp": "2025-09-11T12:38:49.976Z",
   "github": {
-    "stars": 12026,
-    "forks": 854,
+    "stars": 12038,
+    "forks": 855,
     "contributors": 90
   },
   "plugins": {
@@ -61,8 +61,8 @@
         "函数工具",
         "数学"
       ],
-      "stars": 1,
-      "updated_at": "2025-09-04T10:17:12Z",
+      "stars": 2,
+      "updated_at": "2025-09-11T07:23:51Z",
       "version": "v2.1.3"
     },
     "astrbot_plugin_completely_disable": {
@@ -440,8 +440,8 @@
         "手办化"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 62,
-      "updated_at": "2025-09-07T10:23:39Z",
+      "stars": 64,
+      "updated_at": "2025-09-11T09:23:45Z",
       "version": "v2.0.2"
     },
     "astrbot_plugin_Mirecraft_motd": {
@@ -1635,8 +1635,8 @@
         "鼠鼠"
       ],
       "author": "UyNewNas",
-      "stars": 7,
-      "updated_at": "2025-09-03T17:51:36Z",
+      "stars": 8,
+      "updated_at": "2025-09-11T09:20:20Z",
       "version": "v1.2"
     },
     "astrbot_plugin_LetAI_sendemojis": {
@@ -2498,7 +2498,7 @@
       ],
       "social_link": "https://github.com/Angus-fw",
       "stars": 16,
-      "updated_at": "2025-09-10T12:09:05Z",
+      "updated_at": "2025-09-11T03:30:22Z",
       "version": "v1.1.5"
     },
     "astrbot_plugin_timetask": {
@@ -3222,8 +3222,8 @@
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
       "stars": 77,
-      "updated_at": "2025-09-10T02:03:30Z",
-      "version": "v2.0.2"
+      "updated_at": "2025-09-11T10:35:17Z",
+      "version": "v2.0.3"
     },
     "astrbot_plugin_help": {
       "author": "tinker",
@@ -3429,7 +3429,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 20,
-      "updated_at": "2025-09-10T01:26:53Z",
+      "updated_at": "2025-09-11T02:40:35Z",
       "version": "v1.6.4"
     },
     "astrbot_plugin_status-pro": {
@@ -3716,7 +3716,7 @@
       ],
       "social_link": "https://docs.sayu-bot.com/",
       "stars": 16,
-      "updated_at": "2025-09-08T15:18:06Z",
+      "updated_at": "2025-09-11T01:58:40Z",
       "version": "v0.4.1"
     },
     "astrbot_plugin_xyzw": {
@@ -5253,8 +5253,8 @@
       "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
       "tags": [],
       "stars": 17,
-      "updated_at": "2025-09-09T14:27:16Z",
-      "version": "v1.2.9"
+      "updated_at": "2025-09-11T03:58:31Z",
+      "version": "v1.3.1"
     },
     "ai_memory": {
       "desc": "一个AI记忆管理插件，可以让ai记住重要的事，记忆读取是ai自己调用的，有时候呆呆的ai不会自己调用，可以多问几次或者人格加上特定提示词,输入 /mem_help 查看记忆管理帮助",
