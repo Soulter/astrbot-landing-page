@@ -1,9 +1,9 @@
 {
-  "timestamp": "2025-09-13T01:20:45.685Z",
+  "timestamp": "2025-09-13T12:35:14.517Z",
   "github": {
-    "stars": 12058,
-    "forks": 861,
-    "contributors": 91
+    "stars": 12067,
+    "forks": 862,
+    "contributors": 92
   },
   "plugins": {
     "astrbot_plugin_context_enhancer": {
@@ -19,8 +19,8 @@
         "LLM增强"
       ],
       "social_link": "https://github.com/muyouzhi6",
-      "stars": 1,
-      "updated_at": "2025-09-11T04:08:23Z",
+      "stars": 3,
+      "updated_at": "2025-09-13T03:05:33Z",
       "version": "2.0.0"
     },
     "astrbot_plugin_bilibili_up_notifier": {
@@ -74,8 +74,8 @@
       "author": "shskjw",
       "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
       "tags": [],
-      "stars": 4,
-      "updated_at": "2025-09-12T14:23:35Z",
+      "stars": 8,
+      "updated_at": "2025-09-13T04:48:01Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_group_chat": {
@@ -101,8 +101,8 @@
       ],
       "social_link": "https://wenturc.com",
       "stars": 0,
-      "updated_at": "2025-09-09T12:43:07Z",
-      "version": "v1.0"
+      "updated_at": "2025-09-13T10:48:02Z",
+      "version": "v1.0.1"
     },
     "input_state_by_napcat": {
       "desc": "[仅NapCat]输入状态显示",
@@ -318,8 +318,8 @@
         "总结"
       ],
       "social_link": "https://github.com/SXP-Simon",
-      "stars": 16,
-      "updated_at": "2025-09-12T12:30:43Z",
+      "stars": 17,
+      "updated_at": "2025-09-13T03:32:19Z",
       "version": "v2.1.0"
     },
     "astrbot_plugin_boss_notifier": {
@@ -605,8 +605,8 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 64,
-      "updated_at": "2025-09-11T09:23:45Z",
-      "version": "v2.0.2"
+      "updated_at": "2025-09-13T10:44:51Z",
+      "version": "v2.0.3"
     },
     "astrbot_plugin_Mirecraft_motd": {
       "desc": "Minecraft motd 探测服务器的插件",
@@ -689,8 +689,8 @@
         "SiliconFlow"
       ],
       "social_link": "https://github.com/muyouzhi6",
-      "stars": 20,
-      "updated_at": "2025-09-10T17:19:10Z",
+      "stars": 21,
+      "updated_at": "2025-09-13T06:13:12Z",
       "version": "0.4.3"
     },
     "astrbot_plugin_keyword_monitor": {
@@ -835,7 +835,7 @@
       ],
       "social_link": "https://github.com/qa296/",
       "stars": 14,
-      "updated_at": "2025-09-11T13:36:08Z",
+      "updated_at": "2025-09-13T02:00:33Z",
       "version": "v0.2.4"
     },
     "astrbot_plugin_iearning_style": {
@@ -1064,8 +1064,8 @@
         "增强"
       ],
       "stars": 11,
-      "updated_at": "2025-09-12T15:45:34Z",
-      "version": "2.9.7"
+      "updated_at": "2025-09-13T06:25:26Z",
+      "version": "2.9.8"
     },
     "astrbot_plugin_Group-Verification_PRO": {
       "desc": "一个强大的 QQ 群成员入群验证插件。新成员需回答动态生成的 100 以内加减法问题方可入群。支持完全自定义的提示消息（成功、失败、超时警告、踢出等）和时间控制（验证超时、警告时机、踢出延迟）。当用户回答错误时，会自动生成新题目并重置验证时间，有效防止机器人账号。",
@@ -1232,8 +1232,8 @@
         "Mod"
       ],
       "stars": 0,
-      "updated_at": "2025-07-29T18:11:34Z",
-      "version": "v1.0"
+      "updated_at": "2025-09-13T03:05:35Z",
+      "version": "v2.0"
     },
     "astrbot_plugin_ragecoop": {
       "desc": "GTAV RageCoop 服务器查询插件",
@@ -2837,8 +2837,8 @@
         "画像"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 24,
-      "updated_at": "2025-09-10T10:17:36Z",
+      "stars": 25,
+      "updated_at": "2025-09-13T03:17:33Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_Kanalyse": {
@@ -3057,8 +3057,8 @@
         "戳一戳"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 25,
-      "updated_at": "2025-09-10T14:48:09Z",
+      "stars": 26,
+      "updated_at": "2025-09-13T03:33:24Z",
       "version": "v1.1.2"
     },
     "astrbot_plugin_jm_cosmos": {
@@ -3070,8 +3070,8 @@
         "禁漫"
       ],
       "social_link": "https://github.com/GEMILUXVII",
-      "stars": 36,
-      "updated_at": "2025-09-03T03:42:14Z",
+      "stars": 37,
+      "updated_at": "2025-09-13T05:13:22Z",
       "version": "1.0.7"
     },
     "astrbot_plugin_combine-messages": {
@@ -3434,7 +3434,7 @@
         "游戏"
       ],
       "stars": 6,
-      "updated_at": "2025-09-08T14:07:54Z",
+      "updated_at": "2025-09-13T02:32:50Z",
       "version": "v1.7.3"
     },
     "astrbot_plugin_Group-Verification": {
@@ -3593,7 +3593,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 20,
-      "updated_at": "2025-09-12T01:26:02Z",
+      "updated_at": "2025-09-13T01:22:22Z",
       "version": "v1.6.4"
     },
     "astrbot_plugin_status-pro": {
@@ -5254,8 +5254,8 @@
         "webui",
         "图床"
       ],
-      "stars": 76,
-      "updated_at": "2025-09-12T14:46:56Z",
+      "stars": 77,
+      "updated_at": "2025-09-13T04:15:22Z",
       "version": "v3.13"
     },
     "mccloud_command": {
