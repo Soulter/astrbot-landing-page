@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-09-13T12:35:14.517Z",
+  "timestamp": "2025-09-14T01:38:45.802Z",
   "github": {
-    "stars": 12067,
-    "forks": 862,
+    "stars": 12071,
+    "forks": 861,
     "contributors": 92
   },
   "plugins": {
@@ -75,7 +75,7 @@
       "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
       "tags": [],
       "stars": 8,
-      "updated_at": "2025-09-13T04:48:01Z",
+      "updated_at": "2025-09-13T18:20:04Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_group_chat": {
@@ -101,8 +101,8 @@
       ],
       "social_link": "https://wenturc.com",
       "stars": 0,
-      "updated_at": "2025-09-13T10:48:02Z",
-      "version": "v1.0.1"
+      "updated_at": "2025-09-13T17:47:47Z",
+      "version": "v1.2.0"
     },
     "input_state_by_napcat": {
       "desc": "[仅NapCat]输入状态显示",
@@ -437,8 +437,8 @@
       "author": "竹和木",
       "repo": "https://github.com/3451996649/astrbot_plugin_ms_aiimg",
       "tags": [],
-      "stars": 0,
-      "updated_at": "2025-08-24T08:23:58Z",
+      "stars": 1,
+      "updated_at": "2025-09-13T13:54:22Z",
       "version": "v1.0"
     },
     "asbot_plugin_furry_mzxyy": {
@@ -604,9 +604,9 @@
         "手办化"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 64,
-      "updated_at": "2025-09-13T10:44:51Z",
-      "version": "v2.0.3"
+      "stars": 66,
+      "updated_at": "2025-09-13T20:22:14Z",
+      "version": "v2.0.4"
     },
     "astrbot_plugin_Mirecraft_motd": {
       "desc": "Minecraft motd 探测服务器的插件",
@@ -689,8 +689,8 @@
         "SiliconFlow"
       ],
       "social_link": "https://github.com/muyouzhi6",
-      "stars": 21,
-      "updated_at": "2025-09-13T06:13:12Z",
+      "stars": 22,
+      "updated_at": "2025-09-13T12:52:32Z",
       "version": "0.4.3"
     },
     "astrbot_plugin_keyword_monitor": {
@@ -1114,8 +1114,8 @@
         "海龟汤"
       ],
       "stars": 6,
-      "updated_at": "2025-08-30T13:50:33Z",
-      "version": "v1.0.2"
+      "updated_at": "2025-09-13T11:57:56Z",
+      "version": "v1.0.3"
     },
     "astrbot_plugin_typst_render": {
       "name": "astrbot_plugin_typst_render",
@@ -3010,8 +3010,8 @@
       ],
       "social_link": "https://github.com/GEMILUXVII",
       "stars": 15,
-      "updated_at": "2025-09-12T13:44:19Z",
-      "version": "v2.0.0"
+      "updated_at": "2025-09-13T14:45:57Z",
+      "version": "v2.0.1"
     },
     "astrbot_plugin_liblibapi": {
       "author": "machinad",
