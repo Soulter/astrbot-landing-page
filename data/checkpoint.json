@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-09-15T12:40:38.364Z",
+  "timestamp": "2025-09-16T01:24:51.694Z",
   "github": {
-    "stars": 12095,
-    "forks": 865,
+    "stars": 12097,
+    "forks": 866,
     "contributors": 92
   },
   "plugins": {
@@ -44,8 +44,8 @@
       "repo": "https://github.com/nulijiazaizhong/astrbot_plugin_Discord_sync_to_kook",
       "social_link": "https://github.com/nulijiazaizhong",
       "tags": [],
-      "stars": 0,
-      "updated_at": "2025-09-14T10:07:24Z",
+      "stars": 1,
+      "updated_at": "2025-09-15T12:00:22Z",
       "version": "v0.0.2"
     },
     "github_star_manager": {
@@ -423,9 +423,9 @@
         "总结"
       ],
       "social_link": "https://github.com/SXP-Simon",
-      "stars": 17,
-      "updated_at": "2025-09-14T15:48:05Z",
-      "version": "v2.2.0"
+      "stars": 18,
+      "updated_at": "2025-09-15T16:35:01Z",
+      "version": "v2.3.0"
     },
     "astrbot_plugin_boss_notifier": {
       "desc": "AstrBot头目通知插件，可更新头目信息并通知订阅者",
@@ -542,8 +542,8 @@
       "author": "竹和木",
       "repo": "https://github.com/3451996649/astrbot_plugin_ms_aiimg",
       "tags": [],
-      "stars": 1,
-      "updated_at": "2025-09-13T13:54:22Z",
+      "stars": 2,
+      "updated_at": "2025-09-15T13:54:34Z",
       "version": "v1.0"
     },
     "asbot_plugin_furry_mzxyy": {
@@ -709,9 +709,9 @@
         "手办化"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 70,
-      "updated_at": "2025-09-15T10:36:03Z",
-      "version": "v2.0.4"
+      "stars": 71,
+      "updated_at": "2025-09-15T18:15:20Z",
+      "version": "v2.0.7"
     },
     "astrbot_plugin_Mirecraft_motd": {
       "desc": "Minecraft motd 探测服务器的插件",
@@ -2943,8 +2943,8 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 25,
-      "updated_at": "2025-09-15T09:06:54Z",
-      "version": "v1.0.1"
+      "updated_at": "2025-09-15T18:20:34Z",
+      "version": "v1.0.2"
     },
     "astrbot_plugin_Kanalyse": {
       "author": "End_Tower",
@@ -5584,8 +5584,8 @@
       "author": "Flartiny & Soulter",
       "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
       "tags": [],
-      "stars": 28,
-      "updated_at": "2025-09-07T13:31:21Z",
+      "stars": 29,
+      "updated_at": "2025-09-15T11:56:59Z",
       "version": "v1.4.11"
     },
     "astrbot_plugin_leetcode": {
