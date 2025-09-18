@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-09-17T12:40:23.518Z",
+  "timestamp": "2025-09-18T01:25:04.240Z",
   "github": {
-    "stars": 12122,
+    "stars": 12125,
     "forks": 870,
     "contributors": 93
   },
@@ -686,8 +686,8 @@
       "repo": "https://github.com/zgojin/astrbot_plugin_figurine_workshop",
       "tags": "娱乐",
       "social_link": "astrbot.uk",
-      "stars": 14,
-      "updated_at": "2025-09-06T05:59:12Z",
+      "stars": 13,
+      "updated_at": "2025-09-17T15:37:33Z",
       "version": "v1.0.1"
     },
     "should_I_respond": {
@@ -2805,8 +2805,8 @@
         "RAG",
         "知识库"
       ],
-      "stars": 62,
-      "updated_at": "2025-09-16T12:09:01Z",
+      "stars": 61,
+      "updated_at": "2025-09-17T15:37:33Z",
       "version": "v0.5.9"
     },
     "astrbot_uptime_kuma_webhook_plugin": {
@@ -3238,18 +3238,6 @@
       "updated_at": "2025-05-14T14:21:55Z",
       "version": "v1.1.0"
     },
-    "astrbot_plugin_memelite_rs": {
-      "author": "Zhalslar",
-      "desc": "表情包生成器，制作各种沙雕表情（Rust重构版，速度快占用小）",
-      "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite_rs",
-      "tags": [
-        "表情包"
-      ],
-      "social_link": "https://github.com/Zhalslar",
-      "stars": 38,
-      "updated_at": "2025-09-17T05:11:10Z",
-      "version": "v2.0.7"
-    },
     "astrbot_plugin_voiceprint": {
       "author": "hello七七",
       "desc": "活字印刷（文本转语音）",
@@ -3396,18 +3384,6 @@
       "stars": 3,
       "updated_at": "2025-05-30T14:35:03Z",
       "version": "1.0.0"
-    },
-    "astrbot_plugin_buttons": {
-      "author": "Zhalslar",
-      "desc": "[仅 napcat] 让QQ的野生bot也能发送按钮！",
-      "repo": "https://github.com/Zhalslar/astrbot_plugin_buttons",
-      "tags": [
-        "按钮"
-      ],
-      "social_link": "https://github.com/Zhalslar",
-      "stars": 27,
-      "updated_at": "2025-09-03T14:24:09Z",
-      "version": "v2.0.0"
     },
     "astrbot_plugin_SillyTavern_card": {
       "author": "LKarxa",
@@ -3698,7 +3674,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 20,
-      "updated_at": "2025-09-17T11:16:32Z",
+      "updated_at": "2025-09-17T16:27:16Z",
       "version": "v1.6.4"
     },
     "astrbot_plugin_status-pro": {
@@ -4724,7 +4700,7 @@
       "version": "v1.0"
     },
     "astrbot_plugin_memelite": {
-      "desc": "表情包生成器，制作各种沙雕表情(本地部署，但轻量化)",
+      "desc": "表情包生成器，制作各种沙雕表情 (同时兼容Python版和Rust版)",
       "author": "Zhalslar",
       "tags": [
         "表情包"
@@ -4732,8 +4708,8 @@
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
       "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
       "stars": 50,
-      "updated_at": "2025-09-17T11:21:09Z",
-      "version": "v2.0.0"
+      "updated_at": "2025-09-17T12:41:40Z",
+      "version": "v3.0.0"
     },
     "astrbot_plugin_saris_economic": {
       "author": "城城",
@@ -4850,18 +4826,6 @@
       "stars": 47,
       "updated_at": "2025-09-06T17:27:52Z",
       "version": "v1.1.7"
-    },
-    "astrbot_plugin_yuafeng": {
-      "desc": "对接枫林API提供的接口，随机发 美女视频、帅哥视频、精美图片、逆天音频、伤感文案等等",
-      "author": "Zhalslar",
-      "tags": [
-        "枫林API"
-      ],
-      "repo": "https://github.com/Zhalslar/astrbot_plugin_yuafeng",
-      "social_link": "https://github.com/Zhalslar/astrbot_plugin_yuafeng",
-      "stars": 6,
-      "updated_at": "2025-08-02T07:01:17Z",
-      "version": "v1.0.0"
     },
     "astrbot_plugin_relationship": {
       "desc": "[仅aiocqhttp] bot人际关系管理器！包括查看好友列表、查看群列表、审批好友申请、审批群邀请、删好友、退群",
@@ -5318,8 +5282,8 @@
         "功能",
         "搬史"
       ],
-      "stars": 287,
-      "updated_at": "2025-09-16T16:28:53Z",
+      "stars": 286,
+      "updated_at": "2025-09-17T21:30:45Z",
       "version": "v0.912"
     },
     "astrbot_plugin_superpoke": {
