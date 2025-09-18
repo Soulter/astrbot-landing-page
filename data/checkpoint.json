@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-09-18T01:25:04.240Z",
+  "timestamp": "2025-09-18T12:39:45.982Z",
   "github": {
-    "stars": 12125,
-    "forks": 870,
+    "stars": 12131,
+    "forks": 873,
     "contributors": 93
   },
   "plugins": {
@@ -25,8 +25,8 @@
       "author": "zhuguadundan",
       "repo": "https://github.com/zhuguadundan/astrbot_plugin_wallabag",
       "tags": [],
-      "stars": 0,
-      "updated_at": "2025-09-15T09:35:57Z",
+      "stars": 1,
+      "updated_at": "2025-09-18T09:28:27Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_pplxsearch": {
@@ -158,8 +158,8 @@
         "generator",
         "management"
       ],
-      "stars": 1,
-      "updated_at": "2025-09-09T02:41:12Z",
+      "stars": 2,
+      "updated_at": "2025-09-18T06:27:07Z",
       "version": "1.0.0"
     },
     "GUGUblack": {
@@ -180,7 +180,7 @@
       "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
       "tags": [],
       "stars": 12,
-      "updated_at": "2025-09-17T08:16:31Z",
+      "updated_at": "2025-09-18T05:42:45Z",
       "version": "v1.2.2"
     },
     "astrbot_plugin_group_chat": {
@@ -709,8 +709,8 @@
         "手办化"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 72,
-      "updated_at": "2025-09-16T10:52:34Z",
+      "stars": 76,
+      "updated_at": "2025-09-18T06:12:52Z",
       "version": "v2.0.7"
     },
     "astrbot_plugin_Mirecraft_motd": {
@@ -1156,8 +1156,8 @@
       "repo": "https://github.com/ctrlkk/astrbot_plugin_image_size_limit",
       "tags": [],
       "stars": 0,
-      "updated_at": "2025-08-10T03:02:39Z",
-      "version": "v0.1"
+      "updated_at": "2025-09-18T00:32:17Z",
+      "version": "v0.2"
     },
     "intelligent_retry": {
       "desc": "当LLM回复为空或包含特定错误关键词时，自动进行多次重试，提高交互稳定性。",
@@ -1218,8 +1218,8 @@
       "tags": [
         "海龟汤"
       ],
-      "stars": 8,
-      "updated_at": "2025-09-16T06:09:15Z",
+      "stars": 9,
+      "updated_at": "2025-09-18T06:17:58Z",
       "version": "v1.0.3"
     },
     "astrbot_plugin_typst_render": {
@@ -1569,8 +1569,8 @@
       ],
       "social_link": "https://github.com/advent259141",
       "pinned": true,
-      "stars": 40,
-      "updated_at": "2025-09-08T13:38:47Z",
+      "stars": 41,
+      "updated_at": "2025-09-18T09:31:07Z",
       "version": "1.3.0"
     },
     "cngal_search": {
@@ -1678,8 +1678,8 @@
         "模仿"
       ],
       "social_link": "https://github.com/oyxning",
-      "stars": 8,
-      "updated_at": "2025-09-09T03:17:22Z",
+      "stars": 9,
+      "updated_at": "2025-09-18T06:27:04Z",
       "version": "v1.1.0"
     },
     "EmailNotixion": {
@@ -2050,8 +2050,8 @@
       "repo": "https://github.com/sa1guu/astrbot_plugin_touchi",
       "tags": [],
       "stars": 24,
-      "updated_at": "2025-09-12T17:38:09Z",
-      "version": "v2.5.6"
+      "updated_at": "2025-09-18T09:22:19Z",
+      "version": "v2.5.7"
     },
     "astrbot_plugin_Astrsupermarket": {
       "author": "和泉智宏本人",
@@ -2534,8 +2534,8 @@
         "Steam"
       ],
       "social_link": "https://github.com/Maoer233",
-      "stars": 4,
-      "updated_at": "2025-09-17T04:46:12Z",
+      "stars": 5,
+      "updated_at": "2025-09-18T03:41:53Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_xiaoxue": {
@@ -2610,8 +2610,8 @@
       "tags": [
         "玩具"
       ],
-      "stars": 9,
-      "updated_at": "2025-09-05T09:42:52Z",
+      "stars": 10,
+      "updated_at": "2025-09-18T09:51:32Z",
       "version": "v0.1"
     },
     "astrbot_plugin_music": {
@@ -2942,8 +2942,8 @@
         "画像"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 25,
-      "updated_at": "2025-09-16T12:09:36Z",
+      "stars": 26,
+      "updated_at": "2025-09-18T08:23:44Z",
       "version": "v1.0.3"
     },
     "astrbot_plugin_Kanalyse": {
@@ -3085,7 +3085,7 @@
         "fish"
       ],
       "stars": 39,
-      "updated_at": "2025-09-17T06:34:00Z",
+      "updated_at": "2025-09-18T05:28:17Z",
       "version": "1.4.6"
     },
     "astrbot_plugin_bilibili_live": {
@@ -3466,8 +3466,8 @@
         "api"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-      "stars": 77,
-      "updated_at": "2025-09-11T10:35:17Z",
+      "stars": 78,
+      "updated_at": "2025-09-18T02:55:18Z",
       "version": "v2.0.3"
     },
     "astrbot_plugin_help": {
@@ -3674,7 +3674,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 20,
-      "updated_at": "2025-09-17T16:27:16Z",
+      "updated_at": "2025-09-18T09:46:25Z",
       "version": "v1.6.4"
     },
     "astrbot_plugin_status-pro": {
@@ -3755,7 +3755,7 @@
         "pixiv"
       ],
       "stars": 22,
-      "updated_at": "2025-09-16T14:10:15Z",
+      "updated_at": "2025-09-18T00:39:43Z",
       "version": "1.2.8"
     },
     "astrbot_plugin_gotify": {
@@ -3800,15 +3800,6 @@
       "stars": 1,
       "updated_at": "2025-08-31T16:18:05Z",
       "version": "v1.2"
-    },
-    "astrbot_plugin_grok_filter": {
-      "author": "Cheng-MaoMao",
-      "repo": "https://github.com/Cheng-MaoMao/astrbot_plugin_grok_filter",
-      "desc": "过滤 grok-3-reasoner 推理模型的思维链内容",
-      "tags": [],
-      "stars": 0,
-      "updated_at": "2025-04-01T17:27:34Z",
-      "version": "v1.0.0"
     },
     "FavorSystem": {
       "author": "wuyan1003",
@@ -5549,8 +5540,8 @@
       "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
       "tags": [],
       "stars": 30,
-      "updated_at": "2025-09-17T04:17:39Z",
-      "version": "v1.4.11"
+      "updated_at": "2025-09-18T02:31:27Z",
+      "version": "v1.4.12"
     },
     "astrbot_plugin_leetcode": {
       "desc": "leetcode 每日一题、随机题目。",
@@ -5935,8 +5926,8 @@
       "author": "lxfight",
       "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
       "tags": [],
-      "stars": 121,
-      "updated_at": "2025-09-16T20:02:48Z",
+      "stars": 122,
+      "updated_at": "2025-09-18T10:10:00Z",
       "version": "v0.5.1"
     },
     "FateTrial_img_identify": {
