@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-09-19T12:40:22.709Z",
+  "timestamp": "2025-09-20T01:23:40.664Z",
   "github": {
-    "stars": 12143,
-    "forks": 874,
+    "stars": 12147,
+    "forks": 875,
     "contributors": 94
   },
   "plugins": {
@@ -17,7 +17,7 @@
         "https://github.com/qa296/"
       ],
       "stars": 3,
-      "updated_at": "2025-09-16T03:23:48Z",
+      "updated_at": "2025-09-19T11:46:43Z",
       "version": "1.1.0"
     },
     "wallabag": {
@@ -709,8 +709,8 @@
         "手办化"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 76,
-      "updated_at": "2025-09-18T06:12:52Z",
+      "stars": 77,
+      "updated_at": "2025-09-19T12:23:11Z",
       "version": "v2.0.7"
     },
     "astrbot_plugin_Mirecraft_motd": {
@@ -781,8 +781,8 @@
       ],
       "social_link": "https://github.com/danfong1104",
       "stars": 1,
-      "updated_at": "2025-08-29T14:29:33Z",
-      "version": "v2.0.2"
+      "updated_at": "2025-09-19T18:22:11Z",
+      "version": "v2.1.0"
     },
     "astrbot_plugin_tts_emotion_router": {
       "desc": "按情绪路由到不同音色与语速的 TTS 插件（硅基流动 API，其他OpenAI语音接口api同样适配），支持隐藏标记与启发式情绪识别、概率/长度/冷却门控与会话开关。",
@@ -892,8 +892,8 @@
         "社交"
       ],
       "social_link": "https://t.me/astrbot_plugin_HINS",
-      "stars": 3,
-      "updated_at": "2025-08-25T18:57:08Z",
+      "stars": 4,
+      "updated_at": "2025-09-19T15:34:38Z",
       "version": "v1.3.5"
     },
     "astrbot_plugin_xfbank": {
@@ -2278,7 +2278,7 @@
       "social_link": "https://xingyu.ink",
       "tags": [],
       "stars": 1,
-      "updated_at": "2025-08-01T13:57:58Z",
+      "updated_at": "2025-09-19T15:25:04Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_wbank": {
@@ -5048,7 +5048,7 @@
         "推送"
       ],
       "stars": 15,
-      "updated_at": "2025-09-19T08:39:37Z",
+      "updated_at": "2025-09-19T16:44:54Z",
       "version": "v2.0"
     },
     "astrbot_plugin_gemini_exp": {
@@ -5477,7 +5477,7 @@
       "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
       "tags": [],
       "stars": 18,
-      "updated_at": "2025-09-19T09:49:44Z",
+      "updated_at": "2025-09-19T14:07:10Z",
       "version": "v1.3.4"
     },
     "ai_memory": {
