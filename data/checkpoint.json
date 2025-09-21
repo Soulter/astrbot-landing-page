@@ -1,9 +1,9 @@
 {
-  "timestamp": "2025-09-21T01:41:20.891Z",
+  "timestamp": "2025-09-21T12:36:34.944Z",
   "github": {
-    "stars": 12161,
+    "stars": 12168,
     "forks": 874,
-    "contributors": 94
+    "contributors": 95
   },
   "plugins": {
     "astrbot_plugin_meme_manager_lite": {
@@ -11,8 +11,8 @@
       "author": "ctrlkk",
       "repo": "https://github.com/ctrlkk/astrbot_plugin_meme_manager_lite",
       "tags": [],
-      "stars": 1,
-      "updated_at": "2025-09-20T12:49:33Z",
+      "stars": 2,
+      "updated_at": "2025-09-20T23:34:37Z",
       "version": "v1.1"
     },
     "astrbot_plugin_festival_greeter": {
@@ -104,9 +104,22 @@
       "tags": [
         "TTS"
       ],
-      "stars": 1,
-      "updated_at": "2025-09-20T16:11:44Z",
+      "stars": 2,
+      "updated_at": "2025-09-21T03:13:41Z",
       "version": "1.0.0"
+    },
+    "astrbot_plugin_angel_heart": {
+      "desc": "天使心秘书，是一个专为 AstrBot 平台设计的智能群聊交互插件。它采用创新的两级AI协作架构，实现高质量、低成本的智能对话交互，让 AI 成为懂分寸、有眼色的聊天伙伴。",
+      "author": "kawayiYokami",
+      "repo": "https://github.com/kawayiYokami/astrbot_plugin_angel_heart",
+      "tags": [
+        "群聊",
+        "主动应答"
+      ],
+      "social_link": "https://github.com/kawayiYokami",
+      "stars": 1,
+      "updated_at": "2025-09-20T17:38:40Z",
+      "version": "0.0.3"
     },
     "astrbot_plugin_angel_eye": {
       "desc": "在调用大模型之前，通过小模型识别对话中的专有名词并链接百科知识，为大模型补充上下文，使其更“见多识广”。",
@@ -387,8 +400,8 @@
       ],
       "social_link": "https://github.com/Sic-x",
       "stars": 0,
-      "updated_at": "2025-09-20T05:20:13Z",
-      "version": "1.1.7"
+      "updated_at": "2025-09-21T07:34:52Z",
+      "version": "1.1.9"
     },
     "astrbot_plugin_m": {
       "desc": "AI自动识别对话中的歌名，支持发送音乐卡片、链接、语音、音频文件，集成网易云音乐数据接口",
@@ -538,8 +551,8 @@
         "总结"
       ],
       "social_link": "https://github.com/SXP-Simon",
-      "stars": 20,
-      "updated_at": "2025-09-19T02:51:26Z",
+      "stars": 21,
+      "updated_at": "2025-09-21T08:15:15Z",
       "version": "v2.4.0"
     },
     "astrbot_plugin_boss_notifier": {
@@ -723,8 +736,8 @@
       "repo": "https://github.com/furryHM-mrz/asbot_plugin_furry-API-",
       "tags": [],
       "stars": 2,
-      "updated_at": "2025-09-10T15:05:11Z",
-      "version": "v2.2"
+      "updated_at": "2025-09-21T09:58:45Z",
+      "version": "v2.3.0"
     },
     "asbot_plugin_furry-API-hy": {
       "desc": "调用趣绮梦云黑API的群黑云查询踢出还有进群自动检测黑云有问题自动踢出的插件",
@@ -825,8 +838,8 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 79,
-      "updated_at": "2025-09-20T13:11:34Z",
-      "version": "v2.0.8"
+      "updated_at": "2025-09-21T10:22:40Z",
+      "version": "v2.1.0"
     },
     "astrbot_plugin_Mirecraft_motd": {
       "desc": "Minecraft motd 探测服务器的插件",
@@ -1150,8 +1163,8 @@
       ],
       "social_link": "https://github.com/xiewoc",
       "stars": 0,
-      "updated_at": "2025-08-22T17:03:18Z",
-      "version": "v1.0.3"
+      "updated_at": "2025-09-21T09:25:28Z",
+      "version": "v1.0.4"
     },
     "astrbot_plugin_aolastar": {
       "desc": "通过Aolarhapsody后端 API 解析奥拉星游戏内容",
@@ -1184,8 +1197,8 @@
         "表白墙"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 16,
-      "updated_at": "2025-09-16T10:52:16Z",
+      "stars": 17,
+      "updated_at": "2025-09-21T08:11:57Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_matchreminder": {
@@ -1284,8 +1297,8 @@
         "增强"
       ],
       "stars": 11,
-      "updated_at": "2025-09-15T03:12:46Z",
-      "version": "2.9.8"
+      "updated_at": "2025-09-21T09:06:36Z",
+      "version": "2.9.9"
     },
     "astrbot_plugin_Group-Verification_PRO": {
       "desc": "一个强大的 QQ 群成员入群验证插件。新成员需回答动态生成的 100 以内加减法问题方可入群。支持完全自定义的提示消息（成功、失败、超时警告、踢出等）和时间控制（验证超时、警告时机、踢出延迟）。当用户回答错误时，会自动生成新题目并重置验证时间，有效防止机器人账号。",
@@ -2091,8 +2104,8 @@
       "desc": "通过调用 AnimeTrace 网站提供的 API 进行动漫识图",
       "tags": [],
       "stars": 2,
-      "updated_at": "2025-08-14T10:58:38Z",
-      "version": "v1.1"
+      "updated_at": "2025-09-21T08:46:10Z",
+      "version": "v3.3"
     },
     "astrbot_plugin_cheru": {
       "author": "irs",
@@ -2649,8 +2662,8 @@
         "Steam"
       ],
       "social_link": "https://github.com/Maoer233",
-      "stars": 6,
-      "updated_at": "2025-09-20T08:15:40Z",
+      "stars": 7,
+      "updated_at": "2025-09-21T05:01:23Z",
       "version": "2.1.5"
     },
     "astrbot_plugin_xiaoxue": {
@@ -3291,7 +3304,7 @@
       ],
       "social_link": "https://github.com/GEMILUXVII",
       "stars": 38,
-      "updated_at": "2025-09-20T12:51:42Z",
+      "updated_at": "2025-09-21T05:56:53Z",
       "version": "1.1.0"
     },
     "astrbot_plugin_combine-messages": {
@@ -3789,7 +3802,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 20,
-      "updated_at": "2025-09-20T01:25:23Z",
+      "updated_at": "2025-09-21T01:43:24Z",
       "version": "v1.6.4"
     },
     "astrbot_plugin_status-pro": {
@@ -4278,16 +4291,16 @@
       "updated_at": "2025-08-24T16:22:44Z",
       "version": "v1.1.3"
     },
-    "astrbot_plugin_QQAdmin": {
-      "desc": "[仅aiocqhttp]QQ群管插件，功能包括：禁言、全体禁言、踢人、拉黑、改群昵称、改头衔、设管理员、设精华、发群公告、撤回消息、刷屏检测、宵禁等等",
+    "astrbot_plugin_qqadmin": {
+      "desc": "[仅aiocqhttp]QQ群管插件，功能包括：禁言、全体禁言、踢人、拉黑、改群昵称、改头衔、设管理员、设精华、发群公告、撤回消息、刷屏禁言、违禁词禁言、投票禁言、宵禁等等",
       "author": "Zhalslar",
-      "repo": "https://github.com/Zhalslar/astrbot_plugin_QQAdmin",
-      "social_link": "https://github.com/Zhalslar/astrbot_plugin_QQAdmin",
+      "repo": "https://github.com/Zhalslar/astrbot_plugin_qqadmin",
+      "social_link": "https://github.com/Zhalslar",
       "tags": [
         "QQ群管"
       ],
       "stars": 41,
-      "updated_at": "2025-09-20T15:20:22Z",
+      "updated_at": "2025-09-21T05:07:54Z",
       "version": "v3.1.3"
     },
     "astrbot_plugin_liars_bar": {
@@ -4398,16 +4411,16 @@
       "updated_at": "2025-06-23T09:22:56Z",
       "version": "v2.3"
     },
-    "astrbot_plugin_QQProfile": {
+    "astrbot_plugin_qqprofile": {
       "desc": "[仅aiocqhttp] 通过命令配置bot的头像、昵称、签名、状态, 切换人格时同步改变头像、昵称",
       "author": "Zhalslar",
-      "repo": "https://github.com/Zhalslar/astrbot_plugin_QQProfile",
+      "repo": "https://github.com/Zhalslar/astrbot_plugin_qqprofile",
       "tags": [
         "QQ资料"
       ],
-      "social_link": "https://github.com/Zhalslar/astrbot_plugin_QQProfile",
+      "social_link": "https://github.com/Zhalslar",
       "stars": 6,
-      "updated_at": "2025-09-20T02:32:47Z",
+      "updated_at": "2025-09-21T04:24:23Z",
       "version": "v1.1.2"
     },
     "astrbot_plugin_mcping": {
@@ -6041,8 +6054,8 @@
       "author": "lxfight",
       "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
       "tags": [],
-      "stars": 122,
-      "updated_at": "2025-09-18T10:10:00Z",
+      "stars": 123,
+      "updated_at": "2025-09-21T03:58:25Z",
       "version": "v0.5.1"
     },
     "FateTrial_img_identify": {
