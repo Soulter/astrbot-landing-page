@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-09-20T12:36:44.888Z",
+  "timestamp": "2025-09-21T01:41:20.891Z",
   "github": {
-    "stars": 12153,
-    "forks": 875,
+    "stars": 12161,
+    "forks": 874,
     "contributors": 94
   },
   "plugins": {
@@ -11,8 +11,8 @@
       "author": "ctrlkk",
       "repo": "https://github.com/ctrlkk/astrbot_plugin_meme_manager_lite",
       "tags": [],
-      "stars": 0,
-      "updated_at": "2025-09-20T02:36:15Z",
+      "stars": 1,
+      "updated_at": "2025-09-20T12:49:33Z",
       "version": "v1.1"
     },
     "astrbot_plugin_festival_greeter": {
@@ -94,8 +94,8 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 2,
-      "updated_at": "2025-09-17T01:04:18Z",
-      "version": "v1.0.1"
+      "updated_at": "2025-09-20T16:56:24Z",
+      "version": "v1.0.2"
     },
     "astrbot_plugin_tts_llm": {
       "desc": "将LLM的文本回复自动翻译成日语并合成为语音。支持使用自己训练的声音模型和通过指令动态注册、删除和切换不同的声音情感。",
@@ -105,7 +105,7 @@
         "TTS"
       ],
       "stars": 1,
-      "updated_at": "2025-09-19T01:26:49Z",
+      "updated_at": "2025-09-20T16:11:44Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_angel_eye": {
@@ -118,7 +118,7 @@
       ],
       "social_link": "https://github.com/kawayiYokami",
       "stars": 0,
-      "updated_at": "2025-09-18T01:46:02Z",
+      "updated_at": "2025-09-20T17:01:41Z",
       "version": "0.1.0"
     },
     "astrbot_plugin_pollinations_images": {
@@ -397,8 +397,8 @@
       "tags": [
         "音乐"
       ],
-      "stars": 3,
-      "updated_at": "2025-09-16T14:14:32Z",
+      "stars": 4,
+      "updated_at": "2025-09-20T12:12:55Z",
       "version": "2.1.1"
     },
     "astrbot_plugin_slg": {
@@ -824,8 +824,8 @@
         "手办化"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 78,
-      "updated_at": "2025-09-20T08:58:40Z",
+      "stars": 79,
+      "updated_at": "2025-09-20T13:11:34Z",
       "version": "v2.0.8"
     },
     "astrbot_plugin_Mirecraft_motd": {
@@ -979,8 +979,8 @@
         "人格"
       ],
       "social_link": "https://github.com/NickCharlie",
-      "stars": 19,
-      "updated_at": "2025-09-15T02:45:12Z",
+      "stars": 20,
+      "updated_at": "2025-09-20T15:59:59Z",
       "version": "1.2.5"
     },
     "astrbot_plugin_baiduocr": {
@@ -3291,8 +3291,8 @@
       ],
       "social_link": "https://github.com/GEMILUXVII",
       "stars": 38,
-      "updated_at": "2025-09-18T13:56:52Z",
-      "version": "1.0.7"
+      "updated_at": "2025-09-20T12:51:42Z",
+      "version": "1.1.0"
     },
     "astrbot_plugin_combine-messages": {
       "author": "FreeDivers",
@@ -3582,8 +3582,8 @@
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
       "stars": 81,
-      "updated_at": "2025-09-20T08:33:01Z",
-      "version": "v2.0.3"
+      "updated_at": "2025-09-20T15:33:52Z",
+      "version": "v2.0.4"
     },
     "astrbot_plugin_help": {
       "author": "tinker",
@@ -4287,8 +4287,8 @@
         "QQ群管"
       ],
       "stars": 41,
-      "updated_at": "2025-09-17T02:47:55Z",
-      "version": "v3.1.2"
+      "updated_at": "2025-09-20T15:20:22Z",
+      "version": "v3.1.3"
     },
     "astrbot_plugin_liars_bar": {
       "desc": "本插件是为 AstrBot 框架开发的游戏插件，实现了一个骗子酒馆",
@@ -5326,8 +5326,8 @@
         "主动回复"
       ],
       "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-      "stars": 67,
-      "updated_at": "2025-09-09T07:39:23Z",
+      "stars": 68,
+      "updated_at": "2025-09-20T14:04:27Z",
       "version": "v2.1.5"
     },
     "astrbot_plugin_steamshot": {
