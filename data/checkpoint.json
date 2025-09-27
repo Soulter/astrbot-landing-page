@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-09-27T01:23:17.512Z",
+  "timestamp": "2025-09-27T12:35:43.687Z",
   "github": {
-    "stars": 12296,
+    "stars": 12306,
     "forks": 889,
     "contributors": 96
   },
@@ -238,8 +238,8 @@
         "小游戏"
       ],
       "stars": 4,
-      "updated_at": "2025-09-22T07:23:29Z",
-      "version": "v2.0.2"
+      "updated_at": "2025-09-27T08:22:58Z",
+      "version": "v2.0.3"
     },
     "astrbot_plugin_admin_tools": {
       "desc": "允许LLM禁言、踢出用户",
@@ -1256,7 +1256,7 @@
       ],
       "social_link": "https://github.com/Futureppo",
       "stars": 1,
-      "updated_at": "2025-09-24T02:23:26Z",
+      "updated_at": "2025-09-27T10:01:44Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_immersive_control": {
@@ -1471,7 +1471,7 @@
       ],
       "social_link": "https://github.com/xiewoc",
       "stars": 0,
-      "updated_at": "2025-09-21T09:25:28Z",
+      "updated_at": "2025-09-27T08:56:51Z",
       "version": "v1.0.4"
     },
     "astrbot_plugin_aolastar": {
@@ -2971,8 +2971,8 @@
       ],
       "social_link": "https://github.com/Maoer233",
       "stars": 8,
-      "updated_at": "2025-09-25T08:13:23Z",
-      "version": "2.1.5"
+      "updated_at": "2025-09-27T06:47:50Z",
+      "version": "2.1.7"
     },
     "astrbot_plugin_xiaoxue": {
       "author": "sbmikoto",
@@ -3241,8 +3241,8 @@
         "RAG",
         "知识库"
       ],
-      "stars": 61,
-      "updated_at": "2025-09-17T15:37:33Z",
+      "stars": 62,
+      "updated_at": "2025-09-27T10:24:17Z",
       "version": "v0.5.9"
     },
     "astrbot_uptime_kuma_webhook_plugin": {
@@ -3378,8 +3378,8 @@
         "画像"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 28,
-      "updated_at": "2025-09-26T12:21:15Z",
+      "stars": 29,
+      "updated_at": "2025-09-27T07:43:42Z",
       "version": "v1.0.3"
     },
     "astrbot_plugin_Kanalyse": {
@@ -4110,7 +4110,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 15,
-      "updated_at": "2025-09-26T08:16:06Z",
+      "updated_at": "2025-09-27T01:25:00Z",
       "version": "v1.6.5"
     },
     "astrbot_plugin_status-pro": {
@@ -4607,8 +4607,8 @@
       "tags": [
         "QQ群管"
       ],
-      "stars": 47,
-      "updated_at": "2025-09-26T01:25:17Z",
+      "stars": 48,
+      "updated_at": "2025-09-27T08:50:47Z",
       "version": "v3.1.7"
     },
     "astrbot_plugin_liars_bar": {
@@ -4857,7 +4857,7 @@
       ],
       "social_link": "https://github.com/Futureppo",
       "stars": 16,
-      "updated_at": "2025-09-25T05:57:21Z",
+      "updated_at": "2025-09-27T10:00:55Z",
       "version": "v1.0.12"
     },
     "astrbot_plugin_litematic": {
@@ -5262,8 +5262,8 @@
       "tags": [
         "实用工具"
       ],
-      "stars": 15,
-      "updated_at": "2025-09-16T10:52:15Z",
+      "stars": 16,
+      "updated_at": "2025-09-27T05:29:29Z",
       "version": "v2.0.2"
     },
     "astrbot_plugin_pokecheck": {
