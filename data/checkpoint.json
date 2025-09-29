@@ -1,9 +1,9 @@
 {
-  "timestamp": "2025-09-29T01:37:10.105Z",
+  "timestamp": "2025-09-29T12:42:24.811Z",
   "github": {
-    "stars": 12324,
+    "stars": 12332,
     "forks": 892,
-    "contributors": 97
+    "contributors": 98
   },
   "plugins": {
     "astrbot_plugin_CourseSchedule": {
@@ -54,8 +54,8 @@
       ],
       "social_link": "https://github.com/PaloMiku/",
       "stars": 0,
-      "updated_at": "2025-09-26T21:45:44Z",
-      "version": "v1.0.1"
+      "updated_at": "2025-09-29T03:26:10Z",
+      "version": "v1.0.2"
     },
     "zhiyu-astrbot-violationquery": {
       "desc": "一款QQ违规记录查询的AstrBot插件",
@@ -82,7 +82,7 @@
       ],
       "social_link": "https://github.com/ovoox",
       "stars": 0,
-      "updated_at": "2025-09-26T00:56:26Z",
+      "updated_at": "2025-09-29T05:10:12Z",
       "version": "v1.0"
     },
     "astrbot_plugin_simulation-xiuxian": {
@@ -93,8 +93,8 @@
         "模拟",
         "修仙"
       ],
-      "stars": 0,
-      "updated_at": "2025-09-27T06:13:13Z",
+      "stars": 1,
+      "updated_at": "2025-09-29T04:19:46Z",
       "version": "v0.0.9"
     },
     "astrbot_plugin_GroupFS": {
@@ -104,8 +104,8 @@
       "tags": [
         "群文件"
       ],
-      "stars": 0,
-      "updated_at": "2025-09-25T12:04:55Z",
+      "stars": 1,
+      "updated_at": "2025-09-29T02:44:25Z",
       "version": "v0.8"
     },
     "group_notice_manager": {
@@ -328,8 +328,8 @@
         "赛博修仙",
         "小游戏"
       ],
-      "stars": 4,
-      "updated_at": "2025-09-27T08:22:58Z",
+      "stars": 5,
+      "updated_at": "2025-09-29T01:52:26Z",
       "version": "v2.0.3"
     },
     "astrbot_plugin_admin_tools": {
@@ -360,17 +360,17 @@
       "repo": "https://github.com/tacbana/astrbot_plugin_scheduled_reply",
       "tags": [],
       "stars": 1,
-      "updated_at": "2025-09-27T19:08:26Z",
-      "version": "1.0.0"
+      "updated_at": "2025-09-29T06:39:06Z",
+      "version": "1.1.0"
     },
     "astrbot_plugin_the_Big-3_Chinese_AI_conferences": {
       "desc": "亿万人将要精读中文AI顶会",
       "author": "RC-CHN",
       "repo": "https://github.com/RC-CHN/astrbot_plugin_the_Big-3_Chinese_AI_conferences",
       "tags": [],
-      "stars": 1,
-      "updated_at": "2025-09-26T09:04:44Z",
-      "version": "v1.0"
+      "stars": 2,
+      "updated_at": "2025-09-29T09:51:36Z",
+      "version": "v1.2"
     },
     "astrbot_plugin_mc_admin": {
       "desc": "这是 MC服务器 的管理插件，支持list，珍珠炮落点计算，服务器工程坐标，备货清单，白名单管理等功能",
@@ -434,7 +434,7 @@
         "多模态"
       ],
       "stars": 0,
-      "updated_at": "2025-09-24T03:43:27Z",
+      "updated_at": "2025-09-29T02:49:40Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_lottery": {
@@ -469,7 +469,7 @@
       ],
       "social_link": "https://github.com/Maoer233",
       "stars": 2,
-      "updated_at": "2025-09-28T21:19:45Z",
+      "updated_at": "2025-09-29T00:39:13Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_personal_selfupdate": {
@@ -981,8 +981,8 @@
         "api",
         "表情包"
       ],
-      "stars": 7,
-      "updated_at": "2025-09-28T06:30:03Z",
+      "stars": 8,
+      "updated_at": "2025-09-29T09:28:49Z",
       "version": "v1.0.1"
     },
     "wxauto_repost": {
@@ -1105,8 +1105,8 @@
         "function"
       ],
       "social_link": "https://github.com/kjqwer",
-      "stars": 4,
-      "updated_at": "2025-09-16T10:52:22Z",
+      "stars": 5,
+      "updated_at": "2025-09-29T05:21:07Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_lark_send_patcher": {
@@ -1236,8 +1236,8 @@
         "手办化"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 89,
-      "updated_at": "2025-09-28T14:16:37Z",
+      "stars": 91,
+      "updated_at": "2025-09-29T10:48:21Z",
       "version": "v2.1.2"
     },
     "astrbot_plugin_Mirecraft_motd": {
@@ -1453,8 +1453,8 @@
         "唤醒增强"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 17,
-      "updated_at": "2025-09-26T14:28:52Z",
+      "stars": 18,
+      "updated_at": "2025-09-29T07:40:21Z",
       "version": "v1.1.2"
     },
     "astrbot_plugin_memora_connect": {
@@ -3061,8 +3061,8 @@
         "Steam"
       ],
       "social_link": "https://github.com/Maoer233",
-      "stars": 9,
-      "updated_at": "2025-09-28T02:00:17Z",
+      "stars": 14,
+      "updated_at": "2025-09-29T09:35:40Z",
       "version": "2.1.7"
     },
     "astrbot_plugin_xiaoxue": {
@@ -3401,7 +3401,7 @@
       ],
       "social_link": "https://space.bilibili.com/447591776",
       "stars": 2,
-      "updated_at": "2025-08-06T16:06:40Z",
+      "updated_at": "2025-09-29T09:44:33Z",
       "version": "v1.1.2"
     },
     "astrbot_plugin_embedding_adapter": {
@@ -3412,8 +3412,8 @@
         "embedding"
       ],
       "social_link": "https://github.com/TheAnyan",
-      "stars": 10,
-      "updated_at": "2025-08-22T00:59:29Z",
+      "stars": 11,
+      "updated_at": "2025-09-29T07:45:18Z",
       "version": "v1.1.0"
     },
     "astrbot_plugin_stock": {
@@ -3993,8 +3993,8 @@
         "api"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-      "stars": 84,
-      "updated_at": "2025-09-24T10:17:03Z",
+      "stars": 85,
+      "updated_at": "2025-09-29T06:01:36Z",
       "version": "v2.0.4"
     },
     "astrbot_plugin_help": {
@@ -4698,8 +4698,8 @@
       "tags": [
         "QQ群管"
       ],
-      "stars": 48,
-      "updated_at": "2025-09-27T08:50:47Z",
+      "stars": 49,
+      "updated_at": "2025-09-29T01:56:57Z",
       "version": "v3.1.7"
     },
     "astrbot_plugin_liars_bar": {
