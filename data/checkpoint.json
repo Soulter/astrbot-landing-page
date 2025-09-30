@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-09-29T12:42:24.811Z",
+  "timestamp": "2025-09-30T01:26:25.979Z",
   "github": {
-    "stars": 12332,
-    "forks": 892,
+    "stars": 12337,
+    "forks": 895,
     "contributors": 98
   },
   "plugins": {
@@ -15,8 +15,8 @@
         "视奸"
       ],
       "social_link": "https://github.com/advent259141",
-      "stars": 3,
-      "updated_at": "2025-09-28T06:42:19Z",
+      "stars": 4,
+      "updated_at": "2025-09-29T16:16:53Z",
       "version": "1.0.0"
     },
     "bmtxt2img": {
@@ -94,7 +94,7 @@
         "修仙"
       ],
       "stars": 1,
-      "updated_at": "2025-09-29T04:19:46Z",
+      "updated_at": "2025-09-29T15:50:49Z",
       "version": "v0.0.9"
     },
     "astrbot_plugin_GroupFS": {
@@ -242,7 +242,7 @@
       ],
       "social_link": "https://kdja.top",
       "stars": 0,
-      "updated_at": "2025-09-22T11:16:31Z",
+      "updated_at": "2025-09-29T12:30:58Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_nbnhhsh": {
@@ -517,7 +517,7 @@
       ],
       "social_link": "https://github.com/kawayiYokami",
       "stars": 3,
-      "updated_at": "2025-09-28T16:07:47Z",
+      "updated_at": "2025-09-29T18:24:48Z",
       "version": "0.0.3"
     },
     "astrbot_plugin_angel_eye": {
@@ -706,8 +706,8 @@
       "author": "shskjw",
       "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
       "tags": [],
-      "stars": 11,
-      "updated_at": "2025-09-25T10:09:32Z",
+      "stars": 12,
+      "updated_at": "2025-09-29T14:08:53Z",
       "version": "v1.3.1"
     },
     "astrbot_plugin_group_chat": {
@@ -951,7 +951,7 @@
       ],
       "social_link": "https://github.com/SXP-Simon",
       "stars": 28,
-      "updated_at": "2025-09-28T19:53:07Z",
+      "updated_at": "2025-09-29T13:23:11Z",
       "version": "v2.6.0"
     },
     "astrbot_plugin_boss_notifier": {
@@ -2373,8 +2373,8 @@
         "工具"
       ],
       "social_link": "astrbot.uk",
-      "stars": 3,
-      "updated_at": "2025-09-16T10:52:20Z",
+      "stars": 4,
+      "updated_at": "2025-09-29T18:13:29Z",
       "version": "v1.4.0"
     },
     "astrbot_plugin_bw_monitor": {
@@ -3061,8 +3061,8 @@
         "Steam"
       ],
       "social_link": "https://github.com/Maoer233",
-      "stars": 14,
-      "updated_at": "2025-09-29T09:35:40Z",
+      "stars": 17,
+      "updated_at": "2025-09-29T15:45:16Z",
       "version": "2.1.7"
     },
     "astrbot_plugin_xiaoxue": {
@@ -3401,8 +3401,8 @@
       ],
       "social_link": "https://space.bilibili.com/447591776",
       "stars": 2,
-      "updated_at": "2025-09-29T09:44:33Z",
-      "version": "v1.1.2"
+      "updated_at": "2025-09-29T12:22:38Z",
+      "version": "v1.1.3"
     },
     "astrbot_plugin_embedding_adapter": {
       "author": "AnYan",
@@ -3469,8 +3469,8 @@
         "画像"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 29,
-      "updated_at": "2025-09-27T07:43:42Z",
+      "stars": 30,
+      "updated_at": "2025-09-29T20:12:53Z",
       "version": "v1.0.3"
     },
     "astrbot_plugin_Kanalyse": {
@@ -4281,8 +4281,8 @@
       "tags": [
         "pixiv"
       ],
-      "stars": 24,
-      "updated_at": "2025-09-26T08:01:39Z",
+      "stars": 25,
+      "updated_at": "2025-09-29T15:29:26Z",
       "version": "1.2.8"
     },
     "astrbot_plugin_gotify": {
@@ -5382,8 +5382,8 @@
       "tags": [
         "消息推送"
       ],
-      "stars": 9,
-      "updated_at": "2025-09-16T07:38:09Z",
+      "stars": 10,
+      "updated_at": "2025-09-29T16:31:33Z",
       "version": "v0.2.1"
     },
     "astrbot_plugin_hello77": {
@@ -5549,7 +5549,7 @@
         "主动对话"
       ],
       "stars": 7,
-      "updated_at": "2025-09-20T05:09:42Z",
+      "updated_at": "2025-09-29T14:46:51Z",
       "version": "v2.3.0"
     },
     "astrbot_plugin_sensoji": {
@@ -5598,8 +5598,8 @@
       "social_link": "https://space.bilibili.com/447591776",
       "repo": "https://github.com/laopanmemz/astrbot_plugin_chatsummary",
       "stars": 1,
-      "updated_at": "2025-05-19T07:50:13Z",
-      "version": "v1.0.4"
+      "updated_at": "2025-09-29T13:43:45Z",
+      "version": "v1.0.3"
     },
     "astrbot_plugin_bv": {
       "desc": "解析群内 https://www.bilibili.com/video/BV号/ 的链接并获取视频数据与视频文件，以合并转发方式发送",
