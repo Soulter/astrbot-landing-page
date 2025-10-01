@@ -1,9 +1,9 @@
 {
-  "timestamp": "2025-10-01T01:44:04.316Z",
+  "timestamp": "2025-10-01T12:42:25.620Z",
   "github": {
-    "stars": 12356,
-    "forks": 898,
-    "contributors": 98
+    "stars": 12367,
+    "forks": 901,
+    "contributors": 99
   },
   "plugins": {
     "astrbot_plugin_guijishiping": {
@@ -2449,8 +2449,8 @@
         "鼠鼠"
       ],
       "author": "UyNewNas",
-      "stars": 8,
-      "updated_at": "2025-09-11T09:20:20Z",
+      "stars": 9,
+      "updated_at": "2025-10-01T10:36:06Z",
       "version": "v1.2"
     },
     "astrbot_plugin_LetAI_sendemojis": {
@@ -3707,8 +3707,8 @@
         "戳一戳"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 29,
-      "updated_at": "2025-09-30T10:49:26Z",
+      "stars": 30,
+      "updated_at": "2025-10-01T06:56:35Z",
       "version": "v1.1.3"
     },
     "astrbot_plugin_jm_cosmos": {
@@ -3720,8 +3720,8 @@
         "禁漫"
       ],
       "social_link": "https://github.com/GEMILUXVII",
-      "stars": 39,
-      "updated_at": "2025-09-22T01:33:32Z",
+      "stars": 40,
+      "updated_at": "2025-10-01T04:00:50Z",
       "version": "1.1.0"
     },
     "astrbot_plugin_combine-messages": {
@@ -4716,8 +4716,8 @@
       "tags": [
         "QQ群管"
       ],
-      "stars": 49,
-      "updated_at": "2025-09-29T01:56:57Z",
+      "stars": 50,
+      "updated_at": "2025-10-01T04:46:53Z",
       "version": "v3.1.7"
     },
     "astrbot_plugin_liars_bar": {
@@ -4836,8 +4836,8 @@
         "QQ资料"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 6,
-      "updated_at": "2025-09-21T04:24:23Z",
+      "stars": 7,
+      "updated_at": "2025-10-01T00:37:47Z",
       "version": "v1.1.2"
     },
     "astrbot_plugin_mcping": {
