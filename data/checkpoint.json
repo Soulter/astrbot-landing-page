@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-10-04T01:22:33.457Z",
+  "timestamp": "2025-10-04T12:35:37.887Z",
   "github": {
-    "stars": 12385,
-    "forks": 904,
+    "stars": 12390,
+    "forks": 906,
     "contributors": 99
   },
   "plugins": {
@@ -324,8 +324,8 @@
       ],
       "social_link": "https://github.com/Sic-x",
       "stars": 0,
-      "updated_at": "2025-09-22T03:30:47Z",
-      "version": "1.3.3"
+      "updated_at": "2025-10-04T02:47:58Z",
+      "version": "1.4.3"
     },
     "astrbot_plugin_TRPGdice_Complete": {
       "desc": "为跑团玩家设计的仿Dice!骰子插件[升级版！]",
@@ -522,8 +522,8 @@
         "TTS"
       ],
       "stars": 3,
-      "updated_at": "2025-10-03T09:27:24Z",
-      "version": "1.1.0"
+      "updated_at": "2025-10-04T09:14:58Z",
+      "version": "1.2.0"
     },
     "astrbot_plugin_angel_heart": {
       "desc": "天使心秘书，是一个专为 AstrBot 平台设计的智能群聊交互插件。它采用创新的两级AI协作架构，实现高质量、低成本的智能对话交互，让 AI 成为懂分寸、有眼色的聊天伙伴。",
@@ -863,8 +863,8 @@
         "memory",
         "rag"
       ],
-      "stars": 20,
-      "updated_at": "2025-10-02T14:43:33Z",
+      "stars": 21,
+      "updated_at": "2025-10-04T05:18:39Z",
       "version": "1.0.1"
     },
     "astrbot_plugin_mathitools": {
@@ -1592,7 +1592,7 @@
       ],
       "social_link": "https://github.com/vmoranv",
       "stars": 1,
-      "updated_at": "2025-09-18T14:56:28Z",
+      "updated_at": "2025-10-04T02:46:00Z",
       "version": "1.0.3"
     },
     "astrbot_plugin_identity_strategy": {
@@ -2101,8 +2101,8 @@
       ],
       "social_link": "https://github.com/zhewang448",
       "stars": 13,
-      "updated_at": "2025-09-28T21:19:38Z",
-      "version": "v1.1.1"
+      "updated_at": "2025-10-04T00:29:57Z",
+      "version": "v1.1.2"
     },
     "astrbot_plugin_Heartflow": {
       "desc": "基于简单的心流机制的群聊主动回复插件，带来更生动的主动回复体验",
@@ -2871,8 +2871,8 @@
       ],
       "desc": "[仅aiocqhttp]让bot 转人工/转人机，真人客服 接入对话/结束对话",
       "social_link": "https://github.com/Zhalslar",
-      "stars": 19,
-      "updated_at": "2025-10-01T11:54:35Z",
+      "stars": 20,
+      "updated_at": "2025-10-04T09:52:45Z",
       "version": "v1.0.4"
     },
     "astrbot_plugin_reimage": {
@@ -3707,8 +3707,8 @@
         "戳一戳"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 30,
-      "updated_at": "2025-10-01T06:56:35Z",
+      "stars": 31,
+      "updated_at": "2025-10-04T09:04:27Z",
       "version": "v1.1.3"
     },
     "astrbot_plugin_jm_cosmos": {
@@ -5859,8 +5859,8 @@
         "webui",
         "图床"
       ],
-      "stars": 80,
-      "updated_at": "2025-10-03T22:29:59Z",
+      "stars": 81,
+      "updated_at": "2025-10-04T07:01:36Z",
       "version": "v3.13"
     },
     "mccloud_command": {
@@ -6507,8 +6507,8 @@
       "author": "FengYing",
       "repo": "https://github.com/FengYing1314/astrbot_plugin_repetition",
       "tags": [],
-      "stars": 9,
-      "updated_at": "2025-09-06T00:28:59Z",
+      "stars": 10,
+      "updated_at": "2025-10-04T08:09:08Z",
       "version": "v1.0.2"
     },
     "FateTrial_Star_Rail": {
