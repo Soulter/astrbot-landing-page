@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-10-06T12:42:02.650Z",
+  "timestamp": "2025-10-07T01:25:55.568Z",
   "github": {
-    "stars": 12419,
+    "stars": 12427,
     "forks": 909,
     "contributors": 99
   },
@@ -458,8 +458,8 @@
         "备货"
       ],
       "stars": 0,
-      "updated_at": "2025-09-28T06:34:22Z",
-      "version": "v0.3.5"
+      "updated_at": "2025-10-06T20:13:19Z",
+      "version": "v0.3.6"
     },
     "astrbot_plugin_admin_emoji_reply": {
       "desc": "自动为指定的用户回复表情消息，支持开关和自定义速度",
@@ -590,8 +590,8 @@
         "主动应答"
       ],
       "social_link": "https://github.com/kawayiYokami",
-      "stars": 5,
-      "updated_at": "2025-10-06T04:51:04Z",
+      "stars": 6,
+      "updated_at": "2025-10-06T22:08:06Z",
       "version": "0.0.3"
     },
     "astrbot_plugin_angel_eye": {
@@ -682,7 +682,7 @@
         "PRTS"
       ],
       "stars": 0,
-      "updated_at": "2025-10-03T02:39:14Z",
+      "updated_at": "2025-10-06T13:57:10Z",
       "version": "v1.1"
     },
     "astrbot_plugin_move3d": {
@@ -1296,8 +1296,8 @@
       "author": "idk114-514",
       "repo": "https://github.com/idk114-514/should_I_respond",
       "tags": [],
-      "stars": 1,
-      "updated_at": "2025-08-25T08:57:50Z",
+      "stars": 2,
+      "updated_at": "2025-10-06T13:27:22Z",
       "version": "v0.0.1"
     },
     "astrbot_plugin_lmarena": {
@@ -1451,8 +1451,8 @@
         "表情包"
       ],
       "social_link": "https://github.com/SodaSizzle",
-      "stars": 7,
-      "updated_at": "2025-10-05T15:47:32Z",
+      "stars": 8,
+      "updated_at": "2025-10-06T15:47:52Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_self_learning": {
@@ -1648,7 +1648,7 @@
       ],
       "social_link": "https://github.com/vmoranv",
       "stars": 1,
-      "updated_at": "2025-10-04T02:46:00Z",
+      "updated_at": "2025-10-06T14:26:32Z",
       "version": "1.0.3"
     },
     "astrbot_plugin_identity_strategy": {
@@ -2144,8 +2144,8 @@
         "战地风云"
       ],
       "stars": 7,
-      "updated_at": "2025-10-05T14:46:38Z",
-      "version": "v1.9.2"
+      "updated_at": "2025-10-06T15:34:01Z",
+      "version": "v1.10.0"
     },
     "astrbot_plugin_SteamSaleTracker": {
       "desc": "这是一个 Steam 游戏价格监控插件",
@@ -2170,8 +2170,8 @@
       ],
       "social_link": "https://github.com/advent259141",
       "pinned": true,
-      "stars": 43,
-      "updated_at": "2025-10-03T06:36:23Z",
+      "stars": 44,
+      "updated_at": "2025-10-06T19:02:29Z",
       "version": "1.3.0"
     },
     "cngal_search": {
@@ -3223,8 +3223,8 @@
         "音乐"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 55,
-      "updated_at": "2025-10-05T09:26:02Z",
+      "stars": 56,
+      "updated_at": "2025-10-06T11:53:01Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_renjian": {
@@ -3518,8 +3518,8 @@
       "repo": "https://github.com/Zhalslar/astrbot_plugin_search_video",
       "social_link": "https://github.com/Zhalslar",
       "tags": [],
-      "stars": 28,
-      "updated_at": "2025-10-05T06:14:32Z",
+      "stars": 29,
+      "updated_at": "2025-10-06T12:10:46Z",
       "version": "v1.0.6"
     },
     "astrbot_plugin_zt": {
@@ -3776,8 +3776,8 @@
         "禁漫"
       ],
       "social_link": "https://github.com/GEMILUXVII",
-      "stars": 42,
-      "updated_at": "2025-10-05T06:58:23Z",
+      "stars": 43,
+      "updated_at": "2025-10-06T18:08:00Z",
       "version": "1.1.0"
     },
     "astrbot_plugin_combine-messages": {
@@ -4067,8 +4067,8 @@
         "api"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-      "stars": 84,
-      "updated_at": "2025-10-02T12:48:09Z",
+      "stars": 85,
+      "updated_at": "2025-10-06T14:52:19Z",
       "version": "v2.0.4"
     },
     "astrbot_plugin_help": {
