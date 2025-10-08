@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-10-08T01:29:33.774Z",
+  "timestamp": "2025-10-08T12:42:03.017Z",
   "github": {
-    "stars": 12443,
-    "forks": 909,
+    "stars": 12454,
+    "forks": 912,
     "contributors": 99
   },
   "plugins": {
@@ -591,7 +591,7 @@
       ],
       "social_link": "https://github.com/kawayiYokami",
       "stars": 7,
-      "updated_at": "2025-10-07T10:03:31Z",
+      "updated_at": "2025-10-08T09:02:06Z",
       "version": "0.0.3"
     },
     "astrbot_plugin_angel_eye": {
@@ -646,7 +646,7 @@
       "social_link": "https://github.com/nulijiazaizhong",
       "tags": [],
       "stars": 1,
-      "updated_at": "2025-09-15T12:00:22Z",
+      "updated_at": "2025-10-08T04:17:26Z",
       "version": "v0.0.2"
     },
     "github_star_manager": {
@@ -780,8 +780,8 @@
       "author": "shskjw",
       "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
       "tags": [],
-      "stars": 12,
-      "updated_at": "2025-10-05T10:13:51Z",
+      "stars": 13,
+      "updated_at": "2025-10-08T10:27:58Z",
       "version": "v1.3.1"
     },
     "astrbot_plugin_group_chat": {
@@ -962,8 +962,8 @@
         "OneBot"
       ],
       "social_link": "https://github.com/muyouzhi6",
-      "stars": 5,
-      "updated_at": "2025-09-28T10:19:08Z",
+      "stars": 6,
+      "updated_at": "2025-10-08T05:21:12Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_multimsg": {
@@ -1114,8 +1114,8 @@
         "群相册"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 7,
-      "updated_at": "2025-10-06T06:57:36Z",
+      "stars": 8,
+      "updated_at": "2025-10-08T02:41:40Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_favourpro": {
@@ -1310,8 +1310,8 @@
         "手办化"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 94,
-      "updated_at": "2025-10-06T10:53:27Z",
+      "stars": 95,
+      "updated_at": "2025-10-08T10:28:01Z",
       "version": "v2.1.2"
     },
     "astrbot_plugin_Mirecraft_motd": {
@@ -2823,8 +2823,8 @@
         "调教"
       ],
       "social_link": "https://github.com/oyxning",
-      "stars": 21,
-      "updated_at": "2025-10-04T14:46:09Z",
+      "stars": 22,
+      "updated_at": "2025-10-08T06:05:44Z",
       "version": "v3.0.0"
     },
     "astrbot_plugin_alistfile": {
@@ -3346,8 +3346,8 @@
       "desc": "DZMM聊天插件，适配了DZMM返回的格式，并避免与AstrBot的模型混用，可用特别命令唤起DZMM的模型进行\"有趣生动\"的互动聊天。",
       "repo": "https://github.com/VincenttHo/astrbot_plugin_dzmm",
       "tags": [],
-      "stars": 11,
-      "updated_at": "2025-07-22T05:55:35Z",
+      "stars": 12,
+      "updated_at": "2025-10-08T00:51:38Z",
       "version": "v1.1.0"
     },
     "astrbot_plugin_text2image": {
@@ -3406,8 +3406,8 @@
         "RAG",
         "知识库"
       ],
-      "stars": 62,
-      "updated_at": "2025-09-27T10:24:17Z",
+      "stars": 63,
+      "updated_at": "2025-10-08T08:54:12Z",
       "version": "v0.5.9"
     },
     "astrbot_uptime_kuma_webhook_plugin": {
@@ -4666,8 +4666,8 @@
         "复读"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_reread",
-      "stars": 18,
-      "updated_at": "2025-08-30T08:57:10Z",
+      "stars": 19,
+      "updated_at": "2025-10-08T07:21:45Z",
       "version": "v1.1.2"
     },
     "astrbot_plugin_csbaoyan": {
@@ -5563,8 +5563,8 @@
         "bilibili"
       ],
       "social_link": "https://github.com/miaoxutao123/",
-      "stars": 45,
-      "updated_at": "2025-10-07T04:27:24Z",
+      "stars": 46,
+      "updated_at": "2025-10-08T04:56:37Z",
       "version": "v0.2.13"
     },
     "astrbot_plugin_sjzb": {
@@ -6527,8 +6527,8 @@
       "author": "lxfight",
       "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
       "tags": [],
-      "stars": 127,
-      "updated_at": "2025-10-07T16:17:40Z",
+      "stars": 128,
+      "updated_at": "2025-10-08T10:43:50Z",
       "version": "v0.5.1"
     },
     "FateTrial_img_identify": {
