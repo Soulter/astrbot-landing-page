@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-10-10T01:27:14.676Z",
+  "timestamp": "2025-10-10T12:40:38.027Z",
   "github": {
-    "stars": 12481,
+    "stars": 12505,
     "forks": 914,
     "contributors": 99
   },
@@ -27,8 +27,8 @@
       "tags": [
         "Telegram"
       ],
-      "stars": 2,
-      "updated_at": "2025-10-07T12:24:02Z",
+      "stars": 3,
+      "updated_at": "2025-10-10T08:53:27Z",
       "version": "1.0.2"
     },
     "astrbot_plugin_markdown2img": {
@@ -592,7 +592,7 @@
         "TTS"
       ],
       "stars": 4,
-      "updated_at": "2025-10-07T00:41:10Z",
+      "updated_at": "2025-10-10T01:43:27Z",
       "version": "1.2.0"
     },
     "astrbot_plugin_angel_heart": {
@@ -618,7 +618,7 @@
       ],
       "social_link": "https://github.com/kawayiYokami",
       "stars": 2,
-      "updated_at": "2025-10-05T06:28:25Z",
+      "updated_at": "2025-10-10T09:31:46Z",
       "version": "0.1.0"
     },
     "astrbot_plugin_pollinations_images": {
@@ -660,8 +660,8 @@
       "social_link": "https://github.com/nulijiazaizhong",
       "tags": [],
       "stars": 1,
-      "updated_at": "2025-10-08T04:17:26Z",
-      "version": "v0.0.2"
+      "updated_at": "2025-10-10T06:32:58Z",
+      "version": "v0.0.3"
     },
     "github_star_manager": {
       "desc": "GitHub插件Star管理器 - 智能点赞AstrBot插件",
@@ -1530,7 +1530,7 @@
         "运势"
       ],
       "stars": 6,
-      "updated_at": "2025-10-09T16:53:30Z",
+      "updated_at": "2025-10-10T08:21:33Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_wakepro": {
@@ -2399,8 +2399,8 @@
       "author": "Chris",
       "repo": "https://github.com/Chris95743/astrbot_plugin_balance",
       "tags": [],
-      "stars": 9,
-      "updated_at": "2025-09-22T04:02:14Z",
+      "stars": 10,
+      "updated_at": "2025-10-10T07:56:22Z",
       "version": "v1.4.0"
     },
     "astrbot_plugin_mp": {
@@ -2941,8 +2941,8 @@
       ],
       "desc": "[仅aiocqhttp]让bot 转人工/转人机，真人客服 接入对话/结束对话",
       "social_link": "https://github.com/Zhalslar",
-      "stars": 20,
-      "updated_at": "2025-10-04T09:52:45Z",
+      "stars": 21,
+      "updated_at": "2025-10-10T07:37:10Z",
       "version": "v1.0.4"
     },
     "astrbot_plugin_reimage": {
@@ -3420,8 +3420,8 @@
         "RAG",
         "知识库"
       ],
-      "stars": 63,
-      "updated_at": "2025-10-08T08:54:12Z",
+      "stars": 64,
+      "updated_at": "2025-10-10T07:21:34Z",
       "version": "v0.5.9"
     },
     "astrbot_uptime_kuma_webhook_plugin": {
@@ -3699,8 +3699,8 @@
         "game",
         "fish"
       ],
-      "stars": 39,
-      "updated_at": "2025-09-26T08:19:22Z",
+      "stars": 40,
+      "updated_at": "2025-10-10T11:17:49Z",
       "version": "1.4.6"
     },
     "astrbot_plugin_bilibili_live": {
@@ -3791,7 +3791,7 @@
       ],
       "social_link": "https://github.com/GEMILUXVII",
       "stars": 43,
-      "updated_at": "2025-10-06T18:08:00Z",
+      "updated_at": "2025-10-10T07:09:54Z",
       "version": "1.1.0"
     },
     "astrbot_plugin_combine-messages": {
@@ -3840,8 +3840,8 @@
       ],
       "social_link": "https://github.com/QiChenSn",
       "stars": 6,
-      "updated_at": "2025-10-09T13:21:19Z",
-      "version": "v1.5.0"
+      "updated_at": "2025-10-10T06:25:38Z",
+      "version": "v1.5.1"
     },
     "astrbot_plugin_yinlish": {
       "author": "vmoranv",
@@ -4566,8 +4566,8 @@
         "绝区零"
       ],
       "social_link": "https://docs.sayu-bot.com/",
-      "stars": 20,
-      "updated_at": "2025-10-05T11:55:53Z",
+      "stars": 21,
+      "updated_at": "2025-10-10T03:15:27Z",
       "version": "v0.4.1"
     },
     "astrbot_plugin_xyzw": {
@@ -5888,8 +5888,8 @@
         "功能",
         "搬史"
       ],
-      "stars": 291,
-      "updated_at": "2025-10-06T03:05:57Z",
+      "stars": 292,
+      "updated_at": "2025-10-10T07:41:12Z",
       "version": "v0.913"
     },
     "astrbot_plugin_superpoke": {
@@ -6685,8 +6685,8 @@
       "author": "zhuiye",
       "repo": "https://github.com/zhuiye8/astrbot_plugin_txsc",
       "tags": [],
-      "stars": 4,
-      "updated_at": "2025-09-04T13:09:12Z",
+      "stars": 5,
+      "updated_at": "2025-10-10T08:07:11Z",
       "version": "v2.0.0"
     },
     "astrbot_plugin_keyword_reply": {
