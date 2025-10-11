@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-10-11T01:23:36.604Z",
+  "timestamp": "2025-10-11T12:36:11.822Z",
   "github": {
-    "stars": 12512,
+    "stars": 12528,
     "forks": 914,
     "contributors": 99
   },
@@ -28,8 +28,8 @@
         "Telegram"
       ],
       "stars": 3,
-      "updated_at": "2025-10-10T08:53:27Z",
-      "version": "1.0.2"
+      "updated_at": "2025-10-11T09:56:26Z",
+      "version": "1.1.0"
     },
     "astrbot_plugin_markdown2img": {
       "desc": "允许 LLM 将复杂的 Markdown 格式内容转换为图片发送，提升消息的可读性。",
@@ -794,8 +794,8 @@
       "author": "shskjw",
       "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
       "tags": [],
-      "stars": 14,
-      "updated_at": "2025-10-08T17:02:52Z",
+      "stars": 16,
+      "updated_at": "2025-10-11T03:42:48Z",
       "version": "v1.3.1"
     },
     "astrbot_plugin_group_chat": {
@@ -1479,8 +1479,8 @@
         "人格"
       ],
       "social_link": "https://github.com/NickCharlie",
-      "stars": 24,
-      "updated_at": "2025-10-09T10:08:50Z",
+      "stars": 25,
+      "updated_at": "2025-10-11T01:31:58Z",
       "version": "1.2.5"
     },
     "astrbot_plugin_baiduocr": {
@@ -2461,8 +2461,8 @@
         "工具"
       ],
       "social_link": "astrbot.uk",
-      "stars": 4,
-      "updated_at": "2025-09-29T18:13:29Z",
+      "stars": 5,
+      "updated_at": "2025-10-11T05:21:33Z",
       "version": "v1.4.0"
     },
     "astrbot_plugin_bw_monitor": {
@@ -4228,8 +4228,8 @@
       "desc": "一个基于 AstrBot 框架的塔罗牌占卜插件，支持多牌阵和单张牌占卜，并通过 AI 生成详细解析。",
       "repo": "https://github.com/XziXmn/astrbot_plugin_tarot",
       "tags": [],
-      "stars": 2,
-      "updated_at": "2025-06-28T18:23:02Z",
+      "stars": 3,
+      "updated_at": "2025-10-11T05:56:28Z",
       "version": "v0.1.1"
     },
     "astrbot_plugin_a2s": {
@@ -5625,8 +5625,8 @@
       "author": "大沙北",
       "repo": "https://github.com/bigshabei/astrbot_plugin_picture_manager",
       "tags": [],
-      "stars": 5,
-      "updated_at": "2025-10-06T03:37:25Z",
+      "stars": 6,
+      "updated_at": "2025-10-11T07:19:07Z",
       "version": "v1.8.0"
     },
     "astrbot_plugin_InitiativeDialogue": {
