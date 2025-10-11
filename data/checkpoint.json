@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-10-10T12:40:38.027Z",
+  "timestamp": "2025-10-11T01:23:36.604Z",
   "github": {
-    "stars": 12505,
+    "stars": 12512,
     "forks": 914,
     "contributors": 99
   },
@@ -62,8 +62,8 @@
         "galgame"
       ],
       "stars": 2,
-      "updated_at": "2025-10-09T06:24:16Z",
-      "version": "1.1.0"
+      "updated_at": "2025-10-10T15:58:15Z",
+      "version": "1.2.0"
     },
     "astrbot_plugin_sha_fork": {
       "desc": "基于原仓库 IGCrystal-NEO/astrbot_plugin_sha 的fork版本",
@@ -129,8 +129,8 @@
       ],
       "social_link": "https://catyun.cyou/",
       "stars": 0,
-      "updated_at": "2025-10-09T12:27:14Z",
-      "version": "v1.0.3"
+      "updated_at": "2025-10-10T12:10:02Z",
+      "version": "v1.0.4"
     },
     "astrbot_plugin_search_tracemoe": {
       "desc": "基于 trace.moe API 的动漫场景识别插件，支持通过图片搜索动漫截图场景出处。",
@@ -192,8 +192,8 @@
       "tags": [
         "群文件"
       ],
-      "stars": 1,
-      "updated_at": "2025-10-07T05:56:46Z",
+      "stars": 2,
+      "updated_at": "2025-10-10T14:48:37Z",
       "version": "v0.8.1"
     },
     "group_notice_manager": {
@@ -438,8 +438,8 @@
         "搜消息"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 2,
-      "updated_at": "2025-10-07T07:49:54Z",
+      "stars": 4,
+      "updated_at": "2025-10-10T17:36:03Z",
       "version": "v1.0.1"
     },
     "scheduled_reply": {
@@ -498,8 +498,8 @@
       "author": "ctrlkk",
       "repo": "https://github.com/ctrlkk/astrbot_plugin_meme_manager_lite",
       "tags": [],
-      "stars": 2,
-      "updated_at": "2025-10-06T03:47:21Z",
+      "stars": 3,
+      "updated_at": "2025-10-10T12:21:23Z",
       "version": "v1.3"
     },
     "astrbot_plugin_festival_greeter": {
@@ -617,8 +617,8 @@
         "知识"
       ],
       "social_link": "https://github.com/kawayiYokami",
-      "stars": 2,
-      "updated_at": "2025-10-10T09:31:46Z",
+      "stars": 4,
+      "updated_at": "2025-10-10T11:39:17Z",
       "version": "0.1.0"
     },
     "astrbot_plugin_pollinations_images": {
@@ -807,8 +807,8 @@
         "拟人"
       ],
       "social_link": "https://github.com/qa296/",
-      "stars": 0,
-      "updated_at": "2025-09-16T23:38:37Z",
+      "stars": 1,
+      "updated_at": "2025-10-10T17:27:55Z",
       "version": "1.0.3"
     },
     "astrbot_plugin_sha": {
@@ -976,8 +976,8 @@
         "OneBot"
       ],
       "social_link": "https://github.com/muyouzhi6",
-      "stars": 6,
-      "updated_at": "2025-10-08T05:21:12Z",
+      "stars": 7,
+      "updated_at": "2025-10-10T17:28:30Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_multimsg": {
@@ -1014,8 +1014,8 @@
         "画图",
         "AI绘画"
       ],
-      "stars": 20,
-      "updated_at": "2025-09-16T10:52:27Z",
+      "stars": 21,
+      "updated_at": "2025-10-10T12:42:34Z",
       "version": "v1.8"
     },
     "github_star_verify": {
@@ -1039,8 +1039,8 @@
       ],
       "social_link": "https://github.com/SXP-Simon",
       "stars": 29,
-      "updated_at": "2025-10-04T11:59:42Z",
-      "version": "v2.6.1"
+      "updated_at": "2025-10-10T11:33:00Z",
+      "version": "v2.7.1"
     },
     "astrbot_plugin_boss_notifier": {
       "desc": "AstrBot头目通知插件，可更新头目信息并通知订阅者",
@@ -1149,7 +1149,7 @@
         "适配器"
       ],
       "stars": 5,
-      "updated_at": "2025-10-02T15:05:44Z",
+      "updated_at": "2025-10-10T15:14:04Z",
       "version": "v0.0.1"
     },
     "astrbot_plugin_ms_aiimg": {
@@ -2040,8 +2040,8 @@
         "工具"
       ],
       "social_link": "https://astrbot.uk",
-      "stars": 2,
-      "updated_at": "2025-07-30T03:38:34Z",
+      "stars": 3,
+      "updated_at": "2025-10-10T13:23:39Z",
       "version": "v1.0.2"
     },
     "astrbot_proactive_reply": {
@@ -2184,8 +2184,8 @@
       ],
       "social_link": "https://github.com/advent259141",
       "pinned": true,
-      "stars": 44,
-      "updated_at": "2025-10-06T19:02:29Z",
+      "stars": 45,
+      "updated_at": "2025-10-10T13:15:53Z",
       "version": "1.3.0"
     },
     "cngal_search": {
@@ -3557,8 +3557,8 @@
         "画像"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 30,
-      "updated_at": "2025-09-29T20:12:53Z",
+      "stars": 31,
+      "updated_at": "2025-10-10T15:14:49Z",
       "version": "v1.0.3"
     },
     "astrbot_plugin_Kanalyse": {
@@ -3790,8 +3790,8 @@
         "禁漫"
       ],
       "social_link": "https://github.com/GEMILUXVII",
-      "stars": 43,
-      "updated_at": "2025-10-10T07:09:54Z",
+      "stars": 42,
+      "updated_at": "2025-10-10T14:51:18Z",
       "version": "1.1.0"
     },
     "astrbot_plugin_combine-messages": {
@@ -4774,8 +4774,8 @@
         "浏览器"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
-      "stars": 17,
-      "updated_at": "2025-09-30T09:20:35Z",
+      "stars": 18,
+      "updated_at": "2025-10-10T16:59:11Z",
       "version": "v1.1.3"
     },
     "astrbot_plugin_qqadmin": {
@@ -5906,8 +5906,8 @@
       "author": "anka",
       "repo": "https://github.com/anka-afk/astrbot_plugin_humanlike",
       "tags": [],
-      "stars": 22,
-      "updated_at": "2025-09-04T16:10:20Z",
+      "stars": 23,
+      "updated_at": "2025-10-10T17:59:05Z",
       "version": "v0.2.2"
     },
     "astrbot_plugin_blue_archive": {
@@ -6649,8 +6649,8 @@
       "author": "Raven95676",
       "repo": "https://github.com/Raven95676/astrbot_plugin_setu",
       "tags": [],
-      "stars": 11,
-      "updated_at": "2025-09-26T08:09:13Z",
+      "stars": 12,
+      "updated_at": "2025-10-10T18:40:33Z",
       "version": "v1.2.1"
     },
     "astrbot_plugin_voicevox": {
