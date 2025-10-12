@@ -1,11 +1,32 @@
 {
-  "timestamp": "2025-10-12T01:37:44.006Z",
+  "timestamp": "2025-10-12T12:36:28.231Z",
   "github": {
-    "stars": 12531,
-    "forks": 914,
+    "stars": 12543,
+    "forks": 915,
     "contributors": 100
   },
   "plugins": {
+    "astrbot_plugin_hapemxg_Inspect": {
+      "desc": "LLM 内容审查插件，集成了正则表达式与 AI 模型双重审查机制。当回复不合规时，能自动重试并智能引导模型修正，确保内容安全合规。",
+      "author": "hapemxg",
+      "repo": "https://github.com/hapemxg/astrbot_plugin_hapemxg_Inspect",
+      "tags": [
+        "审核",
+        "审查"
+      ],
+      "stars": 0,
+      "updated_at": "2025-10-09T10:40:25Z",
+      "version": "v1.1.1"
+    },
+    "astrbot_quotes_plugin": {
+      "desc": "语录插件。记录 QQ 群友说过的话。",
+      "author": "薄暝",
+      "repo": "https://github.com/xiaoxi68/astrbot_quotes_plugin",
+      "tags": [],
+      "stars": 0,
+      "updated_at": "2025-10-12T05:40:48Z",
+      "version": "v0.3.0"
+    },
     "astrbot_plugin_33recognition": {
       "desc": "调用大模型检测图片中关键词",
       "author": "bushikq",
@@ -28,8 +49,8 @@
         "Telegram"
       ],
       "stars": 3,
-      "updated_at": "2025-10-11T21:18:58Z",
-      "version": "1.1.1"
+      "updated_at": "2025-10-12T00:40:32Z",
+      "version": "1.1.2"
     },
     "astrbot_plugin_markdown2img": {
       "desc": "允许 LLM 将复杂的 Markdown 格式内容转换为图片发送，提升消息的可读性。",
@@ -214,8 +235,8 @@
         "娱乐"
       ],
       "stars": 2,
-      "updated_at": "2025-09-24T16:24:37Z",
-      "version": "v1.0.6"
+      "updated_at": "2025-10-12T08:49:41Z",
+      "version": "v1.1.0"
     },
     "AstrBot_plugin_MaimaiDX": {
       "desc": "A maimaidx helper for Astrbot.",
@@ -350,8 +371,8 @@
         "game",
         "fishing"
       ],
-      "stars": 8,
-      "updated_at": "2025-10-07T03:08:30Z",
+      "stars": 9,
+      "updated_at": "2025-10-12T05:53:53Z",
       "version": "2.1.1"
     },
     "astrbot_plugin_astrmetry": {
@@ -381,8 +402,8 @@
       "repo": "https://github.com/ctrlkk/astrbot_plugin_blacklist_tools",
       "tags": [],
       "stars": 0,
-      "updated_at": "2025-10-07T08:38:33Z",
-      "version": "v1.4"
+      "updated_at": "2025-10-12T03:01:23Z",
+      "version": "v1.5"
     },
     "astrbot_plugin_text_renderer": {
       "desc": "文本文件生成图片",
@@ -832,8 +853,8 @@
         "napcat"
       ],
       "stars": 0,
-      "updated_at": "2025-10-09T09:11:32Z",
-      "version": "v1.1"
+      "updated_at": "2025-10-12T02:32:53Z",
+      "version": "v1.2"
     },
     "model_mcp_bridge": {
       "desc": "用于为不支持tool_use的模型提供一个调用MCP的途径的插件。",
@@ -1324,8 +1345,8 @@
         "手办化"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 97,
-      "updated_at": "2025-10-09T14:09:07Z",
+      "stars": 98,
+      "updated_at": "2025-10-12T01:38:57Z",
       "version": "v2.1.2"
     },
     "astrbot_plugin_Mirecraft_motd": {
@@ -1705,8 +1726,8 @@
         "撤回"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 6,
-      "updated_at": "2025-08-24T12:16:38Z",
+      "stars": 7,
+      "updated_at": "2025-10-12T04:36:56Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_record_converter": {
@@ -2184,8 +2205,8 @@
       ],
       "social_link": "https://github.com/advent259141",
       "pinned": true,
-      "stars": 45,
-      "updated_at": "2025-10-10T13:15:53Z",
+      "stars": 46,
+      "updated_at": "2025-10-12T00:32:18Z",
       "version": "1.3.0"
     },
     "cngal_search": {
@@ -2591,8 +2612,8 @@
       "desc": "通过调用 AnimeTrace 网站提供的 API 进行动漫识图",
       "tags": [],
       "stars": 2,
-      "updated_at": "2025-09-22T11:54:20Z",
-      "version": "v3.4"
+      "updated_at": "2025-10-12T02:19:23Z",
+      "version": "v3.5"
     },
     "astrbot_plugin_cheru": {
       "author": "irs",
@@ -3557,8 +3578,8 @@
         "画像"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 31,
-      "updated_at": "2025-10-10T15:14:49Z",
+      "stars": 32,
+      "updated_at": "2025-10-12T00:24:50Z",
       "version": "v1.0.3"
     },
     "astrbot_plugin_Kanalyse": {
@@ -4446,8 +4467,8 @@
         "抖音",
         "视频解析"
       ],
-      "stars": 7,
-      "updated_at": "2025-09-06T08:46:35Z",
+      "stars": 8,
+      "updated_at": "2025-10-12T00:32:59Z",
       "version": "v1.4"
     },
     "meanig": {
@@ -4774,8 +4795,8 @@
         "浏览器"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
-      "stars": 18,
-      "updated_at": "2025-10-10T16:59:11Z",
+      "stars": 19,
+      "updated_at": "2025-10-12T03:36:39Z",
       "version": "v1.1.3"
     },
     "astrbot_plugin_qqadmin": {
@@ -4786,8 +4807,8 @@
       "tags": [
         "QQ群管"
       ],
-      "stars": 53,
-      "updated_at": "2025-10-11T11:55:27Z",
+      "stars": 54,
+      "updated_at": "2025-10-12T06:22:51Z",
       "version": "v3.1.7"
     },
     "astrbot_plugin_liars_bar": {
@@ -5577,8 +5598,8 @@
         "bilibili"
       ],
       "social_link": "https://github.com/miaoxutao123/",
-      "stars": 47,
-      "updated_at": "2025-10-09T09:30:23Z",
+      "stars": 48,
+      "updated_at": "2025-10-12T08:32:12Z",
       "version": "v0.2.13"
     },
     "astrbot_plugin_sjzb": {
@@ -5826,8 +5847,8 @@
         "主动回复"
       ],
       "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-      "stars": 68,
-      "updated_at": "2025-09-20T14:04:27Z",
+      "stars": 69,
+      "updated_at": "2025-10-12T04:37:05Z",
       "version": "v2.1.5"
     },
     "astrbot_plugin_steamshot": {
