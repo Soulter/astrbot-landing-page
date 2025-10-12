@@ -1,9 +1,9 @@
 {
-  "timestamp": "2025-10-11T12:36:11.822Z",
+  "timestamp": "2025-10-12T01:37:44.006Z",
   "github": {
-    "stars": 12528,
+    "stars": 12531,
     "forks": 914,
-    "contributors": 99
+    "contributors": 100
   },
   "plugins": {
     "astrbot_plugin_33recognition": {
@@ -28,8 +28,8 @@
         "Telegram"
       ],
       "stars": 3,
-      "updated_at": "2025-10-11T09:56:26Z",
-      "version": "1.1.0"
+      "updated_at": "2025-10-11T21:18:58Z",
+      "version": "1.1.1"
     },
     "astrbot_plugin_markdown2img": {
       "desc": "允许 LLM 将复杂的 Markdown 格式内容转换为图片发送，提升消息的可读性。",
@@ -568,8 +568,8 @@
         "人格",
         "LLM"
       ],
-      "stars": 0,
-      "updated_at": "2025-09-18T01:12:05Z",
+      "stars": 1,
+      "updated_at": "2025-10-11T19:14:30Z",
       "version": "0.1.1"
     },
     "astrbot_plugin_restart": {
@@ -604,8 +604,8 @@
         "主动应答"
       ],
       "social_link": "https://github.com/kawayiYokami",
-      "stars": 7,
-      "updated_at": "2025-10-09T06:06:10Z",
+      "stars": 9,
+      "updated_at": "2025-10-11T13:39:48Z",
       "version": "0.1.0"
     },
     "astrbot_plugin_angel_eye": {
@@ -739,8 +739,8 @@
         "LLM增强"
       ],
       "social_link": "https://github.com/muyouzhi6",
-      "stars": 5,
-      "updated_at": "2025-09-22T16:32:41Z",
+      "stars": 6,
+      "updated_at": "2025-10-11T13:28:57Z",
       "version": "2.0.0"
     },
     "astrbot_plugin_bilibili_up_notifier": {
@@ -1137,8 +1137,8 @@
       "author": "天各一方",
       "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
       "tags": [],
-      "stars": 16,
-      "updated_at": "2025-10-09T08:32:48Z",
+      "stars": 17,
+      "updated_at": "2025-10-11T18:41:48Z",
       "version": "v1.0.4"
     },
     "astrbot_plugin_vtb_adapter": {
@@ -1529,9 +1529,9 @@
       "tags": [
         "运势"
       ],
-      "stars": 6,
-      "updated_at": "2025-10-10T08:21:33Z",
-      "version": "v1.0.1"
+      "stars": 7,
+      "updated_at": "2025-10-11T15:58:02Z",
+      "version": "v1.0.2"
     },
     "astrbot_plugin_wakepro": {
       "desc": "更强大的唤醒增强插件：唤醒CD、唤醒合并、提及唤醒、唤醒延长、空@唤醒、话题相关性唤醒、答疑唤醒、无聊唤醒、闭嘴机制、被骂沉默机制、屏蔽人机",
@@ -2158,8 +2158,8 @@
         "战地风云"
       ],
       "stars": 7,
-      "updated_at": "2025-10-09T07:46:04Z",
-      "version": "v1.10.3"
+      "updated_at": "2025-10-11T15:44:14Z",
+      "version": "v1.11.1"
     },
     "astrbot_plugin_SteamSaleTracker": {
       "desc": "这是一个 Steam 游戏价格监控插件",
@@ -3237,8 +3237,8 @@
         "音乐"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 56,
-      "updated_at": "2025-10-06T11:53:01Z",
+      "stars": 57,
+      "updated_at": "2025-10-11T16:06:47Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_renjian": {
@@ -3777,8 +3777,8 @@
         "戳一戳"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 31,
-      "updated_at": "2025-10-04T09:04:27Z",
+      "stars": 32,
+      "updated_at": "2025-10-11T20:55:48Z",
       "version": "v1.1.3"
     },
     "astrbot_plugin_jm_cosmos": {
@@ -4786,8 +4786,8 @@
       "tags": [
         "QQ群管"
       ],
-      "stars": 51,
-      "updated_at": "2025-10-07T10:28:28Z",
+      "stars": 53,
+      "updated_at": "2025-10-11T11:55:27Z",
       "version": "v3.1.7"
     },
     "astrbot_plugin_liars_bar": {
@@ -4906,8 +4906,8 @@
         "QQ资料"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 7,
-      "updated_at": "2025-10-01T00:37:47Z",
+      "stars": 8,
+      "updated_at": "2025-10-11T19:08:23Z",
       "version": "v1.1.2"
     },
     "astrbot_plugin_mcping": {
@@ -5429,8 +5429,8 @@
         "功能"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
-      "stars": 47,
-      "updated_at": "2025-09-06T17:27:52Z",
+      "stars": 48,
+      "updated_at": "2025-10-11T20:58:54Z",
       "version": "v1.1.7"
     },
     "astrbot_plugin_relationship": {
@@ -5663,8 +5663,8 @@
         "推送"
       ],
       "stars": 15,
-      "updated_at": "2025-09-19T16:44:54Z",
-      "version": "v2.0"
+      "updated_at": "2025-10-11T14:45:41Z",
+      "version": "v2.1.0"
     },
     "astrbot_plugin_gemini_exp": {
       "desc": "让你在 AstrBot 调用 Gemini2.0-flash-exp 来生成图片或者 P 图。Gemini2.0-flash-exp为原生多模态模型，其既是语言模型，也是生图模型，因此能够对图像使用简单的自然语言命令进行处理。",
@@ -6298,8 +6298,8 @@
       "author": "LunarMeal",
       "repo": "https://github.com/LunarMeal/astrbot_plugin_memes",
       "tags": [],
-      "stars": 10,
-      "updated_at": "2025-08-19T02:00:19Z",
+      "stars": 11,
+      "updated_at": "2025-10-11T19:39:58Z",
       "version": "v3.1"
     },
     "astrbot_plugin_ignore_at": {
