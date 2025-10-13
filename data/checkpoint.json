@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-10-13T01:40:50.446Z",
+  "timestamp": "2025-10-13T12:42:04.293Z",
   "github": {
-    "stars": 12552,
-    "forks": 915,
+    "stars": 12563,
+    "forks": 914,
     "contributors": 100
   },
   "plugins": {
@@ -511,7 +511,7 @@
       "repo": "https://github.com/bandaotehe/astrbot_plugin_-dpcq_game",
       "tags": [],
       "stars": 1,
-      "updated_at": "2025-09-28T06:56:54Z",
+      "updated_at": "2025-10-13T01:30:22Z",
       "version": "v1.14"
     },
     "astrbot_plugin_meme_manager_lite": {
@@ -589,8 +589,8 @@
         "人格",
         "LLM"
       ],
-      "stars": 1,
-      "updated_at": "2025-10-11T19:14:30Z",
+      "stars": 2,
+      "updated_at": "2025-10-13T09:36:15Z",
       "version": "0.1.1"
     },
     "astrbot_plugin_restart": {
@@ -639,7 +639,7 @@
       ],
       "social_link": "https://github.com/kawayiYokami",
       "stars": 4,
-      "updated_at": "2025-10-10T11:39:17Z",
+      "updated_at": "2025-10-13T10:24:58Z",
       "version": "0.1.0"
     },
     "astrbot_plugin_pollinations_images": {
@@ -760,8 +760,8 @@
         "LLM增强"
       ],
       "social_link": "https://github.com/muyouzhi6",
-      "stars": 6,
-      "updated_at": "2025-10-11T13:28:57Z",
+      "stars": 7,
+      "updated_at": "2025-10-13T09:35:07Z",
       "version": "2.0.0"
     },
     "astrbot_plugin_bilibili_up_notifier": {
@@ -1705,8 +1705,8 @@
         "表白墙"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 18,
-      "updated_at": "2025-09-25T13:33:09Z",
+      "stars": 19,
+      "updated_at": "2025-10-13T01:34:41Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_matchreminder": {
@@ -1905,8 +1905,8 @@
         "猜歌",
         "初音未来 缤纷舞台"
       ],
-      "stars": 4,
-      "updated_at": "2025-08-19T02:53:39Z",
+      "stars": 5,
+      "updated_at": "2025-10-13T06:58:15Z",
       "version": "v1.1.3"
     },
     "astrbot_plugin_screenctrl": {
@@ -2179,8 +2179,8 @@
         "战地风云"
       ],
       "stars": 7,
-      "updated_at": "2025-10-11T15:44:14Z",
-      "version": "v1.11.1"
+      "updated_at": "2025-10-13T09:42:04Z",
+      "version": "v1.11.2"
     },
     "astrbot_plugin_SteamSaleTracker": {
       "desc": "这是一个 Steam 游戏价格监控插件",
@@ -2719,8 +2719,8 @@
       "social_link": "https://github.com/railgun19457",
       "tags": [],
       "stars": 2,
-      "updated_at": "2025-07-01T03:13:55Z",
-      "version": "v1.1"
+      "updated_at": "2025-10-13T08:03:31Z",
+      "version": "v1.2"
     },
     "astrbot_plugin_check-dst-room": {
       "author": "EncodedWitcher",
@@ -3202,8 +3202,8 @@
         "平台适配器",
         "vocechat"
       ],
-      "stars": 4,
-      "updated_at": "2025-09-07T08:39:50Z",
+      "stars": 5,
+      "updated_at": "2025-10-13T10:09:30Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_drift_bottle": {
@@ -3258,8 +3258,8 @@
         "音乐"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 58,
-      "updated_at": "2025-10-12T11:50:40Z",
+      "stars": 57,
+      "updated_at": "2025-10-13T11:19:16Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_renjian": {
@@ -3811,8 +3811,8 @@
         "禁漫"
       ],
       "social_link": "https://github.com/GEMILUXVII",
-      "stars": 42,
-      "updated_at": "2025-10-10T14:51:18Z",
+      "stars": 43,
+      "updated_at": "2025-10-13T06:43:55Z",
       "version": "1.1.0"
     },
     "astrbot_plugin_combine-messages": {
@@ -4102,8 +4102,8 @@
         "api"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-      "stars": 86,
-      "updated_at": "2025-10-08T14:10:52Z",
+      "stars": 87,
+      "updated_at": "2025-10-13T08:01:23Z",
       "version": "v2.0.4"
     },
     "astrbot_plugin_help": {
@@ -5450,8 +5450,8 @@
         "功能"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
-      "stars": 48,
-      "updated_at": "2025-10-11T20:58:54Z",
+      "stars": 49,
+      "updated_at": "2025-10-13T08:50:02Z",
       "version": "v1.1.7"
     },
     "astrbot_plugin_relationship": {
@@ -5847,9 +5847,9 @@
         "主动回复"
       ],
       "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-      "stars": 69,
-      "updated_at": "2025-10-12T04:37:05Z",
-      "version": "v2.1.5"
+      "stars": 70,
+      "updated_at": "2025-10-13T06:58:34Z",
+      "version": "v2.1.6"
     },
     "astrbot_plugin_steamshot": {
       "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
@@ -5909,9 +5909,9 @@
         "功能",
         "搬史"
       ],
-      "stars": 292,
-      "updated_at": "2025-10-10T07:41:12Z",
-      "version": "v0.913"
+      "stars": 293,
+      "updated_at": "2025-10-13T04:34:40Z",
+      "version": "v0.914"
     },
     "astrbot_plugin_superpoke": {
       "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
@@ -5950,8 +5950,8 @@
         "webui",
         "图床"
       ],
-      "stars": 83,
-      "updated_at": "2025-10-07T09:14:41Z",
+      "stars": 84,
+      "updated_at": "2025-10-13T05:21:50Z",
       "version": "v3.13"
     },
     "mccloud_command": {
