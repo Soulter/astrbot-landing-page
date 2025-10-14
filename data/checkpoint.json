@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-10-14T01:26:47.011Z",
+  "timestamp": "2025-10-14T12:43:38.670Z",
   "github": {
-    "stars": 12575,
-    "forks": 914,
+    "stars": 12594,
+    "forks": 916,
     "contributors": 100
   },
   "plugins": {
@@ -16,8 +16,8 @@
         "解析"
       ],
       "social_link": "https://github.com/QiChenSn",
-      "stars": 0,
-      "updated_at": "2025-10-09T15:43:24Z",
+      "stars": 1,
+      "updated_at": "2025-10-14T05:05:28Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_bilibili_adapter": {
@@ -30,8 +30,8 @@
       ],
       "social_link": "https://magstic.art/",
       "pinned": true,
-      "stars": 1,
-      "updated_at": "2025-10-13T15:39:11Z",
+      "stars": 2,
+      "updated_at": "2025-10-14T02:09:55Z",
       "version": "0.1.1"
     },
     "astrbot_plugin_SendBlessings": {
@@ -275,8 +275,8 @@
         "轻量",
         "娱乐"
       ],
-      "stars": 2,
-      "updated_at": "2025-10-12T08:49:41Z",
+      "stars": 3,
+      "updated_at": "2025-10-14T07:11:49Z",
       "version": "v1.1.0"
     },
     "AstrBot_plugin_MaimaiDX": {
@@ -413,7 +413,7 @@
         "fishing"
       ],
       "stars": 10,
-      "updated_at": "2025-10-13T13:40:51Z",
+      "updated_at": "2025-10-14T01:30:40Z",
       "version": "2.1.1"
     },
     "astrbot_plugin_astrmetry": {
@@ -667,7 +667,7 @@
       ],
       "social_link": "https://github.com/kawayiYokami",
       "stars": 10,
-      "updated_at": "2025-10-13T15:25:05Z",
+      "updated_at": "2025-10-14T09:48:41Z",
       "version": "0.1.0"
     },
     "astrbot_plugin_angel_eye": {
@@ -1100,8 +1100,8 @@
         "总结"
       ],
       "social_link": "https://github.com/SXP-Simon",
-      "stars": 29,
-      "updated_at": "2025-10-10T11:33:00Z",
+      "stars": 30,
+      "updated_at": "2025-10-14T01:09:58Z",
       "version": "v2.7.1"
     },
     "astrbot_plugin_boss_notifier": {
@@ -1386,8 +1386,8 @@
         "手办化"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 99,
-      "updated_at": "2025-10-12T18:35:24Z",
+      "stars": 100,
+      "updated_at": "2025-10-14T06:29:26Z",
       "version": "v2.1.2"
     },
     "astrbot_plugin_Mirecraft_motd": {
@@ -1471,8 +1471,8 @@
         "SiliconFlow"
       ],
       "social_link": "https://github.com/muyouzhi6",
-      "stars": 28,
-      "updated_at": "2025-10-01T13:49:22Z",
+      "stars": 29,
+      "updated_at": "2025-10-14T04:07:35Z",
       "version": "0.4.3"
     },
     "astrbot_plugin_keyword_monitor": {
@@ -1895,8 +1895,8 @@
       "tags": [
         "海龟汤"
       ],
-      "stars": 11,
-      "updated_at": "2025-10-07T13:33:01Z",
+      "stars": 12,
+      "updated_at": "2025-10-14T07:14:06Z",
       "version": "v1.0.3"
     },
     "astrbot_plugin_typst_render": {
@@ -1971,8 +1971,8 @@
         "屏蔽",
         "轮询"
       ],
-      "stars": 4,
-      "updated_at": "2025-08-27T07:48:00Z",
+      "stars": 3,
+      "updated_at": "2025-10-14T11:18:30Z",
       "version": "v1.2.0"
     },
     "astrbot_plugin_silent": {
@@ -1981,8 +1981,8 @@
       "repo": "https://github.com/chris95743/astrbot_plugin_silent",
       "social_link": "https://wickh.cn",
       "tags": [],
-      "stars": 2,
-      "updated_at": "2025-08-27T07:48:18Z",
+      "stars": 3,
+      "updated_at": "2025-10-14T11:18:36Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_random_likes": {
@@ -2418,8 +2418,8 @@
       "repo": "https://github.com/Chris95743/astrbot_plugin_file",
       "author": null,
       "tags": [],
-      "stars": 6,
-      "updated_at": "2025-08-27T07:48:02Z",
+      "stars": 7,
+      "updated_at": "2025-10-14T11:18:31Z",
       "version": "v1.2.0"
     },
     "astrobot_plugin_code_executor": {
@@ -3276,8 +3276,8 @@
         "系统状态"
       ],
       "social_link": "https://github.com/BB0813",
-      "stars": 4,
-      "updated_at": "2025-08-23T05:51:56Z",
+      "stars": 5,
+      "updated_at": "2025-10-14T01:27:59Z",
       "version": "v1.0.4"
     },
     "astrbot_dg_lab_plugin": {
@@ -6603,8 +6603,8 @@
       "author": "lxfight",
       "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
       "tags": [],
-      "stars": 127,
-      "updated_at": "2025-10-13T14:50:00Z",
+      "stars": 128,
+      "updated_at": "2025-10-13T23:55:18Z",
       "version": "v0.5.1"
     },
     "FateTrial_img_identify": {
