@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-10-15T01:37:48.782Z",
+  "timestamp": "2025-10-15T12:43:08.708Z",
   "github": {
-    "stars": 12607,
-    "forks": 916,
+    "stars": 12629,
+    "forks": 920,
     "contributors": 100
   },
   "plugins": {
@@ -43,8 +43,8 @@
         "节日",
         "信息"
       ],
-      "stars": 0,
-      "updated_at": "2025-10-09T13:25:00Z",
+      "stars": 1,
+      "updated_at": "2025-10-15T05:31:48Z",
       "version": "1.0.8"
     },
     "astrbot_plugin_hapemxg_Inspect": {
@@ -90,8 +90,8 @@
         "Telegram"
       ],
       "stars": 3,
-      "updated_at": "2025-10-13T15:14:58Z",
-      "version": "1.2.0"
+      "updated_at": "2025-10-15T11:12:18Z",
+      "version": "1.2.2"
     },
     "astrbot_plugin_markdown2img": {
       "desc": "允许 LLM 将复杂的 Markdown 格式内容转换为图片发送，提升消息的可读性。",
@@ -123,8 +123,8 @@
       "tags": [
         "galgame"
       ],
-      "stars": 2,
-      "updated_at": "2025-10-10T15:58:15Z",
+      "stars": 3,
+      "updated_at": "2025-10-15T02:03:26Z",
       "version": "1.2.0"
     },
     "astrbot_plugin_sha_fork": {
@@ -423,8 +423,8 @@
       "tags": [
         "天文"
       ],
-      "stars": 2,
-      "updated_at": "2025-10-09T15:23:24Z",
+      "stars": 3,
+      "updated_at": "2025-10-15T05:42:42Z",
       "version": "v1.1.3"
     },
     "astrbot_plugin_VITS_pro": {
@@ -607,7 +607,7 @@
         "galgame"
       ],
       "stars": 1,
-      "updated_at": "2025-09-26T06:09:56Z",
+      "updated_at": "2025-10-15T05:16:45Z",
       "version": "v1.2"
     },
     "astrbot_plugins_steam_shop_price": {
@@ -1304,7 +1304,7 @@
       "social_link": "https://pan.l9.lc",
       "tags": [],
       "stars": 4,
-      "updated_at": "2025-09-08T15:38:50Z",
+      "updated_at": "2025-10-15T03:38:50Z",
       "version": "v0.5"
     },
     "astrbot_plugin_furry_cg": {
@@ -1746,8 +1746,8 @@
         "表白墙"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 19,
-      "updated_at": "2025-10-13T01:34:41Z",
+      "stars": 20,
+      "updated_at": "2025-10-15T03:59:05Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_matchreminder": {
@@ -3299,8 +3299,8 @@
         "音乐"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 57,
-      "updated_at": "2025-10-13T11:19:16Z",
+      "stars": 58,
+      "updated_at": "2025-10-15T07:58:56Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_renjian": {
@@ -4143,8 +4143,8 @@
         "api"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-      "stars": 87,
-      "updated_at": "2025-10-13T08:01:23Z",
+      "stars": 88,
+      "updated_at": "2025-10-15T05:58:26Z",
       "version": "v2.0.4"
     },
     "astrbot_plugin_help": {
@@ -5991,8 +5991,8 @@
         "webui",
         "图床"
       ],
-      "stars": 84,
-      "updated_at": "2025-10-14T11:32:20Z",
+      "stars": 85,
+      "updated_at": "2025-10-15T11:25:50Z",
       "version": "v3.13"
     },
     "mccloud_command": {
