@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-10-16T12:43:00.186Z",
+  "timestamp": "2025-10-17T01:28:08.231Z",
   "github": {
-    "stars": 12648,
+    "stars": 12662,
     "forks": 923,
     "contributors": 100
   },
@@ -57,8 +57,8 @@
       ],
       "social_link": "https://magstic.art/",
       "pinned": true,
-      "stars": 4,
-      "updated_at": "2025-10-16T07:37:26Z",
+      "stars": 5,
+      "updated_at": "2025-10-16T13:22:16Z",
       "version": "0.1.1"
     },
     "astrbot_plugin_Favour_Ultra": {
@@ -154,8 +154,8 @@
         "Telegram"
       ],
       "stars": 3,
-      "updated_at": "2025-10-16T00:17:00Z",
-      "version": "1.3.0"
+      "updated_at": "2025-10-16T20:50:40Z",
+      "version": "1.3.1"
     },
     "astrbot_plugin_markdown2img": {
       "desc": "允许 LLM 将复杂的 Markdown 格式内容转换为图片发送，提升消息的可读性。",
@@ -477,8 +477,8 @@
         "fishing"
       ],
       "stars": 10,
-      "updated_at": "2025-10-14T01:30:40Z",
-      "version": "2.1.1"
+      "updated_at": "2025-10-16T14:26:22Z",
+      "version": "2.2.0"
     },
     "astrbot_plugin_astrmetry": {
       "desc": "接入Astrometry.net进行星空图片解析。",
@@ -731,7 +731,7 @@
       ],
       "social_link": "https://github.com/kawayiYokami",
       "stars": 13,
-      "updated_at": "2025-10-16T11:09:09Z",
+      "updated_at": "2025-10-16T17:48:34Z",
       "version": "0.1.0"
     },
     "astrbot_plugin_angel_eye": {
@@ -1450,8 +1450,8 @@
         "手办化"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 101,
-      "updated_at": "2025-10-16T07:44:27Z",
+      "stars": 102,
+      "updated_at": "2025-10-16T19:35:51Z",
       "version": "v2.1.2"
     },
     "astrbot_plugin_Mirecraft_motd": {
@@ -1535,8 +1535,8 @@
         "SiliconFlow"
       ],
       "social_link": "https://github.com/muyouzhi6",
-      "stars": 30,
-      "updated_at": "2025-10-14T13:36:44Z",
+      "stars": 31,
+      "updated_at": "2025-10-16T13:27:46Z",
       "version": "0.4.3"
     },
     "astrbot_plugin_keyword_monitor": {
@@ -2563,7 +2563,7 @@
       "repo": "https://github.com/timetetng/astrbot_plugin_ip_proxy",
       "tags": [],
       "stars": 1,
-      "updated_at": "2025-09-02T03:14:37Z",
+      "updated_at": "2025-10-16T13:20:41Z",
       "version": "v1.6"
     },
     "astrbot_plugin_cmd_console": {
@@ -2645,8 +2645,8 @@
         "鼠鼠"
       ],
       "author": "UyNewNas",
-      "stars": 9,
-      "updated_at": "2025-10-01T10:36:06Z",
+      "stars": 10,
+      "updated_at": "2025-10-16T14:37:32Z",
       "version": "v1.2"
     },
     "astrbot_plugin_LetAI_sendemojis": {
@@ -5068,8 +5068,8 @@
         "工具",
         "安全"
       ],
-      "stars": 2,
-      "updated_at": "2025-08-16T11:38:28Z",
+      "stars": 3,
+      "updated_at": "2025-10-16T13:46:33Z",
       "version": "v1.0.1"
     },
     "JmCli": {
