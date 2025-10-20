@@ -1,9 +1,9 @@
 {
-  "timestamp": "2025-10-20T01:43:44.179Z",
+  "timestamp": "2025-10-20T12:42:16.388Z",
   "github": {
-    "stars": 12718,
-    "forks": 930,
-    "contributors": 103
+    "stars": 12730,
+    "forks": 931,
+    "contributors": 104
   },
   "plugins": {
     "astrbot_plugin_persona_plus": {
@@ -15,7 +15,7 @@
       ],
       "social_link": "https://www.misakanet.site",
       "stars": 3,
-      "updated_at": "2025-10-18T05:34:42Z",
+      "updated_at": "2025-10-20T04:58:31Z",
       "version": "v1.0"
     },
     "astrbot_plugin_sticker": {
@@ -730,8 +730,8 @@
         "主动应答"
       ],
       "social_link": "https://github.com/kawayiYokami",
-      "stars": 14,
-      "updated_at": "2025-10-19T12:30:53Z",
+      "stars": 15,
+      "updated_at": "2025-10-20T01:51:08Z",
       "version": "0.1.0"
     },
     "astrbot_plugin_angel_eye": {
@@ -1060,8 +1060,8 @@
         "rag"
       ],
       "stars": 24,
-      "updated_at": "2025-10-19T14:21:48Z",
-      "version": "1.3.0"
+      "updated_at": "2025-10-20T03:30:22Z",
+      "version": "1.3.2"
     },
     "astrbot_plugin_mathitools": {
       "desc": "基于mpmath&eval的简易数学表达式支持",
@@ -1450,8 +1450,8 @@
         "手办化"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 103,
-      "updated_at": "2025-10-17T10:37:51Z",
+      "stars": 104,
+      "updated_at": "2025-10-20T10:56:33Z",
       "version": "v2.1.2"
     },
     "astrbot_plugin_Mirecraft_motd": {
@@ -2284,8 +2284,8 @@
         "战地风云"
       ],
       "stars": 7,
-      "updated_at": "2025-10-14T12:04:58Z",
-      "version": "v1.11.3"
+      "updated_at": "2025-10-20T10:04:43Z",
+      "version": "v1.11.5"
     },
     "astrbot_plugin_SteamSaleTracker": {
       "desc": "这是一个 Steam 游戏价格监控插件",
@@ -3547,7 +3547,7 @@
         "知识库"
       ],
       "stars": 65,
-      "updated_at": "2025-10-16T04:36:38Z",
+      "updated_at": "2025-10-20T09:49:43Z",
       "version": "v0.5.9"
     },
     "astrbot_uptime_kuma_webhook_plugin": {
@@ -3916,8 +3916,8 @@
         "禁漫"
       ],
       "social_link": "https://github.com/GEMILUXVII",
-      "stars": 44,
-      "updated_at": "2025-10-15T15:44:38Z",
+      "stars": 46,
+      "updated_at": "2025-10-20T06:33:59Z",
       "version": "1.1.0"
     },
     "astrbot_plugin_combine-messages": {
@@ -5068,9 +5068,9 @@
         "工具",
         "安全"
       ],
-      "stars": 1,
-      "updated_at": "2025-10-19T08:57:33Z",
-      "version": "v2.2"
+      "stars": 3,
+      "updated_at": "2025-10-20T05:21:33Z",
+      "version": "v2.3"
     },
     "JmCli": {
       "desc": "JM命令行工具，提供下载和带封面的查询搜索功能，输入jm_help查看用法",
@@ -5161,8 +5161,8 @@
         "抽卡"
       ],
       "social_link": "https://github.com/Futureppo",
-      "stars": 16,
-      "updated_at": "2025-09-27T10:00:55Z",
+      "stars": 17,
+      "updated_at": "2025-10-20T02:42:27Z",
       "version": "v1.0.12"
     },
     "astrbot_plugin_litematic": {
@@ -6015,7 +6015,7 @@
         "搬史"
       ],
       "stars": 296,
-      "updated_at": "2025-10-19T14:47:18Z",
+      "updated_at": "2025-10-20T02:48:58Z",
       "version": "v0.915"
     },
     "astrbot_plugin_superpoke": {
@@ -6334,8 +6334,8 @@
       "author": "buding",
       "repo": "https://github.com/zouyonghe/astrbot_plugin_SDGen",
       "tags": [],
-      "stars": 16,
-      "updated_at": "2025-10-09T02:41:29Z",
+      "stars": 17,
+      "updated_at": "2025-10-20T07:15:14Z",
       "version": "v1.1.2"
     },
     "astrbot_plugin_sysinfo": {
