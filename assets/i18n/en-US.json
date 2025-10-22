@@ -4,7 +4,8 @@
     "quickStart": "Quick Start",
     "roadmap": "Roadmap",
     "github": "GitHub",
-    "plugin": "Plugins"
+    "plugin": "Plugins",
+    "blog": "Blog"
   },
   "hero": {
     "slogan": "The Multi-Platform LLM Bot Infrastructure",

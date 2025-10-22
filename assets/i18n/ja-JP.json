@@ -4,7 +4,8 @@
     "quickStart": "クイックスタート",
     "github": "GitHub",
     "roadmap": "ロードマップ",
-    "plugin": "プラグイン"
+    "plugin": "プラグイン",
+    "blog": "ブログ"
   },
   "hero": {
     "slogan": "マルチプラットフォームLLMボットインフラ",
