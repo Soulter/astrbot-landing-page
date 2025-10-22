@@ -40,7 +40,7 @@ ul {
 .container {
     max-width: 1200px;
     margin: 0 auto;
-    padding: 0 20px;
+    /* padding: 0 20px; */
 }
 
 /* Navigation */
@@ -364,14 +364,15 @@ ul {
 
 /* Footer */
 footer {
-    background-color: var(--light-background);
-    padding: 60px 0 30px;
+    background-color: var(--background-color);
+    margin-bottom: 30px;
 }
 
 .footer-content {
     display: flex;
     justify-content: space-between;
     margin-bottom: 40px;
+    padding: 60px;
 }
 
 .footer-logo h2 {
@@ -919,11 +920,6 @@ footer {
     .section#features {
         margin-top: -50px;
         padding-top: 80px;
-    }
-
-    .footer-content {
-        flex-direction: column;
-        gap: 30px;
     }
 
     .footer-links {
