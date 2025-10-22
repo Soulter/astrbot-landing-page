@@ -75,6 +75,11 @@
     "subtitle": "支持 Docker、pip、Windows 一键安装器等方式快速部署。",
     "docsButton": "查看文档"
   },
+  "business": {
+    "title": "项目及商务合作",
+    "subtitle": "如有项目联动及商务合作需求，欢迎与我们联系！",
+    "contact": "community@astrbot.app"
+  },
   "footer": {
     "slogan": "大模型多平台机器人基础设施",
     "resources": {

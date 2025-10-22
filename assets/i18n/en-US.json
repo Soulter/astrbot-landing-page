@@ -75,6 +75,11 @@
     "subtitle": "Quickly deploy with Docker, pip, Windows installer and more.",
     "docsButton": "View Docs"
   },
+  "business": {
+    "title": "Business Cooperation",
+    "subtitle": "For business cooperation inquiries, please feel free to contact us",
+    "contact": "community@astrbot.app"
+  },
   "footer": {
     "slogan": "Multi-Platform LLM Bot Infrastructure",
     "resources": {

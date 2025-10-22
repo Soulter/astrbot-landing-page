@@ -75,6 +75,11 @@
     "subtitle": "Docker、pip、Windowsインストーラーなどで迅速に展開できます。",
     "docsButton": "ドキュメント"
   },
+  "business": {
+    "title": "ビジネス提携",
+    "subtitle": "ビジネス提携のお問い合わせは、お気軽にご連絡ください",
+    "contact": "community@astrbot.app"
+  },
   "footer": {
     "slogan": "マルチプラットフォームLLMボットインフラ",
     "resources": {
