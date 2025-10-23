@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-10-22T12:43:33.993Z",
+  "timestamp": "2025-10-23T01:37:23.763Z",
   "github": {
-    "stars": 12766,
-    "forks": 933,
+    "stars": 12773,
+    "forks": 934,
     "contributors": 104
   },
   "plugins": {
@@ -17,7 +17,7 @@
         "训练"
       ],
       "stars": 1,
-      "updated_at": "2025-10-21T11:46:44Z",
+      "updated_at": "2025-10-22T12:50:35Z",
       "version": "v1.0"
     },
     "astrbot_plugin_chat_queue": {
@@ -62,8 +62,8 @@
         "sora"
       ],
       "social_link": "https://github.com/CCYellowStar2",
-      "stars": 0,
-      "updated_at": "2025-10-17T09:01:38Z",
+      "stars": 2,
+      "updated_at": "2025-10-22T13:26:53Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_video_sora": {
@@ -74,8 +74,8 @@
         "视频",
         "sora"
       ],
-      "stars": 13,
-      "updated_at": "2025-10-22T07:15:47Z",
+      "stars": 15,
+      "updated_at": "2025-10-22T20:22:03Z",
       "version": "v1.2.1"
     },
     "astrbot_gengtu": {
@@ -659,8 +659,8 @@
         "fishing"
       ],
       "stars": 13,
-      "updated_at": "2025-10-22T00:14:59Z",
-      "version": "2.2.5"
+      "updated_at": "2025-10-22T14:17:24Z",
+      "version": "2.2.6"
     },
     "astrbot_plugin_astrmetry": {
       "desc": "接入Astrometry.net进行星空图片解析。",
@@ -724,8 +724,8 @@
         "赛博修仙",
         "小游戏"
       ],
-      "stars": 6,
-      "updated_at": "2025-10-12T12:02:34Z",
+      "stars": 7,
+      "updated_at": "2025-10-22T14:03:29Z",
       "version": "v2.1.0"
     },
     "astrbot_plugin_admin_tools": {
@@ -1371,8 +1371,8 @@
         "总结"
       ],
       "social_link": "https://github.com/SXP-Simon",
-      "stars": 33,
-      "updated_at": "2025-10-22T11:04:34Z",
+      "stars": 34,
+      "updated_at": "2025-10-22T12:25:04Z",
       "version": "v2.8.0"
     },
     "astrbot_plugin_boss_notifier": {
@@ -1691,8 +1691,8 @@
       "author": "RC-CHN",
       "repo": "https://github.com/RC-CHN/astrbot_plugin_pic_search",
       "tags": [],
-      "stars": 3,
-      "updated_at": "2025-09-16T10:52:17Z",
+      "stars": 4,
+      "updated_at": "2025-10-22T12:32:54Z",
       "version": "v0.1"
     },
     "astrbot_plugin_spaghetti_concrete": {
@@ -3570,8 +3570,8 @@
         "音乐"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 58,
-      "updated_at": "2025-10-15T07:58:56Z",
+      "stars": 59,
+      "updated_at": "2025-10-22T13:16:02Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_renjian": {
@@ -5276,8 +5276,8 @@
         "安全"
       ],
       "stars": 3,
-      "updated_at": "2025-10-21T05:30:25Z",
-      "version": "v2.4.2"
+      "updated_at": "2025-10-22T14:02:58Z",
+      "version": "v2.4.3"
     },
     "JmCli": {
       "desc": "JM命令行工具，提供下载和带封面的查询搜索功能，输入jm_help查看用法",
@@ -6262,8 +6262,8 @@
         "webui",
         "图床"
       ],
-      "stars": 89,
-      "updated_at": "2025-10-22T08:48:30Z",
+      "stars": 90,
+      "updated_at": "2025-10-22T17:53:14Z",
       "version": "v3.13"
     },
     "mccloud_command": {
