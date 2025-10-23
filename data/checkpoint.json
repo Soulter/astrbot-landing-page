@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-10-23T01:37:23.763Z",
+  "timestamp": "2025-10-23T12:43:33.760Z",
   "github": {
-    "stars": 12773,
-    "forks": 934,
+    "stars": 12791,
+    "forks": 935,
     "contributors": 104
   },
   "plugins": {
@@ -17,7 +17,7 @@
         "训练"
       ],
       "stars": 1,
-      "updated_at": "2025-10-22T12:50:35Z",
+      "updated_at": "2025-10-23T07:39:07Z",
       "version": "v1.0"
     },
     "astrbot_plugin_chat_queue": {
@@ -74,8 +74,8 @@
         "视频",
         "sora"
       ],
-      "stars": 15,
-      "updated_at": "2025-10-22T20:22:03Z",
+      "stars": 16,
+      "updated_at": "2025-10-23T10:29:47Z",
       "version": "v1.2.1"
     },
     "astrbot_gengtu": {
@@ -215,8 +215,8 @@
         "联网搜索"
       ],
       "social_link": "https://gbkgov.cn",
-      "stars": 3,
-      "updated_at": "2025-10-15T02:04:32Z",
+      "stars": 4,
+      "updated_at": "2025-10-23T07:30:34Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_Favour_Ultra": {
@@ -658,9 +658,9 @@
         "game",
         "fishing"
       ],
-      "stars": 13,
-      "updated_at": "2025-10-22T14:17:24Z",
-      "version": "2.2.6"
+      "stars": 14,
+      "updated_at": "2025-10-23T09:52:24Z",
+      "version": "2.3.2"
     },
     "astrbot_plugin_astrmetry": {
       "desc": "接入Astrometry.net进行星空图片解析。",
@@ -1267,8 +1267,8 @@
         "rag"
       ],
       "stars": 25,
-      "updated_at": "2025-10-21T07:45:55Z",
-      "version": "1.3.2"
+      "updated_at": "2025-10-23T09:17:47Z",
+      "version": "1.3.3"
     },
     "astrbot_plugin_mathitools": {
       "desc": "基于mpmath&eval的简易数学表达式支持",
@@ -1415,8 +1415,8 @@
         "wxauto"
       ],
       "social_link": "blog.isla.ltd",
-      "stars": 5,
-      "updated_at": "2025-10-22T07:04:17Z",
+      "stars": 6,
+      "updated_at": "2025-10-23T07:56:32Z",
       "version": "1.2.0"
     },
     "astrbot_plugin_AnimeMagnet": {
@@ -2491,8 +2491,8 @@
         "战地风云"
       ],
       "stars": 7,
-      "updated_at": "2025-10-20T10:04:43Z",
-      "version": "v1.11.5"
+      "updated_at": "2025-10-23T07:17:41Z",
+      "version": "v1.11.6"
     },
     "astrbot_plugin_SteamSaleTracker": {
       "desc": "这是一个 Steam 游戏价格监控插件",
@@ -2732,8 +2732,8 @@
       "author": "Chris",
       "repo": "https://github.com/Chris95743/astrbot_plugin_balance",
       "tags": [],
-      "stars": 10,
-      "updated_at": "2025-10-15T13:48:24Z",
+      "stars": 11,
+      "updated_at": "2025-10-23T05:25:24Z",
       "version": "v1.5.0"
     },
     "astrbot_plugin_mp": {
@@ -2761,8 +2761,8 @@
       ],
       "social_link": "https://blog.jojo.host/",
       "stars": 3,
-      "updated_at": "2025-08-08T02:46:28Z",
-      "version": "v0.0.2"
+      "updated_at": "2025-10-23T02:52:54Z",
+      "version": "v0.0.4"
     },
     "astrbot_plugin_ip_proxy": {
       "desc": "一个将HTTP代理API转换为本地代理的AstrBot插件",
@@ -3170,8 +3170,8 @@
         "调教"
       ],
       "social_link": "https://github.com/oyxning",
-      "stars": 22,
-      "updated_at": "2025-10-18T07:15:44Z",
+      "stars": 23,
+      "updated_at": "2025-10-23T05:17:52Z",
       "version": "v3.2.0"
     },
     "astrbot_plugin_alistfile": {
@@ -5119,8 +5119,8 @@
       "tags": [
         "QQ群管"
       ],
-      "stars": 56,
-      "updated_at": "2025-10-20T13:48:14Z",
+      "stars": 57,
+      "updated_at": "2025-10-23T07:44:55Z",
       "version": "v3.1.7"
     },
     "astrbot_plugin_liars_bar": {
@@ -6221,8 +6221,8 @@
         "功能",
         "搬史"
       ],
-      "stars": 302,
-      "updated_at": "2025-10-22T08:43:54Z",
+      "stars": 303,
+      "updated_at": "2025-10-23T03:23:54Z",
       "version": "v0.915"
     },
     "astrbot_plugin_superpoke": {
@@ -6541,8 +6541,8 @@
       "author": "buding",
       "repo": "https://github.com/zouyonghe/astrbot_plugin_SDGen",
       "tags": [],
-      "stars": 17,
-      "updated_at": "2025-10-20T07:15:14Z",
+      "stars": 18,
+      "updated_at": "2025-10-23T08:17:29Z",
       "version": "v1.1.2"
     },
     "astrbot_plugin_sysinfo": {
