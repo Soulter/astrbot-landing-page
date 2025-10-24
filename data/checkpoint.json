@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-10-24T01:25:55.074Z",
+  "timestamp": "2025-10-24T12:43:14.136Z",
   "github": {
-    "stars": 12801,
-    "forks": 936,
+    "stars": 12842,
+    "forks": 939,
     "contributors": 104
   },
   "plugins": {
@@ -74,9 +74,9 @@
         "视频",
         "sora"
       ],
-      "stars": 16,
-      "updated_at": "2025-10-23T10:29:47Z",
-      "version": "v1.2.1"
+      "stars": 17,
+      "updated_at": "2025-10-24T08:46:28Z",
+      "version": "v1.2.2"
     },
     "astrbot_gengtu": {
       "desc": "梗图抽象猜词插件，获取图片题目并校验答案。",
@@ -659,8 +659,8 @@
         "fishing"
       ],
       "stars": 14,
-      "updated_at": "2025-10-23T09:52:24Z",
-      "version": "2.3.2"
+      "updated_at": "2025-10-24T01:35:42Z",
+      "version": "2.3.3"
     },
     "astrbot_plugin_astrmetry": {
       "desc": "接入Astrometry.net进行星空图片解析。",
@@ -765,7 +765,7 @@
       "repo": "https://github.com/RC-CHN/astrbot_plugin_the_Big-3_Chinese_AI_conferences",
       "tags": [],
       "stars": 2,
-      "updated_at": "2025-09-29T09:51:36Z",
+      "updated_at": "2025-10-24T00:59:30Z",
       "version": "v1.2"
     },
     "astrbot_plugin_mc_admin": {
@@ -925,8 +925,8 @@
         "知识"
       ],
       "social_link": "https://github.com/kawayiYokami",
-      "stars": 7,
-      "updated_at": "2025-10-18T06:41:00Z",
+      "stars": 6,
+      "updated_at": "2025-10-24T04:24:42Z",
       "version": "0.1.0"
     },
     "astrbot_plugin_pollinations_images": {
@@ -1267,8 +1267,8 @@
         "rag"
       ],
       "stars": 25,
-      "updated_at": "2025-10-23T09:17:47Z",
-      "version": "1.3.3"
+      "updated_at": "2025-10-24T07:53:39Z",
+      "version": "1.4.0"
     },
     "astrbot_plugin_mathitools": {
       "desc": "基于mpmath&eval的简易数学表达式支持",
@@ -2166,8 +2166,8 @@
       "tags": [
         "海龟汤"
       ],
-      "stars": 13,
-      "updated_at": "2025-10-14T16:37:09Z",
+      "stars": 14,
+      "updated_at": "2025-10-24T09:19:57Z",
       "version": "v1.0.3"
     },
     "astrbot_plugin_typst_render": {
@@ -2490,8 +2490,8 @@
       "tags": [
         "战地风云"
       ],
-      "stars": 8,
-      "updated_at": "2025-10-23T12:05:12Z",
+      "stars": 9,
+      "updated_at": "2025-10-24T06:23:39Z",
       "version": "v1.11.6"
     },
     "astrbot_plugin_SteamSaleTracker": {
@@ -5577,8 +5577,8 @@
         "JM",
         "PDF"
       ],
-      "stars": 1,
-      "updated_at": "2025-08-27T09:19:35Z",
+      "stars": 2,
+      "updated_at": "2025-10-24T03:09:57Z",
       "version": "v0.4"
     },
     "astrbot_plugin_jm_sender": {
@@ -5716,8 +5716,8 @@
       "repo": "https://github.com/Futureppo/astrbot_plugin_custom_menu",
       "tags": [],
       "stars": 4,
-      "updated_at": "2025-10-17T14:42:31Z",
-      "version": "v2.0.2"
+      "updated_at": "2025-10-24T08:53:16Z",
+      "version": "v2.0.1"
     },
     "astrbot_plugin_liferestart": {
       "desc": "人生重启模拟器。输入「重开」来重开你的沟槽人生吧！",
@@ -5910,8 +5910,8 @@
         "bilibili"
       ],
       "social_link": "https://github.com/miaoxutao123/",
-      "stars": 48,
-      "updated_at": "2025-10-12T08:32:12Z",
+      "stars": 49,
+      "updated_at": "2025-10-24T03:15:35Z",
       "version": "v0.2.13"
     },
     "astrbot_plugin_sjzb": {
@@ -6221,8 +6221,8 @@
         "功能",
         "搬史"
       ],
-      "stars": 305,
-      "updated_at": "2025-10-23T15:55:55Z",
+      "stars": 390,
+      "updated_at": "2025-10-24T11:13:47Z",
       "version": "v0.915"
     },
     "astrbot_plugin_superpoke": {
@@ -6262,8 +6262,8 @@
         "webui",
         "图床"
       ],
-      "stars": 90,
-      "updated_at": "2025-10-22T17:53:14Z",
+      "stars": 91,
+      "updated_at": "2025-10-24T03:17:21Z",
       "version": "v3.13"
     },
     "mccloud_command": {
@@ -6478,8 +6478,8 @@
       "author": "Soulter",
       "repo": "https://github.com/Soulter/astrbot_plugin_rss",
       "tags": [],
-      "stars": 18,
-      "updated_at": "2025-10-05T14:02:20Z",
+      "stars": 19,
+      "updated_at": "2025-10-24T05:35:51Z",
       "version": "v1.1.2"
     },
     "astrbot_plugin_bilibili": {
@@ -6487,8 +6487,8 @@
       "author": "Flartiny & Soulter",
       "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
       "tags": [],
-      "stars": 31,
-      "updated_at": "2025-09-24T01:59:53Z",
+      "stars": 32,
+      "updated_at": "2025-10-24T04:46:36Z",
       "version": "v1.4.12"
     },
     "astrbot_plugin_leetcode": {
@@ -6875,7 +6875,7 @@
       "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
       "tags": [],
       "stars": 135,
-      "updated_at": "2025-10-22T06:25:53Z",
+      "updated_at": "2025-10-24T09:04:22Z",
       "version": "v0.5.1"
     },
     "FateTrial_img_identify": {
