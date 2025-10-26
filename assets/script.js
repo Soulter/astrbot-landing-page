@@ -36,37 +36,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     });
 
-    // 处理hero图像的3D动画效果
-    const heroImage = document.querySelector('.hero-image');
-    const heroSection = document.querySelector('.hero');
-
-    if (heroImage && heroSection) {
-        // 初始化变换状态
-        updateHeroImageTransform();
-
-        // 监听滚动事件
-        window.addEventListener('scroll', updateHeroImageTransform);
-
-        function updateHeroImageTransform() {
-            const scrollPosition = window.scrollY;
-            const heroHeight = heroSection.offsetHeight;
-            // 计算滚动百分比（限制在0-100%之间）
-            const scrollPercentage = Math.min(scrollPosition / (heroHeight * 0.1), 1);
-
-            // 根据滚动百分比计算旋转角度
-            const rotateX = 10 * (1 - scrollPercentage);
-
-            // 应用变换
-            heroImage.style.transform = `rotateX(${rotateX}deg)`;
-
-            // 当完全滚动到位时添加一个类
-            if (scrollPercentage >= 1) {
-                heroImage.classList.add('scrolled');
-            } else {
-                heroImage.classList.remove('scrolled');
-            }
-        }
-    }
+    // 取消 hero 图像随滚动的动态效果，保持默认展示
 
     // 语言切换和国际化相关功能
     const i18n = {
