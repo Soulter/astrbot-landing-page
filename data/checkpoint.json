@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-10-27T01:46:43.606Z",
+  "timestamp": "2025-10-27T12:43:53.790Z",
   "github": {
-    "stars": 12895,
+    "stars": 12922,
     "forks": 946,
     "contributors": 105
   },
@@ -23,8 +23,8 @@
       "author": "RC-CHN",
       "repo": "https://github.com/RC-CHN/astrbot_plugin_ragflow_adapter",
       "tags": [],
-      "stars": 4,
-      "updated_at": "2025-10-26T18:19:43Z",
+      "stars": 5,
+      "updated_at": "2025-10-27T02:12:59Z",
       "version": "v0.2"
     },
     "astrbot_plugin_LLMPerception": {
@@ -121,8 +121,8 @@
         "nobroswer"
       ],
       "pinned": true,
-      "stars": 4,
-      "updated_at": "2025-10-26T18:59:01Z",
+      "stars": 6,
+      "updated_at": "2025-10-27T02:43:43Z",
       "version": "v1.1.0"
     },
     "astrbot_plugin_fetch_summary": {
@@ -133,8 +133,8 @@
         "summary"
       ],
       "social_link": "https://github.com/cumany",
-      "stars": 0,
-      "updated_at": "2025-10-25T06:18:16Z",
+      "stars": 2,
+      "updated_at": "2025-10-27T06:16:44Z",
       "version": "1.2.0"
     },
     "astrbot_plugin_sora": {
@@ -158,8 +158,8 @@
         "sora"
       ],
       "stars": 20,
-      "updated_at": "2025-10-26T14:58:26Z",
-      "version": "v1.2.5"
+      "updated_at": "2025-10-27T09:05:10Z",
+      "version": "v1.2.6"
     },
     "astrbot_gengtu": {
       "desc": "梗图抽象猜词插件，获取图片题目并校验答案。",
@@ -179,8 +179,8 @@
       "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
       "tags": [],
       "stars": 0,
-      "updated_at": "2025-10-20T17:57:00Z",
-      "version": "v0.3.0"
+      "updated_at": "2025-10-27T09:42:55Z",
+      "version": "v0.4.0"
     },
     "astrbot_plugin_timeline": {
       "desc": "一个非常简单的插件，在请求中插入当前时间",
@@ -462,8 +462,8 @@
       "tags": [
         "galgame"
       ],
-      "stars": 3,
-      "updated_at": "2025-10-16T23:51:47Z",
+      "stars": 4,
+      "updated_at": "2025-10-27T08:04:28Z",
       "version": "1.2.0"
     },
     "astrbot_plugin_sha_fork": {
@@ -516,8 +516,8 @@
         "文生图",
         "图片生成"
       ],
-      "stars": 0,
-      "updated_at": "2025-09-20T10:40:10Z",
+      "stars": 1,
+      "updated_at": "2025-10-27T03:57:38Z",
       "version": "v1.3"
     },
     "mcstatus": {
@@ -752,8 +752,8 @@
         "fishing"
       ],
       "stars": 14,
-      "updated_at": "2025-10-26T14:33:08Z",
-      "version": "2.3.6"
+      "updated_at": "2025-10-27T04:00:22Z",
+      "version": "2.3.7"
     },
     "astrbot_plugin_astrmetry": {
       "desc": "接入Astrometry.net进行星空图片解析。",
@@ -781,8 +781,8 @@
       "author": "ctrlkk",
       "repo": "https://github.com/ctrlkk/astrbot_plugin_blacklist_tools",
       "tags": [],
-      "stars": 0,
-      "updated_at": "2025-10-14T11:50:44Z",
+      "stars": 1,
+      "updated_at": "2025-10-27T08:25:55Z",
       "version": "v1.6"
     },
     "astrbot_plugin_text_renderer": {
@@ -826,8 +826,8 @@
       "author": "ctrlkk",
       "repo": "https://github.com/ctrlkk/astrbot_plugin_admin_tools",
       "tags": [],
-      "stars": 1,
-      "updated_at": "2025-09-27T15:04:05Z",
+      "stars": 2,
+      "updated_at": "2025-10-27T05:13:07Z",
       "version": "v1.2"
     },
     "astrbot_plugin_msg_search": {
@@ -1496,8 +1496,8 @@
         "api",
         "表情包"
       ],
-      "stars": 8,
-      "updated_at": "2025-09-29T09:28:49Z",
+      "stars": 9,
+      "updated_at": "2025-10-27T08:08:09Z",
       "version": "v1.0.1"
     },
     "wxauto_repost": {
@@ -1621,7 +1621,7 @@
       ],
       "social_link": "https://github.com/kjqwer",
       "stars": 6,
-      "updated_at": "2025-10-22T07:44:32Z",
+      "updated_at": "2025-10-27T00:03:49Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_lark_send_patcher": {
@@ -2311,8 +2311,8 @@
         "猜歌",
         "初音未来 缤纷舞台"
       ],
-      "stars": 5,
-      "updated_at": "2025-10-18T10:31:49Z",
+      "stars": 6,
+      "updated_at": "2025-10-27T07:27:06Z",
       "version": "v1.1.3"
     },
     "astrbot_plugin_screenctrl": {
@@ -2708,7 +2708,7 @@
       "repo": "https://github.com/piexian/astrbot_plugin_rg",
       "tags": [],
       "stars": 1,
-      "updated_at": "2025-07-15T07:19:09Z",
+      "updated_at": "2025-10-27T10:24:31Z",
       "version": "v1.4.0"
     },
     "echo_avatar": {
@@ -3846,8 +3846,8 @@
         "RAG",
         "知识库"
       ],
-      "stars": 65,
-      "updated_at": "2025-10-21T07:46:18Z",
+      "stars": 66,
+      "updated_at": "2025-10-27T09:56:17Z",
       "version": "v0.5.9"
     },
     "astrbot_uptime_kuma_webhook_plugin": {
@@ -6314,8 +6314,8 @@
         "功能",
         "搬史"
       ],
-      "stars": 431,
-      "updated_at": "2025-10-26T13:53:53Z",
+      "stars": 436,
+      "updated_at": "2025-10-27T08:42:33Z",
       "version": "v0.915"
     },
     "astrbot_plugin_superpoke": {
@@ -6968,8 +6968,8 @@
       "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
       "tags": [],
       "stars": 137,
-      "updated_at": "2025-10-25T17:05:10Z",
-      "version": "v2.0.0"
+      "updated_at": "2025-10-27T05:51:43Z",
+      "version": "v0.5.1"
     },
     "FateTrial_img_identify": {
       "desc": "智谱AI图像识别插件",
