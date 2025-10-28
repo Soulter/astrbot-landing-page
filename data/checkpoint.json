@@ -1,11 +1,36 @@
 {
-  "timestamp": "2025-10-28T01:37:12.318Z",
+  "timestamp": "2025-10-28T12:42:02.275Z",
   "github": {
-    "stars": 12934,
-    "forks": 948,
+    "stars": 12978,
+    "forks": 951,
     "contributors": 105
   },
   "plugins": {
+    "astrbot_plugin_email_tool": {
+      "display_name": "SMTP 邮件小工具",
+      "desc": "一个能让 AI 自主决定 SMTP 发送邮件的函数工具。此外，还支持服务器内存告警和 NapCat 下线告警。",
+      "author": "Chris",
+      "repo": "https://github.com/Chris95743/astrbot_plugin_email_tool",
+      "tags": [
+        "邮件",
+        "告警"
+      ],
+      "social_link": "https://gbkgov.cn",
+      "stars": 2,
+      "updated_at": "2025-10-28T08:14:51Z",
+      "version": "v1.0.0"
+    },
+    "astrbot_plugin_tts_sanitizer": {
+      "desc": "TTS 文本过滤插件，自动过滤颜文字、特殊符号等不适合语音朗读的内容",
+      "author": "柯尔",
+      "repo": "https://github.com/Luna-channel/astrbot_plugin_tts_sanitizer",
+      "tags": [
+        "TTS"
+      ],
+      "stars": 0,
+      "updated_at": "2025-10-22T13:16:59Z",
+      "version": "v0.3"
+    },
     "astrbot_plugin_github_monitor_shell": {
       "desc": "定时监控 GitHub 仓库 Commit 变化并发送通知",
       "author": "Shell",
@@ -26,6 +51,16 @@
       "stars": 5,
       "updated_at": "2025-10-27T02:12:59Z",
       "version": "v0.2"
+    },
+    "astrbot_plugin_jimengapi": {
+      "display_name": "即梦 API",
+      "desc": "对接即梦2 API，支持生图，图生图与文生视频",
+      "author": "薄暝",
+      "repo": "https://github.com/xiaoxi68/astrbot_plugin_jimengapi",
+      "tags": [],
+      "stars": 1,
+      "updated_at": "2025-10-23T14:30:46Z",
+      "version": "v0.2.0"
     },
     "astrbot_plugin_LLMPerception": {
       "desc": "增强 LLM 环境感知能力：时间、节假日、平台环境感知",
@@ -64,6 +99,19 @@
       "stars": 1,
       "updated_at": "2025-10-24T18:37:40Z",
       "version": "v1.0.0"
+    },
+    "astrbot_plugin_yunsdf": {
+      "name": "yunsdf",
+      "desc": "三角洲改枪码、每日密码等查询插件，支持自定义添加，JSON持久化",
+      "author": "清蒸云鸭",
+      "repo": "https://github.com/WhiteCloudOL/",
+      "tags": [
+        "playwright",
+        "三角洲"
+      ],
+      "social_link": "https://github.com/WhiteCloudOL",
+      "stars": 0,
+      "version": "1.0.0"
     },
     "astrbot_plugin_daily_limit": {
       "desc": "限制用户每日调用大模型的次数",
@@ -121,8 +169,8 @@
         "nobroswer"
       ],
       "pinned": true,
-      "stars": 6,
-      "updated_at": "2025-10-27T02:43:43Z",
+      "stars": 7,
+      "updated_at": "2025-10-28T02:36:35Z",
       "version": "v1.1.0"
     },
     "astrbot_plugin_fetch_summary": {
@@ -366,8 +414,8 @@
       "author": "BGYdook",
       "repo": "https://github.com/BGYdook/AstrBot-plugin-tmp-bot",
       "tags": [],
-      "stars": 4,
-      "updated_at": "2025-10-26T14:53:07Z",
+      "stars": 5,
+      "updated_at": "2025-10-28T06:41:10Z",
       "version": "1.2.9"
     },
     "astrbot_plugin_33recognition": {
@@ -752,8 +800,8 @@
         "fishing"
       ],
       "stars": 15,
-      "updated_at": "2025-10-27T19:23:02Z",
-      "version": "2.3.8"
+      "updated_at": "2025-10-28T04:52:36Z",
+      "version": "2.3.9"
     },
     "astrbot_plugin_astrmetry": {
       "desc": "接入Astrometry.net进行星空图片解析。",
@@ -840,7 +888,7 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 4,
-      "updated_at": "2025-10-10T17:36:03Z",
+      "updated_at": "2025-10-28T08:16:37Z",
       "version": "v1.0.1"
     },
     "scheduled_reply": {
@@ -1465,8 +1513,8 @@
         "总结"
       ],
       "social_link": "https://github.com/SXP-Simon",
-      "stars": 35,
-      "updated_at": "2025-10-23T15:52:54Z",
+      "stars": 36,
+      "updated_at": "2025-10-28T06:53:24Z",
       "version": "v2.8.0"
     },
     "astrbot_plugin_boss_notifier": {
@@ -1509,8 +1557,8 @@
         "wxauto"
       ],
       "social_link": "blog.isla.ltd",
-      "stars": 6,
-      "updated_at": "2025-10-23T07:56:32Z",
+      "stars": 7,
+      "updated_at": "2025-10-28T03:39:17Z",
       "version": "1.2.0"
     },
     "astrbot_plugin_AnimeMagnet": {
@@ -2430,8 +2478,8 @@
         "工具"
       ],
       "social_link": "https://astrbot.uk",
-      "stars": 4,
-      "updated_at": "2025-08-31T14:27:29Z",
+      "stars": 5,
+      "updated_at": "2025-10-28T05:42:35Z",
       "version": "v1.2"
     },
     "astrbot_plugin_lanzoucloud": {
@@ -2796,7 +2844,7 @@
       ],
       "author": null,
       "stars": 12,
-      "updated_at": "2025-10-21T09:36:14Z",
+      "updated_at": "2025-10-28T07:27:52Z",
       "version": "2.2.5"
     },
     "astrbot_plugin_group_sign": {
@@ -3777,8 +3825,8 @@
         "生图",
         "函数工具"
       ],
-      "stars": 11,
-      "updated_at": "2025-09-25T06:12:24Z",
+      "stars": 10,
+      "updated_at": "2025-10-28T10:09:30Z",
       "version": "v1.5.0"
     },
     "astrbot_plugin_dzmm": {
@@ -4203,8 +4251,8 @@
         "戳一戳"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 32,
-      "updated_at": "2025-10-14T12:24:39Z",
+      "stars": 33,
+      "updated_at": "2025-10-28T10:16:44Z",
       "version": "v1.1.3"
     },
     "astrbot_plugin_jm_cosmos": {
@@ -4507,8 +4555,8 @@
         "api"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-      "stars": 89,
-      "updated_at": "2025-10-22T05:06:10Z",
+      "stars": 90,
+      "updated_at": "2025-10-28T03:03:11Z",
       "version": "v2.0.4"
     },
     "astrbot_plugin_help": {
@@ -4993,8 +5041,8 @@
       ],
       "social_link": "https://docs.sayu-bot.com/",
       "stars": 21,
-      "updated_at": "2025-10-10T03:15:27Z",
-      "version": "v0.4.1"
+      "updated_at": "2025-10-28T05:18:33Z",
+      "version": "v0.4.2"
     },
     "astrbot_plugin_xyzw": {
       "author": "四郎",
@@ -5537,8 +5585,8 @@
       "repo": "https://github.com/xiewoc/astrbot_plugin_file_reader",
       "social_link": "https://github.com/xiewoc",
       "tags": [],
-      "stars": 4,
-      "updated_at": "2025-09-01T07:23:04Z",
+      "stars": 3,
+      "updated_at": "2025-10-28T10:09:28Z",
       "version": "v1.0.2"
     },
     "encrypt-and-decrypt": {
@@ -5739,8 +5787,8 @@
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
       "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
-      "stars": 56,
-      "updated_at": "2025-10-26T07:51:45Z",
+      "stars": 57,
+      "updated_at": "2025-10-28T05:54:51Z",
       "version": "v3.0.1"
     },
     "astrbot_plugin_saris_economic": {
@@ -6088,8 +6136,8 @@
         "功能",
         "推送"
       ],
-      "stars": 15,
-      "updated_at": "2025-10-11T14:45:41Z",
+      "stars": 16,
+      "updated_at": "2025-10-28T05:52:29Z",
       "version": "v2.1.0"
     },
     "astrbot_plugin_gemini_exp": {
@@ -6314,8 +6362,8 @@
         "功能",
         "搬史"
       ],
-      "stars": 438,
-      "updated_at": "2025-10-27T16:57:17Z",
+      "stars": 439,
+      "updated_at": "2025-10-28T02:28:25Z",
       "version": "v0.915"
     },
     "astrbot_plugin_superpoke": {
@@ -6517,9 +6565,9 @@
       "author": "kjqwdw",
       "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
       "tags": [],
-      "stars": 23,
-      "updated_at": "2025-10-08T14:37:03Z",
-      "version": "v1.3.6"
+      "stars": 24,
+      "updated_at": "2025-10-28T02:57:01Z",
+      "version": "v1.3.8"
     },
     "ai_memory": {
       "desc": "一个AI记忆管理插件，可以让ai记住重要的事，记忆读取是ai自己调用的，有时候呆呆的ai不会自己调用，可以多问几次或者人格加上特定提示词,输入 /mem_help 查看记忆管理帮助",
@@ -6913,8 +6961,8 @@
       "author": "枫莹",
       "repo": "https://github.com/FengYing1314/astrbot_plugin_token_auto",
       "tags": [],
-      "stars": 7,
-      "updated_at": "2025-09-06T00:30:49Z",
+      "stars": 8,
+      "updated_at": "2025-10-28T05:54:48Z",
       "version": "v1.3.0"
     },
     "FateTrial_setucontroller": {
