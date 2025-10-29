@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-10-29T01:43:32.768Z",
+  "timestamp": "2025-10-29T12:44:22.802Z",
   "github": {
-    "stars": 12989,
-    "forks": 953,
+    "stars": 13012,
+    "forks": 956,
     "contributors": 105
   },
   "plugins": {
@@ -27,7 +27,7 @@
       ],
       "social_link": "https://github.com/bvzrays",
       "stars": 1,
-      "updated_at": "2025-10-28T15:06:49Z",
+      "updated_at": "2025-10-29T06:02:32Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_email_tool": {
@@ -64,16 +64,16 @@
         "实用"
       ],
       "stars": 0,
-      "updated_at": "2025-10-24T10:00:47Z",
-      "version": "1.0.0"
+      "updated_at": "2025-10-29T09:24:32Z",
+      "version": "1.0.1"
     },
     "astrbot_plugin_ragflow_adapter": {
       "desc": "使用 RAGFlow 检索增强生成",
       "author": "RC-CHN",
       "repo": "https://github.com/RC-CHN/astrbot_plugin_ragflow_adapter",
       "tags": [],
-      "stars": 5,
-      "updated_at": "2025-10-27T02:12:59Z",
+      "stars": 6,
+      "updated_at": "2025-10-29T08:07:41Z",
       "version": "v0.2"
     },
     "astrbot_plugin_genie-tts": {
@@ -266,8 +266,8 @@
         "视频",
         "sora"
       ],
-      "stars": 21,
-      "updated_at": "2025-10-27T15:01:25Z",
+      "stars": 22,
+      "updated_at": "2025-10-29T02:44:27Z",
       "version": "v1.2.6"
     },
     "astrbot_gengtu": {
@@ -288,8 +288,8 @@
       "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
       "tags": [],
       "stars": 0,
-      "updated_at": "2025-10-28T17:22:29Z",
-      "version": "v0.5.0"
+      "updated_at": "2025-10-29T06:05:04Z",
+      "version": "v0.8.0"
     },
     "astrbot_plugin_timeline": {
       "desc": "一个非常简单的插件，在请求中插入当前时间",
@@ -318,8 +318,8 @@
         "图片"
       ],
       "social_link": "https://github.com/cumany",
-      "stars": 0,
-      "updated_at": "2025-10-20T15:30:41Z",
+      "stars": 1,
+      "updated_at": "2025-10-29T10:09:20Z",
       "version": "1.1.0"
     },
     "astrbot_plugin_cxzl": {
@@ -341,7 +341,7 @@
         "网络小说"
       ],
       "stars": 1,
-      "updated_at": "2025-10-23T17:06:00Z",
+      "updated_at": "2025-10-29T10:49:07Z",
       "version": "v1.3"
     },
     "astrbot_plugin_persona_plus": {
@@ -516,7 +516,7 @@
         "群文件"
       ],
       "stars": 0,
-      "updated_at": "2025-10-24T17:03:01Z",
+      "updated_at": "2025-10-29T10:47:35Z",
       "version": "v1.4"
     },
     "astrbot_plugin_JMCOMIC": {
@@ -703,7 +703,7 @@
         "群文件"
       ],
       "stars": 2,
-      "updated_at": "2025-10-19T05:37:03Z",
+      "updated_at": "2025-10-29T10:48:02Z",
       "version": "v0.8.1"
     },
     "group_notice_manager": {
@@ -739,8 +739,8 @@
         "otto"
       ],
       "social_link": "maxim2811705608@outlook.com",
-      "stars": 6,
-      "updated_at": "2025-09-27T11:32:41Z",
+      "stars": 7,
+      "updated_at": "2025-10-29T03:53:01Z",
       "version": "v1.1"
     },
     "astrbot_plugin_counter": {
@@ -1305,8 +1305,8 @@
       "author": "shskjw",
       "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
       "tags": [],
-      "stars": 19,
-      "updated_at": "2025-10-28T14:09:00Z",
+      "stars": 20,
+      "updated_at": "2025-10-29T08:01:15Z",
       "version": "v1.4.0"
     },
     "astrbot_plugin_group_chat": {
@@ -1343,7 +1343,7 @@
         "撤回"
       ],
       "stars": 1,
-      "updated_at": "2025-10-24T17:17:55Z",
+      "updated_at": "2025-10-29T10:46:01Z",
       "version": "v0.2"
     },
     "input_state_by_napcat": {
@@ -1470,7 +1470,7 @@
         "rag"
       ],
       "stars": 25,
-      "updated_at": "2025-10-28T15:26:47Z",
+      "updated_at": "2025-10-29T09:45:02Z",
       "version": "1.4.2"
     },
     "astrbot_plugin_mathitools": {
@@ -1551,8 +1551,8 @@
         "AI绘画"
       ],
       "stars": 21,
-      "updated_at": "2025-10-10T12:42:34Z",
-      "version": "v1.8"
+      "updated_at": "2025-10-29T01:44:59Z",
+      "version": "v1.8.1"
     },
     "github_star_verify": {
       "desc": "[aiocqhttp]使用 GitHub 仓库的 Star 状态作为入群验证条件，仅允许已 Star 指定仓库的用户留在群内。",
@@ -1860,8 +1860,8 @@
         "手办化"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 112,
-      "updated_at": "2025-10-28T12:16:43Z",
+      "stars": 113,
+      "updated_at": "2025-10-29T02:08:34Z",
       "version": "v2.1.2"
     },
     "astrbot_plugin_Mirecraft_motd": {
@@ -2015,8 +2015,8 @@
         "人格"
       ],
       "social_link": "https://github.com/NickCharlie",
-      "stars": 27,
-      "updated_at": "2025-10-20T12:47:04Z",
+      "stars": 28,
+      "updated_at": "2025-10-29T00:54:23Z",
       "version": "1.2.8"
     },
     "astrbot_plugin_baiduocr": {
@@ -2773,8 +2773,8 @@
         "宠物"
       ],
       "stars": 6,
-      "updated_at": "2025-10-21T07:57:00Z",
-      "version": "1.5"
+      "updated_at": "2025-10-29T04:43:22Z",
+      "version": "1.6"
     },
     "astrbot_plugin_error_monitor": {
       "desc": "捕获 Immersive Error 抛出的异常，并提供 SMTP 邮件通知进行报告。",
@@ -3336,8 +3336,8 @@
         "丰川祥子"
       ],
       "social_link": "https://github.com/GEMILUXVII",
-      "stars": 3,
-      "updated_at": "2025-09-14T03:34:59Z",
+      "stars": 4,
+      "updated_at": "2025-10-29T03:46:25Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_afdian": {
@@ -3772,8 +3772,8 @@
         "音乐"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 60,
-      "updated_at": "2025-10-25T08:27:21Z",
+      "stars": 61,
+      "updated_at": "2025-10-29T10:46:25Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_renjian": {
@@ -4325,8 +4325,8 @@
         "禁漫"
       ],
       "social_link": "https://github.com/GEMILUXVII",
-      "stars": 48,
-      "updated_at": "2025-10-26T14:18:06Z",
+      "stars": 50,
+      "updated_at": "2025-10-29T06:15:03Z",
       "version": "1.1.0"
     },
     "astrbot_plugin_combine-messages": {
@@ -4616,8 +4616,8 @@
         "api"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-      "stars": 90,
-      "updated_at": "2025-10-28T03:03:11Z",
+      "stars": 91,
+      "updated_at": "2025-10-29T11:25:29Z",
       "version": "v2.0.4"
     },
     "astrbot_plugin_help": {
@@ -4626,8 +4626,8 @@
       "repo": "https://github.com/tinkerbellqwq/astrbot_plugin_help",
       "social_link": "https://github.com/tinkerbellqwq",
       "tags": [],
-      "stars": 22,
-      "updated_at": "2025-09-16T10:52:32Z",
+      "stars": 23,
+      "updated_at": "2025-10-29T10:48:23Z",
       "version": "v1.1.3"
     },
     "astrbot_qqemotionreply": {
@@ -5398,8 +5398,8 @@
       "author": "lm379",
       "repo": "https://github.com/lm379/astrbot_plugin_quarksave",
       "tags": [],
-      "stars": 8,
-      "updated_at": "2025-10-13T11:35:14Z",
+      "stars": 9,
+      "updated_at": "2025-10-29T08:57:51Z",
       "version": "v1.0.4"
     },
     "astrbot_plugins_ConvetPicture": {
@@ -6171,8 +6171,8 @@
       "tags": [
         "主动对话"
       ],
-      "stars": 7,
-      "updated_at": "2025-09-29T14:46:51Z",
+      "stars": 8,
+      "updated_at": "2025-10-29T02:41:51Z",
       "version": "v2.3.0"
     },
     "astrbot_plugin_sensoji": {
@@ -6399,8 +6399,8 @@
       "tags": [
         "功能"
       ],
-      "stars": 15,
-      "updated_at": "2025-10-26T10:25:02Z",
+      "stars": 16,
+      "updated_at": "2025-10-29T04:31:53Z",
       "version": "1.0.2"
     },
     "astrbot_plugin_moyuren": {
@@ -6423,8 +6423,8 @@
         "功能",
         "搬史"
       ],
-      "stars": 441,
-      "updated_at": "2025-10-28T14:49:43Z",
+      "stars": 443,
+      "updated_at": "2025-10-29T08:46:51Z",
       "version": "v0.915"
     },
     "astrbot_plugin_superpoke": {
@@ -6627,8 +6627,8 @@
       "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
       "tags": [],
       "stars": 24,
-      "updated_at": "2025-10-28T02:57:01Z",
-      "version": "v1.3.8"
+      "updated_at": "2025-10-28T23:55:02Z",
+      "version": "v1.3.9"
     },
     "ai_memory": {
       "desc": "一个AI记忆管理插件，可以让ai记住重要的事，记忆读取是ai自己调用的，有时候呆呆的ai不会自己调用，可以多问几次或者人格加上特定提示词,输入 /mem_help 查看记忆管理帮助",
