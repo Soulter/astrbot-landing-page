@@ -1,11 +1,35 @@
 {
-  "timestamp": "2025-10-28T12:42:02.275Z",
+  "timestamp": "2025-10-29T01:43:32.768Z",
   "github": {
-    "stars": 12978,
-    "forks": 951,
+    "stars": 12989,
+    "forks": 953,
     "contributors": 105
   },
   "plugins": {
+    "astrbot_plugin_mcgetter_enhanced": {
+      "display_name": "mcgetter-enhanced",
+      "desc": "查询 MC 服务器信息和玩家列表, 在线人数柱状图渲染为图片, 修改自 QiChen 的 mcgetter",
+      "author": "薄暝",
+      "repo": "https://github.com/xiaoxi68/astrbot_mcgetter_enhanced",
+      "tags": [],
+      "stars": 0,
+      "updated_at": "2025-10-28T17:02:51Z",
+      "version": "v1.2.0"
+    },
+    "astrbot_plugin_minecraftskin": {
+      "display_name": "Minecraft Skin 查询",
+      "desc": "从 API 查询我的世界玩家皮肤信息（skin、uuid、渲染等）。",
+      "author": "BvzRays",
+      "repo": "https://github.com/bvzrays/astrbot_plugin_minecraftskin",
+      "tags": [
+        "minecraft",
+        "我的世界"
+      ],
+      "social_link": "https://github.com/bvzrays",
+      "stars": 1,
+      "updated_at": "2025-10-28T15:06:49Z",
+      "version": "v1.0.0"
+    },
     "astrbot_plugin_email_tool": {
       "display_name": "SMTP 邮件小工具",
       "desc": "一个能让 AI 自主决定 SMTP 发送邮件的函数工具。此外，还支持服务器内存告警和 NapCat 下线告警。",
@@ -16,9 +40,9 @@
         "告警"
       ],
       "social_link": "https://gbkgov.cn",
-      "stars": 2,
-      "updated_at": "2025-10-28T08:14:51Z",
-      "version": "v1.0.0"
+      "stars": 3,
+      "updated_at": "2025-10-28T12:31:01Z",
+      "version": "v1.1.0"
     },
     "astrbot_plugin_tts_sanitizer": {
       "desc": "TTS 文本过滤插件，自动过滤颜文字、特殊符号等不适合语音朗读的内容",
@@ -52,6 +76,18 @@
       "updated_at": "2025-10-27T02:12:59Z",
       "version": "v0.2"
     },
+    "astrbot_plugin_genie-tts": {
+      "desc": "基于 Genie TTS 的语音合成插件",
+      "author": "victical",
+      "repo": "https://github.com/victical/astrbot_plugin_genie-tts",
+      "tags": [
+        "TTS",
+        "日语"
+      ],
+      "stars": 0,
+      "updated_at": "2025-10-21T19:33:59Z",
+      "version": "v1.0.0"
+    },
     "astrbot_plugin_jimengapi": {
       "display_name": "即梦 API",
       "desc": "对接即梦2 API，支持生图，图生图与文生视频",
@@ -71,6 +107,31 @@
       "stars": 6,
       "updated_at": "2025-10-26T14:30:23Z",
       "version": "v1.0.0"
+    },
+    "astrbot_plugin_violation_record": {
+      "desc": "QQ 查询账号违规记录插件",
+      "author": "Futureppo",
+      "repo": "https://github.com/Futureppo/astrbot_plugin_violation_record",
+      "tags": [
+        "查违规"
+      ],
+      "social_link": "https://github.com/Futureppo",
+      "stars": 1,
+      "updated_at": "2025-10-20T02:31:47Z",
+      "version": "v0.0.1"
+    },
+    "zhiyu-astrbot-qqaiavatar": {
+      "desc": "一款AI解读QQ头像的AstrBot插件",
+      "author": "知鱼",
+      "repo": "https://github.com/ovoox/zhiyu-astrbot-aiqqavatar",
+      "tags": [
+        "AI",
+        "头像"
+      ],
+      "social_link": "https://github.com/ovoox",
+      "stars": 0,
+      "updated_at": "2025-10-27T02:49:36Z",
+      "version": "v1.0"
     },
     "astrbot_plugin_zhanbu": {
       "desc": "占卜起数小工具，用于懒人排盘、占卜等，包括但不限于小六壬、梅花易数、塔罗等",
@@ -227,8 +288,8 @@
       "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
       "tags": [],
       "stars": 0,
-      "updated_at": "2025-10-27T09:42:55Z",
-      "version": "v0.4.0"
+      "updated_at": "2025-10-28T17:22:29Z",
+      "version": "v0.5.0"
     },
     "astrbot_plugin_timeline": {
       "desc": "一个非常简单的插件，在请求中插入当前时间",
@@ -820,8 +881,8 @@
       "repo": "https://github.com/Chris95743/astrbot_plugin_VITS_pro",
       "social_link": "https://voice.gbkgov.cn",
       "tags": [],
-      "stars": 5,
-      "updated_at": "2025-10-25T02:48:11Z",
+      "stars": 7,
+      "updated_at": "2025-10-28T13:21:58Z",
       "version": "v1.8.0"
     },
     "astrbot_plugin_blacklist_tools": {
@@ -865,8 +926,8 @@
         "赛博修仙",
         "小游戏"
       ],
-      "stars": 7,
-      "updated_at": "2025-10-22T14:03:29Z",
+      "stars": 8,
+      "updated_at": "2025-10-28T12:36:54Z",
       "version": "v2.1.0"
     },
     "astrbot_plugin_admin_tools": {
@@ -1244,9 +1305,9 @@
       "author": "shskjw",
       "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
       "tags": [],
-      "stars": 18,
-      "updated_at": "2025-10-18T14:32:15Z",
-      "version": "v1.3.1"
+      "stars": 19,
+      "updated_at": "2025-10-28T14:09:00Z",
+      "version": "v1.4.0"
     },
     "astrbot_plugin_group_chat": {
       "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -1409,8 +1470,8 @@
         "rag"
       ],
       "stars": 25,
-      "updated_at": "2025-10-25T03:08:26Z",
-      "version": "1.4.0"
+      "updated_at": "2025-10-28T15:26:47Z",
+      "version": "1.4.2"
     },
     "astrbot_plugin_mathitools": {
       "desc": "基于mpmath&eval的简易数学表达式支持",
@@ -1513,8 +1574,8 @@
         "总结"
       ],
       "social_link": "https://github.com/SXP-Simon",
-      "stars": 36,
-      "updated_at": "2025-10-28T06:53:24Z",
+      "stars": 37,
+      "updated_at": "2025-10-28T17:13:49Z",
       "version": "v2.8.0"
     },
     "astrbot_plugin_boss_notifier": {
@@ -1799,8 +1860,8 @@
         "手办化"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 111,
-      "updated_at": "2025-10-27T16:44:50Z",
+      "stars": 112,
+      "updated_at": "2025-10-28T12:16:43Z",
       "version": "v2.1.2"
     },
     "astrbot_plugin_Mirecraft_motd": {
@@ -2258,8 +2319,8 @@
         "工具",
         "增强"
       ],
-      "stars": 14,
-      "updated_at": "2025-09-28T10:18:58Z",
+      "stars": 15,
+      "updated_at": "2025-10-28T11:58:24Z",
       "version": "2.9.9"
     },
     "astrbot_plugin_Group-Verification_PRO": {
@@ -3227,8 +3288,8 @@
         "web search"
       ],
       "social_link": "https://github.com/lxfight",
-      "stars": 18,
-      "updated_at": "2025-09-23T08:35:43Z",
+      "stars": 19,
+      "updated_at": "2025-10-28T13:54:27Z",
       "version": "0.1.0"
     },
     "astrbot_plugin_textadventure": {
@@ -5787,8 +5848,8 @@
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
       "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
-      "stars": 57,
-      "updated_at": "2025-10-28T05:54:51Z",
+      "stars": 58,
+      "updated_at": "2025-10-28T15:01:13Z",
       "version": "v3.0.1"
     },
     "astrbot_plugin_saris_economic": {
@@ -6362,8 +6423,8 @@
         "功能",
         "搬史"
       ],
-      "stars": 439,
-      "updated_at": "2025-10-28T02:28:25Z",
+      "stars": 441,
+      "updated_at": "2025-10-28T14:49:43Z",
       "version": "v0.915"
     },
     "astrbot_plugin_superpoke": {
@@ -7015,8 +7076,8 @@
       "author": "lxfight",
       "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
       "tags": [],
-      "stars": 137,
-      "updated_at": "2025-10-27T05:51:43Z",
+      "stars": 138,
+      "updated_at": "2025-10-28T12:34:11Z",
       "version": "v0.5.1"
     },
     "FateTrial_img_identify": {
