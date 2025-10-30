@@ -1,9 +1,9 @@
 {
-  "timestamp": "2025-10-30T01:42:34.783Z",
+  "timestamp": "2025-10-30T12:42:54.503Z",
   "github": {
-    "stars": 13022,
-    "forks": 958,
-    "contributors": 105
+    "stars": 13037,
+    "forks": 960,
+    "contributors": 106
   },
   "plugins": {
     "astrbot_plugin_mcgetter_enhanced": {
@@ -51,8 +51,8 @@
       "tags": [
         "TTS"
       ],
-      "stars": 0,
-      "updated_at": "2025-10-22T13:16:59Z",
+      "stars": 1,
+      "updated_at": "2025-10-30T10:38:02Z",
       "version": "v0.3"
     },
     "astrbot_plugin_github_monitor_shell": {
@@ -63,9 +63,9 @@
         "消息通知",
         "实用"
       ],
-      "stars": 0,
-      "updated_at": "2025-10-29T09:24:32Z",
-      "version": "1.0.1"
+      "stars": 1,
+      "updated_at": "2025-10-30T06:35:42Z",
+      "version": "1.0.3"
     },
     "astrbot_plugin_ragflow_adapter": {
       "desc": "使用 RAGFlow 检索增强生成",
@@ -75,6 +75,35 @@
       "stars": 6,
       "updated_at": "2025-10-29T08:07:41Z",
       "version": "v0.2"
+    },
+    "astrbot_plugin_proactive_chat": {
+      "display_name": "主动消息 (Proactive Chat)",
+      "desc": "一个让Bot能够发起主动消息的插件，拥有上下文感知、动态情绪、免打扰时段和健壮的TTS集成。",
+      "author": "DBJD-CR & Gemini",
+      "repo": "https://github.com/DBJD-CR/astrbot_plugin_proactive_chat",
+      "tags": [
+        "主动消息",
+        "拟人",
+        "TTS"
+      ],
+      "social_link": "https://github.com/DBJD-CR",
+      "stars": 3,
+      "updated_at": "2025-10-29T06:36:40Z",
+      "version": "0.9.7"
+    },
+    "astrbot-plugin-moremorelove": {
+      "desc": "基于 AI 的 Galgame 互动插件，为 AstrBot 提供恋恋的多阶段情感体验",
+      "author": "LumineStory",
+      "repo": "https://github.com/oyxning/astrbot-plugin-moremorelove",
+      "tags": [
+        "Galgame",
+        "恋爱养成",
+        "AI"
+      ],
+      "social_link": "https://github.com/oyxning",
+      "stars": 3,
+      "updated_at": "2025-10-29T11:40:25Z",
+      "version": "0.3.0"
     },
     "astrbot_plugin_genie-tts": {
       "desc": "基于 Genie TTS 的语音合成插件",
@@ -107,6 +136,42 @@
       "stars": 6,
       "updated_at": "2025-10-26T14:30:23Z",
       "version": "v1.0.0"
+    },
+    "zhiyu-astrbot-business": {
+      "desc": "一款查询 QQ 业务/名称/开通/到期时间以及自动续费/剩余天数/Q币的AstrBot插件",
+      "author": "知鱼",
+      "repo": "https://github.com/ovoox/zhiyu-astrbot-business",
+      "tags": [
+        "业务"
+      ],
+      "social_link": "https://github.com/ovoox",
+      "stars": 0,
+      "updated_at": "2025-10-27T02:51:50Z",
+      "version": "v1.0"
+    },
+    "zhiyu-astrbot-sjyy": {
+      "desc": "一款随机音乐的 AstrBot 插件",
+      "author": "知鱼",
+      "repo": "https://github.com/ovoox/zhiyu-astrbot-sjyy",
+      "tags": [
+        "音乐"
+      ],
+      "social_link": "https://github.com/ovoox",
+      "stars": 0,
+      "updated_at": "2025-10-22T09:32:25Z",
+      "version": "v1.0"
+    },
+    "zhiyu-astrbot-zdtyfxx": {
+      "desc": "自动同意所有 QQ 群邀请和 QQ 好友申请并发送消息",
+      "author": "知鱼",
+      "repo": "https://github.com/ovoox/zhiyu-astrbot-zdtyfxx",
+      "tags": [
+        "QQ"
+      ],
+      "social_link": "https://github.com/ovoox",
+      "stars": 0,
+      "updated_at": "2025-10-22T12:20:41Z",
+      "version": "v1.0"
     },
     "astrbot_plugin_violation_record": {
       "desc": "QQ 查询账号违规记录插件",
@@ -267,7 +332,7 @@
         "sora"
       ],
       "stars": 22,
-      "updated_at": "2025-10-29T02:44:27Z",
+      "updated_at": "2025-10-30T05:08:31Z",
       "version": "v1.2.6"
     },
     "astrbot_gengtu": {
@@ -703,7 +768,7 @@
         "群文件"
       ],
       "stars": 2,
-      "updated_at": "2025-10-29T10:48:02Z",
+      "updated_at": "2025-10-30T07:00:51Z",
       "version": "v0.8.1"
     },
     "group_notice_manager": {
@@ -1055,8 +1120,8 @@
       "tags": [
         "galgame"
       ],
-      "stars": 2,
-      "updated_at": "2025-10-25T23:19:33Z",
+      "stars": 3,
+      "updated_at": "2025-10-30T01:35:14Z",
       "version": "v1.2"
     },
     "astrbot_plugins_steam_shop_price": {
@@ -1470,8 +1535,8 @@
         "rag"
       ],
       "stars": 25,
-      "updated_at": "2025-10-29T14:37:39Z",
-      "version": "1.5.0"
+      "updated_at": "2025-10-30T09:50:51Z",
+      "version": "1.5.14"
     },
     "astrbot_plugin_mathitools": {
       "desc": "基于mpmath&eval的简易数学表达式支持",
@@ -1860,8 +1925,8 @@
         "手办化"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 113,
-      "updated_at": "2025-10-29T02:08:34Z",
+      "stars": 114,
+      "updated_at": "2025-10-30T09:44:53Z",
       "version": "v2.1.2"
     },
     "astrbot_plugin_Mirecraft_motd": {
@@ -1873,8 +1938,8 @@
         "motd"
       ],
       "stars": 3,
-      "updated_at": "2025-10-02T09:17:26Z",
-      "version": "v1.7.0"
+      "updated_at": "2025-10-30T01:31:06Z",
+      "version": "v2.0.0"
     },
     "astrbot-plugin-huaer-bot": {
       "desc": "基于 SiliconFlow API 的多组群聊天插件，支持人格设定、Markdown 显示、联网搜索、检索增强生成（RAG）等功能",
@@ -2173,7 +2238,7 @@
       "repo": "https://github.com/furryHM-mrz/asbot_plugin_furry_jtwzbq",
       "tags": [],
       "stars": 1,
-      "updated_at": "2025-08-20T13:37:06Z",
+      "updated_at": "2025-10-30T00:34:58Z",
       "version": "v2.0.0"
     },
     "astrbot_plugin_index_tts": {
@@ -2668,8 +2733,8 @@
         "服务器",
         "监控"
       ],
-      "stars": 4,
-      "updated_at": "2025-10-29T18:52:39Z",
+      "stars": 5,
+      "updated_at": "2025-10-30T02:04:43Z",
       "version": "v1.1"
     },
     "astrbot_plugin_scheduler": {
@@ -3427,8 +3492,8 @@
       "desc": "SCP：SL 服务器查询插件，仿照 server_Qchat 功能",
       "social_link": "https://xingyu.ink",
       "tags": [],
-      "stars": 1,
-      "updated_at": "2025-09-19T15:25:04Z",
+      "stars": 2,
+      "updated_at": "2025-10-30T05:11:45Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_wbank": {
@@ -3772,8 +3837,8 @@
         "音乐"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 61,
-      "updated_at": "2025-10-29T10:46:25Z",
+      "stars": 62,
+      "updated_at": "2025-10-30T02:17:56Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_renjian": {
@@ -4463,8 +4528,8 @@
       "desc": "[仅 aiocqhttp] 基于 zgojin 的群二次元老婆插件修改版。",
       "repo": "https://github.com/monbed/astrbot_plugin_animewifex",
       "tags": [],
-      "stars": 2,
-      "updated_at": "2025-08-26T06:46:23Z",
+      "stars": 3,
+      "updated_at": "2025-10-30T08:53:04Z",
       "version": "v1.6.1"
     },
     "astrbot_plugin_emojimix": {
@@ -4956,8 +5021,8 @@
       "repo": "https://github.com/wuyan1003/likability-level",
       "desc": "给聊天增加了一个好感度值，靠检测 LLM 输出特殊的值来实现，让 LLM 来判断好感度的上升或下降，并且过低的好感度值会被机器人自动拉黑，有管理员身份来自定义好感度值以及拉黑或移除用户（轻微防止被群U玩坏）",
       "tags": [],
-      "stars": 13,
-      "updated_at": "2025-10-03T03:39:58Z",
+      "stars": 12,
+      "updated_at": "2025-10-30T09:47:08Z",
       "version": "v1.2.0"
     },
     "astrbot_plugin_password": {
@@ -6112,8 +6177,8 @@
         "bilibili"
       ],
       "social_link": "https://github.com/miaoxutao123/",
-      "stars": 51,
-      "updated_at": "2025-10-26T06:41:36Z",
+      "stars": 52,
+      "updated_at": "2025-10-30T02:32:36Z",
       "version": "v0.2.13"
     },
     "astrbot_plugin_sjzb": {
@@ -7076,8 +7141,8 @@
       "author": "lxfight",
       "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
       "tags": [],
-      "stars": 138,
-      "updated_at": "2025-10-28T12:34:11Z",
+      "stars": 139,
+      "updated_at": "2025-10-30T08:45:28Z",
       "version": "v0.5.1"
     },
     "FateTrial_img_identify": {
