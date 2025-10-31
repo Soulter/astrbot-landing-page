@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-10-30T12:42:54.503Z",
+  "timestamp": "2025-10-31T01:40:06.905Z",
   "github": {
-    "stars": 13037,
-    "forks": 960,
+    "stars": 13040,
+    "forks": 961,
     "contributors": 106
   },
   "plugins": {
@@ -30,6 +30,20 @@
       "updated_at": "2025-10-29T06:02:32Z",
       "version": "v1.0.0"
     },
+    "astrbot_plugin_cstatscheck": {
+      "display_name": "cstatscheck",
+      "desc": "这是一个能查询 CS 战绩（仅支持 5e 平台）的插件，并让大模型评价评价你打得怎么样",
+      "author": "bdbd2yy",
+      "repo": "https://github.com/badbirdy/astrbot_plugin_cstatscheck",
+      "tags": [
+        "CS",
+        "5e",
+        "战绩"
+      ],
+      "stars": 2,
+      "updated_at": "2025-10-30T16:58:12Z",
+      "version": "v1.0"
+    },
     "astrbot_plugin_email_tool": {
       "display_name": "SMTP 邮件小工具",
       "desc": "一个能让 AI 自主决定 SMTP 发送邮件的函数工具。此外，还支持服务器内存告警和 NapCat 下线告警。",
@@ -40,9 +54,43 @@
         "告警"
       ],
       "social_link": "https://gbkgov.cn",
-      "stars": 3,
-      "updated_at": "2025-10-28T12:31:01Z",
+      "stars": 4,
+      "updated_at": "2025-10-30T15:22:27Z",
       "version": "v1.1.0"
+    },
+    "astrbot_plugin_onelastimage": {
+      "display_name": "One Last Kiss 图片生成器",
+      "desc": "One Last Kiss 卢浮宫风格图片生成器",
+      "author": "timetetng",
+      "repo": "https://github.com/timetetng/astrbot_plugin_onelastimage",
+      "tags": [
+        "图片生成"
+      ],
+      "stars": 0,
+      "updated_at": "2025-10-30T23:04:36Z",
+      "version": "v1.0"
+    },
+    "astrbot_plugin_decode_qrcode": {
+      "display_name": "DecodeQRCode",
+      "desc": "基于 OpenCV 的微信开源二维码解码模块，识别图片中的二维码并返回解码结果",
+      "author": "Sukafon",
+      "repo": "https://github.com/sukafon/astrbot_plugin_decode_qrcode",
+      "tags": [
+        "二维码",
+        "解码"
+      ],
+      "stars": 0,
+      "updated_at": "2025-10-30T06:37:23Z",
+      "version": "v1.1.0"
+    },
+    "astrbot_plugin_gemini-image": {
+      "desc": "通过 gcli2api(gemini api) 对接 Gemini 生图/改图并发送到 QQ",
+      "author": "薄暝",
+      "repo": "https://github.com/xiaoxi68/astrbot_plugin_gemini_image",
+      "tags": [],
+      "stars": 3,
+      "updated_at": "2025-10-22T09:22:24Z",
+      "version": "v0.4.0"
     },
     "astrbot_plugin_tts_sanitizer": {
       "desc": "TTS 文本过滤插件，自动过滤颜文字、特殊符号等不适合语音朗读的内容",
@@ -101,8 +149,8 @@
         "AI"
       ],
       "social_link": "https://github.com/oyxning",
-      "stars": 3,
-      "updated_at": "2025-10-29T11:40:25Z",
+      "stars": 4,
+      "updated_at": "2025-10-30T20:52:35Z",
       "version": "0.3.0"
     },
     "astrbot_plugin_genie-tts": {
@@ -137,6 +185,19 @@
       "updated_at": "2025-10-26T14:30:23Z",
       "version": "v1.0.0"
     },
+    "astrbot_plugin_jietu": {
+      "desc": "戳一戳截图，适用于win直接部署，可用作状态监控",
+      "author": "BvzRays",
+      "repo": "https://github.com/bvzrays/astrbot_plugin_jietu",
+      "tags": [
+        "QQ",
+        "status"
+      ],
+      "social_link": "https://github.com/bvzrays",
+      "stars": 1,
+      "updated_at": "2025-10-27T13:33:52Z",
+      "version": "v1.0.0"
+    },
     "zhiyu-astrbot-business": {
       "desc": "一款查询 QQ 业务/名称/开通/到期时间以及自动续费/剩余天数/Q币的AstrBot插件",
       "author": "知鱼",
@@ -158,7 +219,7 @@
       ],
       "social_link": "https://github.com/ovoox",
       "stars": 0,
-      "updated_at": "2025-10-22T09:32:25Z",
+      "updated_at": "2025-10-30T15:13:48Z",
       "version": "v1.0"
     },
     "zhiyu-astrbot-zdtyfxx": {
@@ -295,8 +356,8 @@
         "nobroswer"
       ],
       "pinned": true,
-      "stars": 7,
-      "updated_at": "2025-10-28T02:36:35Z",
+      "stars": 8,
+      "updated_at": "2025-10-30T14:16:44Z",
       "version": "v1.1.0"
     },
     "astrbot_plugin_fetch_summary": {
@@ -678,8 +739,8 @@
         "视奸"
       ],
       "social_link": "https://github.com/advent259141",
-      "stars": 5,
-      "updated_at": "2025-10-19T12:06:19Z",
+      "stars": 6,
+      "updated_at": "2025-10-30T12:35:50Z",
       "version": "1.0.0"
     },
     "bmtxt2img": {
@@ -828,8 +889,8 @@
       "tags": [
         "合并消息分析与回复"
       ],
-      "stars": 4,
-      "updated_at": "2025-10-07T09:02:05Z",
+      "stars": 5,
+      "updated_at": "2025-10-30T20:48:11Z",
       "version": "1.1.1"
     },
     "zhiyu-astrbot-qqquery": {
@@ -867,8 +928,8 @@
         "成员查询"
       ],
       "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
-      "stars": 4,
-      "updated_at": "2025-10-29T12:32:29Z",
+      "stars": 5,
+      "updated_at": "2025-10-30T20:48:38Z",
       "version": "v0.1.0"
     },
     "qftp": {
@@ -926,8 +987,8 @@
         "fishing"
       ],
       "stars": 15,
-      "updated_at": "2025-10-29T12:43:04Z",
-      "version": "2.3.10"
+      "updated_at": "2025-10-30T14:09:35Z",
+      "version": "2.3.11"
     },
     "astrbot_plugin_astrmetry": {
       "desc": "接入Astrometry.net进行星空图片解析。",
@@ -1157,7 +1218,7 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 3,
-      "updated_at": "2025-10-25T05:57:27Z",
+      "updated_at": "2025-10-30T18:22:07Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_tts_llm": {
@@ -1498,8 +1559,8 @@
       "tags": [
         "音乐"
       ],
-      "stars": 4,
-      "updated_at": "2025-09-20T12:12:55Z",
+      "stars": 5,
+      "updated_at": "2025-10-30T20:49:46Z",
       "version": "2.1.1"
     },
     "astrbot_plugin_slg": {
@@ -1534,8 +1595,8 @@
         "memory",
         "rag"
       ],
-      "stars": 25,
-      "updated_at": "2025-10-30T09:50:51Z",
+      "stars": 27,
+      "updated_at": "2025-10-30T16:33:54Z",
       "version": "1.5.14"
     },
     "astrbot_plugin_mathitools": {
@@ -1670,8 +1731,8 @@
         "api",
         "表情包"
       ],
-      "stars": 9,
-      "updated_at": "2025-10-27T08:08:09Z",
+      "stars": 10,
+      "updated_at": "2025-10-30T20:40:36Z",
       "version": "v1.0.1"
     },
     "wxauto_repost": {
@@ -1926,7 +1987,7 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 114,
-      "updated_at": "2025-10-30T09:44:53Z",
+      "updated_at": "2025-10-30T17:36:47Z",
       "version": "v2.1.2"
     },
     "astrbot_plugin_Mirecraft_motd": {
@@ -2143,7 +2204,7 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 18,
-      "updated_at": "2025-09-29T07:40:21Z",
+      "updated_at": "2025-10-30T18:26:06Z",
       "version": "v1.1.2"
     },
     "astrbot_plugin_memora_connect": {
@@ -3353,8 +3414,8 @@
         "web search"
       ],
       "social_link": "https://github.com/lxfight",
-      "stars": 19,
-      "updated_at": "2025-10-28T13:54:27Z",
+      "stars": 20,
+      "updated_at": "2025-10-30T19:33:45Z",
       "version": "0.1.0"
     },
     "astrbot_plugin_textadventure": {
@@ -3414,7 +3475,7 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 5,
-      "updated_at": "2025-09-10T14:58:54Z",
+      "updated_at": "2025-10-30T17:12:32Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_runes": {
@@ -3541,8 +3602,8 @@
       ],
       "desc": "[仅aiocqhttp]让bot 转人工/转人机，真人客服 接入对话/结束对话",
       "social_link": "https://github.com/Zhalslar",
-      "stars": 24,
-      "updated_at": "2025-10-21T22:50:35Z",
+      "stars": 25,
+      "updated_at": "2025-10-30T20:32:34Z",
       "version": "v1.7.2"
     },
     "astrbot_plugin_reimage": {
@@ -3578,8 +3639,8 @@
       ],
       "social_link": "https://wxp.hk",
       "desc": null,
-      "stars": 1,
-      "updated_at": "2025-08-08T03:01:40Z",
+      "stars": 2,
+      "updated_at": "2025-10-30T21:15:12Z",
       "version": "v1.0"
     },
     "astrobot_send_msg_to_gotify": {
@@ -3600,7 +3661,7 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 3,
-      "updated_at": "2025-09-19T00:56:48Z",
+      "updated_at": "2025-10-30T17:30:44Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_constellation": {
@@ -3781,8 +3842,8 @@
         "平台适配器",
         "vocechat"
       ],
-      "stars": 5,
-      "updated_at": "2025-10-13T10:09:30Z",
+      "stars": 6,
+      "updated_at": "2025-10-30T14:56:23Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_drift_bottle": {
@@ -3838,7 +3899,7 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 62,
-      "updated_at": "2025-10-30T02:17:56Z",
+      "updated_at": "2025-10-30T18:00:42Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_renjian": {
@@ -4032,8 +4093,8 @@
         "监控",
         "服务器"
       ],
-      "stars": 4,
-      "updated_at": "2025-10-22T00:36:01Z",
+      "stars": 5,
+      "updated_at": "2025-10-30T20:55:34Z",
       "version": "0.1.0"
     },
     "astrbot_plugin_mcmod_modsearch": {
@@ -4145,7 +4206,7 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 7,
-      "updated_at": "2025-09-16T10:52:15Z",
+      "updated_at": "2025-10-30T18:25:47Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_portrayal": {
@@ -4378,7 +4439,7 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 33,
-      "updated_at": "2025-10-28T10:16:44Z",
+      "updated_at": "2025-10-30T18:10:19Z",
       "version": "v1.1.3"
     },
     "astrbot_plugin_jm_cosmos": {
@@ -4390,8 +4451,8 @@
         "禁漫"
       ],
       "social_link": "https://github.com/GEMILUXVII",
-      "stars": 51,
-      "updated_at": "2025-10-29T17:18:51Z",
+      "stars": 52,
+      "updated_at": "2025-10-30T18:50:48Z",
       "version": "1.1.0"
     },
     "astrbot_plugin_combine-messages": {
@@ -4414,7 +4475,7 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 7,
-      "updated_at": "2025-08-24T04:01:36Z",
+      "updated_at": "2025-10-30T17:26:04Z",
       "version": "v1.0.3"
     },
     "astrbot_plugin_nobot": {
@@ -4681,8 +4742,8 @@
         "api"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-      "stars": 91,
-      "updated_at": "2025-10-29T11:25:29Z",
+      "stars": 92,
+      "updated_at": "2025-10-30T17:21:20Z",
       "version": "v2.0.4"
     },
     "astrbot_plugin_help": {
@@ -5281,8 +5342,8 @@
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_reread",
       "stars": 19,
-      "updated_at": "2025-10-08T07:21:45Z",
-      "version": "v1.1.2"
+      "updated_at": "2025-10-30T15:57:08Z",
+      "version": "v1.1.3"
     },
     "astrbot_plugin_csbaoyan": {
       "desc": "计算机保研院校信息查询、通知订阅插件。数据来源于 GitHub CS-BAOYAN (绿群官方)组织。",
@@ -5375,7 +5436,7 @@
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
       "stars": 19,
-      "updated_at": "2025-10-12T03:36:39Z",
+      "updated_at": "2025-10-30T17:30:07Z",
       "version": "v1.1.3"
     },
     "astrbot_plugin_qqadmin": {
@@ -5386,8 +5447,8 @@
       "tags": [
         "QQ群管"
       ],
-      "stars": 57,
-      "updated_at": "2025-10-23T07:44:55Z",
+      "stars": 58,
+      "updated_at": "2025-10-30T17:44:03Z",
       "version": "v3.1.7"
     },
     "astrbot_plugin_liars_bar": {
@@ -5580,7 +5641,7 @@
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
       "stars": 30,
-      "updated_at": "2025-10-05T06:19:47Z",
+      "updated_at": "2025-10-30T18:01:42Z",
       "version": "v1.1.9"
     },
     "astrbot_plugin_search_pic": {
@@ -5914,7 +5975,7 @@
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
       "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
       "stars": 59,
-      "updated_at": "2025-10-29T12:43:37Z",
+      "updated_at": "2025-10-30T18:01:55Z",
       "version": "v3.0.1"
     },
     "astrbot_plugin_saris_economic": {
@@ -6030,7 +6091,7 @@
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
       "stars": 50,
-      "updated_at": "2025-10-26T11:06:16Z",
+      "updated_at": "2025-10-30T17:46:44Z",
       "version": "v1.1.7"
     },
     "astrbot_plugin_relationship": {
@@ -6042,7 +6103,7 @@
         "实用工具"
       ],
       "stars": 16,
-      "updated_at": "2025-09-27T05:29:29Z",
+      "updated_at": "2025-10-30T18:10:39Z",
       "version": "v2.0.2"
     },
     "astrbot_plugin_pokecheck": {
@@ -6488,8 +6549,8 @@
         "功能",
         "搬史"
       ],
-      "stars": 443,
-      "updated_at": "2025-10-29T08:46:51Z",
+      "stars": 445,
+      "updated_at": "2025-10-30T16:53:55Z",
       "version": "v0.915"
     },
     "astrbot_plugin_superpoke": {
