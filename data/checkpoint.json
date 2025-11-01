@@ -1,9 +1,9 @@
 {
-  "timestamp": "2025-10-31T12:42:08.057Z",
+  "timestamp": "2025-11-01T01:43:30.723Z",
   "github": {
-    "stars": 13065,
+    "stars": 13069,
     "forks": 960,
-    "contributors": 106
+    "contributors": 107
   },
   "plugins": {
     "astrbot_plugin_mcgetter_enhanced": {
@@ -135,8 +135,8 @@
         "TTS"
       ],
       "social_link": "https://github.com/DBJD-CR",
-      "stars": 4,
-      "updated_at": "2025-10-31T02:03:31Z",
+      "stars": 6,
+      "updated_at": "2025-10-31T14:22:34Z",
       "version": "0.9.7"
     },
     "astrbot-plugin-moremorelove": {
@@ -414,7 +414,7 @@
       "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
       "tags": [],
       "stars": 0,
-      "updated_at": "2025-10-31T09:44:46Z",
+      "updated_at": "2025-10-31T17:40:35Z",
       "version": "v0.8.0"
     },
     "astrbot_plugin_timeline": {
@@ -479,8 +479,8 @@
       ],
       "social_link": "https://www.misakanet.site",
       "stars": 3,
-      "updated_at": "2025-10-20T04:58:31Z",
-      "version": "v1.0"
+      "updated_at": "2025-10-31T18:55:46Z",
+      "version": "v1.1"
     },
     "astrbot_plugin_sticker": {
       "desc": "doro、capoo、cheshire、chiikawa四大表情包发送",
@@ -602,8 +602,8 @@
       "repo": "https://github.com/BGYdook/AstrBot-plugin-tmp-bot",
       "tags": [],
       "stars": 5,
-      "updated_at": "2025-10-28T06:41:10Z",
-      "version": "1.2.9"
+      "updated_at": "2025-10-31T13:34:33Z",
+      "version": "1.3.26"
     },
     "astrbot_plugin_33recognition": {
       "desc": "调用大模型检测图片中关键词",
@@ -1206,8 +1206,8 @@
         "重启"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 3,
-      "updated_at": "2025-10-31T06:24:04Z",
+      "stars": 4,
+      "updated_at": "2025-10-31T15:20:23Z",
       "version": "v1.0.3"
     },
     "astrbot_plugin_tts_llm": {
@@ -1230,8 +1230,8 @@
         "主动应答"
       ],
       "social_link": "https://github.com/kawayiYokami",
-      "stars": 15,
-      "updated_at": "2025-10-29T14:23:27Z",
+      "stars": 16,
+      "updated_at": "2025-10-31T18:50:28Z",
       "version": "0.1.0"
     },
     "astrbot_plugin_angel_eye": {
@@ -2884,8 +2884,8 @@
         "健康",
         "娱乐"
       ],
-      "stars": 2,
-      "updated_at": "2025-07-30T14:11:32Z",
+      "stars": 3,
+      "updated_at": "2025-10-31T16:39:50Z",
       "version": "v1.2"
     },
     "astrbot_plugin_pet": {
@@ -2897,8 +2897,8 @@
         "趣味",
         "宠物"
       ],
-      "stars": 6,
-      "updated_at": "2025-10-29T04:43:22Z",
+      "stars": 7,
+      "updated_at": "2025-10-31T16:40:10Z",
       "version": "1.6"
     },
     "astrbot_plugin_error_monitor": {
@@ -3359,8 +3359,8 @@
       "social_link": "https://github.com/railgun19457",
       "tags": [],
       "stars": 3,
-      "updated_at": "2025-10-18T05:34:34Z",
-      "version": "v1.2"
+      "updated_at": "2025-10-31T16:24:03Z",
+      "version": "v1.3"
     },
     "astrbot_plugin_check-dst-room": {
       "author": "EncodedWitcher",
@@ -3904,7 +3904,7 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 62,
-      "updated_at": "2025-10-31T06:30:32Z",
+      "updated_at": "2025-10-31T14:57:43Z",
       "version": "v1.0.3"
     },
     "astrbot_plugin_renjian": {
@@ -4463,8 +4463,8 @@
         "禁漫"
       ],
       "social_link": "https://github.com/GEMILUXVII",
-      "stars": 52,
-      "updated_at": "2025-10-30T18:50:48Z",
+      "stars": 53,
+      "updated_at": "2025-10-31T15:28:02Z",
       "version": "1.1.0"
     },
     "astrbot_plugin_combine-messages": {
@@ -4605,8 +4605,8 @@
       "repo": "https://github.com/monbed/astrbot_plugin_animewifex",
       "tags": [],
       "stars": 3,
-      "updated_at": "2025-10-30T08:53:04Z",
-      "version": "v1.6.1"
+      "updated_at": "2025-10-31T11:37:39Z",
+      "version": "v1.6.2"
     },
     "astrbot_plugin_emojimix": {
       "author": "Flartiny",
@@ -4768,8 +4768,8 @@
       "repo": "https://github.com/tinkerbellqwq/astrbot_plugin_help",
       "social_link": "https://github.com/tinkerbellqwq",
       "tags": [],
-      "stars": 24,
-      "updated_at": "2025-10-31T09:38:37Z",
+      "stars": 25,
+      "updated_at": "2025-10-31T12:02:51Z",
       "version": "v1.1.3"
     },
     "astrbot_qqemotionreply": {
@@ -5336,8 +5336,8 @@
       "desc": "[仅QQ] 赞我！（一个名片点赞插件）。可选是否开启白名单。",
       "social_link": "https://github.com/Futureppo",
       "repo": "https://github.com/Futureppo/astrbot_plugin_zanwo",
-      "stars": 15,
-      "updated_at": "2025-10-24T16:51:45Z",
+      "stars": 16,
+      "updated_at": "2025-10-31T21:59:45Z",
       "version": "v1.0.8"
     },
     "astrbot_plugin_ehentai_bot": {
@@ -5348,7 +5348,7 @@
         "ehentai"
       ],
       "stars": 5,
-      "updated_at": "2025-10-31T08:46:11Z",
+      "updated_at": "2025-10-31T12:41:31Z",
       "version": "v3.2"
     },
     "astrbot_plugin_reread": {
@@ -7212,7 +7212,7 @@
       "repo": "https://github.com/jmt059/DailyWife",
       "tags": [],
       "stars": 6,
-      "updated_at": "2025-10-31T04:54:14Z",
+      "updated_at": "2025-10-31T13:40:41Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_AW": {
