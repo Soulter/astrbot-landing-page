@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-11-06T01:41:30.480Z",
+  "timestamp": "2025-11-06T12:42:36.724Z",
   "github": {
-    "stars": 13138,
+    "stars": 13147,
     "forks": 969,
     "contributors": 107
   },
@@ -50,9 +50,10 @@
         "股票"
       ],
       "social_link": "https://github.com/DITF16",
-      "stars": 2,
-      "updated_at": "2025-11-05T17:09:02Z",
-      "version": "v1.0.0"
+      "stars": 3,
+      "updated_at": "2025-11-06T02:55:55Z",
+      "version": "v1.0.1",
+      "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_stockgame/master/logo.png"
     },
     "astrbot_plugin_cryptocurrency": {
       "display_name": "基于 LLM 的加密货币模拟交易",
@@ -122,8 +123,8 @@
       ],
       "social_link": "https://github.com/Him666233",
       "stars": 2,
-      "updated_at": "2025-11-04T15:42:01Z",
-      "version": "v1.0.8",
+      "updated_at": "2025-11-06T07:17:18Z",
+      "version": "v1.0.9",
       "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
     },
     "astrbot_plugin_message_stats": {
@@ -139,7 +140,7 @@
         "发言统计"
       ],
       "stars": 3,
-      "updated_at": "2025-11-04T02:58:12Z",
+      "updated_at": "2025-11-06T08:07:24Z",
       "version": "1.5.0"
     },
     "astrbot_plugin_prompt": {
@@ -198,8 +199,8 @@
       "repo": "https://github.com/xiaoxi68/astrbot_mcgetter_enhanced",
       "tags": [],
       "stars": 0,
-      "updated_at": "2025-10-31T07:21:55Z",
-      "version": "v1.4.0"
+      "updated_at": "2025-11-06T06:39:12Z",
+      "version": "v1.5.0"
     },
     "astrbot_plugin_minecraftskin": {
       "display_name": "Minecraft Skin 查询",
@@ -221,8 +222,8 @@
       "author": "薄暝",
       "repo": "https://github.com/xiaoxi68/astrbot_plugin_namepossession",
       "tags": [],
-      "stars": 0,
-      "updated_at": "2025-10-29T12:27:57Z",
+      "stars": 1,
+      "updated_at": "2025-11-06T02:48:44Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_llm_qqgroupTools": {
@@ -230,9 +231,9 @@
       "author": "SatenShiroya",
       "repo": "https://github.com/SatenShiroya/astrbot_plugin_llm_qqgroupTools",
       "tags": [],
-      "stars": 2,
-      "updated_at": "2025-11-04T06:52:35Z",
-      "version": "V1.1.1",
+      "stars": 4,
+      "updated_at": "2025-11-06T11:09:36Z",
+      "version": "V1.1.3",
       "logo": "https://raw.githubusercontent.com/SatenShiroya/astrbot_plugin_llm_qqgroupTools/master/logo.png"
     },
     "astrbot_plugin_cs_skins": {
@@ -284,8 +285,8 @@
       "tags": [
         "图片生成"
       ],
-      "stars": 0,
-      "updated_at": "2025-11-01T19:38:20Z",
+      "stars": 1,
+      "updated_at": "2025-11-06T08:38:19Z",
       "version": "v1.0",
       "logo": "https://raw.githubusercontent.com/timetetng/astrbot_plugin_onelastimage/main/logo.png"
     },
@@ -356,9 +357,9 @@
         "TTS"
       ],
       "social_link": "https://github.com/DBJD-CR",
-      "stars": 13,
-      "updated_at": "2025-11-05T14:53:02Z",
-      "version": "0.9.8",
+      "stars": 14,
+      "updated_at": "2025-11-06T08:39:10Z",
+      "version": "0.9.9",
       "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
     },
     "astrbot-plugin-moremorelove": {
@@ -403,9 +404,9 @@
       "repo": "https://github.com/miaoxutao123/astrbot_plugin_LLMPerception",
       "social_link": "https://github.com/miaoxutao123",
       "tags": [],
-      "stars": 7,
-      "updated_at": "2025-11-02T09:22:48Z",
-      "version": "v1.0.0"
+      "stars": 8,
+      "updated_at": "2025-11-06T08:18:03Z",
+      "version": "v1.1.0"
     },
     "astrbot_plugin_jietu": {
       "desc": "戳一戳截图，适用于win直接部署，可用作状态监控",
@@ -531,8 +532,8 @@
         "实用"
       ],
       "stars": 5,
-      "updated_at": "2025-11-05T10:35:18Z",
-      "version": "v2.6.0",
+      "updated_at": "2025-11-06T07:02:03Z",
+      "version": "v2.6.8",
       "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
     },
     "astrbot_plugin_acm_helper": {
@@ -1199,8 +1200,9 @@
         "fishing"
       ],
       "stars": 16,
-      "updated_at": "2025-11-05T08:48:54Z",
-      "version": "2.3.12"
+      "updated_at": "2025-11-06T04:58:56Z",
+      "version": "2.3.13",
+      "logo": "https://raw.githubusercontent.com/xxlemon-io/astrbot_plugin_fishing/main/logo.png"
     },
     "astrbot_plugin_astrmetry": {
       "desc": "接入Astrometry.net进行星空图片解析。",
@@ -1252,8 +1254,8 @@
       "tags": [
         "骰子"
       ],
-      "stars": 3,
-      "updated_at": "2025-10-07T15:38:09Z",
+      "stars": 4,
+      "updated_at": "2025-11-06T08:37:05Z",
       "version": "v2.1.0"
     },
     "astrbot_plugin_xiuxian": {
@@ -1306,8 +1308,8 @@
       "author": "RC-CHN",
       "repo": "https://github.com/RC-CHN/astrbot_plugin_the_Big-3_Chinese_AI_conferences",
       "tags": [],
-      "stars": 2,
-      "updated_at": "2025-10-24T00:59:30Z",
+      "stars": 3,
+      "updated_at": "2025-11-06T03:41:27Z",
       "version": "v1.2"
     },
     "astrbot_plugin_mc_admin": {
@@ -1408,8 +1410,8 @@
         "Steam"
       ],
       "social_link": "https://github.com/Maoer233",
-      "stars": 2,
-      "updated_at": "2025-09-29T00:39:13Z",
+      "stars": 3,
+      "updated_at": "2025-11-06T10:33:48Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_personal_selfupdate": {
@@ -1813,8 +1815,8 @@
         "rag"
       ],
       "stars": 29,
-      "updated_at": "2025-11-05T06:29:56Z",
-      "version": "1.5.16",
+      "updated_at": "2025-11-06T06:04:10Z",
+      "version": "1.5.18",
       "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
     },
     "astrbot_plugin_mathitools": {
@@ -3060,7 +3062,7 @@
         "战地风云"
       ],
       "stars": 11,
-      "updated_at": "2025-11-05T10:30:32Z",
+      "updated_at": "2025-11-06T08:00:28Z",
       "version": "v2.0.1",
       "logo": "https://raw.githubusercontent.com/SHOOTING-STAR-C/astrbot_plugin_battlefield_tool/master/logo.png"
     },
@@ -3330,8 +3332,8 @@
         "aiocqhttp"
       ],
       "social_link": "https://blog.jojo.host/",
-      "stars": 3,
-      "updated_at": "2025-10-27T15:43:33Z",
+      "stars": 4,
+      "updated_at": "2025-11-06T02:47:12Z",
       "version": "v0.0.5"
     },
     "astrbot_plugin_ip_proxy": {
@@ -4064,8 +4066,8 @@
         "Steam"
       ],
       "social_link": "https://github.com/Maoer233",
-      "stars": 32,
-      "updated_at": "2025-11-03T12:55:04Z",
+      "stars": 33,
+      "updated_at": "2025-11-06T10:33:09Z",
       "version": "2.1.8"
     },
     "astrbot_plugin_xiaoxue": {
@@ -4707,8 +4709,8 @@
         "戳一戳"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 34,
-      "updated_at": "2025-11-01T08:41:19Z",
+      "stars": 35,
+      "updated_at": "2025-11-06T05:26:14Z",
       "version": "v1.1.4",
       "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_pokepro/main/logo.png"
     },
@@ -5021,8 +5023,8 @@
         "api"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-      "stars": 94,
-      "updated_at": "2025-11-04T04:51:34Z",
+      "stars": 95,
+      "updated_at": "2025-11-06T09:19:20Z",
       "version": "v2.0.5",
       "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
     },
@@ -5170,8 +5172,8 @@
       "desc": "一个基于 AstrBot 框架的塔罗牌占卜插件，支持多牌阵和单张牌占卜，并通过 AI 生成详细解析。",
       "repo": "https://github.com/XziXmn/astrbot_plugin_tarot",
       "tags": [],
-      "stars": 3,
-      "updated_at": "2025-10-11T05:56:28Z",
+      "stars": 2,
+      "updated_at": "2025-11-06T06:23:39Z",
       "version": "v0.1.1"
     },
     "astrbot_plugin_a2s": {
@@ -5182,7 +5184,7 @@
         "工具"
       ],
       "stars": 4,
-      "updated_at": "2025-11-04T16:57:47Z",
+      "updated_at": "2025-11-06T04:48:36Z",
       "version": "v2.1.3",
       "logo": "https://raw.githubusercontent.com/ZvZPvz/astrbot_plugin_a2s/main/logo.png"
     },
@@ -5902,8 +5904,8 @@
         "安全"
       ],
       "stars": 5,
-      "updated_at": "2025-11-05T10:35:18Z",
-      "version": "v2.6.0",
+      "updated_at": "2025-11-06T07:02:03Z",
+      "version": "v2.6.8",
       "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
     },
     "JmCli": {
@@ -6173,8 +6175,8 @@
         "番剧"
       ],
       "repo": "https://github.com/xco2/astrbot_plugin_anime_gacha",
-      "stars": 7,
-      "updated_at": "2025-10-07T17:17:37Z",
+      "stars": 8,
+      "updated_at": "2025-11-06T04:40:33Z",
       "version": "v1.1.1"
     },
     "astrbot_plugin_nachoneko": {
@@ -6889,8 +6891,8 @@
         "webui",
         "图床"
       ],
-      "stars": 92,
-      "updated_at": "2025-11-04T00:59:34Z",
+      "stars": 93,
+      "updated_at": "2025-11-06T09:23:11Z",
       "version": "v3.13"
     },
     "mccloud_command": {
@@ -7502,9 +7504,9 @@
       "author": "lxfight",
       "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
       "tags": [],
-      "stars": 140,
-      "updated_at": "2025-11-05T13:28:47Z",
-      "version": "v2.0.0"
+      "stars": 141,
+      "updated_at": "2025-11-06T08:23:50Z",
+      "version": "v2.0.2"
     },
     "FateTrial_img_identify": {
       "desc": "智谱AI图像识别插件",
@@ -7628,8 +7630,8 @@
       "author": "喵喵",
       "repo": "https://github.com/miaoxutao123/astrbot_plugin_miaomiao",
       "tags": [],
-      "stars": 10,
-      "updated_at": "2025-09-08T03:05:21Z",
+      "stars": 11,
+      "updated_at": "2025-11-06T08:36:33Z",
       "version": "v1.2.4"
     },
     "astrbot_plugin_image_video_understanding_Qwen2.5_VL": {
