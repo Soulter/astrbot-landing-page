@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-11-07T12:41:26.999Z",
+  "timestamp": "2025-11-08T01:27:50.320Z",
   "github": {
-    "stars": 13166,
+    "stars": 13167,
     "forks": 974,
     "contributors": 107
   },
@@ -65,8 +65,8 @@
         "AI 投资模拟"
       ],
       "social_link": "https://github.com/vmoranv",
-      "stars": 1,
-      "updated_at": "2025-11-05T14:06:26Z",
+      "stars": 2,
+      "updated_at": "2025-11-07T11:57:47Z",
       "version": "v2.0.0",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_cryptocurrency/logo"
     },
@@ -140,7 +140,7 @@
         "发言统计"
       ],
       "stars": 3,
-      "updated_at": "2025-11-07T09:13:51Z",
+      "updated_at": "2025-11-07T13:54:40Z",
       "version": "1.6.1",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_message_stats/logo"
     },
@@ -232,8 +232,8 @@
       "author": "SatenShiroya",
       "repo": "https://github.com/SatenShiroya/astrbot_plugin_llm_qqgroupTools",
       "tags": [],
-      "stars": 4,
-      "updated_at": "2025-11-06T11:19:53Z",
+      "stars": 5,
+      "updated_at": "2025-11-07T14:41:48Z",
       "version": "V1.1.3",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_llm_qqgroupTools/logo"
     },
@@ -358,8 +358,8 @@
         "TTS"
       ],
       "social_link": "https://github.com/DBJD-CR",
-      "stars": 15,
-      "updated_at": "2025-11-06T15:35:01Z",
+      "stars": 16,
+      "updated_at": "2025-11-07T13:03:41Z",
       "version": "0.9.9",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_proactive_chat/logo"
     },
@@ -395,8 +395,8 @@
       "author": "薄暝",
       "repo": "https://github.com/xiaoxi68/astrbot_plugin_jimengapi",
       "tags": [],
-      "stars": 1,
-      "updated_at": "2025-10-23T14:30:46Z",
+      "stars": 2,
+      "updated_at": "2025-11-07T18:10:46Z",
       "version": "v0.2.0"
     },
     "astrbot_plugin_LLMPerception": {
@@ -520,8 +520,8 @@
         "实用"
       ],
       "stars": 5,
-      "updated_at": "2025-11-07T06:56:21Z",
-      "version": "v2.6.8",
+      "updated_at": "2025-11-07T16:53:05Z",
+      "version": "v2.7.0",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_daily_limit/logo"
     },
     "astrbot_plugin_acm_helper": {
@@ -760,8 +760,8 @@
         "娱乐"
       ],
       "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
-      "stars": 4,
-      "updated_at": "2025-11-03T22:04:50Z",
+      "stars": 5,
+      "updated_at": "2025-11-07T18:18:08Z",
       "version": "v2.3",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_Favour_Ultra/logo"
     },
@@ -816,7 +816,7 @@
       "repo": "https://github.com/BGYdook/AstrBot-plugin-tmp-bot",
       "tags": [],
       "stars": 5,
-      "updated_at": "2025-11-07T10:15:02Z",
+      "updated_at": "2025-11-07T13:17:52Z",
       "version": "1.3.50"
     },
     "astrbot_plugin_33recognition": {
@@ -2165,8 +2165,8 @@
       "tags": [
         "股市"
       ],
-      "stars": 8,
-      "updated_at": "2025-09-12T01:46:48Z",
+      "stars": 9,
+      "updated_at": "2025-11-07T11:57:42Z",
       "version": "v1.0.3"
     },
     "astrbot_plugin_figurine_workshop": {
@@ -5893,8 +5893,8 @@
         "安全"
       ],
       "stars": 5,
-      "updated_at": "2025-11-07T06:56:21Z",
-      "version": "v2.6.8",
+      "updated_at": "2025-11-07T16:53:05Z",
+      "version": "v2.7.0",
       "logo": "https://api.soulter.top/astrbot/plugin/daily_limit/logo"
     },
     "JmCli": {
@@ -6839,8 +6839,8 @@
         "功能",
         "搬史"
       ],
-      "stars": 457,
-      "updated_at": "2025-11-05T03:16:31Z",
+      "stars": 458,
+      "updated_at": "2025-11-07T13:10:03Z",
       "version": "v0.915"
     },
     "astrbot_plugin_superpoke": {
