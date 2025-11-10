@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-11-09T12:37:42.040Z",
+  "timestamp": "2025-11-10T01:45:26.187Z",
   "github": {
-    "stars": 13189,
-    "forks": 977,
+    "stars": 13198,
+    "forks": 978,
     "contributors": 108
   },
   "plugins": {
@@ -163,7 +163,7 @@
       ],
       "social_link": "https://github.com/Him666233",
       "stars": 3,
-      "updated_at": "2025-11-07T02:28:04Z",
+      "updated_at": "2025-11-09T13:34:10Z",
       "version": "v1.0.9",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_group_chat_plus/logo"
     },
@@ -179,8 +179,8 @@
         "排行榜",
         "发言统计"
       ],
-      "stars": 3,
-      "updated_at": "2025-11-08T04:34:47Z",
+      "stars": 4,
+      "updated_at": "2025-11-09T12:43:27Z",
       "version": "1.6.2",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_message_stats/logo"
     },
@@ -608,8 +608,8 @@
         "pic",
         "nobroswer"
       ],
-      "stars": 10,
-      "updated_at": "2025-11-04T14:22:12Z",
+      "stars": 11,
+      "updated_at": "2025-11-09T16:55:27Z",
       "version": "v1.1.0"
     },
     "astrbot_plugin_fetch_summary": {
@@ -1950,9 +1950,10 @@
         "总结"
       ],
       "social_link": "https://github.com/SXP-Simon",
-      "stars": 45,
-      "updated_at": "2025-11-07T02:41:48Z",
-      "version": "v3.5.0"
+      "stars": 46,
+      "updated_at": "2025-11-09T17:38:48Z",
+      "version": "v3.7.0",
+      "logo": "https://api.soulter.top/astrbot/plugin/astrbot-qq-group-daily-analysis/logo"
     },
     "astrbot_plugin_boss_notifier": {
       "desc": "AstrBot头目通知插件，可更新头目信息并通知订阅者",
@@ -2396,8 +2397,8 @@
         "人格"
       ],
       "social_link": "https://github.com/NickCharlie",
-      "stars": 30,
-      "updated_at": "2025-11-05T18:49:56Z",
+      "stars": 31,
+      "updated_at": "2025-11-09T19:20:04Z",
       "version": "1.3.0"
     },
     "astrbot_plugin_baiduocr": {
@@ -3776,8 +3777,8 @@
         "调教"
       ],
       "social_link": "https://github.com/oyxning",
-      "stars": 30,
-      "updated_at": "2025-11-05T12:52:38Z",
+      "stars": 31,
+      "updated_at": "2025-11-09T15:32:51Z",
       "version": "v3.3.0"
     },
     "astrbot_plugin_alistfile": {
@@ -6430,8 +6431,8 @@
       "tags": [
         "实用工具"
       ],
-      "stars": 18,
-      "updated_at": "2025-11-08T17:13:29Z",
+      "stars": 19,
+      "updated_at": "2025-11-09T16:15:33Z",
       "version": "v2.0.3",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_relationship/logo"
     },
@@ -6879,8 +6880,8 @@
         "功能",
         "搬史"
       ],
-      "stars": 458,
-      "updated_at": "2025-11-07T13:10:03Z",
+      "stars": 459,
+      "updated_at": "2025-11-09T12:51:19Z",
       "version": "v0.915"
     },
     "astrbot_plugin_superpoke": {
@@ -6921,7 +6922,7 @@
         "图床"
       ],
       "stars": 94,
-      "updated_at": "2025-11-07T05:49:33Z",
+      "updated_at": "2025-11-09T15:57:59Z",
       "version": "v3.13"
     },
     "mccloud_command": {
