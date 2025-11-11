@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-11-10T12:43:33.262Z",
+  "timestamp": "2025-11-11T01:42:22.232Z",
   "github": {
-    "stars": 13216,
-    "forks": 979,
+    "stars": 13221,
+    "forks": 978,
     "contributors": 108
   },
   "plugins": {
@@ -136,8 +136,8 @@
         "自动续聊"
       ],
       "social_link": "https://github.com/Luna-channel",
-      "stars": 3,
-      "updated_at": "2025-11-05T14:09:00Z",
+      "stars": 4,
+      "updated_at": "2025-11-10T13:32:21Z",
       "version": "1.3.1",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_Conversa/logo"
     },
@@ -373,8 +373,8 @@
         "消息通知",
         "实用"
       ],
-      "stars": 1,
-      "updated_at": "2025-11-04T06:27:56Z",
+      "stars": 2,
+      "updated_at": "2025-11-10T14:15:57Z",
       "version": "1.1.1",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_github_monitor_shell/logo"
     },
@@ -445,8 +445,8 @@
       "repo": "https://github.com/miaoxutao123/astrbot_plugin_LLMPerception",
       "social_link": "https://github.com/miaoxutao123",
       "tags": [],
-      "stars": 9,
-      "updated_at": "2025-11-06T12:03:07Z",
+      "stars": 10,
+      "updated_at": "2025-11-10T13:32:51Z",
       "version": "v1.1.0"
     },
     "zhiyu-astrbot-business": {
@@ -666,8 +666,8 @@
       "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
       "tags": [],
       "stars": 3,
-      "updated_at": "2025-11-09T09:18:43Z",
-      "version": "v1.2.0"
+      "updated_at": "2025-11-10T16:37:18Z",
+      "version": "v1.3.0"
     },
     "astrbot_plugin_timeline": {
       "desc": "一个非常简单的插件，在请求中插入当前时间",
@@ -1378,8 +1378,8 @@
       "author": "ctrlkk",
       "repo": "https://github.com/ctrlkk/astrbot_plugin_meme_manager_lite",
       "tags": [],
-      "stars": 4,
-      "updated_at": "2025-11-02T16:48:43Z",
+      "stars": 5,
+      "updated_at": "2025-11-10T13:31:52Z",
       "version": "v1.3"
     },
     "astrbot_plugin_festival_greeter": {
@@ -1842,8 +1842,8 @@
         "memory",
         "rag"
       ],
-      "stars": 31,
-      "updated_at": "2025-11-10T11:07:20Z",
+      "stars": 32,
+      "updated_at": "2025-11-10T13:32:36Z",
       "version": "1.6.3",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_livingmemory/logo"
     },
@@ -2240,8 +2240,8 @@
         "手办化"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 126,
-      "updated_at": "2025-11-10T05:59:15Z",
+      "stars": 127,
+      "updated_at": "2025-11-10T14:12:39Z",
       "version": "v2.1.3",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_lmarena/logo"
     },
@@ -2398,8 +2398,8 @@
       ],
       "social_link": "https://github.com/NickCharlie",
       "stars": 32,
-      "updated_at": "2025-11-10T05:01:29Z",
-      "version": "1.3.0"
+      "updated_at": "2025-11-10T16:02:49Z",
+      "version": "1.3.5"
     },
     "astrbot_plugin_baiduocr": {
       "desc": "百度智能云的 OCR 文字识别服务。新用户有千次的免费调用次数，适合轻度使用",
@@ -4753,8 +4753,8 @@
         "禁漫"
       ],
       "social_link": "https://github.com/GEMILUXVII",
-      "stars": 56,
-      "updated_at": "2025-11-02T06:53:02Z",
+      "stars": 57,
+      "updated_at": "2025-11-10T16:15:08Z",
       "version": "1.1.0"
     },
     "astrbot_plugin_combine-messages": {
