@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-11-12T12:43:54.147Z",
+  "timestamp": "2025-11-13T01:42:48.012Z",
   "github": {
-    "stars": 13254,
+    "stars": 13258,
     "forks": 980,
     "contributors": 108
   },
@@ -16,8 +16,8 @@
         "情感"
       ],
       "stars": 1,
-      "updated_at": "2025-11-09T10:41:31Z",
-      "version": "v2.1.0"
+      "updated_at": "2025-11-12T16:06:06Z",
+      "version": "v2.2.0"
     },
     "astrbot_plugin_whatslinkInfo": {
       "display_name": "磁力解析",
@@ -216,8 +216,8 @@
         "AI 投资模拟"
       ],
       "social_link": "https://github.com/vmoranv",
-      "stars": 2,
-      "updated_at": "2025-11-07T11:57:47Z",
+      "stars": 3,
+      "updated_at": "2025-11-12T11:53:55Z",
       "version": "v2.0.0",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_cryptocurrency/logo"
     },
@@ -231,8 +231,8 @@
         "二次元"
       ],
       "social_link": "https://github.com/bvzrays",
-      "stars": 11,
-      "updated_at": "2025-11-12T07:50:14Z",
+      "stars": 13,
+      "updated_at": "2025-11-12T12:31:56Z",
       "version": "v2.0.0",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_qqgal/logo"
     },
@@ -317,8 +317,8 @@
         "语音"
       ],
       "social_link": "https://github.com/ovoox",
-      "stars": 0,
-      "updated_at": "2025-10-30T15:17:09Z",
+      "stars": 1,
+      "updated_at": "2025-11-12T15:27:27Z",
       "version": "v1.0"
     },
     "astrbot_plugin_weibo_hot": {
@@ -534,7 +534,7 @@
       ],
       "social_link": "https://github.com/DBJD-CR",
       "stars": 19,
-      "updated_at": "2025-11-12T10:22:25Z",
+      "updated_at": "2025-11-12T11:30:44Z",
       "version": "0.9.97",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_proactive_chat/logo"
     },
@@ -1399,8 +1399,8 @@
       "repo": "https://github.com/Chris95743/astrbot_plugin_VITS_pro",
       "social_link": "https://voice.gbkgov.cn",
       "tags": [],
-      "stars": 10,
-      "updated_at": "2025-11-07T09:08:12Z",
+      "stars": 11,
+      "updated_at": "2025-11-12T15:05:47Z",
       "version": "v1.8.0"
     },
     "astrbot_plugin_blacklist_tools": {
@@ -1855,8 +1855,9 @@
       ],
       "social_link": "https://wenturc.com",
       "stars": 0,
-      "updated_at": "2025-09-27T14:32:04Z",
-      "version": "v1.3.6"
+      "updated_at": "2025-11-12T15:42:40Z",
+      "version": "v1.3.6",
+      "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_sha/logo"
     },
     "astrbot_plugin_anti_revoke": {
       "desc": "[仅 OneBot]监控指定群聊会话撤回的消息并发送给目标用户",
@@ -2548,8 +2549,8 @@
       ],
       "social_link": "https://github.com/NickCharlie",
       "stars": 35,
-      "updated_at": "2025-11-12T04:44:54Z",
-      "version": "1.3.5"
+      "updated_at": "2025-11-12T16:22:31Z",
+      "version": "1.3.6"
     },
     "astrbot_plugin_baiduocr": {
       "desc": "百度智能云的 OCR 文字识别服务。新用户有千次的免费调用次数，适合轻度使用",
@@ -2913,8 +2914,8 @@
       "tags": [
         "海龟汤"
       ],
-      "stars": 14,
-      "updated_at": "2025-10-24T09:19:57Z",
+      "stars": 15,
+      "updated_at": "2025-11-12T14:53:18Z",
       "version": "v1.0.3"
     },
     "astrbot_plugin_typst_render": {
@@ -4664,7 +4665,7 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 36,
-      "updated_at": "2025-11-05T05:21:12Z",
+      "updated_at": "2025-11-12T15:24:48Z",
       "version": "v1.0.4",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_portrayal/logo"
     },
@@ -4761,8 +4762,8 @@
         "贴表情"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 13,
-      "updated_at": "2025-11-11T08:32:28Z",
+      "stars": 14,
+      "updated_at": "2025-11-12T15:00:51Z",
       "version": "v1.0.2",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_emoji_like/logo"
     },
@@ -4775,8 +4776,9 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 3,
-      "updated_at": "2025-09-26T14:39:25Z",
-      "version": "v1.7.3"
+      "updated_at": "2025-11-12T15:47:15Z",
+      "version": "v1.7.3",
+      "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_pock_mini/logo"
     },
     "astrbot_plugin_lanraragi": {
       "author": "Putarku",
@@ -5414,8 +5416,9 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 15,
-      "updated_at": "2025-09-27T16:34:59Z",
-      "version": "v1.6.5"
+      "updated_at": "2025-11-12T15:45:26Z",
+      "version": "v1.6.5",
+      "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_turnrig/logo"
     },
     "astrbot_plugin_status-pro": {
       "author": "tiker",
@@ -5922,8 +5925,8 @@
       "tags": [
         "QQ群管"
       ],
-      "stars": 59,
-      "updated_at": "2025-11-02T06:53:06Z",
+      "stars": 60,
+      "updated_at": "2025-11-12T17:17:53Z",
       "version": "v3.1.8",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_qqadmin/logo"
     },
@@ -6147,8 +6150,9 @@
         "工具"
       ],
       "stars": 1,
-      "updated_at": "2025-09-10T03:52:38Z",
-      "version": "1.0.0"
+      "updated_at": "2025-11-12T15:50:43Z",
+      "version": "1.0.0",
+      "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_timtip/logo"
     },
     "astrbot_plugin_encipherer": {
       "desc": "集合包括Base64、URLencode、Punycode编码加解密工具的astrbot插件",
@@ -6207,8 +6211,9 @@
         "英语"
       ],
       "stars": 6,
-      "updated_at": "2025-11-12T03:51:11Z",
-      "version": "v1.1.2"
+      "updated_at": "2025-11-12T15:52:10Z",
+      "version": "v1.1.2",
+      "logo": "https://api.soulter.top/astrbot/plugin/AstrBot_plugin_Ewords/logo"
     },
     "astrbot_plugin_weather_wttr_in": {
       "desc": "使用 wttr.in 查询天气（llm工具）",
@@ -6324,8 +6329,9 @@
       "repo": "https://github.com/IGCrystal/astrbot_plugin_rdimage",
       "tags": [],
       "stars": 2,
-      "updated_at": "2025-09-10T03:54:46Z",
-      "version": "1.0.0"
+      "updated_at": "2025-11-12T15:49:09Z",
+      "version": "1.0.0",
+      "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_rdimage/logo"
     },
     "astrbot_plugin_gewe_chatsummary": {
       "desc": "[仅 gewechat] 用来对最近消息调用 LLM 进行总结的插件",
@@ -7031,8 +7037,8 @@
         "功能",
         "搬史"
       ],
-      "stars": 463,
-      "updated_at": "2025-11-12T05:06:21Z",
+      "stars": 464,
+      "updated_at": "2025-11-12T16:59:38Z",
       "version": "v0.915"
     },
     "astrbot_plugin_superpoke": {
@@ -7072,8 +7078,8 @@
         "webui",
         "图床"
       ],
-      "stars": 94,
-      "updated_at": "2025-11-12T04:31:44Z",
+      "stars": 95,
+      "updated_at": "2025-11-12T15:29:28Z",
       "version": "v3.18"
     },
     "mccloud_command": {
