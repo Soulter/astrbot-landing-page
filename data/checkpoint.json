@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-11-13T12:45:25.337Z",
+  "timestamp": "2025-11-14T01:42:29.713Z",
   "github": {
-    "stars": 13266,
-    "forks": 980,
+    "stars": 13269,
+    "forks": 981,
     "contributors": 108
   },
   "plugins": {
@@ -290,9 +290,9 @@
         "排行榜",
         "发言统计"
       ],
-      "stars": 4,
-      "updated_at": "2025-11-09T12:43:27Z",
-      "version": "1.6.2",
+      "stars": 5,
+      "updated_at": "2025-11-13T14:42:47Z",
+      "version": "1.6.3",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_message_stats/logo"
     },
     "astrbot_plugin_prompt": {
@@ -533,8 +533,8 @@
         "TTS"
       ],
       "social_link": "https://github.com/DBJD-CR",
-      "stars": 20,
-      "updated_at": "2025-11-13T08:34:45Z",
+      "stars": 21,
+      "updated_at": "2025-11-13T20:47:05Z",
       "version": "0.9.97",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_proactive_chat/logo"
     },
@@ -1170,8 +1170,8 @@
         "工具"
       ],
       "social_link": "https://catyun.cyou/",
-      "stars": 0,
-      "updated_at": "2025-10-17T09:50:34Z",
+      "stars": 1,
+      "updated_at": "2025-11-13T17:24:39Z",
       "version": "v1.0.5"
     },
     "astrbot_plugin_search_tracemoe": {
@@ -1379,8 +1379,8 @@
         "fishing"
       ],
       "stars": 18,
-      "updated_at": "2025-11-12T06:50:46Z",
-      "version": "2.4.0",
+      "updated_at": "2025-11-13T14:10:14Z",
+      "version": "2.4.1",
       "logo": "https://api.soulter.top/astrbot/plugin/Fishing Another!/logo"
     },
     "astrbot_plugin_astrmetry": {
@@ -1653,8 +1653,8 @@
       ],
       "social_link": "https://github.com/kawayiYokami",
       "stars": 7,
-      "updated_at": "2025-11-04T03:51:02Z",
-      "version": "0.1.0"
+      "updated_at": "2025-11-13T20:41:51Z",
+      "version": "1.0.0"
     },
     "astrbot_plugin_pollinations_images": {
       "desc": "使用 Pollinations AI生成图片。无需注册，开箱即用！",
@@ -2147,8 +2147,8 @@
         "wxauto"
       ],
       "social_link": "blog.isla.ltd",
-      "stars": 9,
-      "updated_at": "2025-11-11T07:06:59Z",
+      "stars": 10,
+      "updated_at": "2025-11-13T15:57:37Z",
       "version": "1.2.0"
     },
     "astrbot_plugin_AnimeMagnet": {
@@ -2392,8 +2392,8 @@
         "手办化"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 129,
-      "updated_at": "2025-11-12T03:59:42Z",
+      "stars": 130,
+      "updated_at": "2025-11-13T16:13:04Z",
       "version": "v2.1.3",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_lmarena/logo"
     },
@@ -2612,8 +2612,8 @@
         "唤醒增强"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 19,
-      "updated_at": "2025-11-06T18:54:50Z",
+      "stars": 20,
+      "updated_at": "2025-11-13T11:34:26Z",
       "version": "v1.1.3",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_wakepro/logo"
     },
@@ -3243,7 +3243,7 @@
         "战地风云"
       ],
       "stars": 11,
-      "updated_at": "2025-11-13T08:26:49Z",
+      "updated_at": "2025-11-13T11:45:33Z",
       "version": "v2.1.1",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_battlefield_tool/logo"
     },
@@ -4168,8 +4168,8 @@
       "desc": "[仅QQ] 弱黑名单插件，对处于黑名单用户进行概率性回复，并由保底回复机制，即使@机器人也进行概率回复。主要是防止多个机器人炸群。",
       "repo": "https://github.com/0d00-Ciallo-0721/astrbot_plugin_weakblacklist",
       "tags": [],
-      "stars": 1,
-      "updated_at": "2025-09-16T10:52:24Z",
+      "stars": 2,
+      "updated_at": "2025-11-13T15:33:13Z",
       "version": "v1.2"
     },
     "astrbot_plugin_message_bottle": {
@@ -5499,7 +5499,7 @@
         "pixiv"
       ],
       "stars": 26,
-      "updated_at": "2025-11-13T10:06:46Z",
+      "updated_at": "2025-11-13T14:14:20Z",
       "version": "1.4.0",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_pixiv_search/logo"
     },
@@ -6457,8 +6457,8 @@
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
       "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
-      "stars": 63,
-      "updated_at": "2025-11-06T16:01:08Z",
+      "stars": 64,
+      "updated_at": "2025-11-13T16:22:26Z",
       "version": "v3.0.2",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_memelite/logo"
     },
@@ -7675,7 +7675,7 @@
       "repo": "https://github.com/jmt059/DailyWife",
       "tags": [],
       "stars": 7,
-      "updated_at": "2025-11-04T16:28:33Z",
+      "updated_at": "2025-11-13T12:46:10Z",
       "version": "v1.0.2"
     },
     "astrbot_plugin_AW": {
