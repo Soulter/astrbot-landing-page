@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-11-14T12:42:18.908Z",
+  "timestamp": "2025-11-15T01:38:33.669Z",
   "github": {
-    "stars": 13288,
-    "forks": 982,
+    "stars": 13298,
+    "forks": 981,
     "contributors": 108
   },
   "plugins": {
@@ -19,6 +19,91 @@
       "updated_at": "2025-11-13T11:14:31Z",
       "version": "v2.2.0"
     },
+    "astrbot_plugin_email_narrator": {
+      "display_name": "Email Narrator",
+      "desc": "一个智能邮件播报插件，能接收邮件并让继承了会话和人格的 LLM 来通知用户",
+      "author": "ZvZPvz",
+      "repo": "https://github.com/ZvZPvz/astrbot_plugin_email_narrator",
+      "tags": [
+        "主动消息",
+        "拟人",
+        "邮箱",
+        "email",
+        "推送"
+      ],
+      "social_link": "https://github.com/ZvZPvz",
+      "stars": 1,
+      "updated_at": "2025-11-12T15:59:18Z",
+      "version": "1.0.0",
+      "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_email_narrator/logo"
+    },
+    "astrbot_plugin_mcwatcher": {
+      "display_name": "MCWatcher",
+      "desc": "MCWatcher 是一个基于 AstrBot 的插件，用于 自动监测 Mojang 的最新 Minecraft 版本",
+      "author": "noname2309-bot",
+      "repo": "https://github.com/wadadawsd/astrbot_plugin_mcwatcher",
+      "tags": [
+        "mc"
+      ],
+      "stars": 1,
+      "updated_at": "2025-11-14T21:53:00Z",
+      "version": "0.2.2"
+    },
+    "astrbot_plugin_grok_video": {
+      "display_name": "Grok2api 视频生成",
+      "desc": "基于 grok2api 的图生视频插件",
+      "author": "ShiHao",
+      "repo": "https://github.com/lixin0229/astrbot_plugin_grok_video",
+      "tags": [
+        "视频生成"
+      ],
+      "social_link": "https://www.functen.cn/",
+      "stars": 1,
+      "updated_at": "2025-11-11T15:26:33Z",
+      "version": "1.0.0"
+    },
+    "astrbot_plugin_http_adapter": {
+      "display_name": "HTTP 消息设配器",
+      "desc": "获得使用 HTTP 接口调用 AstrBot 的能力",
+      "author": "fluidcat",
+      "repo": "https://github.com/fluidcat/astrbot_plugin_http_adapter",
+      "tags": [
+        "平台设配器",
+        "HTTP"
+      ],
+      "social_link": "https://github.com/fluidcat/astrbot_plugin_http_adapter/issues",
+      "stars": 4,
+      "updated_at": "2025-11-12T06:11:36Z",
+      "version": "1.1.1"
+    },
+    "astrbot_plugin_goldsearch": {
+      "display_name": "astrbot_plugins_goldSearch",
+      "desc": "获取国内金首饰价格。",
+      "author": "Mavis",
+      "repo": "https://github.com/1530624156/astrbot_plugin_gold",
+      "tags": [
+        "黄金",
+        "金价",
+        "gold"
+      ],
+      "social_link": "http://mavis01.top:88/",
+      "stars": 0,
+      "updated_at": "2025-11-12T03:22:21Z",
+      "version": "v1.0.0",
+      "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_goldsearch/logo"
+    },
+    "astrbot_plugin_permission-manager": {
+      "display_name": "指令权限管理器",
+      "desc": "批量权限管理插件，提供便捷的批量权限设置功能。支持Webui管理插件指令权限",
+      "author": "珈百璃",
+      "repo": "https://github.com/TenmaGabriel0721/astrbot_plugin_permission-manager",
+      "tags": [
+        "指令"
+      ],
+      "stars": 0,
+      "updated_at": "2025-11-10T17:06:00Z",
+      "version": "1.0.1"
+    },
     "astrbot_plugin_whatslinkInfo": {
       "display_name": "磁力解析",
       "desc": "磁链解析插件，使用 whatslink.info API 生成资源预览并支持截图与合并转发",
@@ -30,20 +115,6 @@
       "stars": 2,
       "updated_at": "2025-11-14T05:45:12Z",
       "version": "v1.0.0"
-    },
-    "astrbot_plugin_grok_video": {
-      "display_name": "grok2api 视频生成",
-      "desc": "基于 grok2api 的图生视频插件",
-      "author": "ShiHao",
-      "repo": "https://github.com/lixin0229/astrbot_plugin_grok_video",
-      "tags": [
-        "视频",
-        "grok"
-      ],
-      "social_link": "https://www.functen.cn/",
-      "stars": 1,
-      "updated_at": "2025-11-11T15:26:33Z",
-      "version": "1.0.0"
     },
     "astrbot_plugin_siliconflow-shouban": {
       "desc": "接入硅基流动画图，图片编辑，可自定义预设",
@@ -162,8 +233,8 @@
         "AI"
       ],
       "social_link": "https://github.com/Ryan7t",
-      "stars": 1,
-      "updated_at": "2025-11-05T18:07:21Z",
+      "stars": 2,
+      "updated_at": "2025-11-14T12:47:35Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_blue_archive_auto_calendar": {
@@ -231,8 +302,8 @@
         "二次元"
       ],
       "social_link": "https://github.com/bvzrays",
-      "stars": 14,
-      "updated_at": "2025-11-14T05:52:36Z",
+      "stars": 15,
+      "updated_at": "2025-11-14T12:17:39Z",
       "version": "v2.0.0",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_qqgal/logo"
     },
@@ -248,7 +319,7 @@
       ],
       "social_link": "https://github.com/Luna-channel",
       "stars": 5,
-      "updated_at": "2025-11-14T05:52:33Z",
+      "updated_at": "2025-11-14T13:41:18Z",
       "version": "1.3.1",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_Conversa/logo"
     },
@@ -274,8 +345,8 @@
       ],
       "social_link": "https://github.com/Him666233",
       "stars": 4,
-      "updated_at": "2025-11-11T17:13:42Z",
-      "version": "v1.1.0",
+      "updated_at": "2025-11-14T18:15:54Z",
+      "version": "v1.1.1",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_group_chat_plus/logo"
     },
     "astrbot_plugin_message_stats": {
@@ -466,6 +537,20 @@
       "stars": 0,
       "updated_at": "2025-10-25T16:03:02Z",
       "version": "v2.4.0"
+    },
+    "astrbot_plugin_invitecount": {
+      "display_name": "群邀请统计",
+      "desc": "用于群聊内查询、排行和统计每位成员的邀请、退群、有效邀请人数等入群数据。",
+      "author": "bvzrays",
+      "repo": "https://github.com/bvzrays/astrbot_plugin_invitecount",
+      "tags": [
+        "统计",
+        "群邀请"
+      ],
+      "social_link": "https://github.com/bvzrays",
+      "stars": 1,
+      "updated_at": "2025-11-05T06:23:39Z",
+      "version": "v1.0.0"
     },
     "astrbot_plugin_magnet_preview": {
       "display_name": "Magnet Previewer",
@@ -1007,7 +1092,7 @@
       "repo": "https://github.com/BGYdook/AstrBot-plugin-tmp-bot",
       "tags": [],
       "stars": 7,
-      "updated_at": "2025-11-11T23:33:53Z",
+      "updated_at": "2025-11-14T14:29:07Z",
       "version": "1.3.50"
     },
     "astrbot_plugin_33recognition": {
@@ -1379,8 +1464,8 @@
         "fishing"
       ],
       "stars": 18,
-      "updated_at": "2025-11-13T14:10:14Z",
-      "version": "2.4.1",
+      "updated_at": "2025-11-14T12:28:37Z",
+      "version": "2.4.2",
       "logo": "https://api.soulter.top/astrbot/plugin/Fishing Another!/logo"
     },
     "astrbot_plugin_astrmetry": {
@@ -1640,8 +1725,8 @@
       ],
       "social_link": "https://github.com/kawayiYokami",
       "stars": 16,
-      "updated_at": "2025-11-14T01:29:51Z",
-      "version": "0.6.0"
+      "updated_at": "2025-11-14T20:40:22Z",
+      "version": "0.6.2"
     },
     "astrbot_plugin_angel_eye": {
       "desc": "在调用大模型之前，通过小模型识别对话中的专有名词并链接百科知识，为大模型补充上下文，使其更“见多识广”。",
@@ -1653,8 +1738,8 @@
       ],
       "social_link": "https://github.com/kawayiYokami",
       "stars": 7,
-      "updated_at": "2025-11-13T20:41:51Z",
-      "version": "1.0.0"
+      "updated_at": "2025-11-14T20:39:38Z",
+      "version": "1.0.1"
     },
     "astrbot_plugin_pollinations_images": {
       "desc": "使用 Pollinations AI生成图片。无需注册，开箱即用！",
@@ -2550,8 +2635,8 @@
       ],
       "social_link": "https://github.com/NickCharlie",
       "stars": 37,
-      "updated_at": "2025-11-14T06:17:12Z",
-      "version": "1.3.7"
+      "updated_at": "2025-11-14T18:20:02Z",
+      "version": "1.4.0"
     },
     "astrbot_plugin_baiduocr": {
       "desc": "百度智能云的 OCR 文字识别服务。新用户有千次的免费调用次数，适合轻度使用",
@@ -2762,8 +2847,8 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 22,
-      "updated_at": "2025-11-11T09:59:18Z",
-      "version": "v1.0.3",
+      "updated_at": "2025-11-14T18:16:51Z",
+      "version": "v2.0.0",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_qzone/logo"
     },
     "astrbot_plugin_matchreminder": {
@@ -2798,8 +2883,8 @@
         "语音转化"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 5,
-      "updated_at": "2025-10-31T06:22:35Z",
+      "stars": 6,
+      "updated_at": "2025-11-14T11:55:35Z",
       "version": "v1.0.2",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_record_converter/logo"
     },
@@ -7079,8 +7164,8 @@
         "webui",
         "图床"
       ],
-      "stars": 96,
-      "updated_at": "2025-11-14T06:04:08Z",
+      "stars": 95,
+      "updated_at": "2025-11-14T14:49:43Z",
       "version": "v3.18"
     },
     "mccloud_command": {
