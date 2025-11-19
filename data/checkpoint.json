@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-11-18T12:43:22.585Z",
+  "timestamp": "2025-11-19T01:41:33.522Z",
   "github": {
-    "stars": 13416,
-    "forks": 996,
+    "stars": 13434,
+    "forks": 997,
     "contributors": 109
   },
   "plugins": {
@@ -273,8 +273,9 @@
         "指令"
       ],
       "stars": 2,
-      "updated_at": "2025-11-16T11:54:50Z",
-      "version": "1.1.1"
+      "updated_at": "2025-11-18T13:11:22Z",
+      "version": "1.1.2",
+      "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_permission-manager/logo"
     },
     "astrbot_plugin_whatslinkInfo": {
       "display_name": "磁力解析",
@@ -516,8 +517,8 @@
         "主动回复"
       ],
       "social_link": "https://github.com/Him666233",
-      "stars": 6,
-      "updated_at": "2025-11-18T04:53:27Z",
+      "stars": 7,
+      "updated_at": "2025-11-18T17:30:28Z",
       "version": "v1.1.1",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_group_chat_plus/logo"
     },
@@ -790,8 +791,8 @@
         "TTS"
       ],
       "social_link": "https://github.com/DBJD-CR",
-      "stars": 24,
-      "updated_at": "2025-11-18T10:42:21Z",
+      "stars": 26,
+      "updated_at": "2025-11-18T16:33:34Z",
       "version": "1.0.0-beta.1",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_proactive_chat/logo"
     },
@@ -1477,8 +1478,8 @@
       "tags": [
         "群文件"
       ],
-      "stars": 2,
-      "updated_at": "2025-10-30T07:00:51Z",
+      "stars": 3,
+      "updated_at": "2025-11-18T18:00:50Z",
       "version": "v0.8.1"
     },
     "group_notice_manager": {
@@ -1635,8 +1636,8 @@
         "game",
         "fishing"
       ],
-      "stars": 18,
-      "updated_at": "2025-11-16T11:31:51Z",
+      "stars": 19,
+      "updated_at": "2025-11-18T15:47:35Z",
       "version": "2.4.4",
       "logo": "https://api.soulter.top/astrbot/plugin/Fishing Another!/logo"
     },
@@ -1658,7 +1659,7 @@
       "social_link": "https://voice.gbkgov.cn",
       "tags": [],
       "stars": 12,
-      "updated_at": "2025-11-18T10:34:14Z",
+      "updated_at": "2025-11-18T11:43:30Z",
       "version": "v1.9.0"
     },
     "astrbot_plugin_blacklist_tools": {
@@ -1871,8 +1872,8 @@
         "重启"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 4,
-      "updated_at": "2025-10-31T15:20:23Z",
+      "stars": 5,
+      "updated_at": "2025-11-18T15:56:30Z",
       "version": "v1.0.3",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_restart/logo"
     },
@@ -2359,9 +2360,9 @@
         "总结"
       ],
       "social_link": "https://github.com/SXP-Simon",
-      "stars": 51,
-      "updated_at": "2025-11-18T06:41:41Z",
-      "version": "v3.8.5",
+      "stars": 52,
+      "updated_at": "2025-11-18T17:54:24Z",
+      "version": "v3.9.2",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot-qq-group-daily-analysis/logo"
     },
     "astrbot_plugin_boss_notifier": {
@@ -2884,7 +2885,7 @@
       ],
       "social_link": "https://github.com/qa296/",
       "stars": 18,
-      "updated_at": "2025-11-09T03:25:16Z",
+      "updated_at": "2025-11-18T13:29:49Z",
       "version": "v0.2.6"
     },
     "astrbot_plugin_iearning_style": {
@@ -2961,7 +2962,7 @@
       ],
       "social_link": "https://github.com/Amatsutsumi/astrbot_plugin_bangumi",
       "stars": 2,
-      "updated_at": "2025-08-21T15:25:17Z",
+      "updated_at": "2025-11-18T12:36:03Z",
       "version": "v1.0"
     },
     "asbot_plugin_furry_jtwzbq": {
@@ -3019,7 +3020,7 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 24,
-      "updated_at": "2025-11-17T18:27:26Z",
+      "updated_at": "2025-11-18T16:38:11Z",
       "version": "v2.0.4",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_qzone/logo"
     },
@@ -5464,8 +5465,8 @@
         "api"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-      "stars": 100,
-      "updated_at": "2025-11-17T13:52:27Z",
+      "stars": 101,
+      "updated_at": "2025-11-18T14:34:27Z",
       "version": "v2.0.5",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_apis/logo"
     },
@@ -7950,8 +7951,8 @@
       "author": "lxfight",
       "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
       "tags": [],
-      "stars": 141,
-      "updated_at": "2025-11-16T13:59:16Z",
+      "stars": 142,
+      "updated_at": "2025-11-18T15:55:29Z",
       "version": "v2.0.7"
     },
     "FateTrial_img_identify": {
