@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-11-20T01:39:58.654Z",
+  "timestamp": "2025-11-20T12:46:55.691Z",
   "github": {
-    "stars": 13463,
-    "forks": 1008,
+    "stars": 13482,
+    "forks": 1012,
     "contributors": 109
   },
   "plugins": {
@@ -92,8 +92,8 @@
         "工具",
         "私聊"
       ],
-      "stars": 4,
-      "updated_at": "2025-11-19T08:34:10Z",
+      "stars": 5,
+      "updated_at": "2025-11-20T08:52:31Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_llm_amnesia": {
@@ -792,8 +792,8 @@
       ],
       "social_link": "https://github.com/DBJD-CR",
       "stars": 27,
-      "updated_at": "2025-11-19T12:37:38Z",
-      "version": "v1.0.0-beta.2",
+      "updated_at": "2025-11-20T03:32:05Z",
+      "version": "v1.0.0-beta.3",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_proactive_chat/logo"
     },
     "astrbot-plugin-moremorelove": {
@@ -1629,8 +1629,8 @@
         "fishing"
       ],
       "stars": 19,
-      "updated_at": "2025-11-18T15:47:35Z",
-      "version": "2.4.4",
+      "updated_at": "2025-11-20T06:59:43Z",
+      "version": "2.4.5",
       "logo": "https://api.soulter.top/astrbot/plugin/Fishing Another!/logo"
     },
     "astrbot_plugin_astrmetry": {
@@ -1752,8 +1752,8 @@
         "坐标",
         "备货"
       ],
-      "stars": 1,
-      "updated_at": "2025-11-19T05:45:07Z",
+      "stars": 2,
+      "updated_at": "2025-11-20T02:33:32Z",
       "version": "v0.4.8"
     },
     "astrbot_plugin_admin_emoji_reply": {
@@ -2096,20 +2096,6 @@
       "updated_at": "2025-11-08T09:48:33Z",
       "version": "1.0.4"
     },
-    "astrbot_plugin_sha": {
-      "desc": "获取GitHub仓库最后5次提交SHA的插件",
-      "author": "IGCrystal",
-      "repo": "https://github.com/IGCrystal-NEO/astrbot_plugin_sha",
-      "tags": [
-        "工具",
-        "GitHub"
-      ],
-      "social_link": "https://wenturc.com",
-      "stars": 0,
-      "updated_at": "2025-11-12T15:42:40Z",
-      "version": "v1.3.6",
-      "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_sha/logo"
-    },
     "astrbot_plugin_anti_revoke": {
       "desc": "[仅 OneBot]监控指定群聊会话撤回的消息并发送给目标用户",
       "author": "Foolllll",
@@ -2244,9 +2230,9 @@
         "memory",
         "rag"
       ],
-      "stars": 36,
-      "updated_at": "2025-11-19T13:40:58Z",
-      "version": "1.7.0",
+      "stars": 38,
+      "updated_at": "2025-11-20T10:57:33Z",
+      "version": "1.7.2",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_livingmemory/logo"
     },
     "astrbot_plugin_mathitools": {
@@ -2352,8 +2338,8 @@
         "总结"
       ],
       "social_link": "https://github.com/SXP-Simon",
-      "stars": 52,
-      "updated_at": "2025-11-18T17:54:24Z",
+      "stars": 54,
+      "updated_at": "2025-11-20T02:43:38Z",
       "version": "v3.9.2",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot-qq-group-daily-analysis/logo"
     },
@@ -5019,19 +5005,6 @@
       "version": "v1.1.1",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_emoji_like/logo"
     },
-    "astrbot_plugin_pock_mini": {
-      "author": "IGCrystal",
-      "desc": "[仅 aiocqhttp] 依据长安某的“戳一戳”插件修改而来。本插件新增了调用大语言模型回复。但是也删除了表情包的制作。",
-      "repo": "https://github.com/IGCrystal/astrbot_plugin_pock_omini",
-      "tags": [
-        "聊天体验增强"
-      ],
-      "social_link": "https://wenturc.com/",
-      "stars": 3,
-      "updated_at": "2025-11-12T15:47:15Z",
-      "version": "v1.7.3",
-      "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_pock_mini/logo"
-    },
     "astrbot_plugin_lanraragi": {
       "author": "Putarku",
       "desc": "使用lanraragi提供的api进行关键词搜索，并将搜索结果发送到聊天中。",
@@ -5457,8 +5430,8 @@
         "api"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-      "stars": 101,
-      "updated_at": "2025-11-18T14:34:27Z",
+      "stars": 102,
+      "updated_at": "2025-11-20T09:20:18Z",
       "version": "v2.0.5",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_apis/logo"
     },
@@ -5668,7 +5641,7 @@
       ],
       "social_link": "https://wenturc.com/",
       "stars": 15,
-      "updated_at": "2025-11-12T15:45:26Z",
+      "updated_at": "2025-11-20T07:14:53Z",
       "version": "v1.6.5",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_turnrig/logo"
     },
@@ -6177,8 +6150,8 @@
       "tags": [
         "QQ群管"
       ],
-      "stars": 61,
-      "updated_at": "2025-11-17T12:38:27Z",
+      "stars": 62,
+      "updated_at": "2025-11-20T08:51:44Z",
       "version": "v3.2.0",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_qqadmin/logo"
     },
@@ -6394,18 +6367,6 @@
       "updated_at": "2025-07-25T15:50:56Z",
       "version": "v1.1.1"
     },
-    "astrbot_plugin_timtip": {
-      "desc": "设置定时任务，有（间隔时间）（固定时间）（一次时间），适用于不同群聊，一个群聊可创建多个任务。",
-      "author": "IGCrystal",
-      "repo": "https://github.com/IGCrystal/astrbot_plugin_timtip",
-      "tags": [
-        "工具"
-      ],
-      "stars": 1,
-      "updated_at": "2025-11-12T15:50:43Z",
-      "version": "1.0.0",
-      "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_timtip/logo"
-    },
     "astrbot_plugin_encipherer": {
       "desc": "集合包括Base64、URLencode、Punycode编码加解密工具的astrbot插件",
       "author": "Yuki Soffd",
@@ -6463,7 +6424,7 @@
         "英语"
       ],
       "stars": 6,
-      "updated_at": "2025-11-12T15:52:10Z",
+      "updated_at": "2025-11-20T07:11:17Z",
       "version": "v1.1.2",
       "logo": "https://api.soulter.top/astrbot/plugin/AstrBot_plugin_Ewords/logo"
     },
@@ -6574,16 +6535,6 @@
       "stars": 1,
       "updated_at": "2025-04-09T16:09:30Z",
       "version": "v1.5.0"
-    },
-    "astrbot_plugin_rdimage": {
-      "desc": "从 wenturc 获取随机图片的插件（无 HTML 解析）",
-      "author": "IGCrystal",
-      "repo": "https://github.com/IGCrystal/astrbot_plugin_rdimage",
-      "tags": [],
-      "stars": 2,
-      "updated_at": "2025-11-12T15:49:09Z",
-      "version": "1.0.0",
-      "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_rdimage/logo"
     },
     "astrbot_plugin_gewe_chatsummary": {
       "desc": "[仅 gewechat] 用来对最近消息调用 LLM 进行总结的插件",
@@ -6770,8 +6721,8 @@
         "禁言"
       ],
       "stars": 2,
-      "updated_at": "2025-09-28T06:25:00Z",
-      "version": "v0.1.6"
+      "updated_at": "2025-11-20T10:39:22Z",
+      "version": "v0.1.7"
     },
     "astrbot_plugin_custom_menu": {
       "desc": "自定义菜单图片，图片放置在 menu 目录下，支持格式jpg,jpeg,png,gif,bmp。",
@@ -7944,7 +7895,7 @@
       "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
       "tags": [],
       "stars": 141,
-      "updated_at": "2025-11-19T14:28:07Z",
+      "updated_at": "2025-11-20T10:57:31Z",
       "version": "v2.0.7"
     },
     "FateTrial_img_identify": {
