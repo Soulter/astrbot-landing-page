@@ -1,11 +1,58 @@
 {
-  "timestamp": "2025-11-21T01:40:57.377Z",
+  "timestamp": "2025-11-21T12:41:18.187Z",
   "github": {
-    "stars": 13496,
-    "forks": 1014,
+    "stars": 13530,
+    "forks": 1019,
     "contributors": 109
   },
   "plugins": {
+    "astrbot_plugin_maimaidx": {
+      "display_name": "国服舞萌插件",
+      "desc": "国服舞萌查分插件，支持查询成绩、排名、曲目信息等功能（一定要看文档！！！）",
+      "author": "ZhiheZier",
+      "repo": "https://github.com/ZhiheZier/astrbot_plugin_maimaidx",
+      "tags": [
+        "maimai",
+        "舞萌",
+        "查分"
+      ],
+      "social_link": "https://github.com/ZhiheZier",
+      "stars": 0,
+      "updated_at": "2025-11-18T12:51:49Z",
+      "version": "v1.0.0",
+      "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_maimaidx/logo"
+    },
+    "astrbot_plugin_mcsmanager": {
+      "display_name": "MCSManager 管理",
+      "desc": "可以通过指令管理mcsmanager内实例的插件:主要功能:通过指令开/关mcsm实例，mcsm节点状态（内存，cpu占用），查看实例列表",
+      "author": "5060ti个马力的2099",
+      "repo": "https://github.com/HSOS6/astrbot_plugin_mcsmanager",
+      "tags": [
+        "MC",
+        "mcsmanager",
+        "控制台"
+      ],
+      "social_link": "https://github.com/HSOS6",
+      "stars": 0,
+      "updated_at": "2025-11-17T13:56:15Z",
+      "version": "1.1.8",
+      "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_mcsmanager/logo"
+    },
+    "astrbot_plugin_minecraft_adapter": {
+      "display_name": "Minecraft适配器",
+      "desc": "连接到 Minecraft 插件服务器，实现消息互通和服务器管理",
+      "author": "Railgun19457",
+      "repo": "https://github.com/railgun19457/astrbot_plugin_minecraft_adapter",
+      "tags": [
+        "MC",
+        "Minecraft"
+      ],
+      "social_link": "https://www.misakanet.site",
+      "stars": 0,
+      "updated_at": "2025-11-12T15:33:32Z",
+      "version": "1.2.0",
+      "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_minecraft_adapter/logo"
+    },
     "astrbot_plugin_minecraft_monitor": {
       "display_name": "MC 服务器状态检测",
       "desc": "Minecraft服务器监控插件，支持定时检测服务器状态变化并发送通知。可配置目标群、服务器地址、检查间隔等。",
@@ -27,8 +74,8 @@
         "临时邮箱"
       ],
       "stars": 0,
-      "updated_at": "2025-11-15T05:04:34Z",
-      "version": "v0.0.1"
+      "updated_at": "2025-11-21T07:47:19Z",
+      "version": "v0.0.2"
     },
     "astrbot_plugin_reneban": {
       "display_name": "ReNeBan（Ban黑名单插件）",
@@ -68,8 +115,8 @@
         "MC"
       ],
       "stars": 1,
-      "updated_at": "2025-11-19T14:21:43Z",
-      "version": "v1.0.1",
+      "updated_at": "2025-11-21T10:20:38Z",
+      "version": "v1.0.2",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_minecraft_skin_render/logo"
     },
     "astrbot_plugin_picstatus": {
@@ -137,8 +184,8 @@
         "小红书",
         "推特"
       ],
-      "stars": 5,
-      "updated_at": "2025-11-19T12:36:57Z",
+      "stars": 7,
+      "updated_at": "2025-11-21T02:06:08Z",
       "version": "v3.2.0",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_media_parser/logo"
     },
@@ -853,8 +900,8 @@
         "自动点赞"
       ],
       "stars": 1,
-      "updated_at": "2025-11-14T08:56:22Z",
-      "version": "v1.1.0",
+      "updated_at": "2025-11-21T07:07:17Z",
+      "version": "v1.2.0",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_furry_zan/logo"
     },
     "zhiyu-astrbot-business": {
@@ -1052,8 +1099,8 @@
         "视频",
         "sora"
       ],
-      "stars": 26,
-      "updated_at": "2025-11-10T07:41:04Z",
+      "stars": 27,
+      "updated_at": "2025-11-21T02:24:37Z",
       "version": "v1.2.6"
     },
     "astrbot_gengtu": {
@@ -1074,8 +1121,8 @@
       "author": "薄暝",
       "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
       "tags": [],
-      "stars": 5,
-      "updated_at": "2025-11-20T15:55:48Z",
+      "stars": 6,
+      "updated_at": "2025-11-21T08:39:20Z",
       "version": "v2.0.0",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_zssm_explain/logo"
     },
@@ -1396,8 +1443,8 @@
       ],
       "social_link": "https://github.com/advent259141",
       "stars": 8,
-      "updated_at": "2025-11-20T21:35:59Z",
-      "version": "1.0.0"
+      "updated_at": "2025-11-21T11:01:27Z",
+      "version": "1.1.5"
     },
     "bmtxt2img": {
       "desc": "通过/bmimg指令调用智谱文生图模型",
@@ -1890,8 +1937,8 @@
       ],
       "social_link": "https://github.com/kawayiYokami",
       "stars": 16,
-      "updated_at": "2025-11-19T13:32:44Z",
-      "version": "0.6.7"
+      "updated_at": "2025-11-21T07:18:05Z",
+      "version": "0.6.8"
     },
     "astrbot_plugin_angel_eye": {
       "desc": "在调用大模型之前，通过小模型识别对话中的专有名词并链接百科知识，为大模型补充上下文，使其更“见多识广”。",
@@ -1903,8 +1950,8 @@
       ],
       "social_link": "https://github.com/kawayiYokami",
       "stars": 7,
-      "updated_at": "2025-11-19T10:00:27Z",
-      "version": "1.0.1"
+      "updated_at": "2025-11-21T07:11:52Z",
+      "version": "1.0.3"
     },
     "astrbot_plugin_pollinations_images": {
       "desc": "使用 Pollinations AI生成图片。无需注册，开箱即用！",
@@ -2096,6 +2143,20 @@
       "updated_at": "2025-11-08T09:48:33Z",
       "version": "1.0.4"
     },
+    "astrbot_plugin_sha": {
+      "desc": "获取GitHub仓库最后5次提交SHA的插件",
+      "author": "IGCrystal",
+      "repo": "https://github.com/IGCrystal-NEO/astrbot_plugin_sha",
+      "tags": [
+        "工具",
+        "GitHub"
+      ],
+      "social_link": "https://wenturc.com",
+      "stars": 0,
+      "updated_at": "2025-11-21T08:11:27Z",
+      "version": "v1.3.6",
+      "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_sha/logo"
+    },
     "astrbot_plugin_anti_revoke": {
       "desc": "[仅 OneBot]监控指定群聊会话撤回的消息并发送给目标用户",
       "author": "Foolllll",
@@ -2159,8 +2220,8 @@
       "repo": "https://github.com/xiaoxi68/AstrBot_plugin_openai_image-command",
       "tags": [],
       "stars": 3,
-      "updated_at": "2025-10-20T17:46:12Z",
-      "version": "v1.8"
+      "updated_at": "2025-11-21T08:13:13Z",
+      "version": "v1.8.1"
     },
     "astrbot_plugin_sleep_tracker": {
       "desc": "一个基于 AstrBot 的睡眠记录插件，帮助用户记录和分析睡眠作息情况",
@@ -2339,8 +2400,8 @@
       ],
       "social_link": "https://github.com/SXP-Simon",
       "stars": 54,
-      "updated_at": "2025-11-20T02:43:38Z",
-      "version": "v3.9.2",
+      "updated_at": "2025-11-21T06:35:29Z",
+      "version": "v3.9.3",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot-qq-group-daily-analysis/logo"
     },
     "astrbot_plugin_boss_notifier": {
@@ -2785,8 +2846,8 @@
         "人格"
       ],
       "social_link": "https://github.com/NickCharlie",
-      "stars": 39,
-      "updated_at": "2025-11-20T19:13:24Z",
+      "stars": 42,
+      "updated_at": "2025-11-21T06:43:14Z",
       "version": "1.5.0"
     },
     "astrbot_plugin_baiduocr": {
@@ -2998,8 +3059,8 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 25,
-      "updated_at": "2025-11-20T19:49:15Z",
-      "version": "v2.1.0",
+      "updated_at": "2025-11-21T01:43:07Z",
+      "version": "v2.1.1",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_qzone/logo"
     },
     "astrbot_plugin_matchreminder": {
@@ -3400,8 +3461,8 @@
         "群服互通"
       ],
       "social_link": "QQ: 824907403",
-      "stars": 1,
-      "updated_at": "2025-10-21T15:55:58Z",
+      "stars": 2,
+      "updated_at": "2025-11-21T10:45:14Z",
       "version": "v1.0.3"
     },
     "cngal_morning_report": {
@@ -4484,8 +4545,8 @@
         "Steam"
       ],
       "social_link": "https://github.com/Maoer233",
-      "stars": 35,
-      "updated_at": "2025-11-08T02:00:29Z",
+      "stars": 36,
+      "updated_at": "2025-11-21T05:09:59Z",
       "version": "2.1.8"
     },
     "astrbot_plugin_xiaoxue": {
@@ -4573,8 +4634,8 @@
         "音乐"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 68,
-      "updated_at": "2025-11-19T09:42:02Z",
+      "stars": 69,
+      "updated_at": "2025-11-21T08:18:08Z",
       "version": "v1.0.3",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_music/logo"
     },
@@ -5005,6 +5066,19 @@
       "version": "v1.1.1",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_emoji_like/logo"
     },
+    "astrbot_plugin_pock_mini": {
+      "author": "IGCrystal",
+      "desc": "[仅 aiocqhttp] 依据长安某的“戳一戳”插件修改而来。本插件新增了调用大语言模型回复。但是也删除了表情包的制作。",
+      "repo": "https://github.com/IGCrystal/astrbot_plugin_pock_omini",
+      "tags": [
+        "聊天体验增强"
+      ],
+      "social_link": "https://wenturc.com/",
+      "stars": 2,
+      "updated_at": "2025-11-21T08:10:56Z",
+      "version": "v1.7.3",
+      "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_pock_mini/logo"
+    },
     "astrbot_plugin_lanraragi": {
       "author": "Putarku",
       "desc": "使用lanraragi提供的api进行关键词搜索，并将搜索结果发送到聊天中。",
@@ -5130,8 +5204,8 @@
         "禁漫"
       ],
       "social_link": "https://github.com/GEMILUXVII",
-      "stars": 61,
-      "updated_at": "2025-11-18T10:32:54Z",
+      "stars": 62,
+      "updated_at": "2025-11-21T08:12:44Z",
       "version": "1.1.0"
     },
     "astrbot_plugin_combine-messages": {
@@ -5215,8 +5289,8 @@
         "语音"
       ],
       "repo": "https://github.com/zhewang448/astrbot_plugin_mrfz",
-      "stars": 4,
-      "updated_at": "2025-11-02T13:28:16Z",
+      "stars": 5,
+      "updated_at": "2025-11-21T07:45:14Z",
       "version": "v3.3.7",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_mrfz/logo"
     },
@@ -5431,8 +5505,8 @@
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
       "stars": 103,
-      "updated_at": "2025-11-20T15:36:47Z",
-      "version": "v2.0.5",
+      "updated_at": "2025-11-21T06:05:33Z",
+      "version": "v2.0.6",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_apis/logo"
     },
     "astrbot_plugin_help": {
@@ -5722,8 +5796,8 @@
       "tags": [
         "pixiv"
       ],
-      "stars": 27,
-      "updated_at": "2025-11-18T07:05:12Z",
+      "stars": 28,
+      "updated_at": "2025-11-21T06:04:39Z",
       "version": "1.4.1",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_pixiv_search/logo"
     },
@@ -6150,8 +6224,8 @@
       "tags": [
         "QQ群管"
       ],
-      "stars": 62,
-      "updated_at": "2025-11-20T08:51:44Z",
+      "stars": 63,
+      "updated_at": "2025-11-21T09:53:19Z",
       "version": "v3.2.0",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_qqadmin/logo"
     },
@@ -6367,6 +6441,18 @@
       "updated_at": "2025-07-25T15:50:56Z",
       "version": "v1.1.1"
     },
+    "astrbot_plugin_timtip": {
+      "desc": "设置定时任务，有（间隔时间）（固定时间）（一次时间），适用于不同群聊，一个群聊可创建多个任务。",
+      "author": "IGCrystal",
+      "repo": "https://github.com/IGCrystal/astrbot_plugin_timtip",
+      "tags": [
+        "工具"
+      ],
+      "stars": 1,
+      "updated_at": "2025-11-21T08:09:31Z",
+      "version": "1.0.0",
+      "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_timtip/logo"
+    },
     "astrbot_plugin_encipherer": {
       "desc": "集合包括Base64、URLencode、Punycode编码加解密工具的astrbot插件",
       "author": "Yuki Soffd",
@@ -6521,6 +6607,16 @@
       "stars": 1,
       "updated_at": "2025-04-09T16:09:30Z",
       "version": "v1.5.0"
+    },
+    "astrbot_plugin_rdimage": {
+      "desc": "从 wenturc 获取随机图片的插件（无 HTML 解析）",
+      "author": "IGCrystal",
+      "repo": "https://github.com/IGCrystal/astrbot_plugin_rdimage",
+      "tags": [],
+      "stars": 1,
+      "updated_at": "2025-11-21T08:10:09Z",
+      "version": "1.0.0",
+      "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_rdimage/logo"
     },
     "astrbot_plugin_gewe_chatsummary": {
       "desc": "[仅 gewechat] 用来对最近消息调用 LLM 进行总结的插件",
@@ -6764,7 +6860,7 @@
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
       "stars": 50,
-      "updated_at": "2025-11-20T15:39:24Z",
+      "updated_at": "2025-11-21T10:47:04Z",
       "version": "v1.2.1",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_box/logo"
     },
@@ -7042,8 +7138,8 @@
       "author": "KurisuRee7",
       "repo": "https://github.com/KurisuRee7/astrBot_PGR_Dialogue",
       "tags": [],
-      "stars": 1,
-      "updated_at": "2025-04-20T13:00:37Z",
+      "stars": 2,
+      "updated_at": "2025-11-21T03:50:08Z",
       "version": "v1.1"
     },
     "astrbot_plugin_beautiful_giri": {
@@ -7880,9 +7976,9 @@
       "author": "lxfight",
       "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
       "tags": [],
-      "stars": 142,
-      "updated_at": "2025-11-20T15:34:55Z",
-      "version": "v2.0.7"
+      "stars": 143,
+      "updated_at": "2025-11-21T08:51:05Z",
+      "version": "v2.0.9"
     },
     "FateTrial_img_identify": {
       "desc": "智谱AI图像识别插件",
