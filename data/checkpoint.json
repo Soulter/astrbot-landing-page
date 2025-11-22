@@ -1,11 +1,57 @@
 {
-  "timestamp": "2025-11-22T01:37:24.459Z",
+  "timestamp": "2025-11-22T12:37:23.989Z",
   "github": {
-    "stars": 13539,
-    "forks": 1020,
+    "stars": 13554,
+    "forks": 1021,
     "contributors": 109
   },
   "plugins": {
+    "astrbot_plugin_hardwareinfo": {
+      "display_name": "硬件信息查询",
+      "desc": "硬件信息查询（CPU/GPU搜索+天梯图+参数图片）",
+      "author": "SakuraMikku",
+      "repo": "https://github.com/wuxinTLH/astrbot_plugin_hardwareinfo",
+      "social_link": "https://github.com/wuxinTLH",
+      "tags": [],
+      "stars": 0,
+      "updated_at": "2025-11-19T01:58:41Z",
+      "version": "v0.0.5"
+    },
+    "astrbot_plugin_command2llm": {
+      "display_name": "Command2LLM",
+      "desc": "让大模型能够调用所有插件命令的智能聊天插件。",
+      "author": "vmoranv",
+      "repo": "https://github.com/vmoranv/astrbot_plugin_command2llm",
+      "tags": [
+        "命令",
+        "llm工具"
+      ],
+      "social_link": "https://github.com/vmoranv",
+      "stars": 0,
+      "updated_at": "2025-11-18T14:59:38Z",
+      "version": "v1.0.0"
+    },
+    "astrbot_plugin_whitelistpro": {
+      "display_name": "白名单拓展",
+      "desc": "支持临时会话、好友私聊、群聊的白名单独立控制和全局白名单黑名单",
+      "author": "gabriel0721",
+      "repo": "https://github.com/TenmaGabriel0721/astrbot_plugin_whitelistpro",
+      "tags": [],
+      "stars": 1,
+      "updated_at": "2025-11-18T13:20:37Z",
+      "version": "1.0.0",
+      "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_whitelistpro/logo"
+    },
+    "astrbot_plugin_val_shop": {
+      "display_name": "掌上无畏契约每日商店查询",
+      "desc": "无畏契约每日商店查询插件，支持绑定账户信息查看每日商店皮肤",
+      "author": "GuJi08233",
+      "repo": "https://github.com/GuJi08233/astrbot_plugin_val_shop",
+      "tags": [],
+      "stars": 0,
+      "updated_at": "2025-11-21T04:53:15Z",
+      "version": "v3.2.0"
+    },
     "astrbot_plugin_maimaidx": {
       "display_name": "国服舞萌插件",
       "desc": "国服舞萌查分插件，支持查询成绩、排名、曲目信息等功能（一定要看文档！！！）",
@@ -33,9 +79,9 @@
         "控制台"
       ],
       "social_link": "https://github.com/HSOS6",
-      "stars": 0,
-      "updated_at": "2025-11-17T13:56:15Z",
-      "version": "1.1.8",
+      "stars": 1,
+      "updated_at": "2025-11-22T04:44:36Z",
+      "version": "1.1.18.beta",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_mcsmanager/logo"
     },
     "astrbot_plugin_minecraft_adapter": {
@@ -478,8 +524,8 @@
         "幻影坦克",
         "图片处理"
       ],
-      "stars": 0,
-      "updated_at": "2025-10-24T21:32:51Z",
+      "stars": 2,
+      "updated_at": "2025-11-22T08:48:03Z",
       "version": "v1.2.1"
     },
     "astrbot_plugin_stockgame": {
@@ -565,8 +611,8 @@
         "主动回复"
       ],
       "social_link": "https://github.com/Him666233",
-      "stars": 9,
-      "updated_at": "2025-11-21T18:52:02Z",
+      "stars": 10,
+      "updated_at": "2025-11-22T09:20:01Z",
       "version": "v1.1.1",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_group_chat_plus/logo"
     },
@@ -1188,8 +1234,8 @@
         "人格"
       ],
       "social_link": "https://www.misakanet.site",
-      "stars": 6,
-      "updated_at": "2025-11-09T09:55:47Z",
+      "stars": 7,
+      "updated_at": "2025-11-22T09:28:51Z",
       "version": "v1.3",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_persona_plus/logo"
     },
@@ -1314,8 +1360,8 @@
       "repo": "https://github.com/BGYdook/AstrBot-plugin-tmp-bot",
       "tags": [],
       "stars": 1,
-      "updated_at": "2025-11-21T14:14:37Z",
-      "version": "1.3.60"
+      "updated_at": "2025-11-22T06:22:31Z",
+      "version": "1.6.0"
     },
     "astrbot_plugin_33recognition": {
       "desc": "调用大模型检测图片中关键词",
@@ -1327,8 +1373,8 @@
         "关键词"
       ],
       "social_link": "https://github.com/zhewang448",
-      "stars": 3,
-      "updated_at": "2025-11-02T15:14:11Z",
+      "stars": 4,
+      "updated_at": "2025-11-22T00:14:59Z",
       "version": "v1.3.4",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_33recognition/logo"
     },
@@ -1707,8 +1753,8 @@
       "repo": "https://github.com/Chris95743/astrbot_plugin_VITS_pro",
       "social_link": "https://voice.gbkgov.cn",
       "tags": [],
-      "stars": 12,
-      "updated_at": "2025-11-18T11:43:30Z",
+      "stars": 13,
+      "updated_at": "2025-11-22T07:31:15Z",
       "version": "v1.9.0"
     },
     "astrbot_plugin_blacklist_tools": {
@@ -2396,8 +2442,8 @@
       ],
       "social_link": "https://github.com/SXP-Simon",
       "stars": 54,
-      "updated_at": "2025-11-21T17:47:08Z",
-      "version": "v3.9.5",
+      "updated_at": "2025-11-22T07:37:35Z",
+      "version": "v4.0.1",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot-qq-group-daily-analysis/logo"
     },
     "astrbot_plugin_boss_notifier": {
@@ -2842,8 +2888,8 @@
         "人格"
       ],
       "social_link": "https://github.com/NickCharlie",
-      "stars": 43,
-      "updated_at": "2025-11-21T18:35:27Z",
+      "stars": 45,
+      "updated_at": "2025-11-22T09:40:21Z",
       "version": "1.5.0"
     },
     "astrbot_plugin_baiduocr": {
@@ -3054,9 +3100,9 @@
         "表白墙"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 25,
-      "updated_at": "2025-11-21T01:43:07Z",
-      "version": "v2.1.1",
+      "stars": 26,
+      "updated_at": "2025-11-22T06:30:13Z",
+      "version": "v2.2.0",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_qzone/logo"
     },
     "astrbot_plugin_matchreminder": {
@@ -3077,8 +3123,8 @@
         "撤回"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 8,
-      "updated_at": "2025-11-04T15:53:27Z",
+      "stars": 9,
+      "updated_at": "2025-11-22T08:37:07Z",
       "version": "v1.0.2",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_recall/logo"
     },
@@ -3260,7 +3306,7 @@
         "初音未来 缤纷舞台"
       ],
       "stars": 6,
-      "updated_at": "2025-10-27T07:27:06Z",
+      "updated_at": "2025-11-22T11:02:28Z",
       "version": "v1.1.3"
     },
     "astrbot_plugin_screenctrl": {
@@ -5766,8 +5812,8 @@
       "tags": [
         "pixiv"
       ],
-      "stars": 28,
-      "updated_at": "2025-11-21T06:04:39Z",
+      "stars": 29,
+      "updated_at": "2025-11-22T05:19:03Z",
       "version": "1.4.1",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_pixiv_search/logo"
     },
@@ -7208,8 +7254,8 @@
         "主动回复"
       ],
       "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-      "stars": 77,
-      "updated_at": "2025-11-21T12:42:05Z",
+      "stars": 78,
+      "updated_at": "2025-11-22T08:19:54Z",
       "version": "v2.1.7"
     },
     "astrbot_plugin_steamshot": {
