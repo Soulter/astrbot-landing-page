@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-11-22T12:37:23.989Z",
+  "timestamp": "2025-11-23T01:53:42.055Z",
   "github": {
-    "stars": 13554,
-    "forks": 1021,
+    "stars": 13562,
+    "forks": 1022,
     "contributors": 109
   },
   "plugins": {
@@ -367,8 +367,8 @@
         "指令"
       ],
       "stars": 2,
-      "updated_at": "2025-11-18T13:11:22Z",
-      "version": "1.1.2",
+      "updated_at": "2025-11-22T11:17:24Z",
+      "version": "1.1.3",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_permission-manager/logo"
     },
     "astrbot_plugin_whatslinkInfo": {
@@ -885,8 +885,8 @@
         "TTS"
       ],
       "social_link": "https://github.com/DBJD-CR",
-      "stars": 27,
-      "updated_at": "2025-11-20T03:32:05Z",
+      "stars": 28,
+      "updated_at": "2025-11-22T14:30:48Z",
       "version": "v1.0.0-beta.3",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_proactive_chat/logo"
     },
@@ -1290,8 +1290,8 @@
       ],
       "social_link": "https://gbkgov.cn",
       "stars": 5,
-      "updated_at": "2025-11-15T14:17:20Z",
-      "version": "v1.1.0"
+      "updated_at": "2025-11-22T16:56:28Z",
+      "version": "v1.2.0"
     },
     "astrbot_plugin_Favour_Ultra": {
       "desc": "更加完善的好感度判断插件，配合LLM和自定义 Prompt 进行使用，效果显著。该插件使用与现有好感度插件不同的判断、写入方法，以及扩展更多的自定义内容，允许更加自由地定义好感度规则。",
@@ -1732,8 +1732,8 @@
         "fishing"
       ],
       "stars": 19,
-      "updated_at": "2025-11-20T06:59:43Z",
-      "version": "2.4.5",
+      "updated_at": "2025-11-22T13:42:33Z",
+      "version": "2.4.6",
       "logo": "https://api.soulter.top/astrbot/plugin/Fishing Another!/logo"
     },
     "astrbot_plugin_astrmetry": {
@@ -2183,8 +2183,8 @@
       "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
       "tags": [],
       "stars": 20,
-      "updated_at": "2025-10-29T08:01:15Z",
-      "version": "v1.4.0"
+      "updated_at": "2025-11-22T17:53:33Z",
+      "version": "v1.4.2"
     },
     "astrbot_plugin_group_chat": {
       "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -2333,8 +2333,8 @@
         "memory",
         "rag"
       ],
-      "stars": 39,
-      "updated_at": "2025-11-21T11:41:18Z",
+      "stars": 40,
+      "updated_at": "2025-11-22T14:45:34Z",
       "version": "1.7.2",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_livingmemory/logo"
     },
@@ -2441,8 +2441,8 @@
         "总结"
       ],
       "social_link": "https://github.com/SXP-Simon",
-      "stars": 54,
-      "updated_at": "2025-11-22T07:37:35Z",
+      "stars": 57,
+      "updated_at": "2025-11-22T21:02:56Z",
       "version": "v4.0.1",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot-qq-group-daily-analysis/logo"
     },
@@ -2951,8 +2951,8 @@
         "唤醒增强"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 20,
-      "updated_at": "2025-11-13T11:34:26Z",
+      "stars": 21,
+      "updated_at": "2025-11-22T14:33:27Z",
       "version": "v1.1.3",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_wakepro/logo"
     },
@@ -2965,8 +2965,8 @@
         "记忆"
       ],
       "social_link": "https://github.com/qa296/",
-      "stars": 18,
-      "updated_at": "2025-11-21T14:59:01Z",
+      "stars": 19,
+      "updated_at": "2025-11-22T15:00:23Z",
       "version": "v0.2.6"
     },
     "astrbot_plugin_iearning_style": {
@@ -3101,8 +3101,8 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 26,
-      "updated_at": "2025-11-22T06:30:13Z",
-      "version": "v2.2.0",
+      "updated_at": "2025-11-22T14:30:51Z",
+      "version": "v2.2.1",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_qzone/logo"
     },
     "astrbot_plugin_matchreminder": {
@@ -3479,7 +3479,7 @@
         "主动回复"
       ],
       "stars": 3,
-      "updated_at": "2025-11-21T11:44:05Z",
+      "updated_at": "2025-11-22T14:10:59Z",
       "version": "v1.0.1"
     },
     "treasure_bag_plugin": {
@@ -3609,8 +3609,8 @@
         "拟人"
       ],
       "social_link": "https://github.com/advent259141",
-      "stars": 53,
-      "updated_at": "2025-11-16T14:42:05Z",
+      "stars": 54,
+      "updated_at": "2025-11-22T14:45:36Z",
       "version": "1.3.0"
     },
     "cngal_search": {
@@ -3862,7 +3862,7 @@
       "repo": "https://github.com/timetetng/astrbot_plugin_ip_proxy",
       "tags": [],
       "stars": 1,
-      "updated_at": "2025-10-16T13:20:41Z",
+      "updated_at": "2025-11-22T11:55:12Z",
       "version": "v1.6"
     },
     "astrbot_plugin_cmd_console": {
@@ -4862,8 +4862,8 @@
         "RAG",
         "知识库"
       ],
-      "stars": 68,
-      "updated_at": "2025-11-19T07:08:30Z",
+      "stars": 69,
+      "updated_at": "2025-11-22T14:32:20Z",
       "version": "v0.5.9"
     },
     "astrbot_uptime_kuma_webhook_plugin": {
@@ -5582,8 +5582,8 @@
         "minecraft",
         "游戏"
       ],
-      "stars": 7,
-      "updated_at": "2025-11-17T13:04:37Z",
+      "stars": 8,
+      "updated_at": "2025-11-22T14:47:07Z",
       "version": "v1.8.3"
     },
     "astrbot_plugin_Group-Verification": {
@@ -5636,8 +5636,8 @@
         "osu!track"
       ],
       "social_link": "https://github.com/gameswu",
-      "stars": 9,
-      "updated_at": "2025-11-03T08:40:27Z",
+      "stars": 10,
+      "updated_at": "2025-11-22T11:29:09Z",
       "version": "v0.2.2",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_osutrack/logo"
     },
@@ -5834,8 +5834,8 @@
       "desc": "[仅aiocqhttp] 为用户进群退群发送信息提示",
       "repo": "https://github.com/1113-yangfanou/astrbot_plugin_hello-bye",
       "tags": [],
-      "stars": 14,
-      "updated_at": "2025-10-04T14:53:55Z",
+      "stars": 15,
+      "updated_at": "2025-11-22T14:45:19Z",
       "version": "v1.10"
     },
     "astrbot_plugin_pexels": {
@@ -5928,8 +5928,8 @@
         "图库"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_gallery",
-      "stars": 19,
-      "updated_at": "2025-11-15T07:08:49Z",
+      "stars": 20,
+      "updated_at": "2025-11-22T13:28:26Z",
       "version": "v2.0.3",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_gallery/logo"
     },
@@ -6015,8 +6015,8 @@
         "绝区零"
       ],
       "social_link": "https://docs.sayu-bot.com/",
-      "stars": 21,
-      "updated_at": "2025-11-06T20:05:27Z",
+      "stars": 22,
+      "updated_at": "2025-11-22T12:22:48Z",
       "version": "v0.4.3"
     },
     "astrbot_plugin_xyzw": {
@@ -6106,8 +6106,8 @@
       "desc": "[仅QQ] 赞我！（一个名片点赞插件）。可选是否开启白名单。",
       "social_link": "https://github.com/Futureppo",
       "repo": "https://github.com/Futureppo/astrbot_plugin_zanwo",
-      "stars": 16,
-      "updated_at": "2025-10-31T21:59:45Z",
+      "stars": 17,
+      "updated_at": "2025-11-22T12:49:36Z",
       "version": "v1.0.8"
     },
     "astrbot_plugin_ehentai_bot": {
@@ -6853,8 +6853,8 @@
         "开盒"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
-      "stars": 50,
-      "updated_at": "2025-11-21T10:47:04Z",
+      "stars": 51,
+      "updated_at": "2025-11-22T15:12:39Z",
       "version": "v1.2.1",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_box/logo"
     },
@@ -7316,8 +7316,8 @@
         "功能",
         "搬史"
       ],
-      "stars": 467,
-      "updated_at": "2025-11-17T01:30:37Z",
+      "stars": 468,
+      "updated_at": "2025-11-22T14:31:19Z",
       "version": "v0.915"
     },
     "astrbot_plugin_superpoke": {
@@ -7970,8 +7970,8 @@
       "author": "lxfight",
       "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
       "tags": [],
-      "stars": 143,
-      "updated_at": "2025-11-21T11:48:34Z",
+      "stars": 144,
+      "updated_at": "2025-11-22T14:31:52Z",
       "version": "v2.0.10"
     },
     "FateTrial_img_identify": {
