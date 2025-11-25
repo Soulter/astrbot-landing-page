@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-11-25T01:42:45.427Z",
+  "timestamp": "2025-11-25T12:44:57.157Z",
   "github": {
-    "stars": 13623,
-    "forks": 1024,
+    "stars": 13648,
+    "forks": 1028,
     "contributors": 109
   },
   "plugins": {
@@ -25,8 +25,8 @@
       "repo": "https://github.com/muqing-wx/astrbot_plugin_rss_subscribe",
       "social_link": "https://jk.muqing.us.kg/status/muqing",
       "tags": [],
-      "stars": 1,
-      "updated_at": "2025-11-24T15:53:40Z",
+      "stars": 2,
+      "updated_at": "2025-11-25T07:50:14Z",
       "version": "1.1.3",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_rss_subscribe/logo"
     },
@@ -263,8 +263,8 @@
         "工具",
         "私聊"
       ],
-      "stars": 6,
-      "updated_at": "2025-11-21T19:10:09Z",
+      "stars": 7,
+      "updated_at": "2025-11-25T07:46:27Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_llm_amnesia": {
@@ -292,8 +292,8 @@
         "毛图"
       ],
       "social_link": "",
-      "stars": 0,
-      "updated_at": "2025-11-12T15:52:33Z",
+      "stars": 1,
+      "updated_at": "2025-11-25T10:01:55Z",
       "version": "v1.0.5"
     },
     "astrbot_plugin_werewolf": {
@@ -430,8 +430,8 @@
         "HTTP"
       ],
       "social_link": "https://github.com/fluidcat/astrbot_plugin_http_adapter/issues",
-      "stars": 4,
-      "updated_at": "2025-11-12T06:11:36Z",
+      "stars": 5,
+      "updated_at": "2025-11-25T09:16:49Z",
       "version": "1.1.1"
     },
     "astrbot_plugin_goldsearch": {
@@ -894,8 +894,8 @@
         "修仙"
       ],
       "stars": 2,
-      "updated_at": "2025-11-24T14:00:18Z",
-      "version": "v2.4.1"
+      "updated_at": "2025-11-25T09:38:50Z",
+      "version": "v1.0.0dev"
     },
     "astrbot_plugin_invitecount": {
       "display_name": "群邀请统计",
@@ -1252,8 +1252,8 @@
         "猜词"
       ],
       "stars": 0,
-      "updated_at": "2025-11-19T05:57:42Z",
-      "version": "v1.0.0",
+      "updated_at": "2025-11-25T00:41:59Z",
+      "version": "v1.0.1",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_gengtu/logo"
     },
     "astrbot_zssm_explain": {
@@ -1262,8 +1262,8 @@
       "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
       "tags": [],
       "stars": 6,
-      "updated_at": "2025-11-21T08:39:20Z",
-      "version": "v2.0.0",
+      "updated_at": "2025-11-25T05:22:17Z",
+      "version": "v2.1.0",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_zssm_explain/logo"
     },
     "astrbot_plugin_timeline": {
@@ -1383,8 +1383,8 @@
         "联网搜索"
       ],
       "social_link": "https://gbkgov.cn",
-      "stars": 5,
-      "updated_at": "2025-11-22T16:56:28Z",
+      "stars": 6,
+      "updated_at": "2025-11-25T03:37:59Z",
       "version": "v1.2.0"
     },
     "astrbot_plugin_Favour_Ultra": {
@@ -1495,7 +1495,7 @@
         "群文件"
       ],
       "stars": 0,
-      "updated_at": "2025-11-24T18:19:28Z",
+      "updated_at": "2025-11-25T04:22:12Z",
       "version": "v1.6",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_file_checker/logo"
     },
@@ -1978,8 +1978,8 @@
       "author": "ctrlkk",
       "repo": "https://github.com/ctrlkk/astrbot_plugin_meme_manager_lite",
       "tags": [],
-      "stars": 6,
-      "updated_at": "2025-11-12T04:40:22Z",
+      "stars": 7,
+      "updated_at": "2025-11-25T09:33:03Z",
       "version": "v1.3"
     },
     "astrbot_plugin_festival_greeter": {
@@ -2050,9 +2050,9 @@
         "人格",
         "LLM"
       ],
-      "stars": 0,
-      "updated_at": "",
-      "version": "1.0.0"
+      "stars": 2,
+      "updated_at": "2025-10-13T09:36:15Z",
+      "version": "0.1.1"
     },
     "astrbot_plugin_restart": {
       "display_name": "重启助手",
@@ -2075,9 +2075,9 @@
       "tags": [
         "TTS"
       ],
-      "stars": 0,
-      "updated_at": "",
-      "version": "1.0.0"
+      "stars": 5,
+      "updated_at": "2025-10-23T13:12:07Z",
+      "version": "1.2.0"
     },
     "astrbot_plugin_angel_heart": {
       "desc": "天使心秘书，是一个专为 AstrBot 平台设计的智能群聊交互插件。它采用创新的两级AI协作架构，实现高质量、低成本的智能对话交互，让 AI 成为懂分寸、有眼色的聊天伙伴。",
@@ -2278,8 +2278,8 @@
       "author": "shskjw",
       "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
       "tags": [],
-      "stars": 21,
-      "updated_at": "2025-11-24T19:43:17Z",
+      "stars": 22,
+      "updated_at": "2025-11-25T10:15:03Z",
       "version": "v1.5.6"
     },
     "astrbot_plugin_group_chat": {
@@ -2805,7 +2805,7 @@
       "tags": "娱乐",
       "social_link": "astrbot.uk",
       "stars": 13,
-      "updated_at": "2025-09-17T15:37:33Z",
+      "updated_at": "2025-11-25T05:39:23Z",
       "version": "v1.0.1"
     },
     "should_I_respond": {
@@ -2985,8 +2985,8 @@
         "人格"
       ],
       "social_link": "https://github.com/NickCharlie",
-      "stars": 46,
-      "updated_at": "2025-11-24T08:31:53Z",
+      "stars": 47,
+      "updated_at": "2025-11-25T01:28:34Z",
       "version": "1.5.0"
     },
     "astrbot_plugin_baiduocr": {
@@ -3351,8 +3351,8 @@
       "tags": [
         "海龟汤"
       ],
-      "stars": 16,
-      "updated_at": "2025-11-19T07:08:31Z",
+      "stars": 17,
+      "updated_at": "2025-11-25T07:38:10Z",
       "version": "v1.0.3"
     },
     "astrbot_plugin_typst_render": {
@@ -3525,7 +3525,7 @@
       ],
       "social_link": "https://astrbot.uk",
       "stars": 5,
-      "updated_at": "2025-10-28T05:42:35Z",
+      "updated_at": "2025-11-25T05:36:42Z",
       "version": "v1.2"
     },
     "astrbot_plugin_lanzoucloud": {
@@ -4367,8 +4367,8 @@
         "调教"
       ],
       "social_link": "https://github.com/oyxning",
-      "stars": 32,
-      "updated_at": "2025-11-12T04:43:43Z",
+      "stars": 34,
+      "updated_at": "2025-11-25T07:22:45Z",
       "version": "v3.4.0"
     },
     "astrbot_plugin_alistfile": {
@@ -7102,8 +7102,8 @@
         "bilibili"
       ],
       "social_link": "https://github.com/miaoxutao123/",
-      "stars": 56,
-      "updated_at": "2025-11-24T12:35:52Z",
+      "stars": 57,
+      "updated_at": "2025-11-25T08:54:06Z",
       "version": "v0.2.14"
     },
     "astrbot_plugin_sjzb": {
@@ -8086,9 +8086,9 @@
       "author": "buding",
       "repo": "https://github.com/zouyonghe/astrbot_plugin_shell_executor",
       "tags": [],
-      "stars": 2,
-      "updated_at": "2025-04-16T00:50:00Z",
-      "version": "v1.0.2"
+      "stars": 3,
+      "updated_at": "2025-11-25T09:50:02Z",
+      "version": "v1.0.4"
     },
     "astrbot_plugin_pock": {
       "desc": "astrbot戳一戳监听",
@@ -8141,8 +8141,8 @@
       "repo": "https://github.com/zouyonghe/astrbot_plugin_ebooks",
       "tags": [],
       "stars": 13,
-      "updated_at": "2025-11-24T14:04:25Z",
-      "version": "v1.1.2"
+      "updated_at": "2025-11-25T07:23:22Z",
+      "version": "v1.1.3"
     },
     "astrbot_plugin_AIQTalk": {
       "desc": "基于QQ的AI声聊完成的（伪）TTS转语音",
