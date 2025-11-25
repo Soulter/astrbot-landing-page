@@ -1,11 +1,49 @@
 {
-  "timestamp": "2025-11-24T12:44:49.557Z",
+  "timestamp": "2025-11-25T01:42:45.427Z",
   "github": {
-    "stars": 13617,
+    "stars": 13623,
     "forks": 1024,
     "contributors": 109
   },
   "plugins": {
+    "astrbot_plugin_ftp_control": {
+      "display_name": "ftp_manager",
+      "desc": "通过 LLM 工具执行 FTP 文件操作",
+      "author": "Xican",
+      "repo": "https://github.com/luosheng520qaq/astrbot_ftp_manager",
+      "tags": [
+        "ftp"
+      ],
+      "stars": 0,
+      "updated_at": "2025-11-19T07:52:05Z",
+      "version": "1.0.0"
+    },
+    "astrbot_plugin_rss_subscribe": {
+      "display_name": "RSS 订阅推送",
+      "desc": "基于 RSS 的主动推送插件，支持监控并推送微博、B 站、小红书等多个社交平台的新动态。",
+      "author": "沐沐沐倾",
+      "repo": "https://github.com/muqing-wx/astrbot_plugin_rss_subscribe",
+      "social_link": "https://jk.muqing.us.kg/status/muqing",
+      "tags": [],
+      "stars": 1,
+      "updated_at": "2025-11-24T15:53:40Z",
+      "version": "1.1.3",
+      "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_rss_subscribe/logo"
+    },
+    "astrbot_plugin_hotsearch": {
+      "display_name": "实时热搜插件",
+      "desc": "实时热搜聚合插件，支持抖音/小红书/知乎/微博/百度/懂车帝/哔哩哔哩/腾讯/头条/猫眼票房，指令无需参数，默认输出图片。",
+      "author": "柠柚",
+      "repo": "https://github.com/ningyou8023/astrbot_plugin_hotsearch",
+      "tags": [
+        "热搜",
+        "图片"
+      ],
+      "stars": 0,
+      "updated_at": "2025-11-19T08:24:39Z",
+      "version": "v1.0.0",
+      "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_hotsearch/logo"
+    },
     "astrbot_plugin_infinite_dialogue": {
       "display_name": "AstrBot 无限对话插件",
       "desc": "这是一个为 AstrBot 设计的插件，旨在通过自动总结对话历史来实现'无限对话'功能",
@@ -76,6 +114,21 @@
       "stars": 1,
       "updated_at": "2025-11-24T08:06:55Z",
       "version": "v3.2.0"
+    },
+    "astrbot_plugin_rg2": {
+      "display_name": "🔫 左轮手枪对决",
+      "desc": "一个刺激的群聊轮盘游戏插件。支持管理员装填子弹、用户开枪对决、随机走火等功能，提供完整的游戏体验和AI自然语言交互支持。",
+      "author": "piexian",
+      "repo": "https://github.com/piexian/astrbot_plugin_rg2",
+      "tags": [
+        "小游戏",
+        "轮盘"
+      ],
+      "social_link": "https://github.com/piexian",
+      "stars": 1,
+      "updated_at": "2025-11-17T12:39:25Z",
+      "version": "1.2.0",
+      "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_rg2/logo"
     },
     "astrbot_plugin_maimaidx": {
       "display_name": "国服舞萌插件",
@@ -228,6 +281,20 @@
       "stars": 0,
       "updated_at": "2025-11-15T18:32:41Z",
       "version": "v1.1.5"
+    },
+    "astrbot_plugin_Furimg_Cloud": {
+      "display_name": "兽云祭(兽兽图片/图鉴)",
+      "desc": "这个是兽云祭官方 API 对接插件，用来获取一张精选的 furry 图片，可以是毛毛照片也可以是兽兽插画或者设定图，该插件的所有图片均来自群友投稿",
+      "author": "huilongxiji",
+      "repo": "https://github.com/huilongxiji/astrbot_plugin_Furimg_Cloud",
+      "tags": [
+        "furry",
+        "毛图"
+      ],
+      "social_link": "",
+      "stars": 0,
+      "updated_at": "2025-11-12T15:52:33Z",
+      "version": "v1.0.5"
     },
     "astrbot_plugin_werewolf": {
       "display_name": "狼人杀游戏",
@@ -654,8 +721,8 @@
         "发言统计"
       ],
       "stars": 5,
-      "updated_at": "2025-11-24T11:16:01Z",
-      "version": "1.6.3",
+      "updated_at": "2025-11-24T16:38:25Z",
+      "version": "1.6.7",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_message_stats/logo"
     },
     "astrbot_plugin_prompt": {
@@ -827,7 +894,7 @@
         "修仙"
       ],
       "stars": 2,
-      "updated_at": "2025-11-23T07:59:05Z",
+      "updated_at": "2025-11-24T14:00:18Z",
       "version": "v2.4.1"
     },
     "astrbot_plugin_invitecount": {
@@ -1249,7 +1316,7 @@
         "网络小说"
       ],
       "stars": 2,
-      "updated_at": "2025-11-23T20:30:49Z",
+      "updated_at": "2025-11-24T16:49:52Z",
       "version": "v1.3.1",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_youshusearch/logo"
     },
@@ -1428,8 +1495,8 @@
         "群文件"
       ],
       "stars": 0,
-      "updated_at": "2025-11-23T21:13:58Z",
-      "version": "v1.5",
+      "updated_at": "2025-11-24T18:19:28Z",
+      "version": "v1.6",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_file_checker/logo"
     },
     "astrbot_plugin_JMCOMIC": {
@@ -1983,9 +2050,9 @@
         "人格",
         "LLM"
       ],
-      "stars": 2,
-      "updated_at": "2025-10-13T09:36:15Z",
-      "version": "0.1.1"
+      "stars": 0,
+      "updated_at": "",
+      "version": "1.0.0"
     },
     "astrbot_plugin_restart": {
       "display_name": "重启助手",
@@ -2008,9 +2075,9 @@
       "tags": [
         "TTS"
       ],
-      "stars": 5,
-      "updated_at": "2025-10-23T13:12:07Z",
-      "version": "1.2.0"
+      "stars": 0,
+      "updated_at": "",
+      "version": "1.0.0"
     },
     "astrbot_plugin_angel_heart": {
       "desc": "天使心秘书，是一个专为 AstrBot 平台设计的智能群聊交互插件。它采用创新的两级AI协作架构，实现高质量、低成本的智能对话交互，让 AI 成为懂分寸、有眼色的聊天伙伴。",
@@ -2021,8 +2088,8 @@
         "主动应答"
       ],
       "social_link": "https://github.com/kawayiYokami",
-      "stars": 16,
-      "updated_at": "2025-11-24T05:42:00Z",
+      "stars": 18,
+      "updated_at": "2025-11-24T16:16:39Z",
       "version": "0.7.0"
     },
     "astrbot_plugin_angel_eye": {
@@ -2211,9 +2278,9 @@
       "author": "shskjw",
       "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
       "tags": [],
-      "stars": 20,
-      "updated_at": "2025-11-24T05:26:01Z",
-      "version": "v1.4.3"
+      "stars": 21,
+      "updated_at": "2025-11-24T19:43:17Z",
+      "version": "v1.5.6"
     },
     "astrbot_plugin_group_chat": {
       "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -2363,8 +2430,8 @@
         "memory",
         "rag"
       ],
-      "stars": 40,
-      "updated_at": "2025-11-22T14:45:34Z",
+      "stars": 41,
+      "updated_at": "2025-11-24T16:23:22Z",
       "version": "1.7.2",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_livingmemory/logo"
     },
@@ -2447,8 +2514,8 @@
         "画图",
         "AI绘画"
       ],
-      "stars": 21,
-      "updated_at": "2025-10-29T01:44:59Z",
+      "stars": 22,
+      "updated_at": "2025-11-24T14:54:32Z",
       "version": "v1.8.1"
     },
     "github_star_verify": {
@@ -2982,8 +3049,8 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 21,
-      "updated_at": "2025-11-24T07:37:49Z",
-      "version": "v1.1.6",
+      "updated_at": "2025-11-24T16:52:43Z",
+      "version": "v1.1.7",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_wakepro/logo"
     },
     "astrbot_plugin_memora_connect": {
@@ -3130,8 +3197,8 @@
         "表白墙"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 29,
-      "updated_at": "2025-11-24T10:32:22Z",
+      "stars": 30,
+      "updated_at": "2025-11-24T18:57:35Z",
       "version": "v2.2.3",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_qzone/logo"
     },
@@ -4337,7 +4404,7 @@
       ],
       "repo": "https://github.com/itismygo/astrbot_plugin_mathjax2image",
       "stars": 2,
-      "updated_at": "2025-06-17T03:57:06Z",
+      "updated_at": "2025-11-24T16:49:36Z",
       "version": "v1.0"
     },
     "astrbot_plugin_xyzw_box": {
@@ -4833,8 +4900,8 @@
       "desc": "DZMM聊天插件，适配了DZMM返回的格式，并避免与AstrBot的模型混用，可用特别命令唤起DZMM的模型进行\"有趣生动\"的互动聊天。",
       "repo": "https://github.com/VincenttHo/astrbot_plugin_dzmm",
       "tags": [],
-      "stars": 13,
-      "updated_at": "2025-11-08T15:15:31Z",
+      "stars": 14,
+      "updated_at": "2025-11-24T14:20:25Z",
       "version": "v1.1.0"
     },
     "astrbot_plugin_text2image": {
@@ -5959,8 +6026,8 @@
         "图库"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_gallery",
-      "stars": 20,
-      "updated_at": "2025-11-22T13:28:26Z",
+      "stars": 21,
+      "updated_at": "2025-11-24T14:49:20Z",
       "version": "v2.0.3",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_gallery/logo"
     },
@@ -7036,8 +7103,8 @@
       ],
       "social_link": "https://github.com/miaoxutao123/",
       "stars": 56,
-      "updated_at": "2025-11-17T05:24:42Z",
-      "version": "v0.2.13"
+      "updated_at": "2025-11-24T12:35:52Z",
+      "version": "v0.2.14"
     },
     "astrbot_plugin_sjzb": {
       "desc": "随机生成《绝地潜兵2》游戏中一组 4 个战备配置",
@@ -8074,7 +8141,7 @@
       "repo": "https://github.com/zouyonghe/astrbot_plugin_ebooks",
       "tags": [],
       "stars": 13,
-      "updated_at": "2025-10-03T09:13:27Z",
+      "updated_at": "2025-11-24T14:04:25Z",
       "version": "v1.1.2"
     },
     "astrbot_plugin_AIQTalk": {
@@ -8119,7 +8186,7 @@
       "repo": "https://github.com/zouyonghe/astrbot_plugin_voicevox",
       "tags": [],
       "stars": 4,
-      "updated_at": "2025-04-08T11:24:29Z",
+      "updated_at": "2025-11-24T14:20:24Z",
       "version": "v1.0.3"
     },
     "astrbot_plugin_miaomiao": {
