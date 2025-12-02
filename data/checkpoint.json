@@ -1,11 +1,51 @@
 {
-  "timestamp": "2025-12-02T01:44:39.197Z",
+  "timestamp": "2025-12-02T12:46:51.249Z",
   "github": {
-    "stars": 13851,
-    "forks": 1050,
+    "stars": 13873,
+    "forks": 1055,
     "contributors": 112
   },
   "plugins": {
+    "astrbot_plugin_markdown_killer": {
+      "name": "",
+      "display_name": "Markdown 杀手",
+      "desc": "移除 LLM 输出中的 Markdown 格式",
+      "author": "AlanBacker",
+      "repo": "https://github.com/AlanBacker/astrbot_plugin_markdown_killer",
+      "tags": [
+        "Markdown",
+        "格式"
+      ],
+      "social_link": "https://space.bilibili.com/702922307",
+      "stars": 1,
+      "updated_at": "2025-12-02T07:47:19Z",
+      "version": "0.0.4"
+    },
+    "astrbot_plugin_fox_status": {
+      "display_name": "Fox 状态监控",
+      "desc": "一个用于获取 AstrBot 服务器状态的插件。",
+      "author": "GoodBoyboy",
+      "repo": "https://github.com/GoodBoyboy666/astrbot_plugin_fox_status",
+      "tags": [
+        "工具",
+        "状态",
+        "服务器"
+      ],
+      "social_link": "https://github.com/GoodBoyboy666",
+      "stars": 0,
+      "updated_at": "2025-12-01T10:01:47Z",
+      "version": "v1.0.1"
+    },
+    "astrbot_plugin_ojs": {
+      "display_name": "ojisan",
+      "desc": "在特定群聊某人发言后概率触发列表内的回复。",
+      "author": "Tedi-Dino",
+      "repo": "https://github.com/Tedi-Dino/astrbot_plugin_ojs",
+      "tags": [],
+      "stars": 0,
+      "updated_at": "2025-12-01T02:33:25Z",
+      "version": "v0.1"
+    },
     "astrbot_plugin_gifcaijian": {
       "display_name": "裁剪和合并 GIF",
       "desc": "可以裁剪和合并gif 分解等功能（后续慢慢润化）",
@@ -13,8 +53,24 @@
       "repo": "https://github.com/shskjw/astrbot_plugin_gifcaijian",
       "tags": [],
       "stars": 3,
-      "updated_at": "2025-12-01T12:00:39Z",
-      "version": "1.0.0"
+      "updated_at": "2025-12-02T11:13:43Z",
+      "version": "v1.3.5"
+    },
+    "astrbot_plugin_AtTool": {
+      "display_name": "@工具（艾特工具）",
+      "desc": "提供给LLM自然使用的@工具",
+      "author": "糯米茨",
+      "repo": "https://github.com/nuomicici/astrbot_plugin_AtTool",
+      "tags": [
+        "工具",
+        "tool",
+        "@"
+      ],
+      "social_link": "https://qm.qq.com/q/RMjGPizOAm",
+      "stars": 2,
+      "updated_at": "2025-12-02T10:36:57Z",
+      "version": "v2.0",
+      "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_AtTool/logo"
     },
     "astrbot_plugin_aicu_analysis": {
       "display_name": "aicu-b站评论查询",
@@ -27,7 +83,7 @@
       "repo": "https://github.com/Huahuatgc/astrbot_plugin_aicu",
       "social_link": "https://github.com/Huahuatgc",
       "stars": 0,
-      "updated_at": "2025-12-01T14:54:51Z",
+      "updated_at": "2025-12-02T02:21:06Z",
       "version": "2.5.0",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_aicu_analysis/logo"
     },
@@ -41,6 +97,21 @@
       "stars": 0,
       "updated_at": "2025-11-27T13:07:40Z",
       "version": "v1.0.0"
+    },
+    "astrbot_plugin_video_analysis": {
+      "display_name": "Video Analysis",
+      "desc": "支持对来自视频平台的分享进行解析并以视频形式发送。",
+      "author": "Foolllll",
+      "repo": "https://github.com/Foolllll-J/astrbot_plugin_video_analysis",
+      "tags": [
+        "视频解析",
+        "B站",
+        "抖音"
+      ],
+      "stars": 0,
+      "updated_at": "2025-11-24T17:39:05Z",
+      "version": "v1.0",
+      "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_video_analysis/logo"
     },
     "astrbot_plugin_image_generation": {
       "display_name": "image_generation",
@@ -83,7 +154,7 @@
       ],
       "social_link": "https://github.com/itismygo",
       "stars": 0,
-      "updated_at": "2025-11-27T05:02:22Z",
+      "updated_at": "2025-12-02T01:35:39Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_web_analyzer": {
@@ -112,8 +183,8 @@
         "comfyui"
       ],
       "social_link": "",
-      "stars": 0,
-      "updated_at": "2025-11-30T15:12:36Z",
+      "stars": 1,
+      "updated_at": "2025-12-02T05:38:55Z",
       "version": "3.2.2"
     },
     "astrbot_plugin_timeprogress": {
@@ -238,8 +309,8 @@
         "gal"
       ],
       "social_link": "https://github.com/bvzrays",
-      "stars": 31,
-      "updated_at": "2025-12-01T18:12:40Z",
+      "stars": 33,
+      "updated_at": "2025-12-02T04:05:29Z",
       "version": "v2.0.0",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_chuanhuatong/logo"
     },
@@ -313,8 +384,8 @@
         "AI"
       ],
       "stars": 0,
-      "updated_at": "2025-11-19T09:21:12Z",
-      "version": "v1.0.0",
+      "updated_at": "2025-12-02T02:49:21Z",
+      "version": "v1.0.1",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_nyscheduler/logo"
     },
     "astrbot_plugin_api_fetcher": {
@@ -399,8 +470,8 @@
         "llm工具"
       ],
       "social_link": "https://github.com/vmoranv",
-      "stars": 2,
-      "updated_at": "2025-11-30T02:59:40Z",
+      "stars": 3,
+      "updated_at": "2025-12-02T10:10:45Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_whitelistpro": {
@@ -444,7 +515,7 @@
       ],
       "social_link": "blog.eeete.fun",
       "stars": 0,
-      "updated_at": "2025-12-01T07:59:27Z",
+      "updated_at": "2025-12-02T10:19:47Z",
       "version": "v0.0.3"
     },
     "astrbot_plugin_rg2": {
@@ -635,8 +706,8 @@
       "repo": "https://github.com/libin99527/astrbot_plugin_werewolf",
       "tags": [],
       "stars": 6,
-      "updated_at": "2025-11-29T13:29:08Z",
-      "version": "v1.0.0",
+      "updated_at": "2025-12-02T07:59:45Z",
+      "version": "v2.0.0",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_werewolf/logo"
     },
     "astrbot_plugin_media_parser": {
@@ -1596,8 +1667,8 @@
         "sora"
       ],
       "stars": 27,
-      "updated_at": "2025-11-21T02:24:37Z",
-      "version": "v1.2.6"
+      "updated_at": "2025-12-02T10:01:06Z",
+      "version": "v1.3.0"
     },
     "astrbot_gengtu": {
       "desc": "梗图抽象猜词插件，获取图片题目并校验答案。",
@@ -2445,8 +2516,8 @@
       ],
       "social_link": "https://github.com/kawayiYokami",
       "stars": 18,
-      "updated_at": "2025-11-26T02:35:25Z",
-      "version": "0.7.3"
+      "updated_at": "2025-12-02T06:58:27Z",
+      "version": "0.7.5"
     },
     "astrbot_plugin_angel_eye": {
       "desc": "在调用大模型之前，通过小模型识别对话中的专有名词并链接百科知识，为大模型补充上下文，使其更“见多识广”。",
@@ -2894,8 +2965,8 @@
         "总结"
       ],
       "social_link": "https://github.com/SXP-Simon",
-      "stars": 76,
-      "updated_at": "2025-12-01T09:44:18Z",
+      "stars": 77,
+      "updated_at": "2025-12-02T04:35:29Z",
       "version": "v4.3.0",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot-qq-group-daily-analysis/logo"
     },
@@ -4538,8 +4609,8 @@
       "repo": "https://github.com/sa1guu/astrbot_plugin_touchi",
       "tags": [],
       "stars": 28,
-      "updated_at": "2025-12-01T07:25:20Z",
-      "version": "v2.7.5",
+      "updated_at": "2025-12-02T09:33:57Z",
+      "version": "v2.7.6",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_touchi/logo"
     },
     "astrbot_plugin_Astrsupermarket": {
@@ -4716,7 +4787,7 @@
       ],
       "social_link": "https://github.com/oyxning",
       "stars": 35,
-      "updated_at": "2025-11-26T15:48:33Z",
+      "updated_at": "2025-12-02T07:28:32Z",
       "version": "v3.4.0",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_antipromptinjector/logo"
     },
@@ -5452,8 +5523,8 @@
         "画像"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 41,
-      "updated_at": "2025-12-01T13:42:39Z",
+      "stars": 42,
+      "updated_at": "2025-12-02T01:33:59Z",
       "version": "v1.0.5",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_portrayal/logo"
     },
@@ -5968,8 +6039,8 @@
         "api"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-      "stars": 106,
-      "updated_at": "2025-12-01T11:26:19Z",
+      "stars": 107,
+      "updated_at": "2025-12-02T08:29:06Z",
       "version": "v2.0.6",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_apis/logo"
     },
@@ -6363,8 +6434,8 @@
         "图库"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_gallery",
-      "stars": 21,
-      "updated_at": "2025-11-24T14:49:20Z",
+      "stars": 22,
+      "updated_at": "2025-12-02T07:04:54Z",
       "version": "v2.0.3",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_gallery/logo"
     },
@@ -6541,8 +6612,8 @@
       "desc": "[仅QQ] 赞我！（一个名片点赞插件）。可选是否开启白名单。",
       "social_link": "https://github.com/Futureppo",
       "repo": "https://github.com/Futureppo/astrbot_plugin_zanwo",
-      "stars": 19,
-      "updated_at": "2025-12-01T20:14:55Z",
+      "stars": 18,
+      "updated_at": "2025-12-02T01:39:46Z",
       "version": "v1.0.8"
     },
     "astrbot_plugin_ehentai_bot": {
@@ -6675,9 +6746,9 @@
       "tags": [
         "QQ群管"
       ],
-      "stars": 65,
-      "updated_at": "2025-12-01T07:35:10Z",
-      "version": "v3.2.1",
+      "stars": 66,
+      "updated_at": "2025-12-02T07:25:33Z",
+      "version": "v3.2.2",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_qqadmin/logo"
     },
     "astrbot_plugin_liars_bar": {
@@ -7793,7 +7864,7 @@
         "图床"
       ],
       "stars": 102,
-      "updated_at": "2025-11-30T11:15:23Z",
+      "updated_at": "2025-12-02T04:48:42Z",
       "version": "v3.19"
     },
     "mccloud_command": {
@@ -8073,8 +8144,8 @@
       "repo": "https://github.com/zouyonghe/astrbot_plugin_SDGen",
       "tags": [],
       "stars": 18,
-      "updated_at": "2025-11-26T00:40:14Z",
-      "version": "v1.2.0"
+      "updated_at": "2025-12-02T02:32:25Z",
+      "version": "v1.2.1"
     },
     "astrbot_plugin_sysinfo": {
       "desc": "获取当前系统状态",
