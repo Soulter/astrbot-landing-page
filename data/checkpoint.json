@@ -1,9 +1,9 @@
 {
-  "timestamp": "2025-12-02T12:46:51.249Z",
+  "timestamp": "2025-12-03T01:44:19.260Z",
   "github": {
-    "stars": 13873,
-    "forks": 1055,
-    "contributors": 112
+    "stars": 13880,
+    "forks": 1058,
+    "contributors": 113
   },
   "plugins": {
     "astrbot_plugin_markdown_killer": {
@@ -138,8 +138,8 @@
       ],
       "social_link": "https://github.com/Loping151/ScoreEcho",
       "stars": 4,
-      "updated_at": "2025-12-01T12:09:15Z",
-      "version": "3.1.3",
+      "updated_at": "2025-12-02T17:17:17Z",
+      "version": "3.1.5",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_echoscore/logo"
     },
     "astrbot_plugin_vocabularycard": {
@@ -154,7 +154,7 @@
       ],
       "social_link": "https://github.com/itismygo",
       "stars": 0,
-      "updated_at": "2025-12-02T01:35:39Z",
+      "updated_at": "2025-12-02T15:25:04Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_web_analyzer": {
@@ -169,7 +169,7 @@
       ],
       "social_link": "https://box.firefly520.top/",
       "stars": 5,
-      "updated_at": "2025-12-01T14:59:15Z",
+      "updated_at": "2025-12-02T15:11:50Z",
       "version": "1.2.2",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_web_analyzer/logo"
     },
@@ -183,8 +183,8 @@
         "comfyui"
       ],
       "social_link": "",
-      "stars": 1,
-      "updated_at": "2025-12-02T05:38:55Z",
+      "stars": 2,
+      "updated_at": "2025-12-02T12:49:11Z",
       "version": "3.2.2"
     },
     "astrbot_plugin_timeprogress": {
@@ -198,7 +198,7 @@
       ],
       "social_link": "https://github.com/itismygo",
       "stars": 0,
-      "updated_at": "2025-11-26T16:58:51Z",
+      "updated_at": "2025-12-02T16:10:27Z",
       "version": "v1.4.0"
     },
     "astrbot_plugin_openlistfile": {
@@ -407,7 +407,7 @@
         "ftp"
       ],
       "stars": 0,
-      "updated_at": "2025-11-29T14:22:53Z",
+      "updated_at": "2025-12-02T14:16:11Z",
       "version": "1.1.0"
     },
     "astrbot_plugin_hotsearch": {
@@ -492,7 +492,7 @@
       "repo": "https://github.com/GuJi08233/astrbot_plugin_val_shop",
       "tags": [],
       "stars": 2,
-      "updated_at": "2025-12-01T05:23:19Z",
+      "updated_at": "2025-12-02T19:10:05Z",
       "version": "v3.2.1"
     },
     "astrbot_plugin_doubao": {
@@ -1406,7 +1406,7 @@
       ],
       "social_link": "https://github.com/DBJD-CR",
       "stars": 41,
-      "updated_at": "2025-12-01T19:48:36Z",
+      "updated_at": "2025-12-02T11:23:32Z",
       "version": "v1.0.0-beta.6",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_proactive_chat/logo"
     },
@@ -1922,8 +1922,8 @@
         "群文件"
       ],
       "stars": 0,
-      "updated_at": "2025-11-25T04:22:12Z",
-      "version": "v1.6",
+      "updated_at": "2025-12-02T16:22:02Z",
+      "version": "v1.6.1",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_file_checker/logo"
     },
     "astrbot_plugin_JMCOMIC": {
@@ -2516,8 +2516,8 @@
       ],
       "social_link": "https://github.com/kawayiYokami",
       "stars": 18,
-      "updated_at": "2025-12-02T06:58:27Z",
-      "version": "0.7.5"
+      "updated_at": "2025-12-02T14:31:33Z",
+      "version": "0.7.6"
     },
     "astrbot_plugin_angel_eye": {
       "desc": "在调用大模型之前，通过小模型识别对话中的专有名词并链接百科知识，为大模型补充上下文，使其更“见多识广”。",
@@ -2705,8 +2705,8 @@
       "author": "shskjw",
       "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
       "tags": [],
-      "stars": 28,
-      "updated_at": "2025-11-30T04:22:49Z",
+      "stars": 29,
+      "updated_at": "2025-12-02T12:44:48Z",
       "version": "v1.6.3"
     },
     "astrbot_plugin_group_chat": {
@@ -2914,8 +2914,8 @@
         "消息"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 1,
-      "updated_at": "2025-10-31T06:18:47Z",
+      "stars": 2,
+      "updated_at": "2025-12-02T17:31:55Z",
       "version": "v1.0.3",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_multimsg/logo"
     },
@@ -2965,8 +2965,8 @@
         "总结"
       ],
       "social_link": "https://github.com/SXP-Simon",
-      "stars": 77,
-      "updated_at": "2025-12-02T04:35:29Z",
+      "stars": 78,
+      "updated_at": "2025-12-02T15:35:29Z",
       "version": "v4.3.0",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot-qq-group-daily-analysis/logo"
     },
@@ -3255,8 +3255,8 @@
         "手办化"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 142,
-      "updated_at": "2025-12-01T08:47:34Z",
+      "stars": 143,
+      "updated_at": "2025-12-02T20:43:04Z",
       "version": "v2.1.3",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_lmarena/logo"
     },
@@ -3476,8 +3476,8 @@
         "唤醒增强"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 22,
-      "updated_at": "2025-11-27T17:32:27Z",
+      "stars": 23,
+      "updated_at": "2025-12-02T13:35:44Z",
       "version": "v1.1.7",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_wakepro/logo"
     },
@@ -3625,8 +3625,8 @@
         "表白墙"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 35,
-      "updated_at": "2025-12-01T04:34:06Z",
+      "stars": 36,
+      "updated_at": "2025-12-02T12:28:27Z",
       "version": "v2.2.7",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_qzone/logo"
     },
@@ -4312,7 +4312,7 @@
       ],
       "author": null,
       "stars": 16,
-      "updated_at": "2025-11-28T16:50:20Z",
+      "updated_at": "2025-12-02T14:15:52Z",
       "version": "2.3.0"
     },
     "astrbot_plugin_group_sign": {
@@ -5093,8 +5093,8 @@
       "desc": "Bilibili视频字幕总结插件，获取B站视频字幕并使用LLM生成内容总结",
       "repo": "https://github.com/VincenttHo/astrbot_plugin_bilibili_summary",
       "tags": [],
-      "stars": 4,
-      "updated_at": "2025-11-18T06:33:51Z",
+      "stars": 5,
+      "updated_at": "2025-12-02T14:25:54Z",
       "version": "v1.0.1"
     },
     "astrbot_plugin_steam_status_monitor": {
@@ -5675,7 +5675,7 @@
       ],
       "social_link": "https://github.com/GEMILUXVII",
       "stars": 19,
-      "updated_at": "2025-11-30T15:52:59Z",
+      "updated_at": "2025-12-02T12:14:11Z",
       "version": "v2.0.1"
     },
     "astrbot_plugin_liblibapi": {
@@ -5739,8 +5739,8 @@
         "禁漫"
       ],
       "social_link": "https://github.com/GEMILUXVII",
-      "stars": 62,
-      "updated_at": "2025-11-30T15:50:59Z",
+      "stars": 63,
+      "updated_at": "2025-12-02T12:13:37Z",
       "version": "1.1.0"
     },
     "astrbot_plugin_combine-messages": {
@@ -5944,8 +5944,8 @@
         "动漫"
       ],
       "social_link": "https://github.com/mingrixiangnai/0721anime",
-      "stars": 3,
-      "updated_at": "2025-11-25T18:38:15Z",
+      "stars": 4,
+      "updated_at": "2025-12-02T15:04:51Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_fishing": {
@@ -6746,8 +6746,8 @@
       "tags": [
         "QQ群管"
       ],
-      "stars": 66,
-      "updated_at": "2025-12-02T07:25:33Z",
+      "stars": 67,
+      "updated_at": "2025-12-02T22:30:57Z",
       "version": "v3.2.2",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_qqadmin/logo"
     },
@@ -7241,8 +7241,8 @@
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
       "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
-      "stars": 67,
-      "updated_at": "2025-11-21T16:07:39Z",
+      "stars": 68,
+      "updated_at": "2025-12-02T16:58:14Z",
       "version": "v3.0.3",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_memelite/logo"
     },
@@ -7863,8 +7863,8 @@
         "webui",
         "图床"
       ],
-      "stars": 102,
-      "updated_at": "2025-12-02T04:48:42Z",
+      "stars": 103,
+      "updated_at": "2025-12-02T13:12:45Z",
       "version": "v3.19"
     },
     "mccloud_command": {
