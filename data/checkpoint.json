@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-12-05T12:44:48.880Z",
+  "timestamp": "2025-12-06T01:39:35.504Z",
   "github": {
-    "stars": 13937,
+    "stars": 13939,
     "forks": 1070,
     "contributors": 113
   },
@@ -18,8 +18,8 @@
         "推送"
       ],
       "stars": 0,
-      "updated_at": "2025-12-04T22:19:47Z",
-      "version": "v1.4.0"
+      "updated_at": "2025-12-05T23:18:04Z",
+      "version": "v1.4.1"
     },
     "astrbot_plugin_comfyui_pro": {
       "display_name": "高级 ComfyUI 绘图插件",
@@ -207,8 +207,8 @@
         "每日一词"
       ],
       "social_link": "https://github.com/itismygo",
-      "stars": 1,
-      "updated_at": "2025-12-03T12:47:24Z",
+      "stars": 2,
+      "updated_at": "2025-12-05T21:21:33Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_web_analyzer": {
@@ -265,8 +265,8 @@
         "文件管理",
         "网盘"
       ],
-      "stars": 0,
-      "updated_at": "2025-11-29T11:59:10Z",
+      "stars": 1,
+      "updated_at": "2025-12-05T17:19:45Z",
       "version": "v1.1.2",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_openlistfile/logo"
     },
@@ -296,9 +296,9 @@
         "修图"
       ],
       "social_link": "https://github.com/piexian",
-      "stars": 10,
-      "updated_at": "2025-12-05T10:01:54Z",
-      "version": "v1.6.4",
+      "stars": 11,
+      "updated_at": "2025-12-05T22:34:55Z",
+      "version": "v1.6.5",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_gemini_image_generation/logo"
     },
     "astrbot_plugin_genshinimpact": {
@@ -364,7 +364,7 @@
       ],
       "social_link": "https://github.com/bvzrays",
       "stars": 36,
-      "updated_at": "2025-12-05T08:17:10Z",
+      "updated_at": "2025-12-05T17:54:33Z",
       "version": "v2.0.0",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_chuanhuatong/logo"
     },
@@ -939,8 +939,8 @@
       "tags": [
         "指令"
       ],
-      "stars": 3,
-      "updated_at": "2025-11-26T15:17:50Z",
+      "stars": 4,
+      "updated_at": "2025-12-05T14:20:10Z",
       "version": "1.1.3",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_permission-manager/logo"
     },
@@ -960,10 +960,10 @@
       "desc": "接入硅基流动画图，图片编辑，可自定义预设",
       "author": "shskjw",
       "repo": "https://github.com/shskjw/astrbot_plugin_siliconflow-shouban",
-      "version": "v1.0.0",
+      "version": "v1.3.5",
       "tags": [],
       "stars": 1,
-      "updated_at": "2025-11-16T02:13:39Z"
+      "updated_at": "2025-12-05T12:41:01Z"
     },
     "astrbot_plugin_eatdrink": {
       "display_name": "吃喝什么呢？",
@@ -1461,8 +1461,8 @@
       ],
       "social_link": "https://github.com/DBJD-CR",
       "stars": 44,
-      "updated_at": "2025-12-04T09:47:07Z",
-      "version": "v1.0.0-beta.6",
+      "updated_at": "2025-12-05T16:05:39Z",
+      "version": "v1.0.0-beta.7",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_proactive_chat/logo"
     },
     "astrbot-plugin-moremorelove": {
@@ -1638,8 +1638,8 @@
         "实用"
       ],
       "stars": 7,
-      "updated_at": "2025-12-03T01:34:59Z",
-      "version": "v2.8.1",
+      "updated_at": "2025-12-05T14:38:18Z",
+      "version": "v2.8.2",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_daily_limit/logo"
     },
     "astrbot_plugin_acm_helper": {
@@ -1937,7 +1937,7 @@
       "repo": "https://github.com/BGYdook/AstrBot-plugin-tmp-bot",
       "tags": [],
       "stars": 3,
-      "updated_at": "2025-11-29T04:35:09Z",
+      "updated_at": "2025-12-05T14:37:07Z",
       "version": "1.6.1"
     },
     "astrbot_plugin_33recognition": {
@@ -2559,8 +2559,8 @@
         "TTS"
       ],
       "stars": 5,
-      "updated_at": "2025-10-23T13:12:07Z",
-      "version": "1.2.0"
+      "updated_at": "2025-12-05T17:12:49Z",
+      "version": "1.2.2"
     },
     "astrbot_plugin_angel_heart": {
       "desc": "天使心秘书，是一个专为 AstrBot 平台设计的智能群聊交互插件。它采用创新的两级AI协作架构，实现高质量、低成本的智能对话交互，让 AI 成为懂分寸、有眼色的聊天伙伴。",
@@ -2762,8 +2762,8 @@
       "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
       "tags": [],
       "stars": 29,
-      "updated_at": "2025-12-05T10:36:11Z",
-      "version": "v1.6.3"
+      "updated_at": "2025-12-05T11:58:42Z",
+      "version": "v1.6.8"
     },
     "astrbot_plugin_group_chat": {
       "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -3022,8 +3022,8 @@
         "总结"
       ],
       "social_link": "https://github.com/SXP-Simon",
-      "stars": 78,
-      "updated_at": "2025-12-02T15:35:29Z",
+      "stars": 80,
+      "updated_at": "2025-12-05T18:03:03Z",
       "version": "v4.3.0",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot-qq-group-daily-analysis/logo"
     },
@@ -3041,8 +3041,8 @@
       "author": "furryhm",
       "repo": "https://github.com/furryHM-mrz/astrbot_plugin_furry_dsgg",
       "tags": [],
-      "stars": 0,
-      "updated_at": "2025-08-25T11:19:53Z",
+      "stars": 1,
+      "updated_at": "2025-12-05T12:50:18Z",
       "version": "v1.0.3"
     },
     "astrbot_plugin_mememaker_api": {
@@ -5900,8 +5900,8 @@
         "工具"
       ],
       "social_link": "https://space.bilibili.com/26584382",
-      "stars": 5,
-      "updated_at": "2025-10-07T02:59:03Z",
+      "stars": 6,
+      "updated_at": "2025-12-05T19:04:32Z",
       "version": "v1.1"
     },
     "astrbot_plugin_supervisor": {
@@ -6809,8 +6809,8 @@
         "QQ群管"
       ],
       "stars": 69,
-      "updated_at": "2025-12-05T01:56:40Z",
-      "version": "v3.2.3",
+      "updated_at": "2025-12-05T15:29:44Z",
+      "version": "v3.2.4",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_qqadmin/logo"
     },
     "astrbot_plugin_liars_bar": {
@@ -6971,8 +6971,8 @@
         "安全"
       ],
       "stars": 7,
-      "updated_at": "2025-12-03T01:34:59Z",
-      "version": "v2.8.1",
+      "updated_at": "2025-12-05T14:38:18Z",
+      "version": "v2.8.2",
       "logo": "https://api.soulter.top/astrbot/plugin/daily_limit/logo"
     },
     "JmCli": {
@@ -7738,8 +7738,8 @@
       "author": "NEST",
       "repo": "https://github.com/4Nest/astrbot_plugin_mp_sub",
       "tags": [],
-      "stars": 16,
-      "updated_at": "2025-05-27T17:55:58Z",
+      "stars": 17,
+      "updated_at": "2025-12-05T16:41:49Z",
       "version": "v1.1.1"
     },
     "astrbot_plugin_nofap": {
@@ -8050,8 +8050,8 @@
       "author": "MC云-小馒头",
       "repo": "https://github.com/MCYUNIDC/mccloud_deepseek",
       "tags": [],
-      "stars": 1,
-      "updated_at": "2025-05-02T07:48:44Z",
+      "stars": 2,
+      "updated_at": "2025-12-05T15:49:56Z",
       "version": "v1.0"
     },
     "mccloud_site": {
