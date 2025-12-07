@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-12-07T01:53:08.318Z",
+  "timestamp": "2025-12-07T12:39:01.522Z",
   "github": {
-    "stars": 13955,
-    "forks": 1072,
+    "stars": 13966,
+    "forks": 1071,
     "contributors": 113
   },
   "plugins": {
@@ -18,8 +18,8 @@
         "LLM 工具"
       ],
       "social_link": "https://github.com/sl251",
-      "stars": 0,
-      "updated_at": "2025-12-06T13:12:13Z",
+      "stars": 1,
+      "updated_at": "2025-12-07T04:38:34Z",
       "version": "1.0.1",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_e2b_sandbox/logo"
     },
@@ -73,9 +73,10 @@
         "画图"
       ],
       "social_link": "https://github.com/muyouzhi6",
-      "stars": 7,
-      "updated_at": "2025-12-06T14:19:47Z",
-      "version": "v1.1"
+      "stars": 9,
+      "updated_at": "2025-12-07T09:24:42Z",
+      "version": "v1.1.1",
+      "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_gitee_aiimg/logo"
     },
     "astrbot_plugin_bananic_ninjutsu": {
       "display_name": "香蕉忍法帖",
@@ -84,8 +85,8 @@
       "repo": "https://github.com/bylkuse/astrbot_plugin_bananic_ninjutsu",
       "tags": [],
       "stars": 1,
-      "updated_at": "2025-12-06T15:42:01Z",
-      "version": "v0.0.9",
+      "updated_at": "2025-12-07T08:13:12Z",
+      "version": "v0.1.0",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_bananic_ninjutsu/logo"
     },
     "astrbot_plugin_ASCII": {
@@ -97,8 +98,8 @@
         "图片转换"
       ],
       "stars": 0,
-      "updated_at": "2025-12-06T18:11:13Z",
-      "version": "1.3.1"
+      "updated_at": "2025-12-07T06:12:37Z",
+      "version": "1.4.2"
     },
     "astrbot_plugin_smart_translator": {
       "display_name": "Smart Translator",
@@ -121,8 +122,8 @@
       ],
       "social_link": "https://qm.qq.com/q/d4lwUp9ap4",
       "stars": 1,
-      "updated_at": "2025-12-06T13:39:43Z",
-      "version": "v1.0.0"
+      "updated_at": "2025-12-07T07:13:47Z",
+      "version": "V1.0.1"
     },
     "astrbot_plugin_AIpaper": {
       "name": "",
@@ -149,7 +150,7 @@
         "comfyui"
       ],
       "stars": 2,
-      "updated_at": "2025-12-05T06:00:45Z",
+      "updated_at": "2025-12-07T11:15:40Z",
       "version": "1.2.0"
     },
     "astrbot_plugin_customized_active_reply_prompt": {
@@ -225,8 +226,8 @@
         "@"
       ],
       "social_link": "https://qm.qq.com/q/RMjGPizOAm",
-      "stars": 4,
-      "updated_at": "2025-12-06T20:27:15Z",
+      "stars": 5,
+      "updated_at": "2025-12-07T08:32:57Z",
       "version": "v2.2",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_AtTool/logo"
     },
@@ -280,8 +281,8 @@
         "B站",
         "抖音"
       ],
-      "stars": 1,
-      "updated_at": "2025-12-05T07:00:18Z",
+      "stars": 2,
+      "updated_at": "2025-12-07T09:22:43Z",
       "version": "v1.0",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_video_analysis/logo"
     },
@@ -341,8 +342,8 @@
         "每日一词"
       ],
       "social_link": "https://github.com/itismygo",
-      "stars": 4,
-      "updated_at": "2025-12-06T09:10:26Z",
+      "stars": 5,
+      "updated_at": "2025-12-07T03:43:00Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_web_analyzer": {
@@ -357,8 +358,8 @@
       ],
       "social_link": "https://box.firefly520.top/",
       "stars": 9,
-      "updated_at": "2025-12-06T09:06:52Z",
-      "version": "1.2.3",
+      "updated_at": "2025-12-07T11:06:31Z",
+      "version": "1.2.4",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_web_analyzer/logo"
     },
     "astrbot_plugin_ComfyUI_promax": {
@@ -973,8 +974,8 @@
         "好感度",
         "情感"
       ],
-      "stars": 8,
-      "updated_at": "2025-11-30T15:43:38Z",
+      "stars": 7,
+      "updated_at": "2025-12-07T05:04:40Z",
       "version": "v3.4",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_emotionai/logo"
     },
@@ -1086,8 +1087,8 @@
       "tags": [
         "磁链"
       ],
-      "stars": 2,
-      "updated_at": "2025-11-14T05:45:12Z",
+      "stars": 3,
+      "updated_at": "2025-12-07T05:25:28Z",
       "version": "v1.0.0"
     },
     "astrbot_plugin_siliconflow-shouban": {
@@ -1097,7 +1098,7 @@
       "version": "v1.3.5",
       "tags": [],
       "stars": 2,
-      "updated_at": "2025-12-06T05:27:28Z"
+      "updated_at": "2025-12-07T00:15:17Z"
     },
     "astrbot_plugin_eatdrink": {
       "display_name": "吃喝什么呢？",
@@ -1556,8 +1557,8 @@
       "tags": [
         "TTS"
       ],
-      "stars": 2,
-      "updated_at": "2025-11-06T15:12:25Z",
+      "stars": 3,
+      "updated_at": "2025-12-07T09:30:37Z",
       "version": "v0.3",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_tts_sanitizer/logo"
     },
@@ -1595,7 +1596,7 @@
       ],
       "social_link": "https://github.com/DBJD-CR",
       "stars": 45,
-      "updated_at": "2025-12-06T17:07:28Z",
+      "updated_at": "2025-12-07T09:30:50Z",
       "version": "v1.0.0-beta.7",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_proactive_chat/logo"
     },
@@ -1821,8 +1822,8 @@
         "nobroswer"
       ],
       "stars": 15,
-      "updated_at": "2025-12-05T08:23:26Z",
-      "version": "v1.2.0"
+      "updated_at": "2025-12-07T10:00:46Z",
+      "version": "v1.3.0"
     },
     "astrbot_plugin_fetch_summary": {
       "desc": "根据 URL 获取网站摘要",
@@ -1878,9 +1879,9 @@
       "author": "薄暝",
       "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
       "tags": [],
-      "stars": 10,
-      "updated_at": "2025-12-04T08:37:21Z",
-      "version": "v3.6.0",
+      "stars": 11,
+      "updated_at": "2025-12-07T09:46:23Z",
+      "version": "v3.7.0",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_zssm_explain/logo"
     },
     "astrbot_plugin_timeline": {
@@ -2071,7 +2072,7 @@
       "repo": "https://github.com/BGYdook/AstrBot-plugin-tmp-bot",
       "tags": [],
       "stars": 3,
-      "updated_at": "2025-12-05T14:37:07Z",
+      "updated_at": "2025-12-07T04:40:43Z",
       "version": "1.6.1"
     },
     "astrbot_plugin_33recognition": {
@@ -2655,8 +2656,8 @@
         "Steam"
       ],
       "social_link": "https://github.com/Maoer233",
-      "stars": 3,
-      "updated_at": "2025-12-06T18:06:46Z",
+      "stars": 4,
+      "updated_at": "2025-12-07T11:10:57Z",
       "version": "1.0.1"
     },
     "astrbot_plugin_personal_selfupdate": {
@@ -2692,9 +2693,9 @@
       "tags": [
         "TTS"
       ],
-      "stars": 5,
-      "updated_at": "2025-12-06T15:55:28Z",
-      "version": "1.3.0"
+      "stars": 6,
+      "updated_at": "2025-12-07T09:57:02Z",
+      "version": "1.3.1"
     },
     "astrbot_plugin_angel_heart": {
       "desc": "天使心秘书，是一个专为 AstrBot 平台设计的智能群聊交互插件。它采用创新的两级AI协作架构，实现高质量、低成本的智能对话交互，让 AI 成为懂分寸、有眼色的聊天伙伴。",
@@ -3579,7 +3580,7 @@
       "repo": "https://github.com/caqingtgas/astrbot_plugin_provider_ark_ResponsesAPI",
       "tags": [],
       "stars": 0,
-      "updated_at": "2025-08-19T01:53:24Z",
+      "updated_at": "2025-12-07T08:18:12Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_meme_generator": {
@@ -4327,8 +4328,8 @@
         "拟人"
       ],
       "social_link": "https://github.com/advent259141",
-      "stars": 57,
-      "updated_at": "2025-12-06T10:07:41Z",
+      "stars": 58,
+      "updated_at": "2025-12-07T03:55:58Z",
       "version": "1.3.0"
     },
     "cngal_search": {
@@ -5390,8 +5391,8 @@
         "音乐"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 75,
-      "updated_at": "2025-12-03T09:27:26Z",
+      "stars": 77,
+      "updated_at": "2025-12-07T05:42:06Z",
       "version": "v1.0.3",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_music/logo"
     },
@@ -6395,8 +6396,8 @@
       "tags": [
         "工具"
       ],
-      "stars": 4,
-      "updated_at": "2025-11-06T04:48:36Z",
+      "stars": 5,
+      "updated_at": "2025-12-07T11:21:20Z",
       "version": "v2.1.3",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_a2s/logo"
     },
@@ -8212,8 +8213,8 @@
       "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
       "tags": [],
       "stars": 27,
-      "updated_at": "2025-11-17T11:50:06Z",
-      "version": "v1.3.9"
+      "updated_at": "2025-12-07T07:07:50Z",
+      "version": "v1.4.0"
     },
     "ai_memory": {
       "desc": "一个AI记忆管理插件，可以让ai记住重要的事，记忆读取是ai自己调用的，有时候呆呆的ai不会自己调用，可以多问几次或者人格加上特定提示词,输入 /mem_help 查看记忆管理帮助",
@@ -8537,8 +8538,8 @@
       "repo": "https://github.com/zouyonghe/astrbot_plugin_qna",
       "tags": [],
       "stars": 13,
-      "updated_at": "2025-09-26T16:27:03Z",
-      "version": "v1.1.9"
+      "updated_at": "2025-12-07T01:57:03Z",
+      "version": "v1.1.10"
     },
     "astrbot_plugin_waiter": {
       "desc": "用于开发者的对话管理插件",
@@ -8635,8 +8636,8 @@
       "author": "lxfight",
       "repo": "https://github.com/lxfight/astrbot_plugin_memeify",
       "tags": [],
-      "stars": 18,
-      "updated_at": "2025-10-18T14:18:45Z",
+      "stars": 19,
+      "updated_at": "2025-12-07T07:50:36Z",
       "version": "1.0.0"
     },
     "astrbot_plugin_DailyWife": {
@@ -8662,8 +8663,8 @@
       "author": "lxfight",
       "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
       "tags": [],
-      "stars": 147,
-      "updated_at": "2025-12-05T01:02:46Z",
+      "stars": 148,
+      "updated_at": "2025-12-07T07:50:50Z",
       "version": "v2.0.11"
     },
     "FateTrial_img_identify": {
