@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-12-09T12:47:54.813Z",
+  "timestamp": "2025-12-10T01:47:23.552Z",
   "github": {
-    "stars": 14028,
+    "stars": 14035,
     "forks": 1073,
     "contributors": 113
   },
@@ -18,9 +18,9 @@
         "分段"
       ],
       "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
-      "stars": 5,
+      "stars": 4,
       "version": "v1.1.1",
-      "updated_at": "2025-12-09T11:05:51Z",
+      "updated_at": "2025-12-09T16:03:07Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_splitter/logo"
     },
     "astrbot_plugin_e2b_sandbox": {
@@ -55,7 +55,7 @@
       "social_link": "https://github.com/DBJD-CR",
       "stars": 7,
       "version": "v1.0.0",
-      "updated_at": "2025-12-09T06:42:52Z",
+      "updated_at": "2025-12-09T14:58:55Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_disaster_warning/logo"
     },
     "astrbot_plugin_lofter_parser": {
@@ -248,9 +248,9 @@
         "记忆"
       ],
       "social_link": "https://github.com/asakiyoshi",
-      "stars": 0,
+      "stars": 1,
       "version": "v4.0.0",
-      "updated_at": "2025-12-04T09:52:57Z"
+      "updated_at": "2025-12-09T15:04:03Z"
     },
     "astrbot_plugin_markdown_killer": {
       "name": "",
@@ -431,7 +431,7 @@
       "social_link": "https://github.com/itismygo",
       "stars": 6,
       "version": "v1.0.1",
-      "updated_at": "2025-12-09T11:16:25Z"
+      "updated_at": "2025-12-09T13:01:55Z"
     },
     "astrbot_plugin_web_analyzer": {
       "display_name": "网页分析插件",
@@ -532,8 +532,8 @@
         "原神"
       ],
       "stars": 1,
-      "version": "v1.2",
-      "updated_at": "2025-11-30T08:38:56Z",
+      "version": "v1.3",
+      "updated_at": "2025-12-09T15:54:04Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_genshinimpact/logo"
     },
     "astrbot_plugin_parse_hub": {
@@ -585,9 +585,9 @@
         "gal"
       ],
       "social_link": "https://github.com/bvzrays",
-      "stars": 38,
+      "stars": 39,
       "version": "v2.0.0",
-      "updated_at": "2025-12-08T01:05:40Z",
+      "updated_at": "2025-12-09T21:35:51Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_chuanhuatong/logo"
     },
     "astrbot_plugin_steamgame": {
@@ -987,9 +987,9 @@
         "小红书",
         "推特"
       ],
-      "stars": 7,
+      "stars": 8,
       "version": "v3.2.0",
-      "updated_at": "2025-11-21T02:06:08Z",
+      "updated_at": "2025-12-09T21:09:02Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_media_parser/logo"
     },
     "astrbot_plugin_decision": {
@@ -1091,9 +1091,9 @@
         "视频生成"
       ],
       "social_link": "https://www.functen.cn/",
-      "stars": 2,
+      "stars": 3,
       "version": "1.0.0",
-      "updated_at": "2025-11-16T02:12:41Z"
+      "updated_at": "2025-12-09T12:46:05Z"
     },
     "astrbot_plugin_http_adapter": {
       "display_name": "HTTP 消息设配器",
@@ -1106,8 +1106,8 @@
       ],
       "social_link": "https://github.com/fluidcat/astrbot_plugin_http_adapter/issues",
       "stars": 5,
-      "version": "1.1.1",
-      "updated_at": "2025-12-08T02:40:04Z"
+      "version": "1.2.0",
+      "updated_at": "2025-12-09T15:39:18Z"
     },
     "astrbot_plugin_nyweather": {
       "display_name": "天气查询插件",
@@ -1282,8 +1282,8 @@
       ],
       "social_link": "https://github.com/Ryan7t",
       "stars": 2,
-      "version": "v1.0.1",
-      "updated_at": "2025-11-14T12:47:35Z"
+      "version": "v1.0.2",
+      "updated_at": "2025-12-09T15:40:29Z"
     },
     "astrbot_plugin_blue_archive_auto_calendar": {
       "desc": "Blue Archive 蔚蓝档案定时发送活动日历以及活动结束提醒插件",
@@ -1397,7 +1397,7 @@
       ],
       "stars": 9,
       "version": "1.6.7",
-      "updated_at": "2025-12-05T04:39:00Z",
+      "updated_at": "2025-12-09T16:46:28Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_message_stats/logo"
     },
     "astrbot_plugin_prompt": {
@@ -1654,9 +1654,9 @@
         "TTS"
       ],
       "social_link": "https://github.com/DBJD-CR",
-      "stars": 47,
+      "stars": 48,
       "version": "v1.0.0-beta.7",
-      "updated_at": "2025-12-09T01:03:47Z",
+      "updated_at": "2025-12-09T13:49:13Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_proactive_chat/logo"
     },
     "astrbot-plugin-moremorelove": {
@@ -1703,8 +1703,8 @@
       "social_link": "https://github.com/miaoxutao123",
       "tags": [],
       "stars": 10,
-      "version": "v1.1.0",
-      "updated_at": "2025-11-10T13:32:51Z"
+      "version": "v1.2.0",
+      "updated_at": "2025-12-09T13:23:34Z"
     },
     "astrbot_plugin_furry_zan": {
       "display_name": "爱点赞",
@@ -1881,8 +1881,8 @@
         "nobroswer"
       ],
       "stars": 15,
-      "version": "v1.3.0",
-      "updated_at": "2025-12-07T12:44:43Z"
+      "version": "v1.4.0",
+      "updated_at": "2025-12-09T12:41:20Z"
     },
     "astrbot_plugin_fetch_summary": {
       "desc": "根据 URL 获取网站摘要",
@@ -2930,8 +2930,8 @@
       "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
       "tags": [],
       "stars": 33,
-      "version": "v1.6.9",
-      "updated_at": "2025-12-09T07:33:31Z"
+      "version": "v1.7.3",
+      "updated_at": "2025-12-09T17:26:01Z"
     },
     "astrbot_plugin_group_chat": {
       "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -3566,9 +3566,9 @@
         "SiliconFlow"
       ],
       "social_link": "https://github.com/muyouzhi6",
-      "stars": 35,
+      "stars": 36,
       "version": "0.5.0",
-      "updated_at": "2025-12-08T06:33:14Z",
+      "updated_at": "2025-12-09T13:06:26Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_tts_emotion_router/logo"
     },
     "astrbot_plugin_keyword_monitor": {
@@ -3753,9 +3753,9 @@
         "输出增强"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 7,
-      "version": "v1.0.5",
-      "updated_at": "2025-12-09T09:32:54Z",
+      "stars": 8,
+      "version": "v1.0.6",
+      "updated_at": "2025-12-09T14:01:09Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_outputpro/logo"
     },
     "astrbot_plugin_image_summary": {
@@ -3838,9 +3838,9 @@
         "表白墙"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 37,
+      "stars": 38,
       "version": "v2.2.8",
-      "updated_at": "2025-12-07T11:31:23Z",
+      "updated_at": "2025-12-09T13:01:26Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_qzone/logo"
     },
     "astrbot_plugin_matchreminder": {
@@ -4375,9 +4375,9 @@
         "工具"
       ],
       "social_link": "https://github.com/EIA2024",
-      "stars": 5,
+      "stars": 7,
       "version": "v1.0",
-      "updated_at": "2025-11-02T07:55:16Z"
+      "updated_at": "2025-12-09T16:32:58Z"
     },
     "astrbot_plugin_deer_check": {
       "desc": "一个发送'🦌'进行打卡并生成月度日历的插件",
@@ -5957,9 +5957,9 @@
         "禁漫"
       ],
       "social_link": "https://github.com/GEMILUXVII",
-      "stars": 65,
+      "stars": 66,
       "version": "1.1.0",
-      "updated_at": "2025-12-08T12:52:47Z"
+      "updated_at": "2025-12-09T15:20:27Z"
     },
     "astrbot_plugin_combine-messages": {
       "author": "FreeDivers",
