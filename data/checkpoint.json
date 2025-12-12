@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-12-11T12:49:55.535Z",
+  "timestamp": "2025-12-12T01:47:27.734Z",
   "github": {
-    "stars": 14081,
-    "forks": 1083,
+    "stars": 14084,
+    "forks": 1085,
     "contributors": 114
   },
   "plugins": {
@@ -44,9 +44,9 @@
       "tags": [
         "表情"
       ],
-      "stars": 3,
+      "stars": 4,
       "version": "1.0.1",
-      "updated_at": "2025-12-11T10:53:00Z",
+      "updated_at": "2025-12-11T18:39:55Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_stealer/logo"
     },
     "astrbot_plugin_splitter": {
@@ -61,9 +61,9 @@
         "分段"
       ],
       "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
-      "stars": 7,
+      "stars": 8,
       "version": "v1.1.1",
-      "updated_at": "2025-12-11T03:29:15Z",
+      "updated_at": "2025-12-11T18:49:46Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_splitter/logo"
     },
     "astrbot_plugin_e2b_sandbox": {
@@ -78,9 +78,9 @@
         "LLM 工具"
       ],
       "social_link": "https://github.com/sl251",
-      "stars": 5,
+      "stars": 7,
       "version": "1.0.5",
-      "updated_at": "2025-12-10T06:54:12Z",
+      "updated_at": "2025-12-11T17:24:30Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_e2b_sandbox/logo"
     },
     "astrbot_plugin_disaster_warning": {
@@ -218,9 +218,9 @@
       "author": "bylkuse",
       "repo": "https://github.com/bylkuse/astrbot_plugin_bananic_ninjutsu",
       "tags": [],
-      "stars": 3,
+      "stars": 4,
       "version": "v0.2.1",
-      "updated_at": "2025-12-11T08:55:15Z",
+      "updated_at": "2025-12-11T13:24:44Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_bananic_ninjutsu/logo"
     },
     "astrbot_plugin_ASCII": {
@@ -442,7 +442,7 @@
       ],
       "stars": 2,
       "version": "v1.0",
-      "updated_at": "2025-12-09T03:04:56Z",
+      "updated_at": "2025-12-11T15:34:26Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_video_analysis/logo"
     },
     "astrbot_plugin_image_generation": {
@@ -605,7 +605,7 @@
       ],
       "stars": 1,
       "version": "v1.3",
-      "updated_at": "2025-12-09T15:54:04Z",
+      "updated_at": "2025-12-11T16:52:46Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_genshinimpact/logo"
     },
     "astrbot_plugin_parse_hub": {
@@ -1061,7 +1061,7 @@
       ],
       "stars": 8,
       "version": "v3.2.0",
-      "updated_at": "2025-12-11T02:12:25Z",
+      "updated_at": "2025-12-11T19:41:00Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_media_parser/logo"
     },
     "astrbot_plugin_decision": {
@@ -1408,9 +1408,9 @@
         "二次元"
       ],
       "social_link": "https://github.com/bvzrays",
-      "stars": 22,
+      "stars": 23,
       "version": "v2.0.0",
-      "updated_at": "2025-12-01T09:09:35Z",
+      "updated_at": "2025-12-11T16:05:47Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_qqgal/logo"
     },
     "astrbot_plugin_Conversa": {
@@ -2147,9 +2147,9 @@
         "娱乐"
       ],
       "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
-      "stars": 12,
+      "stars": 13,
       "version": "v3.0.0",
-      "updated_at": "2025-12-08T10:48:40Z",
+      "updated_at": "2025-12-11T14:53:46Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_Favour_Ultra/logo"
     },
     "astrbot_plugin_owcx": {
@@ -4282,7 +4282,7 @@
       ],
       "stars": 4,
       "version": "v1.2.0",
-      "updated_at": "2025-12-08T11:16:10Z",
+      "updated_at": "2025-12-11T16:01:25Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_proactive_reply/logo"
     },
     "treasure_bag_plugin": {
@@ -4385,8 +4385,8 @@
         "战地风云"
       ],
       "stars": 11,
-      "version": "v2.1.3",
-      "updated_at": "2025-11-24T08:14:37Z",
+      "version": "v2.1.4",
+      "updated_at": "2025-12-11T11:32:20Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_battlefield_tool/logo"
     },
     "astrbot_plugin_SteamSaleTracker": {
@@ -6006,9 +6006,9 @@
         "戳一戳"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 37,
+      "stars": 38,
       "version": "v1.1.7",
-      "updated_at": "2025-12-03T03:04:45Z",
+      "updated_at": "2025-12-11T17:27:20Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_pokepro/logo"
     },
     "astrbot_plugin_jm_cosmos": {
@@ -7599,9 +7599,9 @@
         "开盒"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
-      "stars": 54,
+      "stars": 55,
       "version": "v1.2.1",
-      "updated_at": "2025-12-10T15:09:18Z",
+      "updated_at": "2025-12-11T13:09:14Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_box/logo"
     },
     "astrbot_plugin_relationship": {
@@ -8062,9 +8062,9 @@
         "功能",
         "搬史"
       ],
-      "stars": 481,
+      "stars": 480,
       "version": "v0.915",
-      "updated_at": "2025-12-11T02:05:22Z"
+      "updated_at": "2025-12-11T13:32:37Z"
     },
     "astrbot_plugin_superpoke": {
       "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
