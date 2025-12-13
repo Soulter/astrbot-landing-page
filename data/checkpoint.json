@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-12-13T01:41:56.292Z",
+  "timestamp": "2025-12-13T12:40:36.632Z",
   "github": {
-    "stars": 14110,
-    "forks": 1087,
+    "stars": 14120,
+    "forks": 1090,
     "contributors": 114
   },
   "plugins": {
@@ -18,9 +18,10 @@
         "图片"
       ],
       "social_link": "https://github.com/Xbodwf",
-      "stars": 1,
-      "version": "1.3.3",
-      "updated_at": "2025-12-12T07:14:01Z"
+      "stars": 2,
+      "version": "1.4.6",
+      "updated_at": "2025-12-13T07:02:02Z",
+      "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_code_renderer/logo"
     },
     "astrbot_plugin_life_scheduler": {
       "display_name": "拟人化穿搭日常生成插件",
@@ -220,7 +221,7 @@
       "tags": [],
       "stars": 5,
       "version": "v0.2.8",
-      "updated_at": "2025-12-12T20:40:45Z",
+      "updated_at": "2025-12-13T09:30:21Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_bananic_ninjutsu/logo"
     },
     "astrbot_plugin_ASCII": {
@@ -385,9 +386,9 @@
         "@"
       ],
       "social_link": "https://qm.qq.com/q/RMjGPizOAm",
-      "stars": 7,
+      "stars": 8,
       "version": "v2.2.1",
-      "updated_at": "2025-12-10T04:17:21Z",
+      "updated_at": "2025-12-13T06:11:25Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_AtTool/logo"
     },
     "astrbot_plugin_CloudImg": {
@@ -414,9 +415,9 @@
       ],
       "repo": "https://github.com/Huahuatgc/astrbot_plugin_aicu",
       "social_link": "https://github.com/Huahuatgc",
-      "stars": 1,
+      "stars": 3,
       "version": "2.5.0",
-      "updated_at": "2025-12-10T10:13:19Z",
+      "updated_at": "2025-12-13T08:52:48Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_aicu_analysis/logo"
     },
     "astrbot_plugin_ShareholderPerks": {
@@ -561,7 +562,7 @@
       ],
       "stars": 1,
       "version": "v1.1.3",
-      "updated_at": "2025-12-12T18:51:12Z",
+      "updated_at": "2025-12-13T02:43:30Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_openlistfile/logo"
     },
     "astrbot_plugin_gemini_image": {
@@ -1015,9 +1016,9 @@
         "遗忘"
       ],
       "social_link": "https://github.com/SinkAbyss",
-      "stars": 0,
+      "stars": 1,
       "version": "v1.1.5",
-      "updated_at": "2025-11-15T18:32:41Z"
+      "updated_at": "2025-12-13T11:15:30Z"
     },
     "astrbot_plugin_Furimg_Cloud": {
       "display_name": "兽云祭(兽兽图片/图鉴)",
@@ -1305,8 +1306,8 @@
       ],
       "social_link": "https://github.com/SatenShiroya",
       "stars": 6,
-      "version": "V1.2.0",
-      "updated_at": "2025-11-29T13:36:16Z",
+      "version": "V1.3.0",
+      "updated_at": "2025-12-13T02:39:41Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_NetEaseCloud_Music/logo"
     },
     "astrbot_plugin_dailyacmfortune": {
@@ -1450,9 +1451,9 @@
         "主动回复"
       ],
       "social_link": "https://github.com/Him666233",
-      "stars": 15,
+      "stars": 16,
       "version": "v1.1.2",
-      "updated_at": "2025-12-04T02:22:35Z",
+      "updated_at": "2025-12-13T10:15:50Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_group_chat_plus/logo"
     },
     "astrbot_plugin_message_stats": {
@@ -1726,9 +1727,9 @@
         "TTS"
       ],
       "social_link": "https://github.com/DBJD-CR",
-      "stars": 48,
+      "stars": 49,
       "version": "v1.0.0-beta.7",
-      "updated_at": "2025-12-09T13:49:13Z",
+      "updated_at": "2025-12-13T09:02:38Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_proactive_chat/logo"
     },
     "astrbot-plugin-moremorelove": {
@@ -2147,9 +2148,9 @@
         "娱乐"
       ],
       "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
-      "stars": 14,
+      "stars": 15,
       "version": "v3.0.0",
-      "updated_at": "2025-12-12T03:06:48Z",
+      "updated_at": "2025-12-13T06:13:06Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_Favour_Ultra/logo"
     },
     "astrbot_plugin_owcx": {
@@ -2253,9 +2254,9 @@
       "tags": [
         "Telegram"
       ],
-      "stars": 3,
+      "stars": 4,
       "version": "1.3.3",
-      "updated_at": "2025-10-17T18:04:44Z"
+      "updated_at": "2025-12-13T04:44:43Z"
     },
     "astrbot_plugin_markdown2img": {
       "desc": "允许 LLM 将复杂的 Markdown 格式内容转换为图片发送，提升消息的可读性。",
@@ -2505,9 +2506,9 @@
         "成员查询"
       ],
       "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
-      "stars": 10,
+      "stars": 11,
       "version": "v0.1.0",
-      "updated_at": "2025-12-08T04:29:31Z"
+      "updated_at": "2025-12-13T06:13:30Z"
     },
     "qftp": {
       "desc": "一个基于 astrbot 的文件管理插件，支持文件下载、搜索等功能。只在napcat+linux下尝试",
@@ -2655,7 +2656,7 @@
       "social_link": "https://github.com/Zhalslar",
       "stars": 4,
       "version": "v1.0.2",
-      "updated_at": "2025-10-31T06:18:25Z",
+      "updated_at": "2025-12-13T10:53:42Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_msg_search/logo"
     },
     "scheduled_reply": {
@@ -2752,7 +2753,7 @@
       "social_link": "https://github.com/Zhalslar",
       "stars": 4,
       "version": "v1.0.4",
-      "updated_at": "2025-12-04T18:17:06Z",
+      "updated_at": "2025-12-13T10:51:54Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_lottery/logo"
     },
     "astrbot_plugin_touchgal": {
@@ -2801,7 +2802,7 @@
       "social_link": "https://github.com/Zhalslar",
       "stars": 5,
       "version": "v1.0.3",
-      "updated_at": "2025-11-18T15:56:30Z",
+      "updated_at": "2025-12-13T11:03:17Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_restart/logo"
     },
     "astrbot_plugin_tts_llm": {
@@ -2825,8 +2826,8 @@
       ],
       "social_link": "https://github.com/kawayiYokami",
       "stars": 18,
-      "version": "0.8.2",
-      "updated_at": "2025-12-12T16:34:48Z"
+      "version": "0.8.3",
+      "updated_at": "2025-12-13T11:19:36Z"
     },
     "astrbot_plugin_angel_eye": {
       "desc": "在调用大模型之前，通过小模型识别对话中的专有名词并链接百科知识，为大模型补充上下文，使其更“见多识广”。",
@@ -3144,9 +3145,9 @@
         "memory",
         "rag"
       ],
-      "stars": 44,
+      "stars": 45,
       "version": "1.7.2",
-      "updated_at": "2025-12-06T18:20:23Z",
+      "updated_at": "2025-12-13T10:14:13Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_livingmemory/logo"
     },
     "astrbot_plugin_mathitools": {
@@ -3204,7 +3205,7 @@
       "social_link": "https://github.com/Zhalslar",
       "stars": 4,
       "version": "v1.0.3",
-      "updated_at": "2025-12-08T03:05:43Z",
+      "updated_at": "2025-12-13T10:54:00Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_multimsg/logo"
     },
     "astrbot_plugin_keywordsreply": {
@@ -3321,8 +3322,8 @@
       "repo": "https://github.com/muyouzhi6/astrbot_plugin_restrict_syscmd",
       "tags": [],
       "stars": 6,
-      "version": "0.2.0",
-      "updated_at": "2025-11-28T15:41:00Z"
+      "version": "0.2.1",
+      "updated_at": "2025-12-13T08:45:00Z"
     },
     "astrbot_plugin_jojo_stand_panel": {
       "desc": "一个用于 AstrBot 的 JOJO 替身面板生成插件，调用 TripleYing 的 API 生成 JOJO 风格替身面板图片。支持随机生成、自定义设置、替身系统等功能。",
@@ -3347,7 +3348,7 @@
       "social_link": "https://github.com/Zhalslar",
       "stars": 12,
       "version": "v1.0.3",
-      "updated_at": "2025-12-06T16:12:24Z",
+      "updated_at": "2025-12-13T10:58:16Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_qun_album/logo"
     },
     "astrbot_plugin_favourpro": {
@@ -3397,9 +3398,9 @@
         "群管"
       ],
       "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
-      "stars": 9,
+      "stars": 10,
       "version": "v1.4",
-      "updated_at": "2025-12-08T04:29:38Z"
+      "updated_at": "2025-12-13T06:14:13Z"
     },
     "command_to_llm": {
       "desc": "将指令（比如/help）转换为LLM函数（比如 get_help）调用，让AI能够通过LLM函数执行其他插件的指令，支持动态添加和管理指令映射",
@@ -3545,7 +3546,7 @@
       "social_link": "https://github.com/Zhalslar",
       "stars": 152,
       "version": "v2.1.3",
-      "updated_at": "2025-12-12T03:09:56Z",
+      "updated_at": "2025-12-13T10:51:34Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_lmarena/logo"
     },
     "astrbot_plugin_Mirecraft_motd": {
@@ -3766,7 +3767,7 @@
       "social_link": "https://github.com/Zhalslar",
       "stars": 26,
       "version": "v1.1.7",
-      "updated_at": "2025-12-12T08:56:44Z",
+      "updated_at": "2025-12-13T11:04:25Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_wakepro/logo"
     },
     "astrbot_plugin_memora_connect": {
@@ -3817,8 +3818,8 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 9,
-      "version": "v1.0.6",
-      "updated_at": "2025-12-10T02:25:10Z",
+      "version": "v1.0.8",
+      "updated_at": "2025-12-13T10:06:50Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_outputpro/logo"
     },
     "astrbot_plugin_image_summary": {
@@ -3832,7 +3833,7 @@
       "social_link": "https://github.com/Zhalslar",
       "stars": 8,
       "version": "v1.0.4",
-      "updated_at": "2025-10-31T06:16:21Z",
+      "updated_at": "2025-12-13T10:51:10Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_image_summary/logo"
     },
     "astrbot_plugin_voice_to_text": {
@@ -3903,7 +3904,7 @@
       "social_link": "https://github.com/Zhalslar",
       "stars": 38,
       "version": "v2.2.8",
-      "updated_at": "2025-12-09T13:01:26Z",
+      "updated_at": "2025-12-13T10:58:45Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_qzone/logo"
     },
     "astrbot_plugin_matchreminder": {
@@ -3926,7 +3927,7 @@
       "social_link": "https://github.com/Zhalslar",
       "stars": 11,
       "version": "v1.0.2",
-      "updated_at": "2025-12-01T03:06:20Z",
+      "updated_at": "2025-12-13T11:00:10Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_recall/logo"
     },
     "astrbot_plugin_record_converter": {
@@ -3940,7 +3941,7 @@
       "social_link": "https://github.com/Zhalslar",
       "stars": 6,
       "version": "v1.0.2",
-      "updated_at": "2025-12-09T08:42:23Z",
+      "updated_at": "2025-12-13T10:59:43Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_record_converter/logo"
     },
     "astrbot_plugin_spark_tts": {
@@ -4006,8 +4007,8 @@
         "增强"
       ],
       "stars": 16,
-      "version": "3.0.1",
-      "updated_at": "2025-12-03T17:00:07Z",
+      "version": "3.0.2",
+      "updated_at": "2025-12-13T08:32:08Z",
       "logo": "https://api.soulter.top/astrbot/plugin/intelligent_retry/logo"
     },
     "astrbot_plugin_Group-Verification_PRO": {
@@ -4122,7 +4123,7 @@
       "social_link": "https://github.com/Zhalslar",
       "stars": 8,
       "version": "v1.0.4",
-      "updated_at": "2025-11-11T10:01:29Z",
+      "updated_at": "2025-12-13T11:03:51Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_screenctrl/logo"
     },
     "astrbot_plugin_error_pro": {
@@ -4765,7 +4766,7 @@
       "author": "Zhalslar",
       "stars": 7,
       "version": "v1.0.3",
-      "updated_at": "2025-12-11T05:23:52Z",
+      "updated_at": "2025-12-13T10:53:28Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_monitor/logo"
     },
     "astrbot_plugin_decision_roulette": {
@@ -5044,7 +5045,7 @@
       "social_link": "https://github.com/Zhalslar",
       "stars": 5,
       "version": "v1.0.1",
-      "updated_at": "2025-10-31T06:00:05Z",
+      "updated_at": "2025-12-13T09:26:06Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_afdian/logo"
     },
     "astrbot_plugin_runes": {
@@ -5139,7 +5140,7 @@
       "desc": "动态词库，自定义回复词",
       "stars": 10,
       "version": "v1.0.4",
-      "updated_at": "2025-12-04T12:26:06Z",
+      "updated_at": "2025-12-13T11:04:49Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_wbank/logo"
     },
     "astrbot_plugin_lyricnext": {
@@ -5177,7 +5178,7 @@
       "social_link": "https://github.com/Zhalslar",
       "stars": 26,
       "version": "v1.7.3",
-      "updated_at": "2025-11-02T09:38:39Z",
+      "updated_at": "2025-12-13T10:50:38Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_human_service/logo"
     },
     "astrbot_plugin_reimage": {
@@ -5237,7 +5238,7 @@
       "social_link": "https://github.com/Zhalslar",
       "stars": 3,
       "version": "v1.0.2",
-      "updated_at": "2025-10-31T06:15:26Z",
+      "updated_at": "2025-12-13T10:44:48Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_cube/logo"
     },
     "astrbot_plugin_constellation": {
@@ -5386,9 +5387,9 @@
         "Steam"
       ],
       "social_link": "https://github.com/Maoer233",
-      "stars": 39,
+      "stars": 40,
       "version": "2.1.8",
-      "updated_at": "2025-12-06T09:58:10Z"
+      "updated_at": "2025-12-13T11:03:51Z"
     },
     "astrbot_plugin_xiaoxue": {
       "author": "sbmikoto",
@@ -5571,7 +5572,7 @@
       "social_link": "https://github.com/Zhalslar",
       "stars": 6,
       "version": "v1.0.2",
-      "updated_at": "2025-10-31T06:15:56Z",
+      "updated_at": "2025-12-13T10:45:06Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_deepwiki/logo"
     },
     "astrbot_plugin_delete_and_block_filter": {
@@ -5777,7 +5778,7 @@
       "tags": [],
       "stars": 36,
       "version": "v1.1.1",
-      "updated_at": "2025-12-08T14:52:36Z",
+      "updated_at": "2025-12-13T10:45:58Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_search_video/logo"
     },
     "astrbot_plugin_zt": {
@@ -5791,7 +5792,7 @@
       "social_link": "https://github.com/Zhalslar",
       "stars": 9,
       "version": "v1.0.2",
-      "updated_at": "2025-11-27T16:34:05Z",
+      "updated_at": "2025-12-13T11:05:09Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_zt/logo"
     },
     "astrbot_plugin_portrayal": {
@@ -5806,7 +5807,7 @@
       "social_link": "https://github.com/Zhalslar",
       "stars": 44,
       "version": "v1.0.5",
-      "updated_at": "2025-12-12T12:12:58Z",
+      "updated_at": "2025-12-13T10:56:31Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_portrayal/logo"
     },
     "astrbot_plugin_prefix_filter": {
@@ -5892,7 +5893,7 @@
       "social_link": "https://github.com/Zhalslar",
       "stars": 17,
       "version": "v1.1.2",
-      "updated_at": "2025-12-11T02:35:21Z",
+      "updated_at": "2025-12-13T10:46:40Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_emoji_like/logo"
     },
     "astrbot_plugin_lanraragi": {
@@ -5994,7 +5995,7 @@
       "social_link": "https://github.com/Zhalslar",
       "stars": 10,
       "version": "v1.0.2",
-      "updated_at": "2025-12-12T05:38:39Z",
+      "updated_at": "2025-12-13T10:54:42Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_notice/logo"
     },
     "astrbot_plugin_pokepro": {
@@ -6008,7 +6009,7 @@
       "social_link": "https://github.com/Zhalslar",
       "stars": 38,
       "version": "v1.1.7",
-      "updated_at": "2025-12-11T17:27:20Z",
+      "updated_at": "2025-12-13T10:55:40Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_pokepro/logo"
     },
     "astrbot_plugin_jm_cosmos": {
@@ -6046,7 +6047,7 @@
       "social_link": "https://github.com/Zhalslar",
       "stars": 8,
       "version": "v1.0.4",
-      "updated_at": "2025-11-22T23:34:52Z",
+      "updated_at": "2025-12-13T09:27:23Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_broadcast/logo"
     },
     "astrbot_plugin_nobot": {
@@ -6060,7 +6061,7 @@
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_nobot",
       "stars": 7,
       "version": "v1.0.4",
-      "updated_at": "2025-12-06T11:51:17Z",
+      "updated_at": "2025-12-13T10:54:14Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_nobot/logo"
     },
     "astrbot_plugin_mcgetter": {
@@ -6082,9 +6083,9 @@
       "desc": "活字印刷（文本转语音）",
       "repo": "https://github.com/ttq7/astrbot_plugin_voiceprint",
       "tags": [],
-      "stars": 3,
+      "stars": 4,
       "version": "v1.0.0",
-      "updated_at": "2025-07-14T11:49:10Z"
+      "updated_at": "2025-12-13T05:46:29Z"
     },
     "astrbot_plugin_mrfz": {
       "author": "bushikq",
@@ -6125,7 +6126,7 @@
       "social_link": "https://github.com/Zhalslar",
       "stars": 8,
       "version": "v1.0.2",
-      "updated_at": "2025-10-31T06:25:55Z",
+      "updated_at": "2025-12-13T11:04:04Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_supervisor/logo"
     },
     "astrbot_plugin_primermath": {
@@ -6310,9 +6311,9 @@
         "api"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-      "stars": 111,
+      "stars": 112,
       "version": "v2.0.6",
-      "updated_at": "2025-12-12T05:38:40Z",
+      "updated_at": "2025-12-13T10:52:53Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_apis/logo"
     },
     "astrbot_plugin_help": {
@@ -6638,7 +6639,7 @@
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_password",
       "stars": 7,
       "version": "v1.0.1",
-      "updated_at": "2025-10-31T05:29:01Z",
+      "updated_at": "2025-12-13T10:55:07Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_password/logo"
     },
     "astrbot_plugin_douyin_bot": {
@@ -6686,7 +6687,7 @@
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_gallery",
       "stars": 22,
       "version": "v2.1.0",
-      "updated_at": "2025-12-09T01:15:47Z",
+      "updated_at": "2025-12-13T10:47:36Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_gallery/logo"
     },
     "astrbot_plugin_sensoji_pro": {
@@ -6888,7 +6889,7 @@
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_reread",
       "stars": 21,
       "version": "v1.1.4",
-      "updated_at": "2025-11-01T04:25:56Z",
+      "updated_at": "2025-12-13T11:02:41Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_reread/logo"
     },
     "astrbot_plugin_csbaoyan": {
@@ -6984,7 +6985,7 @@
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
       "stars": 19,
       "version": "v1.1.4",
-      "updated_at": "2025-11-17T04:32:11Z",
+      "updated_at": "2025-12-13T09:28:10Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_browser/logo"
     },
     "astrbot_plugin_qqadmin": {
@@ -6998,7 +6999,7 @@
       ],
       "stars": 72,
       "version": "v3.2.5",
-      "updated_at": "2025-12-10T05:45:52Z",
+      "updated_at": "2025-12-13T10:56:09Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_qqadmin/logo"
     },
     "astrbot_plugin_liars_bar": {
@@ -7121,7 +7122,7 @@
       "social_link": "https://github.com/Zhalslar",
       "stars": 8,
       "version": "v1.1.3",
-      "updated_at": "2025-10-31T06:21:25Z",
+      "updated_at": "2025-12-13T10:56:56Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_qqprofile/logo"
     },
     "astrbot_plugin_mcping": {
@@ -7135,7 +7136,7 @@
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_mcping",
       "stars": 8,
       "version": "v1.0.3",
-      "updated_at": "2025-10-31T06:17:13Z",
+      "updated_at": "2025-12-13T10:52:13Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_mcping/logo"
     },
     "astrbot_plugin_lorebook_lite": {
@@ -7199,7 +7200,7 @@
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
       "stars": 37,
       "version": "v1.2.0",
-      "updated_at": "2025-11-27T16:49:17Z",
+      "updated_at": "2025-12-13T10:49:55Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_GPT_SoVITS/logo"
     },
     "astrbot_plugin_search_pic": {
@@ -7483,7 +7484,7 @@
       "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
       "stars": 70,
       "version": "v3.0.3",
-      "updated_at": "2025-12-12T09:27:31Z",
+      "updated_at": "2025-12-13T10:52:33Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_memelite/logo"
     },
     "astrbot_plugin_saris_economic": {
@@ -7601,7 +7602,7 @@
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
       "stars": 57,
       "version": "v1.2.2",
-      "updated_at": "2025-12-12T14:22:18Z",
+      "updated_at": "2025-12-13T09:26:48Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_box/logo"
     },
     "astrbot_plugin_relationship": {
@@ -7615,7 +7616,7 @@
       ],
       "stars": 22,
       "version": "v2.0.3",
-      "updated_at": "2025-12-05T05:23:48Z",
+      "updated_at": "2025-12-13T11:00:39Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_relationship/logo"
     },
     "astrbot_plugin_pokecheck": {
@@ -7750,9 +7751,9 @@
         "bilibili"
       ],
       "social_link": "https://github.com/miaoxutao123/",
-      "stars": 60,
+      "stars": 61,
       "version": "v0.2.14",
-      "updated_at": "2025-12-12T13:12:25Z"
+      "updated_at": "2025-12-13T05:46:26Z"
     },
     "astrbot_plugin_sjzb": {
       "desc": "随机生成《绝地潜兵2》游戏中一组 4 个战备配置",
