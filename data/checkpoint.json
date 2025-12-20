@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-12-19T12:44:19.534Z",
+  "timestamp": "2025-12-20T01:42:08.252Z",
   "github": {
-    "stars": 14289,
+    "stars": 14298,
     "forks": 1110,
     "contributors": 118
   },
@@ -56,7 +56,7 @@
       "tags": [],
       "stars": 0,
       "version": "v1.0.3",
-      "updated_at": "2025-12-19T10:43:02Z"
+      "updated_at": "2025-12-19T11:43:57Z"
     },
     "astrbot_plugin_wca": {
       "display_name": "WCA 查询",
@@ -124,8 +124,8 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 21,
-      "version": "v1.1.0",
-      "updated_at": "2025-12-19T02:21:25Z",
+      "version": "v1.1.1",
+      "updated_at": "2025-12-19T16:33:51Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_parser/logo"
     },
     "astrbot_plugin_transport": {
@@ -225,9 +225,9 @@
         "拟人"
       ],
       "social_link": "https://github.com/muyouzhi6",
-      "stars": 6,
+      "stars": 7,
       "version": "0.1.2",
-      "updated_at": "2025-12-19T04:08:34Z",
+      "updated_at": "2025-12-19T14:27:36Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_life_scheduler/logo"
     },
     "astrbot_plugin_stealer": {
@@ -272,9 +272,9 @@
         "LLM 工具"
       ],
       "social_link": "https://github.com/sl251",
-      "stars": 8,
+      "stars": 9,
       "version": "1.0.5",
-      "updated_at": "2025-12-19T08:35:16Z",
+      "updated_at": "2025-12-19T11:56:15Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_e2b_sandbox/logo"
     },
     "astrbot_plugin_disaster_warning": {
@@ -292,7 +292,7 @@
       "social_link": "https://github.com/DBJD-CR",
       "stars": 13,
       "version": "v1.1.0",
-      "updated_at": "2025-12-18T15:59:10Z",
+      "updated_at": "2025-12-19T14:27:42Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_disaster_warning/logo"
     },
     "astrbot_plugin_lofter_parser": {
@@ -412,9 +412,9 @@
       "author": "bylkuse",
       "repo": "https://github.com/bylkuse/astrbot_plugin_bananic_ninjutsu",
       "tags": [],
-      "stars": 5,
-      "version": "v0.3.1",
-      "updated_at": "2025-12-16T21:07:16Z",
+      "stars": 6,
+      "version": "v0.3.2",
+      "updated_at": "2025-12-19T15:11:00Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_bananic_ninjutsu/logo"
     },
     "astrbot_plugin_ASCII": {
@@ -770,8 +770,8 @@
       ],
       "social_link": "https://www.misakanet.site",
       "stars": 6,
-      "version": "v1.3.0",
-      "updated_at": "2025-12-19T08:31:46Z",
+      "version": "v1.3.1",
+      "updated_at": "2025-12-19T19:59:45Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_gemini_image/logo"
     },
     "astrbot_plugin_gemini_image_generation": {
@@ -2382,9 +2382,9 @@
         "娱乐"
       ],
       "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
-      "stars": 16,
+      "stars": 17,
       "version": "v3.0.0",
-      "updated_at": "2025-12-16T15:43:09Z",
+      "updated_at": "2025-12-19T14:43:58Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_Favour_Ultra/logo"
     },
     "astrbot_plugin_owcx": {
@@ -2425,8 +2425,8 @@
       "repo": "https://github.com/BGYdook/AstrBot-plugin-tmp-bot",
       "tags": [],
       "stars": 3,
-      "version": "1.6.1",
-      "updated_at": "2025-12-07T04:40:43Z"
+      "version": "1.6.2",
+      "updated_at": "2025-12-19T14:01:30Z"
     },
     "astrbot_plugin_33recognition": {
       "desc": "调用大模型检测图片中关键词",
@@ -3060,8 +3060,8 @@
       ],
       "social_link": "https://github.com/kawayiYokami",
       "stars": 18,
-      "version": "0.8.5",
-      "updated_at": "2025-12-18T12:31:35Z"
+      "version": "0.8.6",
+      "updated_at": "2025-12-19T13:36:18Z"
     },
     "astrbot_plugin_angel_eye": {
       "desc": "在调用大模型之前，通过小模型识别对话中的专有名词并链接百科知识，为大模型补充上下文，使其更“见多识广”。",
@@ -4144,9 +4144,9 @@
         "表白墙"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 41,
+      "stars": 42,
       "version": "v2.2.9",
-      "updated_at": "2025-12-18T05:59:06Z",
+      "updated_at": "2025-12-19T16:36:06Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_qzone/logo"
     },
     "astrbot_plugin_matchreminder": {
@@ -4458,8 +4458,8 @@
       ],
       "social_link": "https://github.com/zhewang448",
       "stars": 4,
-      "version": "v2.2.1",
-      "updated_at": "2025-11-01T15:37:23Z",
+      "version": "v2.2.2",
+      "updated_at": "2025-12-19T16:18:53Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_update_manager/logo"
     },
     "astrbot_plugins_canvas": {
@@ -6198,9 +6198,9 @@
         "词云"
       ],
       "social_link": "https://github.com/GEMILUXVII",
-      "stars": 21,
+      "stars": 22,
       "version": "v2.0.1",
-      "updated_at": "2025-12-08T12:52:53Z"
+      "updated_at": "2025-12-19T19:02:29Z"
     },
     "astrbot_plugin_liblibapi": {
       "author": "machinad",
@@ -6349,8 +6349,8 @@
       ],
       "repo": "https://github.com/zhewang448/astrbot_plugin_mrfz",
       "stars": 5,
-      "version": "v3.3.7",
-      "updated_at": "2025-11-21T07:45:14Z",
+      "version": "v3.4.0",
+      "updated_at": "2025-12-19T20:15:48Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_mrfz/logo"
     },
     "astrbot_plugin_napdog_cleaner": {
@@ -8366,9 +8366,9 @@
         "webui",
         "图床"
       ],
-      "stars": 107,
+      "stars": 108,
       "version": "v3.19",
-      "updated_at": "2025-12-12T18:49:37Z"
+      "updated_at": "2025-12-19T18:18:59Z"
     },
     "mccloud_command": {
       "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
