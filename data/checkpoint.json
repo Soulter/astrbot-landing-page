@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-12-21T01:53:54.982Z",
+  "timestamp": "2025-12-21T12:41:13.588Z",
   "github": {
-    "stars": 14329,
-    "forks": 1112,
+    "stars": 14343,
+    "forks": 1113,
     "contributors": 118
   },
   "plugins": {
@@ -14,9 +14,9 @@
       "tags": [
         "文件解析"
       ],
-      "stars": 0,
+      "stars": 1,
       "version": "v3.1.0",
-      "updated_at": "2025-12-15T15:36:58Z"
+      "updated_at": "2025-12-21T08:19:26Z"
     },
     "astrbot_plugin_qbittorrent_bridge": {
       "display_name": "qBittorrent 桥接器",
@@ -93,9 +93,9 @@
       "author": "梦千秋",
       "repo": "https://github.com/WangYi82909/astrbot_plugin_yoimg",
       "tags": [],
-      "stars": 2,
-      "version": "v1.0.2",
-      "updated_at": "2025-12-20T08:51:39Z",
+      "stars": 3,
+      "version": "v1.0.3",
+      "updated_at": "2025-12-21T04:24:33Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_yoimg/logo"
     },
     "astrbot_plugin_ronghedraw": {
@@ -107,9 +107,9 @@
         "绘图",
         "大香蕉"
       ],
-      "stars": 2,
-      "version": "1.1.0",
-      "updated_at": "2025-12-20T18:29:15Z"
+      "stars": 3,
+      "version": "1.1.3",
+      "updated_at": "2025-12-21T09:44:42Z"
     },
     "astrbot_plugin_model_router": {
       "display_name": "智能模型路由器",
@@ -231,8 +231,8 @@
       ],
       "social_link": "https://github.com/huizhiLLL",
       "stars": 1,
-      "version": "v1.0.3",
-      "updated_at": "2025-12-19T07:56:48Z",
+      "version": "v1.0.4",
+      "updated_at": "2025-12-21T07:08:35Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_wca/logo"
     },
     "astrbot_plugin_memos_integrator": {
@@ -496,9 +496,9 @@
       "author": "Haitun",
       "repo": "https://github.com/onniemi/astrbot_plugin_1panel",
       "tags": [],
-      "stars": 0,
+      "stars": 1,
       "version": "v1.0.1",
-      "updated_at": "2025-12-05T16:28:29Z"
+      "updated_at": "2025-12-21T07:26:27Z"
     },
     "astrbot_plugin_gif_vision_helper": {
       "display_name": "GIF Vision Helper",
@@ -650,8 +650,8 @@
         "comfyui"
       ],
       "stars": 4,
-      "version": "1.2.1",
-      "updated_at": "2025-12-20T13:15:51Z"
+      "version": "2.0",
+      "updated_at": "2025-12-21T08:48:06Z"
     },
     "astrbot_plugin_customized_active_reply_prompt": {
       "display_name": "自定义主动回复提示词",
@@ -873,8 +873,8 @@
       ],
       "social_link": "https://box.firefly520.top/",
       "stars": 11,
-      "version": "1.2.8",
-      "updated_at": "2025-12-15T13:33:50Z",
+      "version": "1.2.9",
+      "updated_at": "2025-12-21T09:31:40Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_web_analyzer/logo"
     },
     "astrbot_plugin_ComfyUI_promax": {
@@ -931,9 +931,9 @@
         "nano banana"
       ],
       "social_link": "https://www.misakanet.site",
-      "stars": 6,
+      "stars": 7,
       "version": "v1.3.1",
-      "updated_at": "2025-12-19T19:59:45Z",
+      "updated_at": "2025-12-21T05:16:08Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_gemini_image/logo"
     },
     "astrbot_plugin_gemini_image_generation": {
@@ -1151,7 +1151,7 @@
       "tags": [],
       "stars": 1,
       "version": "v0.0.9",
-      "updated_at": "2025-12-18T11:25:33Z"
+      "updated_at": "2025-12-21T06:53:50Z"
     },
     "astrbot_plugin_hardwareinfo": {
       "display_name": "硬件信息查询",
@@ -1429,9 +1429,9 @@
         "小红书",
         "推特"
       ],
-      "stars": 8,
+      "stars": 9,
       "version": "v4.1.0",
-      "updated_at": "2025-12-20T21:06:56Z",
+      "updated_at": "2025-12-21T05:46:46Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_media_parser/logo"
     },
     "astrbot_plugin_decision": {
@@ -1589,9 +1589,9 @@
       "tags": [
         "指令"
       ],
-      "stars": 6,
+      "stars": 8,
       "version": "1.1.3",
-      "updated_at": "2025-12-11T05:37:48Z",
+      "updated_at": "2025-12-21T10:27:13Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_permission-manager/logo"
     },
     "astrbot_plugin_whatslinkInfo": {
@@ -1691,8 +1691,8 @@
         "打卡"
       ],
       "stars": 2,
-      "version": "v1.0.1",
-      "updated_at": "2025-12-08T16:08:50Z",
+      "version": "v1.0.2",
+      "updated_at": "2025-12-21T05:35:19Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_dailyacmfortune/logo"
     },
     "astrbot_plugin_idgen": {
@@ -2112,8 +2112,8 @@
       ],
       "social_link": "https://github.com/DBJD-CR",
       "stars": 51,
-      "version": "v1.0.1",
-      "updated_at": "2025-12-19T03:17:49Z",
+      "version": "v1.0.2",
+      "updated_at": "2025-12-21T09:56:20Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_proactive_chat/logo"
     },
     "astrbot-plugin-moremorelove": {
@@ -2361,9 +2361,9 @@
         "sora"
       ],
       "social_link": "https://github.com/CCYellowStar2",
-      "stars": 4,
+      "stars": 5,
       "version": "v1.0.0",
-      "updated_at": "2025-12-20T01:33:45Z"
+      "updated_at": "2025-12-21T05:42:42Z"
     },
     "astrbot_plugin_video_sora2": {
       "name": "",
@@ -3936,9 +3936,9 @@
         "手办化"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 156,
+      "stars": 157,
       "version": "v2.1.3",
-      "updated_at": "2025-12-19T03:07:39Z",
+      "updated_at": "2025-12-21T10:20:17Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_lmarena/logo"
     },
     "astrbot_plugin_Mirecraft_motd": {
@@ -4425,8 +4425,8 @@
       ],
       "social_link": "https://github.com/huntuo146",
       "stars": 5,
-      "version": "1.0.4",
-      "updated_at": "2025-12-15T02:48:25Z"
+      "version": "2.1.0",
+      "updated_at": "2025-12-21T10:45:51Z"
     },
     "pokemon_fusion": {
       "desc": "宝可梦融合插件，支持指定宝可梦融合和随机融合。",
@@ -5170,7 +5170,7 @@
       "author": "Zhalslar",
       "stars": 8,
       "version": "v1.0.3",
-      "updated_at": "2025-12-14T11:15:50Z",
+      "updated_at": "2025-12-21T07:05:56Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_monitor/logo"
     },
     "astrbot_plugin_decision_roulette": {
@@ -6465,7 +6465,7 @@
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_nobot",
       "stars": 7,
       "version": "v1.0.4",
-      "updated_at": "2025-12-13T10:54:14Z",
+      "updated_at": "2025-12-21T07:04:09Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_nobot/logo"
     },
     "astrbot_plugin_mcgetter": {
@@ -6725,9 +6725,9 @@
         "api"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-      "stars": 114,
+      "stars": 115,
       "version": "v2.0.6",
-      "updated_at": "2025-12-20T08:25:04Z",
+      "updated_at": "2025-12-21T01:51:57Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_apis/logo"
     },
     "astrbot_plugin_help": {
@@ -7421,9 +7421,9 @@
         "浏览器"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
-      "stars": 20,
-      "version": "v1.1.5",
-      "updated_at": "2025-12-20T14:28:26Z",
+      "stars": 21,
+      "version": "v2.0.0",
+      "updated_at": "2025-12-21T03:58:31Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_browser/logo"
     },
     "astrbot_plugin_qqadmin": {
@@ -7636,9 +7636,9 @@
         "TTS"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
-      "stars": 37,
+      "stars": 38,
       "version": "v1.2.0",
-      "updated_at": "2025-12-13T10:49:55Z",
+      "updated_at": "2025-12-21T10:05:52Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_GPT_SoVITS/logo"
     },
     "astrbot_plugin_search_pic": {
@@ -7736,9 +7736,9 @@
       "repo": "https://github.com/xiewoc/astrbot_plugin_file_reader",
       "social_link": "https://github.com/xiewoc",
       "tags": [],
-      "stars": 4,
+      "stars": 5,
       "version": "v1.0.2",
-      "updated_at": "2025-12-18T08:58:46Z"
+      "updated_at": "2025-12-21T05:11:42Z"
     },
     "astrbot_plugin_CounterStrikle": {
       "desc": "Blast-TV 上的 Counter-Strikle 小游戏，图片卡片渲染。",
@@ -7922,7 +7922,7 @@
       "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
       "stars": 72,
       "version": "v3.0.3",
-      "updated_at": "2025-12-20T06:49:24Z",
+      "updated_at": "2025-12-21T07:07:59Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_memelite/logo"
     },
     "astrbot_plugin_saris_economic": {
@@ -8439,9 +8439,9 @@
         "主动回复"
       ],
       "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-      "stars": 87,
+      "stars": 88,
       "version": "v2.1.7",
-      "updated_at": "2025-12-20T08:25:08Z"
+      "updated_at": "2025-12-21T04:51:48Z"
     },
     "astrbot_plugin_steamshot": {
       "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
