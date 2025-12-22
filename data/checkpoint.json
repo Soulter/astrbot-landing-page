@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-12-21T12:41:13.588Z",
+  "timestamp": "2025-12-22T01:53:01.517Z",
   "github": {
-    "stars": 14343,
-    "forks": 1113,
+    "stars": 14351,
+    "forks": 1115,
     "contributors": 118
   },
   "plugins": {
@@ -84,8 +84,8 @@
       ],
       "social_link": "https://github.com/Hakuin123",
       "stars": 0,
-      "version": "v1.0.2",
-      "updated_at": "2025-12-20T14:27:04Z"
+      "version": "v1.0.3",
+      "updated_at": "2025-12-21T14:36:32Z"
     },
     "astrbot_plugin_yoimg": {
       "display_name": "Gitee 图系模型文生图，图生图",
@@ -93,9 +93,9 @@
       "author": "梦千秋",
       "repo": "https://github.com/WangYi82909/astrbot_plugin_yoimg",
       "tags": [],
-      "stars": 3,
+      "stars": 4,
       "version": "v1.0.3",
-      "updated_at": "2025-12-21T04:24:33Z",
+      "updated_at": "2025-12-21T13:17:13Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_yoimg/logo"
     },
     "astrbot_plugin_ronghedraw": {
@@ -108,8 +108,8 @@
         "大香蕉"
       ],
       "stars": 3,
-      "version": "1.1.3",
-      "updated_at": "2025-12-21T09:44:42Z"
+      "version": "1.1.5",
+      "updated_at": "2025-12-21T12:15:37Z"
     },
     "astrbot_plugin_model_router": {
       "display_name": "智能模型路由器",
@@ -454,7 +454,7 @@
       "social_link": "https://github.com/DBJD-CR",
       "stars": 13,
       "version": "v1.2.0",
-      "updated_at": "2025-12-20T12:18:57Z",
+      "updated_at": "2025-12-21T11:48:01Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_disaster_warning/logo"
     },
     "astrbot_plugin_lofter_parser": {
@@ -650,8 +650,8 @@
         "comfyui"
       ],
       "stars": 4,
-      "version": "2.0",
-      "updated_at": "2025-12-21T08:48:06Z"
+      "version": "2.1",
+      "updated_at": "2025-12-21T14:21:54Z"
     },
     "astrbot_plugin_customized_active_reply_prompt": {
       "display_name": "自定义主动回复提示词",
@@ -1266,7 +1266,7 @@
       "social_link": "https://github.com/HSOS6",
       "stars": 1,
       "version": "2.0.25.12.WNMCNXM",
-      "updated_at": "2025-12-18T12:48:27Z",
+      "updated_at": "2025-12-21T11:53:49Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_mcsmanager/logo"
     },
     "astrbot_plugin_minecraft_adapter": {
@@ -1429,9 +1429,9 @@
         "小红书",
         "推特"
       ],
-      "stars": 9,
+      "stars": 10,
       "version": "v4.1.0",
-      "updated_at": "2025-12-21T05:46:46Z",
+      "updated_at": "2025-12-21T15:56:09Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_media_parser/logo"
     },
     "astrbot_plugin_decision": {
@@ -1735,9 +1735,9 @@
         "蔚蓝档案",
         "Blue Archive"
       ],
-      "stars": 0,
+      "stars": 1,
       "version": "v1.14",
-      "updated_at": "2025-11-16T13:47:35Z"
+      "updated_at": "2025-12-21T18:14:41Z"
     },
     "astrbot_plugin_mirage_tank": {
       "desc": "用于生成幻影坦克图片的插件，支持黑白和彩色两种模式",
@@ -1835,9 +1835,9 @@
         "主动回复"
       ],
       "social_link": "https://github.com/Him666233",
-      "stars": 19,
+      "stars": 20,
       "version": "v1.1.2",
-      "updated_at": "2025-12-16T07:35:20Z",
+      "updated_at": "2025-12-21T17:20:17Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_group_chat_plus/logo"
     },
     "astrbot_plugin_message_stats": {
@@ -2027,7 +2027,7 @@
       ],
       "stars": 3,
       "version": "v1.0.1dev",
-      "updated_at": "2025-12-16T07:16:42Z",
+      "updated_at": "2025-12-21T16:23:15Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_monixiuxian/logo"
     },
     "astrbot_plugin_invitecount": {
@@ -2111,9 +2111,9 @@
         "TTS"
       ],
       "social_link": "https://github.com/DBJD-CR",
-      "stars": 51,
+      "stars": 52,
       "version": "v1.0.2",
-      "updated_at": "2025-12-21T09:56:20Z",
+      "updated_at": "2025-12-21T11:43:38Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_proactive_chat/logo"
     },
     "astrbot-plugin-moremorelove": {
@@ -2174,8 +2174,8 @@
         "自动点赞"
       ],
       "stars": 1,
-      "version": "v1.2.0",
-      "updated_at": "2025-11-21T07:07:17Z",
+      "version": "v1.3.0",
+      "updated_at": "2025-12-21T21:05:38Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_furry_zan/logo"
     },
     "zhiyu-astrbot-business": {
@@ -2878,9 +2878,9 @@
         "信息"
       ],
       "social_link": " https://github.com/ovoox",
-      "stars": 0,
+      "stars": 1,
       "version": "v1.0",
-      "updated_at": "2025-11-16T02:21:47Z"
+      "updated_at": "2025-12-21T11:57:57Z"
     },
     "弗一把": {
       "desc": "仿blast.tv猜csplayer",
@@ -3196,9 +3196,9 @@
         "重启"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 7,
+      "stars": 8,
       "version": "v1.0.5",
-      "updated_at": "2025-12-18T01:17:42Z",
+      "updated_at": "2025-12-21T16:47:27Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_restart/logo"
     },
     "astrbot_plugin_tts_llm": {
@@ -3913,8 +3913,8 @@
       "tags": "娱乐",
       "social_link": "astrbot.uk",
       "stars": 14,
-      "version": "v1.4.0",
-      "updated_at": "2025-11-28T07:01:17Z"
+      "version": "v1.4.1",
+      "updated_at": "2025-12-21T17:55:18Z"
     },
     "should_I_respond": {
       "desc": "“我要回复这条消息吗？”当打开主动回复时，LLM 可能傻傻的就部分上下文一直回复。这个插件没准能解决这个问题。（在 aiocqhttp 平台测试，需要搭配主动回复功能使用）",
@@ -4424,9 +4424,9 @@
         "群审核"
       ],
       "social_link": "https://github.com/huntuo146",
-      "stars": 5,
+      "stars": 6,
       "version": "2.1.0",
-      "updated_at": "2025-12-21T10:45:51Z"
+      "updated_at": "2025-12-21T12:09:14Z"
     },
     "pokemon_fusion": {
       "desc": "宝可梦融合插件，支持指定宝可梦融合和随机融合。",
@@ -8903,9 +8903,9 @@
       "author": "第九位魔神",
       "repo": "https://github.com/cyber-moshen/astrbot_plugin_VITS",
       "tags": [],
-      "stars": 6,
+      "stars": 7,
       "version": "v1.5.0",
-      "updated_at": "2025-09-20T03:09:47Z"
+      "updated_at": "2025-12-21T19:25:57Z"
     },
     "astrbot_plugin_memes": {
       "desc": "这是能让机器人随机发表情包的插件，可手动添加表情包，表情包路径在AstrBot/data/meme/下",
@@ -8959,7 +8959,7 @@
       "tags": [],
       "stars": 13,
       "version": "v4.7.2",
-      "updated_at": "2025-12-18T10:41:09Z"
+      "updated_at": "2025-12-21T18:09:05Z"
     },
     "astrbot_plugin_mohoyo_cos": {
       "desc": "获取米游社社区cos插件，支持LLM自识别",
@@ -9336,8 +9336,8 @@
       "repo": "https://github.com/zgojin/astrbot_plugin_thinkTags",
       "tags": [],
       "stars": 5,
-      "version": "v1.4.1",
-      "updated_at": "2025-09-16T10:52:23Z"
+      "version": "v1.4.2",
+      "updated_at": "2025-12-21T13:30:29Z"
     }
   }
 }
