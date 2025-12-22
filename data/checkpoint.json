@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-12-22T01:53:01.517Z",
+  "timestamp": "2025-12-22T12:46:18.519Z",
   "github": {
-    "stars": 14351,
-    "forks": 1115,
+    "stars": 14375,
+    "forks": 1118,
     "contributors": 118
   },
   "plugins": {
@@ -271,9 +271,9 @@
         "恶搞",
         "迫害群友"
       ],
-      "stars": 0,
+      "stars": 1,
       "version": "v1.1.7",
-      "updated_at": "2025-12-16T06:29:47Z"
+      "updated_at": "2025-12-22T05:38:30Z"
     },
     "astrbot_plugin_parser": {
       "display_name": "万能解析器",
@@ -285,9 +285,9 @@
         "链接"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 21,
+      "stars": 22,
       "version": "v1.1.1",
-      "updated_at": "2025-12-19T16:33:51Z",
+      "updated_at": "2025-12-22T05:17:03Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_parser/logo"
     },
     "astrbot_plugin_transport": {
@@ -400,9 +400,9 @@
       "tags": [
         "表情"
       ],
-      "stars": 4,
+      "stars": 5,
       "version": "1.0.4",
-      "updated_at": "2025-12-20T02:18:12Z",
+      "updated_at": "2025-12-22T05:39:04Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_stealer/logo"
     },
     "astrbot_plugin_splitter": {
@@ -872,9 +872,9 @@
         "工具"
       ],
       "social_link": "https://box.firefly520.top/",
-      "stars": 11,
-      "version": "1.2.9",
-      "updated_at": "2025-12-21T09:31:40Z",
+      "stars": 12,
+      "version": "1.3.0",
+      "updated_at": "2025-12-22T05:47:07Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_web_analyzer/logo"
     },
     "astrbot_plugin_ComfyUI_promax": {
@@ -1589,9 +1589,9 @@
       "tags": [
         "指令"
       ],
-      "stars": 8,
+      "stars": 9,
       "version": "1.1.3",
-      "updated_at": "2025-12-21T10:27:13Z",
+      "updated_at": "2025-12-22T05:20:50Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_permission-manager/logo"
     },
     "astrbot_plugin_whatslinkInfo": {
@@ -1820,9 +1820,9 @@
       "author": "Sjshi763",
       "repo": "https://github.com/Sjshi763/astrbot_plugin_shutdown",
       "tags": [],
-      "stars": 0,
+      "stars": 1,
       "version": "v1.0.7",
-      "updated_at": "2025-11-01T07:11:27Z"
+      "updated_at": "2025-12-22T09:56:41Z"
     },
     "astrbot_plugin_group_chat_plus": {
       "display_name": "chat_plus",
@@ -3646,9 +3646,9 @@
         "总结"
       ],
       "social_link": "https://github.com/SXP-Simon",
-      "stars": 94,
+      "stars": 96,
       "version": "v4.4.0",
-      "updated_at": "2025-12-20T13:11:13Z",
+      "updated_at": "2025-12-22T05:39:55Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot-qq-group-daily-analysis/logo"
     },
     "astrbot_plugin_boss_notifier": {
@@ -6006,9 +6006,9 @@
       "desc": "DZMM聊天插件，适配了DZMM返回的格式，并避免与AstrBot的模型混用，可用特别命令唤起DZMM的模型进行\"有趣生动\"的互动聊天。",
       "repo": "https://github.com/VincenttHo/astrbot_plugin_dzmm",
       "tags": [],
-      "stars": 16,
+      "stars": 15,
       "version": "v1.1.0",
-      "updated_at": "2025-11-26T07:37:37Z"
+      "updated_at": "2025-12-22T01:38:47Z"
     },
     "astrbot_plugin_text2image": {
       "author": "wuyan1003",
@@ -6180,9 +6180,9 @@
       "repo": "https://github.com/Zhalslar/astrbot_plugin_search_video",
       "social_link": "https://github.com/Zhalslar",
       "tags": [],
-      "stars": 36,
+      "stars": 37,
       "version": "v1.1.1",
-      "updated_at": "2025-12-18T12:38:30Z",
+      "updated_at": "2025-12-22T03:15:36Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_search_video/logo"
     },
     "astrbot_plugin_zt": {
@@ -7423,7 +7423,7 @@
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
       "stars": 21,
       "version": "v2.0.0",
-      "updated_at": "2025-12-21T03:58:31Z",
+      "updated_at": "2025-12-22T09:20:17Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_browser/logo"
     },
     "astrbot_plugin_qqadmin": {
@@ -8038,9 +8038,9 @@
         "开盒"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
-      "stars": 59,
+      "stars": 60,
       "version": "v1.2.5",
-      "updated_at": "2025-12-18T05:57:40Z",
+      "updated_at": "2025-12-22T06:49:46Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_box/logo"
     },
     "astrbot_plugin_relationship": {
@@ -8052,9 +8052,9 @@
       "tags": [
         "实用工具"
       ],
-      "stars": 22,
+      "stars": 23,
       "version": "v2.2.3",
-      "updated_at": "2025-12-20T12:16:52Z",
+      "updated_at": "2025-12-22T04:56:41Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_relationship/logo"
     },
     "astrbot_plugin_pokecheck": {
@@ -8477,9 +8477,9 @@
       "tags": [
         "功能"
       ],
-      "stars": 21,
+      "stars": 22,
       "version": "1.1.0",
-      "updated_at": "2025-12-03T09:29:53Z"
+      "updated_at": "2025-12-22T07:40:10Z"
     },
     "astrbot_plugin_moyuren": {
       "desc": "每天定时推送摸鱼人日历",
