@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-12-22T12:46:18.519Z",
+  "timestamp": "2025-12-23T01:48:40.348Z",
   "github": {
-    "stars": 14375,
-    "forks": 1118,
+    "stars": 14395,
+    "forks": 1121,
     "contributors": 118
   },
   "plugins": {
@@ -84,8 +84,8 @@
       ],
       "social_link": "https://github.com/Hakuin123",
       "stars": 0,
-      "version": "v1.0.3",
-      "updated_at": "2025-12-21T14:36:32Z"
+      "version": "v1.0.4",
+      "updated_at": "2025-12-22T15:06:56Z"
     },
     "astrbot_plugin_yoimg": {
       "display_name": "Gitee 图系模型文生图，图生图",
@@ -108,8 +108,8 @@
         "大香蕉"
       ],
       "stars": 3,
-      "version": "1.1.5",
-      "updated_at": "2025-12-21T12:15:37Z"
+      "version": "1.1.6",
+      "updated_at": "2025-12-22T17:21:28Z"
     },
     "astrbot_plugin_model_router": {
       "display_name": "智能模型路由器",
@@ -243,9 +243,9 @@
       "tags": [
         "memory"
       ],
-      "stars": 10,
+      "stars": 11,
       "version": "v1.6.0",
-      "updated_at": "2025-12-20T14:33:50Z"
+      "updated_at": "2025-12-22T17:01:13Z"
     },
     "astrbot_plugin_fortnue": {
       "display_name": "fortnue_image",
@@ -327,9 +327,9 @@
         "游戏王",
         "卡牌"
       ],
-      "stars": 4,
+      "stars": 5,
       "version": "1.3.0",
-      "updated_at": "2025-12-17T04:54:35Z",
+      "updated_at": "2025-12-22T13:26:12Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_duel_galatea/logo"
     },
     "astrbot_plugin_epic_free_games_notice": {
@@ -1385,9 +1385,9 @@
         "遗忘"
       ],
       "social_link": "https://github.com/SinkAbyss",
-      "stars": 1,
+      "stars": 2,
       "version": "v1.1.5",
-      "updated_at": "2025-12-13T11:15:30Z"
+      "updated_at": "2025-12-22T14:40:54Z"
     },
     "astrbot_plugin_Furimg_Cloud": {
       "display_name": "兽云祭(兽兽图片/图鉴)",
@@ -1835,9 +1835,9 @@
         "主动回复"
       ],
       "social_link": "https://github.com/Him666233",
-      "stars": 20,
+      "stars": 21,
       "version": "v1.1.2",
-      "updated_at": "2025-12-21T17:20:17Z",
+      "updated_at": "2025-12-22T12:55:42Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_group_chat_plus/logo"
     },
     "astrbot_plugin_message_stats": {
@@ -2026,8 +2026,8 @@
         "修仙"
       ],
       "stars": 3,
-      "version": "v1.0.1dev",
-      "updated_at": "2025-12-21T16:23:15Z",
+      "version": "v1.0.2dev",
+      "updated_at": "2025-12-22T14:08:51Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_monixiuxian/logo"
     },
     "astrbot_plugin_invitecount": {
@@ -3221,9 +3221,9 @@
         "主动应答"
       ],
       "social_link": "https://github.com/kawayiYokami",
-      "stars": 18,
+      "stars": 19,
       "version": "0.8.6",
-      "updated_at": "2025-12-20T03:08:43Z"
+      "updated_at": "2025-12-22T11:59:50Z"
     },
     "astrbot_plugin_angel_eye": {
       "desc": "在调用大模型之前，通过小模型识别对话中的专有名词并链接百科知识，为大模型补充上下文，使其更“见多识广”。",
@@ -3410,8 +3410,8 @@
         "撤回"
       ],
       "stars": 3,
-      "version": "v0.3",
-      "updated_at": "2025-12-18T12:47:42Z",
+      "version": "v1.0",
+      "updated_at": "2025-12-22T18:32:59Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_anti_revoke/logo"
     },
     "input_state_by_napcat": {
@@ -3537,9 +3537,9 @@
         "memory",
         "rag"
       ],
-      "stars": 46,
+      "stars": 47,
       "version": "2.0.2",
-      "updated_at": "2025-12-18T06:54:35Z",
+      "updated_at": "2025-12-22T15:51:46Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_livingmemory/logo"
     },
     "astrbot_plugin_mathitools": {
@@ -3713,9 +3713,9 @@
       "author": "木有知",
       "repo": "https://github.com/muyouzhi6/astrbot_plugin_restrict_syscmd",
       "tags": [],
-      "stars": 6,
+      "stars": 7,
       "version": "0.2.1",
-      "updated_at": "2025-12-13T08:45:00Z"
+      "updated_at": "2025-12-22T14:21:37Z"
     },
     "astrbot_plugin_jojo_stand_panel": {
       "desc": "一个用于 AstrBot 的 JOJO 替身面板生成插件，调用 TripleYing 的 API 生成 JOJO 风格替身面板图片。支持随机生成、自定义设置、替身系统等功能。",
@@ -4023,8 +4023,8 @@
       ],
       "social_link": "https://github.com/muyouzhi6",
       "stars": 39,
-      "version": "0.5.0",
-      "updated_at": "2025-12-15T15:54:48Z",
+      "version": "1.0.0",
+      "updated_at": "2025-12-22T17:12:41Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_tts_emotion_router/logo"
     },
     "astrbot_plugin_keyword_monitor": {
@@ -4159,7 +4159,7 @@
       "social_link": "https://github.com/Zhalslar",
       "stars": 28,
       "version": "v1.1.8",
-      "updated_at": "2025-12-20T16:05:55Z",
+      "updated_at": "2025-12-22T13:31:06Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_wakepro/logo"
     },
     "astrbot_plugin_memora_connect": {
@@ -4687,7 +4687,7 @@
       ],
       "stars": 4,
       "version": "v1.2.1",
-      "updated_at": "2025-12-12T07:39:38Z",
+      "updated_at": "2025-12-22T15:45:15Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_proactive_reply/logo"
     },
     "treasure_bag_plugin": {
@@ -4791,7 +4791,7 @@
       ],
       "stars": 11,
       "version": "v2.1.4",
-      "updated_at": "2025-12-11T11:32:20Z",
+      "updated_at": "2025-12-22T15:33:43Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_battlefield_tool/logo"
     },
     "astrbot_plugin_SteamSaleTracker": {
@@ -7993,18 +7993,6 @@
       "stars": 4,
       "version": "v2.0.1",
       "updated_at": "2025-10-24T08:53:16Z"
-    },
-    "astrbot_plugin_liferestart": {
-      "desc": "人生重启模拟器。输入「重开」来重开你的沟槽人生吧！",
-      "author": "kterna",
-      "tags": [
-        "游戏"
-      ],
-      "social_link": "https://github.com/kterna/astrbot_plugin_liferestart",
-      "repo": "https://github.com/kterna/astrbot_plugin_liferestart",
-      "stars": 1,
-      "version": "v1.0.0",
-      "updated_at": "2025-03-24T15:23:26Z"
     },
     "astrbot_plugin_Lolicon": {
       "author": "hello七七",
