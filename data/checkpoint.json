@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-12-27T01:45:52.944Z",
+  "timestamp": "2025-12-27T12:42:04.844Z",
   "github": {
-    "stars": 14526,
-    "forks": 1135,
+    "stars": 14541,
+    "forks": 1137,
     "contributors": 123
   },
   "plugins": {
@@ -99,7 +99,7 @@
       "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
       "stars": 11,
       "version": "v1.1",
-      "updated_at": "2025-12-26T09:55:51Z"
+      "updated_at": "2025-12-27T01:31:51Z"
     },
     "astrbot_plugin_ql_bilibili_account_manager": {
       "display_name": "Bili每日签到（基于青龙）",
@@ -254,8 +254,8 @@
       ],
       "social_link": "https://github.com/Clhikari",
       "stars": 0,
-      "version": "v1.0.1",
-      "updated_at": "2025-12-20T06:03:53Z"
+      "version": "v1.0.2",
+      "updated_at": "2025-12-27T10:35:33Z"
     },
     "astrbot_plugin_chat4severals": {
       "display_name": "优化私聊体验，不再说一句回一句",
@@ -375,8 +375,8 @@
       ],
       "social_link": "https://github.com/jengaklll-a11y",
       "stars": 0,
-      "version": "v1.0.0",
-      "updated_at": "2025-12-22T20:33:02Z",
+      "version": "v1.0.3",
+      "updated_at": "2025-12-27T02:23:34Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_gitee_zimg/logo"
     },
     "astrbot_plugin_rollpig": {
@@ -475,9 +475,9 @@
         "桌面客户端"
       ],
       "social_link": "https://github.com/muyouzhi6",
-      "stars": 8,
-      "version": "1.0.2",
-      "updated_at": "2025-12-26T08:21:51Z",
+      "stars": 9,
+      "version": "1.0.3",
+      "updated_at": "2025-12-27T07:36:09Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_desktop_assistant/logo"
     },
     "astrbot_plugin_angel_memory": {
@@ -582,7 +582,7 @@
       "tags": [],
       "stars": 0,
       "version": "v0.2.1",
-      "updated_at": "2025-12-17T13:15:46Z"
+      "updated_at": "2025-12-27T11:13:04Z"
     },
     "astrbot_plugin_qbittorrent_bridge": {
       "display_name": "qBittorrent 桥接器",
@@ -674,8 +674,8 @@
         "大香蕉"
       ],
       "stars": 3,
-      "version": "1.1.6",
-      "updated_at": "2025-12-22T17:21:28Z"
+      "version": "1.1.9",
+      "updated_at": "2025-12-27T08:59:52Z"
     },
     "astrbot_plugin_model_router": {
       "display_name": "智能模型路由器",
@@ -971,8 +971,8 @@
       ],
       "social_link": "https://github.com/muyouzhi6",
       "stars": 7,
-      "version": "0.1.2",
-      "updated_at": "2025-12-19T14:27:36Z",
+      "version": "0.1.3",
+      "updated_at": "2025-12-27T06:34:54Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_life_scheduler/logo"
     },
     "astrbot_plugin_stealer": {
@@ -1218,9 +1218,9 @@
         "论文",
         "推送"
       ],
-      "stars": 1,
+      "stars": 2,
       "version": "v1.4.2",
-      "updated_at": "2025-12-06T04:36:18Z"
+      "updated_at": "2025-12-27T07:33:23Z"
     },
     "astrbot_plugin_comfyui_pro": {
       "display_name": "高级 ComfyUI 绘图插件",
@@ -1453,8 +1453,8 @@
       ],
       "social_link": "https://box.firefly520.top/",
       "stars": 12,
-      "version": "1.3.4",
-      "updated_at": "2025-12-26T17:04:52Z",
+      "version": "1.3.5",
+      "updated_at": "2025-12-27T07:42:30Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_web_analyzer/logo"
     },
     "astrbot_plugin_ComfyUI_promax": {
@@ -1651,8 +1651,8 @@
       ],
       "social_link": "www.zousanzy.cn",
       "stars": 0,
-      "version": "v2.1",
-      "updated_at": "2025-11-29T11:03:59Z",
+      "version": "v6.1",
+      "updated_at": "2025-12-27T03:42:45Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_ zxs60s/logo"
     },
     "astrbot_plugin_slave_market": {
@@ -1778,9 +1778,9 @@
       "author": "gabriel0721",
       "repo": "https://github.com/TenmaGabriel0721/astrbot_plugin_whitelistpro",
       "tags": [],
-      "stars": 1,
+      "stars": 2,
       "version": "1.0.0",
-      "updated_at": "2025-11-18T13:20:37Z",
+      "updated_at": "2025-12-27T05:51:02Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_whitelistpro/logo"
     },
     "astrbot_plugin_val_shop": {
@@ -3180,7 +3180,7 @@
       "tags": [],
       "stars": 3,
       "version": "1.6.2",
-      "updated_at": "2025-12-19T14:01:30Z"
+      "updated_at": "2025-12-27T01:07:19Z"
     },
     "astrbot_plugin_33recognition": {
       "desc": "调用大模型检测图片中关键词",
@@ -5251,9 +5251,9 @@
         "用户信息",
         "主动回复"
       ],
-      "stars": 4,
+      "stars": 5,
       "version": "v1.2.1",
-      "updated_at": "2025-12-26T06:49:27Z",
+      "updated_at": "2025-12-27T09:39:16Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_proactive_reply/logo"
     },
     "treasure_bag_plugin": {
@@ -6038,9 +6038,9 @@
         "调教"
       ],
       "social_link": "https://github.com/oyxning",
-      "stars": 37,
+      "stars": 38,
       "version": "v3.5.1",
-      "updated_at": "2025-12-25T03:47:06Z",
+      "updated_at": "2025-12-27T08:31:07Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_antipromptinjector/logo"
     },
     "astrbot_plugin_alistfile": {
@@ -6992,8 +6992,8 @@
       ],
       "social_link": "https://github.com/GEMILUXVII",
       "stars": 70,
-      "version": "v2.0.1",
-      "updated_at": "2025-12-26T16:06:15Z",
+      "version": "v2.5.4",
+      "updated_at": "2025-12-27T10:54:12Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_jm_cosmos/logo"
     },
     "astrbot_plugin_combine-messages": {
@@ -7990,7 +7990,7 @@
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
       "stars": 22,
       "version": "v2.0.0",
-      "updated_at": "2025-12-24T05:53:26Z",
+      "updated_at": "2025-12-27T07:25:57Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_browser/logo"
     },
     "astrbot_plugin_qqadmin": {
@@ -8489,7 +8489,7 @@
       "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
       "stars": 74,
       "version": "v3.0.3",
-      "updated_at": "2025-12-23T16:01:24Z",
+      "updated_at": "2025-12-27T03:22:46Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_memelite/logo"
     },
     "astrbot_plugin_saris_economic": {
