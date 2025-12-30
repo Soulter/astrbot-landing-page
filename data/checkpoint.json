@@ -1,11 +1,76 @@
 {
-  "timestamp": "2025-12-29T12:49:02.727Z",
+  "timestamp": "2025-12-30T01:49:19.199Z",
   "github": {
-    "stars": 14585,
+    "stars": 14597,
     "forks": 1141,
     "contributors": 126
   },
   "plugins": {
+    "astrbot_plugin_matrix_adapter": {
+      "display_name": "Matrix 协议适配器",
+      "desc": "Matrix 协议适配器，支持端到端加密、消息线程等功能。暂不支持密钥交换，暂不支持 Oauth2 登录。",
+      "author": "stevessr",
+      "repo": "https://github.com/stevessr/astrbot_plugin_matrix_adapter",
+      "tags": [
+        "matrix",
+        "平台适配器"
+      ],
+      "social_link": "https://github.com/stevessr",
+      "stars": 0,
+      "version": "0.1.0",
+      "updated_at": "2025-12-26T13:11:52Z",
+      "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_matrix_adapter/logo"
+    },
+    "astrbot_plugin_llm_executor": {
+      "display_name": "指令执行器",
+      "desc": "让LLM代理执行Bot指令，配合command_query插件使用，实现自然语言到指令的转换",
+      "author": "gabriel0721",
+      "repo": "https://github.com/TenmaGabriel0721/astrbot_plugin_llm_executor",
+      "tags": [],
+      "stars": 1,
+      "version": "1.0.0",
+      "updated_at": "2025-12-29T14:45:12Z"
+    },
+    "astrbot_plugin_command_query": {
+      "display_name": "指令查询工具",
+      "desc": "让 LLM 能够实时查询指令信息，引导用户正确使用 - 支持模糊搜索、详情查询、插件列表",
+      "author": "gabriel0721",
+      "repo": "https://github.com/TenmaGabriel0721/astrbot_plugin_command_query",
+      "tags": [],
+      "stars": 2,
+      "version": "2.1.0",
+      "updated_at": "2025-12-29T14:45:11Z"
+    },
+    "astrbot_plugin_maa": {
+      "display_name": "MAA 远程控制",
+      "desc": "通过 AstrBot 远程控制 MAA",
+      "author": "Hakuin123",
+      "repo": "https://github.com/Hakuin123/astrbot_plugin_maa",
+      "tags": [
+        "MAA",
+        "明日方舟"
+      ],
+      "social_link": "https://github.com/Hakuin123",
+      "stars": 0,
+      "version": "v1.0.0",
+      "updated_at": "2025-12-28T17:58:57Z"
+    },
+    "astrbot_plugin_extract": {
+      "display_name": "元数据解析",
+      "desc": "对图片、视频、语音、文件等媒体的元数据进行解析",
+      "author": "Zhalslar",
+      "repo": "https://github.com/Zhalslar/astrbot_plugin_extract",
+      "tags": [
+        "元数据",
+        "解析",
+        "媒体"
+      ],
+      "social_link": "https://github.com/Zhalslar",
+      "stars": 3,
+      "version": "v1.0.1",
+      "updated_at": "2025-12-27T12:19:30Z",
+      "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_extract/logo"
+    },
     "astrbot_plugin_admin_notifier": {
       "display_name": "举报通知",
       "desc": "群友可以使用 /举报 指令@所有管理员",
@@ -31,9 +96,9 @@
         "青云"
       ],
       "social_link": "https://github.com/pmh1314520",
-      "stars": 2,
+      "stars": 3,
       "version": "v1.0.0",
-      "updated_at": "2025-12-27T17:45:50Z",
+      "updated_at": "2025-12-29T13:33:24Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_qymusic/logo"
     },
     "astrbot_plugin_copymanga": {
@@ -305,7 +370,7 @@
       "social_link": "https://github.com/Dayanshifu/",
       "stars": 1,
       "version": "v1.0.1",
-      "updated_at": "2025-12-26T18:00:16Z",
+      "updated_at": "2025-12-29T16:19:13Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_bilibili_livemonitor/logo"
     },
     "astrbot_plugin_hangout": {
@@ -376,7 +441,7 @@
       "social_link": "https://github.com/jengaklll-a11y",
       "stars": 0,
       "version": "v1.0.3",
-      "updated_at": "2025-12-27T02:23:34Z",
+      "updated_at": "2025-12-29T13:56:08Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_gitee_zimg/logo"
     },
     "astrbot_plugin_rollpig": {
@@ -408,7 +473,7 @@
       "social_link": "https://github.com/jengaklll-a11y",
       "stars": 1,
       "version": "v1.0.0",
-      "updated_at": "2025-12-25T07:26:51Z",
+      "updated_at": "2025-12-29T13:57:53Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_portrayal_core/logo"
     },
     "astrbot_plugin_big_banana": {
@@ -582,7 +647,7 @@
       "tags": [],
       "stars": 0,
       "version": "v0.1.1",
-      "updated_at": "2025-12-29T09:42:25Z",
+      "updated_at": "2025-12-29T16:34:12Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_binance/logo"
     },
     "astrbot_plugin_qbittorrent_bridge": {
@@ -986,8 +1051,8 @@
         "表情"
       ],
       "stars": 6,
-      "version": "2.0.0",
-      "updated_at": "2025-12-27T19:35:07Z",
+      "version": "2.0.1",
+      "updated_at": "2025-12-29T19:00:50Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_stealer/logo"
     },
     "astrbot_plugin_splitter": {
@@ -1019,9 +1084,9 @@
         "LLM 工具"
       ],
       "social_link": "https://github.com/sl251",
-      "stars": 9,
+      "stars": 10,
       "version": "1.0.5",
-      "updated_at": "2025-12-19T11:56:15Z",
+      "updated_at": "2025-12-29T13:54:52Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_e2b_sandbox/logo"
     },
     "astrbot_plugin_disaster_warning": {
@@ -1160,8 +1225,8 @@
       "repo": "https://github.com/bylkuse/astrbot_plugin_bananic_ninjutsu",
       "tags": [],
       "stars": 7,
-      "version": "v0.3.5",
-      "updated_at": "2025-12-23T00:42:20Z",
+      "version": "v0.3.6",
+      "updated_at": "2025-12-29T22:23:57Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_bananic_ninjutsu/logo"
     },
     "astrbot_plugin_ASCII": {
@@ -1173,8 +1238,8 @@
         "图片转换"
       ],
       "stars": 0,
-      "version": "1.4.2",
-      "updated_at": "2025-12-07T06:12:37Z"
+      "version": "1.4.3",
+      "updated_at": "2025-12-29T11:36:45Z"
     },
     "astrbot_plugin_smart_translator": {
       "display_name": "Smart Translator",
@@ -2430,9 +2495,9 @@
         "主动回复"
       ],
       "social_link": "https://github.com/Him666233",
-      "stars": 22,
+      "stars": 23,
       "version": "v1.1.2",
-      "updated_at": "2025-12-25T06:04:14Z",
+      "updated_at": "2025-12-29T15:00:22Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_group_chat_plus/logo"
     },
     "astrbot_plugin_message_stats": {
@@ -3002,8 +3067,8 @@
       "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
       "tags": [],
       "stars": 12,
-      "version": "v3.9.10",
-      "updated_at": "2025-12-28T15:01:28Z",
+      "version": "v3.9.12",
+      "updated_at": "2025-12-29T16:06:48Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_zssm_explain/logo"
     },
     "astrbot_plugin_timeline": {
@@ -3346,8 +3411,9 @@
       ],
       "social_link": "https://catyun.cyou/",
       "stars": 1,
-      "version": "v1.0.6",
-      "updated_at": "2025-11-19T04:44:52Z"
+      "version": "v2.0.1",
+      "updated_at": "2025-12-29T14:36:00Z",
+      "logo": "https://api.soulter.top/astrbot/plugin/mcstatus/logo"
     },
     "astrbot_plugin_search_tracemoe": {
       "desc": "基于 trace.moe API 的动漫场景识别插件，支持通过图片搜索动漫截图场景出处。",
@@ -3753,9 +3819,9 @@
       "tags": [
         "galgame"
       ],
-      "stars": 5,
+      "stars": 6,
       "version": "v1.2",
-      "updated_at": "2025-12-04T10:50:31Z"
+      "updated_at": "2025-12-29T15:04:14Z"
     },
     "astrbot_plugins_steam_shop_price": {
       "desc": "用于查询 Steam 游戏的国区价格、史低信息，并支持与其他区服价格对比。支持识别游戏中文名。",
@@ -4150,8 +4216,8 @@
       ],
       "social_link": "https://github.com/muyouzhi6",
       "stars": 7,
-      "version": "v1.1.1",
-      "updated_at": "2025-12-24T02:56:04Z",
+      "version": "v1.2.0",
+      "updated_at": "2025-12-29T16:01:04Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_recall_cancel/logo"
     },
     "astrbot_plugin_multimsg": {
@@ -4564,9 +4630,9 @@
         "token",
         "llm"
       ],
-      "stars": 0,
+      "stars": 1,
       "version": "0.1.0",
-      "updated_at": "2025-09-04T18:41:37Z"
+      "updated_at": "2025-12-29T21:02:17Z"
     },
     "astrbot_plugin_steam_topsellers": {
       "desc": "获取 Steam 热销榜前 5 名游戏",
@@ -4662,9 +4728,9 @@
         "人格"
       ],
       "social_link": "https://github.com/NickCharlie",
-      "stars": 56,
+      "stars": 57,
       "version": "1.6.1",
-      "updated_at": "2025-12-25T06:03:53Z"
+      "updated_at": "2025-12-29T15:58:56Z"
     },
     "astrbot_plugin_baiduocr": {
       "desc": "百度智能云的 OCR 文字识别服务。新用户有千次的免费调用次数，适合轻度使用",
@@ -4777,9 +4843,9 @@
         "输出增强"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 13,
+      "stars": 14,
       "version": "v1.1.7",
-      "updated_at": "2025-12-29T05:55:42Z",
+      "updated_at": "2025-12-29T21:00:01Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_outputpro/logo"
     },
     "astrbot_plugin_image_summary": {
@@ -5254,8 +5320,8 @@
         "主动回复"
       ],
       "stars": 5,
-      "version": "v1.2.1",
-      "updated_at": "2025-12-29T07:19:25Z",
+      "version": "v1.3.0",
+      "updated_at": "2025-12-29T13:43:46Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_proactive_reply/logo"
     },
     "treasure_bag_plugin": {
@@ -6040,9 +6106,9 @@
         "调教"
       ],
       "social_link": "https://github.com/oyxning",
-      "stars": 39,
+      "stars": 40,
       "version": "v3.5.1",
-      "updated_at": "2025-12-28T10:58:55Z",
+      "updated_at": "2025-12-29T12:59:58Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_antipromptinjector/logo"
     },
     "astrbot_plugin_alistfile": {
@@ -6777,9 +6843,9 @@
         "画像"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 46,
+      "stars": 47,
       "version": "v1.0.6",
-      "updated_at": "2025-12-29T03:26:20Z",
+      "updated_at": "2025-12-29T15:05:57Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_portrayal/logo"
     },
     "astrbot_plugin_prefix_filter": {
@@ -9685,9 +9751,9 @@
       "author": "lxfight",
       "repo": "https://github.com/lxfight/astrbot_plugin_memeify",
       "tags": [],
-      "stars": 19,
+      "stars": 20,
       "version": "1.0.0",
-      "updated_at": "2025-12-07T07:50:36Z"
+      "updated_at": "2025-12-29T17:07:28Z"
     },
     "astrbot_plugin_DailyWife": {
       "desc": "每日老婆插件，请配置NapCat！！",
