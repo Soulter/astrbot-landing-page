@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-01-02T01:50:50.555Z",
+  "timestamp": "2026-01-02T12:43:56.857Z",
   "github": {
-    "stars": 14666,
-    "forks": 1146,
+    "stars": 14684,
+    "forks": 1148,
     "contributors": 125
   },
   "plugins": {
@@ -45,9 +45,9 @@
         "每日推送"
       ],
       "social_link": "https://github.com/Huahuatgc",
-      "stars": 0,
+      "stars": 2,
       "version": "v1.0.0",
-      "updated_at": "2026-01-01T06:52:12Z"
+      "updated_at": "2026-01-02T06:28:31Z"
     },
     "astrbot_plugin_matrix_adapter": {
       "display_name": "Matrix 协议适配器",
@@ -60,8 +60,8 @@
       ],
       "social_link": "https://github.com/stevessr",
       "stars": 3,
-      "version": "0.1.0",
-      "updated_at": "2026-01-01T08:10:30Z",
+      "version": "0.2.1",
+      "updated_at": "2026-01-02T10:48:07Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_matrix_adapter/logo"
     },
     "astrbot_plugin_llm_executor": {
@@ -219,9 +219,9 @@
         "青龙"
       ],
       "social_link": "https://space.bilibili.com/1057790493",
-      "stars": 1,
+      "stars": 2,
       "version": "v0.1.14514",
-      "updated_at": "2025-12-16T00:59:10Z"
+      "updated_at": "2026-01-02T06:03:07Z"
     },
     "astrbot_plugin_van": {
       "display_name": "Van幻鸢词库",
@@ -412,8 +412,8 @@
       ],
       "social_link": "https://github.com/Dayanshifu/",
       "stars": 1,
-      "version": "v1.0.1",
-      "updated_at": "2025-12-29T16:19:13Z",
+      "version": "v1.1.1",
+      "updated_at": "2026-01-02T06:31:31Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_bilibili_livemonitor/logo"
     },
     "astrbot_plugin_hangout": {
@@ -499,9 +499,9 @@
         "小游戏"
       ],
       "social_link": "https://github.com/MegSopern",
-      "stars": 7,
+      "stars": 8,
       "version": "1.2.0",
-      "updated_at": "2026-01-01T11:43:50Z",
+      "updated_at": "2026-01-02T07:40:25Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_rollpig/logo"
     },
     "astrbot_plugin_portrayal_core": {
@@ -612,9 +612,9 @@
         "主动应答",
         "群聊优化"
       ],
-      "stars": 22,
+      "stars": 23,
       "version": "0.8.6",
-      "updated_at": "2026-01-01T05:07:04Z"
+      "updated_at": "2026-01-02T04:54:11Z"
     },
     "astrbot_plugin_angel_eye": {
       "display_name": "天使之眼",
@@ -980,7 +980,7 @@
       "social_link": "https://github.com/Zhalslar",
       "stars": 34,
       "version": "v1.1.2",
-      "updated_at": "2026-01-01T10:27:48Z",
+      "updated_at": "2026-01-02T05:55:25Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_parser/logo"
     },
     "astrbot_plugin_transport": {
@@ -1068,7 +1068,7 @@
       "social_link": "https://github.com/Xbodwf",
       "stars": 2,
       "version": "1.5.0",
-      "updated_at": "2025-12-15T16:20:08Z",
+      "updated_at": "2026-01-02T07:51:28Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_code_renderer/logo"
     },
     "astrbot_plugin_life_scheduler": {
@@ -1268,8 +1268,8 @@
       "repo": "https://github.com/bylkuse/astrbot_plugin_bananic_ninjutsu",
       "tags": [],
       "stars": 7,
-      "version": "v0.3.9",
-      "updated_at": "2026-01-01T10:06:19Z",
+      "version": "v0.4.0",
+      "updated_at": "2026-01-02T08:11:29Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_bananic_ninjutsu/logo"
     },
     "astrbot_plugin_ASCII": {
@@ -1488,7 +1488,7 @@
       ],
       "stars": 2,
       "version": "v1.0.1",
-      "updated_at": "2025-12-17T03:52:44Z",
+      "updated_at": "2026-01-02T05:17:48Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_video_analysis/logo"
     },
     "astrbot_plugin_image_generation": {
@@ -1983,9 +1983,9 @@
         "Minecraft"
       ],
       "social_link": "https://www.misakanet.site",
-      "stars": 2,
+      "stars": 3,
       "version": "1.2.0",
-      "updated_at": "2025-12-20T06:40:28Z",
+      "updated_at": "2026-01-02T08:12:28Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_minecraft_adapter/logo"
     },
     "astrbot_plugin_minecraft_monitor": {
@@ -2814,9 +2814,9 @@
         "TTS"
       ],
       "social_link": "https://github.com/DBJD-CR",
-      "stars": 59,
+      "stars": 60,
       "version": "v1.1.0",
-      "updated_at": "2025-12-31T14:20:20Z",
+      "updated_at": "2026-01-02T05:02:59Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_proactive_chat/logo"
     },
     "astrbot-plugin-moremorelove": {
@@ -4273,8 +4273,8 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 5,
-      "version": "v1.0.3",
-      "updated_at": "2025-12-26T05:15:33Z",
+      "version": "v1.0.4",
+      "updated_at": "2026-01-02T06:07:59Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_multimsg/logo"
     },
     "astrbot_plugin_keywordsreply": {
@@ -4323,9 +4323,9 @@
         "总结"
       ],
       "social_link": "https://github.com/SXP-Simon",
-      "stars": 105,
+      "stars": 106,
       "version": "v4.5.1",
-      "updated_at": "2025-12-31T06:50:30Z",
+      "updated_at": "2026-01-02T07:16:23Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot-qq-group-daily-analysis/logo"
     },
     "astrbot_plugin_boss_notifier": {
@@ -4725,9 +4725,9 @@
         "MiBand"
       ],
       "social_link": "https://github.com/Futureppo",
-      "stars": 6,
+      "stars": 5,
       "version": "v1.0.3",
-      "updated_at": "2025-12-30T07:43:19Z",
+      "updated_at": "2026-01-02T08:16:40Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_Xiaomi_BandProMax/logo"
     },
     "astrbot_plugin_immersive_control": {
@@ -4736,9 +4736,9 @@
       "repo": "https://github.com/muyouzhi6/astrbot_plugin_immersive_control",
       "social_link": "https://github.com/muyouzhi6",
       "tags": [],
-      "stars": 4,
+      "stars": 5,
       "version": "1.0.0",
-      "updated_at": "2025-11-30T09:27:11Z"
+      "updated_at": "2026-01-02T08:32:30Z"
     },
     "astrbot_plugin_provider_ark_ResponsesAPI": {
       "desc": "将火山方舟(Volcengine Ark)的上下文缓存API(Responses API)注册为 AstrBot 的对话服务提供商(Provider)(支持/provider、缓存命中统计、Function Calling)",
@@ -4757,9 +4757,9 @@
         "表情包"
       ],
       "social_link": "https://github.com/SodaSizzle",
-      "stars": 13,
+      "stars": 14,
       "version": "v1.0.0",
-      "updated_at": "2025-12-20T06:46:09Z"
+      "updated_at": "2026-01-02T05:01:27Z"
     },
     "astrbot_plugin_self_learning": {
       "desc": "智能自学习对话插件 - 通过实时消息捕获、多维度数据分析、渐进式学习机制和动态人格更新以及社交关系网络，使聊天机器人能够模仿特定用户的对话，实现更自然、个性化的交互",
@@ -6652,8 +6652,8 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 7,
-      "version": "v1.0.2",
-      "updated_at": "2025-12-27T18:00:32Z",
+      "version": "v1.0.3",
+      "updated_at": "2026-01-02T07:43:24Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_deepwiki/logo"
     },
     "astrbot_plugin_delete_and_block_filter": {
@@ -7453,8 +7453,8 @@
         "游戏"
       ],
       "stars": 9,
-      "version": "v1.8.3",
-      "updated_at": "2025-12-18T19:10:05Z"
+      "version": "v1.8.4",
+      "updated_at": "2026-01-02T02:09:43Z"
     },
     "astrbot_plugin_Group-Verification": {
       "author": "huotuo146",
@@ -8113,9 +8113,9 @@
       "tags": [
         "QQ群管"
       ],
-      "stars": 77,
+      "stars": 78,
       "version": "v3.2.7",
-      "updated_at": "2025-12-31T07:18:09Z",
+      "updated_at": "2026-01-02T08:57:15Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_qqadmin/logo"
     },
     "astrbot_plugin_liars_bar": {
@@ -8718,9 +8718,9 @@
       "tags": [
         "实用工具"
       ],
-      "stars": 25,
+      "stars": 26,
       "version": "v2.2.3",
-      "updated_at": "2026-01-01T08:09:08Z",
+      "updated_at": "2026-01-02T06:10:21Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_relationship/logo"
     },
     "astrbot_plugin_pokecheck": {
@@ -9821,9 +9821,9 @@
       "author": "lxfight",
       "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
       "tags": [],
-      "stars": 157,
+      "stars": 158,
       "version": "v2.0.11",
-      "updated_at": "2025-12-31T19:23:05Z"
+      "updated_at": "2026-01-02T05:01:56Z"
     },
     "FateTrial_img_identify": {
       "desc": "智谱AI图像识别插件",
