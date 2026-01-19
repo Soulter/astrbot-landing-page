@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-01-18T12:42:23.934Z",
+  "timestamp": "2026-01-19T01:57:09.363Z",
   "github": {
-    "stars": 15054,
-    "forks": 1182,
+    "stars": 15064,
+    "forks": 1184,
     "contributors": 132
   },
   "plugins": {
@@ -44,9 +44,9 @@
         "Agent"
       ],
       "social_link": "https://github.com/advent259141",
-      "stars": 5,
+      "stars": 6,
       "version": "1.0.0",
-      "updated_at": "2026-01-10T12:27:41Z"
+      "updated_at": "2026-01-18T17:30:11Z"
     },
     "astrbot_plugin_ppnai": {
       "display_name": "泡泡画图",
@@ -141,9 +141,9 @@
       "author": "yizyin",
       "repo": "https://github.com/yizyin2/astrbot_plugin_PersonaFlow",
       "tags": [],
-      "stars": 3,
+      "stars": 4,
       "version": "1.0.0",
-      "updated_at": "2026-01-16T15:44:19Z"
+      "updated_at": "2026-01-18T17:34:37Z"
     },
     "astrbot_plugin_safety": {
       "display_name": "✌️ 又活一天",
@@ -444,9 +444,9 @@
       "author": "gabriel0721",
       "repo": "https://github.com/TenmaGabriel0721/astrbot_plugin_llm_executor",
       "tags": [],
-      "stars": 4,
+      "stars": 5,
       "version": "1.1.0",
-      "updated_at": "2026-01-09T13:02:05Z"
+      "updated_at": "2026-01-18T16:52:27Z"
     },
     "astrbot_plugin_command_query": {
       "display_name": "指令查询工具",
@@ -454,9 +454,9 @@
       "author": "gabriel0721",
       "repo": "https://github.com/TenmaGabriel0721/astrbot_plugin_command_query",
       "tags": [],
-      "stars": 6,
+      "stars": 7,
       "version": "2.1.0",
-      "updated_at": "2026-01-13T06:39:54Z"
+      "updated_at": "2026-01-18T16:54:12Z"
     },
     "astrbot_plugin_maa": {
       "display_name": "MAA 远程控制",
@@ -768,9 +768,9 @@
       "author": "梦千秋",
       "repo": "https://github.com/WangYi82909/astrbot_plugin_yotts",
       "tags": [],
-      "stars": 2,
+      "stars": 3,
       "version": "v1.0.0",
-      "updated_at": "2026-01-09T16:17:39Z",
+      "updated_at": "2026-01-18T17:15:03Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_yotts/logo"
     },
     "astrbot_plugin_better_reminder": {
@@ -1236,8 +1236,8 @@
         "大香蕉"
       ],
       "stars": 5,
-      "version": "1.2.0",
-      "updated_at": "2026-01-04T06:58:50Z",
+      "version": "1.2.1",
+      "updated_at": "2026-01-18T15:45:50Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_ronghedraw/logo"
     },
     "astrbot_plugin_model_router": {
@@ -1432,8 +1432,8 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 45,
-      "version": "v1.1.4",
-      "updated_at": "2026-01-18T06:36:57Z",
+      "version": "v1.1.5",
+      "updated_at": "2026-01-18T17:41:12Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_parser/logo"
     },
     "astrbot_plugin_transport": {
@@ -1547,8 +1547,8 @@
         "表情"
       ],
       "stars": 5,
-      "version": "2.1.1",
-      "updated_at": "2026-01-17T19:00:18Z",
+      "version": "2.1.2",
+      "updated_at": "2026-01-18T18:01:26Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_stealer/logo"
     },
     "astrbot_plugin_splitter": {
@@ -3010,7 +3010,7 @@
       ],
       "stars": 10,
       "version": "1.7.5",
-      "updated_at": "2026-01-02T13:38:17Z",
+      "updated_at": "2026-01-18T15:12:04Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_message_stats/logo"
     },
     "astrbot_plugin_prompt": {
@@ -3269,7 +3269,7 @@
       "social_link": "https://github.com/DBJD-CR",
       "stars": 66,
       "version": "v1.1.3",
-      "updated_at": "2026-01-14T05:49:52Z",
+      "updated_at": "2026-01-18T14:06:48Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_proactive_chat/logo"
     },
     "astrbot-plugin-moremorelove": {
@@ -4822,9 +4822,9 @@
       "author": "木有知",
       "repo": "https://github.com/muyouzhi6/astrbot_plugin_restrict_syscmd",
       "tags": [],
-      "stars": 7,
+      "stars": 6,
       "version": "0.2.1",
-      "updated_at": "2025-12-22T14:21:37Z"
+      "updated_at": "2026-01-18T13:42:09Z"
     },
     "astrbot_plugin_jojo_stand_panel": {
       "desc": "一个用于 AstrBot 的 JOJO 替身面板生成插件，调用 TripleYing 的 API 生成 JOJO 风格替身面板图片。支持随机生成、自定义设置、替身系统等功能。",
@@ -5023,7 +5023,7 @@
       "social_link": "astrbot.uk",
       "stars": 15,
       "version": "v1.5.1",
-      "updated_at": "2026-01-12T04:13:31Z"
+      "updated_at": "2026-01-18T17:51:20Z"
     },
     "should_I_respond": {
       "desc": "“我要回复这条消息吗？”当打开主动回复时，LLM 可能傻傻的就部分上下文一直回复。这个插件没准能解决这个问题。（在 aiocqhttp 平台测试，需要搭配主动回复功能使用）",
@@ -5519,9 +5519,9 @@
         "群审核"
       ],
       "social_link": "https://github.com/huntuo146",
-      "stars": 7,
+      "stars": 8,
       "version": "2.1.0",
-      "updated_at": "2025-12-23T12:28:27Z"
+      "updated_at": "2026-01-18T13:59:02Z"
     },
     "pokemon_fusion": {
       "desc": "宝可梦融合插件，支持指定宝可梦融合和随机融合。",
@@ -6147,9 +6147,9 @@
         "aiocqhttp"
       ],
       "social_link": "https://blog.jojo.host/",
-      "stars": 6,
+      "stars": 7,
       "version": "v0.0.5",
-      "updated_at": "2025-12-20T17:04:42Z"
+      "updated_at": "2026-01-18T12:00:15Z"
     },
     "astrbot_plugin_ip_proxy": {
       "desc": "一个将HTTP代理API转换为本地代理的AstrBot插件",
@@ -7644,8 +7644,8 @@
       "repo": "https://github.com/monbed/astrbot_plugin_animewifex",
       "tags": [],
       "stars": 5,
-      "version": "v1.6.5",
-      "updated_at": "2026-01-18T07:21:15Z",
+      "version": "v1.6.6",
+      "updated_at": "2026-01-18T20:26:49Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_animewifex/logo"
     },
     "astrbot_plugin_emojimix": {
@@ -8925,9 +8925,9 @@
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
       "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
-      "stars": 80,
+      "stars": 81,
       "version": "v3.0.3",
-      "updated_at": "2026-01-18T06:37:35Z",
+      "updated_at": "2026-01-18T17:20:35Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_memelite/logo"
     },
     "astrbot_plugin_saris_economic": {
@@ -9407,9 +9407,9 @@
         "主动回复"
       ],
       "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-      "stars": 92,
+      "stars": 91,
       "version": "v2.1.10",
-      "updated_at": "2026-01-13T02:58:51Z"
+      "updated_at": "2026-01-18T13:41:59Z"
     },
     "astrbot_plugin_steamshot": {
       "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
@@ -9469,9 +9469,9 @@
         "功能",
         "搬史"
       ],
-      "stars": 494,
+      "stars": 495,
       "version": "v0.915",
-      "updated_at": "2026-01-14T11:50:10Z"
+      "updated_at": "2026-01-18T15:52:57Z"
     },
     "astrbot_plugin_superpoke": {
       "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
