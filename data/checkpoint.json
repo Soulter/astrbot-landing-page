@@ -1,11 +1,24 @@
 {
-  "timestamp": "2026-01-21T12:53:50.241Z",
+  "timestamp": "2026-01-22T01:55:47.405Z",
   "github": {
-    "stars": 15121,
+    "stars": 15127,
     "forks": 1185,
     "contributors": 133
   },
   "plugins": {
+    "astrbot_plugin_github_webhook": {
+      "display_name": "GitHub Webhook 插件",
+      "desc": "将 GitHub 事件（push、issue、PR 等）转发到聊天平台的插件",
+      "author": "TatsukiMeng",
+      "repo": "https://github.com/TatsukiMengChen/astrbot_plugin_github_webhook",
+      "tags": [
+        "Github"
+      ],
+      "social_link": "https://mc.mimeng.top",
+      "stars": 2,
+      "version": "0.4.0",
+      "updated_at": "2026-01-21T14:31:10Z"
+    },
     "astrbot_plugin_love_formula": {
       "display_name": "赛博恋爱演化诊断",
       "desc": "基于“恋爱动力学”的群聊·今日恋爱成分分析 (Daily Cyber-Love Diagnosis)。",
@@ -268,7 +281,7 @@
       "social_link": "https://github.com/kennylimz",
       "stars": 6,
       "version": "v1.1",
-      "updated_at": "2026-01-21T06:57:19Z",
+      "updated_at": "2026-01-21T20:03:00Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_mudae_qq/logo"
     },
     "BUGJI/astrbot_plugin_balance": {
@@ -444,9 +457,9 @@
       "author": "薄暝",
       "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
       "tags": [],
-      "stars": 12,
+      "stars": 13,
       "version": "v3.9.13",
-      "updated_at": "2026-01-19T13:28:01Z",
+      "updated_at": "2026-01-21T15:55:46Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_zssm_explain/logo"
     },
     "astrbot_plugin_self_learning": {
@@ -484,8 +497,8 @@
       "repo": "https://github.com/bylkuse/astrbot_plugin_help_typst",
       "tags": [],
       "stars": 6,
-      "version": "v0.0.9",
-      "updated_at": "2026-01-21T08:14:18Z",
+      "version": "v0.1.0",
+      "updated_at": "2026-01-21T13:05:01Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_help_typst/logo"
     },
     "astrbot_plugin_lb_provider": {
@@ -791,9 +804,9 @@
         "下载"
       ],
       "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
-      "stars": 30,
+      "stars": 29,
       "version": "v1.1",
-      "updated_at": "2026-01-21T06:28:21Z"
+      "updated_at": "2026-01-21T14:25:05Z"
     },
     "astrbot_plugin_ql_bilibili_account_manager": {
       "display_name": "Bili每日签到（基于青龙）",
@@ -1199,9 +1212,9 @@
         "学习",
         "人格"
       ],
-      "stars": 16,
+      "stars": 17,
       "version": "0.99.99",
-      "updated_at": "2026-01-21T06:16:48Z"
+      "updated_at": "2026-01-21T12:44:37Z"
     },
     "astrbot_plugin_angel_heart": {
       "display_name": "天使之心",
@@ -1213,9 +1226,9 @@
         "主动应答",
         "群聊优化"
       ],
-      "stars": 25,
+      "stars": 26,
       "version": "0.8.8",
-      "updated_at": "2026-01-21T05:12:15Z"
+      "updated_at": "2026-01-21T18:11:01Z"
     },
     "astrbot_plugin_angel_eye": {
       "display_name": "天使之眼",
@@ -1694,9 +1707,9 @@
       "tags": [
         "表情"
       ],
-      "stars": 8,
+      "stars": 9,
       "version": "2.1.5",
-      "updated_at": "2026-01-20T16:30:25Z",
+      "updated_at": "2026-01-21T15:28:20Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_stealer/logo"
     },
     "astrbot_plugin_splitter": {
@@ -3386,9 +3399,9 @@
         "TTS"
       ],
       "social_link": "https://github.com/DBJD-CR",
-      "stars": 66,
+      "stars": 67,
       "version": "v1.1.3",
-      "updated_at": "2026-01-18T14:06:48Z",
+      "updated_at": "2026-01-21T14:50:56Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_proactive_chat/logo"
     },
     "astrbot-plugin-moremorelove": {
@@ -4323,9 +4336,9 @@
       "author": "RC-CHN",
       "repo": "https://github.com/RC-CHN/astrbot_plugin_the_Big-3_Chinese_AI_conferences",
       "tags": [],
-      "stars": 6,
+      "stars": 7,
       "version": "v1.3",
-      "updated_at": "2025-12-28T14:57:49Z"
+      "updated_at": "2026-01-21T11:37:04Z"
     },
     "astrbot_plugin_mc_admin": {
       "desc": "这是 MC服务器 的管理插件，支持list，珍珠炮落点计算，服务器工程坐标，备货清单，白名单管理等功能",
@@ -4861,9 +4874,9 @@
         "总结"
       ],
       "social_link": "https://github.com/SXP-Simon",
-      "stars": 129,
+      "stars": 130,
       "version": "v4.6.6",
-      "updated_at": "2026-01-21T01:01:35Z",
+      "updated_at": "2026-01-21T16:28:32Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot-qq-group-daily-analysis/logo"
     },
     "astrbot_plugin_boss_notifier": {
@@ -4929,8 +4942,8 @@
       "repo": "https://github.com/muyouzhi6/astrbot_plugin_restrict_syscmd",
       "tags": [],
       "stars": 6,
-      "version": "0.2.1",
-      "updated_at": "2026-01-18T13:42:09Z"
+      "version": "2.0.0",
+      "updated_at": "2026-01-21T12:03:01Z"
     },
     "astrbot_plugin_jojo_stand_panel": {
       "desc": "一个用于 AstrBot 的 JOJO 替身面板生成插件，调用 TripleYing 的 API 生成 JOJO 风格替身面板图片。支持随机生成、自定义设置、替身系统等功能。",
@@ -5275,8 +5288,8 @@
       "social_link": "https://github.com/muyouzhi6",
       "tags": [],
       "stars": 6,
-      "version": "2.3.0",
-      "updated_at": "2026-01-21T10:56:13Z",
+      "version": "2.3.1",
+      "updated_at": "2026-01-21T14:16:53Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_immersive_control/logo"
     },
     "astrbot_plugin_provider_ark_ResponsesAPI": {
@@ -5496,9 +5509,9 @@
         "表白墙"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 51,
+      "stars": 52,
       "version": "v2.2.9",
-      "updated_at": "2026-01-20T16:28:04Z",
+      "updated_at": "2026-01-21T13:09:06Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_qzone/logo"
     },
     "astrbot_plugin_matchreminder": {
@@ -5715,9 +5728,9 @@
         "截屏"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 8,
+      "stars": 9,
       "version": "v1.0.5",
-      "updated_at": "2025-12-18T05:54:19Z",
+      "updated_at": "2026-01-21T16:24:07Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_screenctrl/logo"
     },
     "astrbot_plugin_error_pro": {
@@ -7360,9 +7373,9 @@
       "tags": [
         "疯狂星期四"
       ],
-      "stars": 2,
+      "stars": 3,
       "version": "v1.3",
-      "updated_at": "2025-12-08T01:51:11Z"
+      "updated_at": "2026-01-21T17:11:12Z"
     },
     "astrbot_plugin_search_video": {
       "display_name": "搜索视频",
@@ -7729,8 +7742,8 @@
       "repo": "https://github.com/monbed/astrbot_plugin_animewifex",
       "tags": [],
       "stars": 5,
-      "version": "v1.6.9",
-      "updated_at": "2026-01-20T05:45:23Z",
+      "version": "v1.7.1",
+      "updated_at": "2026-01-21T19:48:27Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_animewifex/logo"
     },
     "astrbot_plugin_emojimix": {
@@ -9588,7 +9601,7 @@
       ],
       "stars": 123,
       "version": "v3.19",
-      "updated_at": "2026-01-20T03:44:22Z"
+      "updated_at": "2026-01-21T16:47:18Z"
     },
     "mccloud_command": {
       "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
