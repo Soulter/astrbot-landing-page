@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-01-22T01:55:47.405Z",
+  "timestamp": "2026-01-22T12:53:29.190Z",
   "github": {
-    "stars": 15127,
-    "forks": 1185,
+    "stars": 15140,
+    "forks": 1186,
     "contributors": 133
   },
   "plugins": {
@@ -46,9 +46,9 @@
         "表情包"
       ],
       "social_link": "https://github.com/camera-2018",
-      "stars": 1,
+      "stars": 2,
       "version": "v1.0.0",
-      "updated_at": "2026-01-20T04:02:29Z"
+      "updated_at": "2026-01-22T01:10:08Z"
     },
     "astrbot_plugin_galgame_box": {
       "display_name": "Galgame 百宝盒",
@@ -430,9 +430,9 @@
         "NLP"
       ],
       "social_link": "https://github.com/advent259141",
-      "stars": 16,
+      "stars": 17,
       "version": "1.1.1",
-      "updated_at": "2026-01-11T01:11:39Z"
+      "updated_at": "2026-01-22T00:35:16Z"
     },
     "astrbot_plugin_80lv": {
       "display_name": "80.lv 文章自动推送",
@@ -497,8 +497,8 @@
       "repo": "https://github.com/bylkuse/astrbot_plugin_help_typst",
       "tags": [],
       "stars": 6,
-      "version": "v0.1.0",
-      "updated_at": "2026-01-21T13:05:01Z",
+      "version": "v0.1.1",
+      "updated_at": "2026-01-22T06:31:59Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_help_typst/logo"
     },
     "astrbot_plugin_lb_provider": {
@@ -605,9 +605,9 @@
       "author": "gabriel0721",
       "repo": "https://github.com/TenmaGabriel0721/astrbot_plugin_llm_executor",
       "tags": [],
-      "stars": 5,
+      "stars": 6,
       "version": "1.1.0",
-      "updated_at": "2026-01-18T16:52:27Z"
+      "updated_at": "2026-01-22T03:56:06Z"
     },
     "astrbot_plugin_command_query": {
       "display_name": "指令查询工具",
@@ -615,9 +615,9 @@
       "author": "gabriel0721",
       "repo": "https://github.com/TenmaGabriel0721/astrbot_plugin_command_query",
       "tags": [],
-      "stars": 7,
+      "stars": 8,
       "version": "2.1.0",
-      "updated_at": "2026-01-18T16:54:12Z"
+      "updated_at": "2026-01-22T03:56:08Z"
     },
     "astrbot_plugin_maa": {
       "display_name": "MAA 远程控制",
@@ -806,7 +806,7 @@
       "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
       "stars": 29,
       "version": "v1.1",
-      "updated_at": "2026-01-21T14:25:05Z"
+      "updated_at": "2026-01-22T11:12:05Z"
     },
     "astrbot_plugin_ql_bilibili_account_manager": {
       "display_name": "Bili每日签到（基于青龙）",
@@ -1184,8 +1184,8 @@
         "刺猬猫"
       ],
       "stars": 1,
-      "version": "v1.0",
-      "updated_at": "2026-01-16T06:03:45Z",
+      "version": "v1.0.1",
+      "updated_at": "2026-01-22T06:01:39Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_webnovel_info/logo"
     },
     "astrbot_plugin_desktop_assistant": {
@@ -1695,8 +1695,8 @@
       ],
       "social_link": "https://github.com/muyouzhi6",
       "stars": 9,
-      "version": "v2.2.4",
-      "updated_at": "2026-01-16T13:20:56Z",
+      "version": "v2.2.5",
+      "updated_at": "2026-01-22T05:51:11Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_life_scheduler/logo"
     },
     "astrbot_plugin_stealer": {
@@ -2236,7 +2236,7 @@
       "social_link": "https://www.misakanet.site",
       "stars": 8,
       "version": "v1.3.1",
-      "updated_at": "2026-01-13T03:39:33Z",
+      "updated_at": "2026-01-22T07:08:21Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_gemini_image/logo"
     },
     "astrbot_plugin_gemini_image_generation": {
@@ -7027,9 +7027,9 @@
         "平台适配器",
         "vocechat"
       ],
-      "stars": 7,
+      "stars": 8,
       "version": "1.0.0",
-      "updated_at": "2026-01-20T14:24:55Z"
+      "updated_at": "2026-01-22T09:56:51Z"
     },
     "astrbot_plugin_drift_bottle": {
       "author": "wuyan1003",
@@ -8273,8 +8273,8 @@
       ],
       "desc": "CS 武器箱开箱模拟支持大量目前已有的武器箱，可以展示开启物品的图案和对应的磨损",
       "stars": 3,
-      "version": "v1.1",
-      "updated_at": "2025-12-26T07:22:10Z"
+      "version": "v1.2",
+      "updated_at": "2026-01-22T09:40:21Z"
     },
     "astrbot_plugin_gallery": {
       "display_name": "图库管理器",
@@ -9558,9 +9558,9 @@
         "功能",
         "搬史"
       ],
-      "stars": 495,
+      "stars": 496,
       "version": "v0.915",
-      "updated_at": "2026-01-18T15:52:57Z"
+      "updated_at": "2026-01-22T02:51:02Z"
     },
     "astrbot_plugin_superpoke": {
       "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
