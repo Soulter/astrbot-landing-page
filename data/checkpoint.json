@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-01-23T01:51:50.856Z",
+  "timestamp": "2026-01-23T12:51:24.062Z",
   "github": {
-    "stars": 15141,
-    "forks": 1188,
-    "contributors": 134
+    "stars": 15151,
+    "forks": 1190,
+    "contributors": 136
   },
   "plugins": {
     "astrbot_plugin_service_watcher": {
@@ -28,9 +28,9 @@
         "推送"
       ],
       "social_link": "https://github.com/siciyuanweilai",
-      "stars": 1,
+      "stars": 2,
       "version": "1.0.0",
-      "updated_at": "2026-01-22T15:16:17Z",
+      "updated_at": "2026-01-23T09:02:08Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_daily_sharing/logo"
     },
     "astrbot_plugin_balance_get": {
@@ -73,9 +73,9 @@
         "用来水作业再合适不过了"
       ],
       "social_link": "https://blog.gbkgov.cn",
-      "stars": 2,
+      "stars": 3,
       "version": "v1.0.0",
-      "updated_at": "2026-01-22T01:25:30Z",
+      "updated_at": "2026-01-23T09:16:15Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_mysql/logo"
     },
     "astrbot_plugin_github_webhook": {
@@ -87,9 +87,9 @@
         "Github"
       ],
       "social_link": "https://mc.mimeng.top",
-      "stars": 2,
+      "stars": 3,
       "version": "0.4.0",
-      "updated_at": "2026-01-21T14:31:10Z"
+      "updated_at": "2026-01-23T11:00:06Z"
     },
     "astrbot_plugin_love_formula": {
       "display_name": "赛博恋爱演化诊断",
@@ -180,9 +180,9 @@
       "author": "2529huang",
       "repo": "https://github.com/2529huang/astrbot_plugin_fund_analyzer",
       "tags": [],
-      "stars": 0,
+      "stars": 1,
       "version": "1.0.0",
-      "updated_at": "2026-01-19T03:35:20Z"
+      "updated_at": "2026-01-23T07:06:57Z"
     },
     "astrbot_plugin_CNKD_Admin": {
       "display_name": "UapiPro言论管控",
@@ -244,9 +244,9 @@
       "tags": [
         "群聊活跃度监测"
       ],
-      "stars": 0,
+      "stars": 1,
       "version": "2.1.0",
-      "updated_at": "2026-01-22T09:54:36Z",
+      "updated_at": "2026-01-23T08:18:31Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_chatmaster/logo"
     },
     "astrbot_plugin_cheer_mate": {
@@ -271,9 +271,9 @@
         "插件编写"
       ],
       "social_link": "https://github.com/DITF16",
-      "stars": 2,
-      "version": "1.0.0",
-      "updated_at": "2026-01-15T07:29:28Z",
+      "stars": 4,
+      "version": "1.1.1",
+      "updated_at": "2026-01-23T10:05:33Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_self_iterative_core/logo"
     },
     "astrbot_plugin_qq_group_summary": {
@@ -1877,8 +1877,8 @@
         "表情"
       ],
       "stars": 9,
-      "version": "2.1.5",
-      "updated_at": "2026-01-21T15:28:20Z",
+      "version": "2.1.6",
+      "updated_at": "2026-01-23T10:25:51Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_stealer/logo"
     },
     "astrbot_plugin_splitter": {
@@ -3432,8 +3432,8 @@
       "repo": "https://github.com/SatenShiroya/astrbot_plugin_llm_qqgroupTools",
       "tags": [],
       "stars": 11,
-      "version": "V1.2.0",
-      "updated_at": "2026-01-04T09:18:21Z",
+      "version": "V1.3.0",
+      "updated_at": "2026-01-23T02:35:15Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_llm_qqgroupTools/logo"
     },
     "astrbot_plugin_cs_skins": {
@@ -3597,9 +3597,9 @@
         "TTS"
       ],
       "social_link": "https://github.com/DBJD-CR",
-      "stars": 67,
+      "stars": 68,
       "version": "v1.1.4",
-      "updated_at": "2026-01-22T13:20:46Z",
+      "updated_at": "2026-01-23T01:52:52Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_proactive_chat/logo"
     },
     "astrbot-plugin-moremorelove": {
@@ -4576,9 +4576,9 @@
       "author": "ctrlkk",
       "repo": "https://github.com/ctrlkk/astrbot_plugin_meme_manager_lite",
       "tags": [],
-      "stars": 10,
+      "stars": 11,
       "version": "v1.3",
-      "updated_at": "2026-01-17T11:49:06Z"
+      "updated_at": "2026-01-23T09:32:44Z"
     },
     "astrbot_plugin_festival_greeter": {
       "desc": "在节日期间为群聊推送使用LLM生成的祝福消息",
@@ -5447,9 +5447,9 @@
         "Steam"
       ],
       "social_link": "https://github.com/danfong1104",
-      "stars": 1,
+      "stars": 2,
       "version": "v2.1.1",
-      "updated_at": "2025-09-20T05:41:21Z"
+      "updated_at": "2026-01-23T08:18:31Z"
     },
     "astrbot_plugin_tts_emotion_router": {
       "desc": "按情绪路由到不同音色与语速的 TTS 插件（硅基流动 API，其他OpenAI语音接口api同样适配），支持隐藏标记与启发式情绪识别、概率/长度/冷却门控与会话开关。",
@@ -5584,8 +5584,8 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 31,
-      "version": "v2.1.1",
-      "updated_at": "2026-01-22T13:44:08Z",
+      "version": "v2.1.2",
+      "updated_at": "2026-01-23T00:51:10Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_wakepro/logo"
     },
     "astrbot_plugin_memora_connect": {
@@ -5734,7 +5734,7 @@
       "social_link": "https://github.com/Zhalslar",
       "stars": 52,
       "version": "v2.2.9",
-      "updated_at": "2026-01-21T13:09:06Z",
+      "updated_at": "2026-01-23T02:17:57Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_qzone/logo"
     },
     "astrbot_plugin_matchreminder": {
@@ -6113,7 +6113,7 @@
       ],
       "stars": 6,
       "version": "v1.3.4",
-      "updated_at": "2026-01-21T04:08:09Z",
+      "updated_at": "2026-01-23T07:10:55Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_proactive_reply/logo"
     },
     "treasure_bag_plugin": {
@@ -8305,8 +8305,8 @@
       ],
       "social_link": "https://github.com/vmoranv-reborn",
       "stars": 5,
-      "version": "1.4.3",
-      "updated_at": "2026-01-17T06:37:12Z",
+      "version": "1.5.0",
+      "updated_at": "2026-01-23T02:47:20Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_pixiv_reborn/logo"
     },
     "astrbot_plugin_fuck": {
@@ -8516,7 +8516,7 @@
       "desc": "CS 武器箱开箱模拟支持大量目前已有的武器箱，可以展示开启物品的图案和对应的磨损",
       "stars": 3,
       "version": "v1.2",
-      "updated_at": "2026-01-22T09:40:21Z"
+      "updated_at": "2026-01-23T07:30:43Z"
     },
     "astrbot_plugin_gallery": {
       "display_name": "图库管理器",
@@ -9800,9 +9800,9 @@
         "功能",
         "搬史"
       ],
-      "stars": 496,
+      "stars": 497,
       "version": "v0.915",
-      "updated_at": "2026-01-22T02:51:02Z"
+      "updated_at": "2026-01-23T07:10:41Z"
     },
     "astrbot_plugin_superpoke": {
       "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
