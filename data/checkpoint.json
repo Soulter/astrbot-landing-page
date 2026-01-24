@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-01-23T12:51:24.062Z",
+  "timestamp": "2026-01-24T01:49:06.487Z",
   "github": {
-    "stars": 15151,
-    "forks": 1190,
+    "stars": 15158,
+    "forks": 1191,
     "contributors": 136
   },
   "plugins": {
@@ -30,7 +30,7 @@
       "social_link": "https://github.com/siciyuanweilai",
       "stars": 2,
       "version": "1.0.0",
-      "updated_at": "2026-01-23T09:02:08Z",
+      "updated_at": "2026-01-23T15:46:34Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_daily_sharing/logo"
     },
     "astrbot_plugin_balance_get": {
@@ -105,7 +105,7 @@
       "social_link": "https://github.com/SXP-Simon",
       "stars": 16,
       "version": "v1.0.15",
-      "updated_at": "2026-01-22T17:41:28Z",
+      "updated_at": "2026-01-23T13:10:30Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_love_formula/logo"
     },
     "astrbot_plugin_pjsk": {
@@ -180,9 +180,9 @@
       "author": "2529huang",
       "repo": "https://github.com/2529huang/astrbot_plugin_fund_analyzer",
       "tags": [],
-      "stars": 1,
+      "stars": 2,
       "version": "1.0.0",
-      "updated_at": "2026-01-23T07:06:57Z"
+      "updated_at": "2026-01-23T15:43:07Z"
     },
     "astrbot_plugin_CNKD_Admin": {
       "display_name": "UapiPro言论管控",
@@ -271,9 +271,9 @@
         "插件编写"
       ],
       "social_link": "https://github.com/DITF16",
-      "stars": 4,
+      "stars": 8,
       "version": "1.1.1",
-      "updated_at": "2026-01-23T10:05:33Z",
+      "updated_at": "2026-01-23T22:20:38Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_self_iterative_core/logo"
     },
     "astrbot_plugin_qq_group_summary": {
@@ -355,8 +355,8 @@
       ],
       "social_link": "https://github.com/Dayanshifu",
       "stars": 2,
-      "version": "1.0.1",
-      "updated_at": "2026-01-12T17:47:21Z",
+      "version": "1.0.3",
+      "updated_at": "2026-01-23T13:48:04Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_music_pro/logo"
     },
     "astrbot_plugin_online_status": {
@@ -527,8 +527,8 @@
       "social_link": "https://github.com/muyouzhi6",
       "tags": [],
       "stars": 2,
-      "version": "1.0.0",
-      "updated_at": "2026-01-11T15:04:08Z"
+      "version": "1.0.2",
+      "updated_at": "2026-01-23T15:19:28Z"
     },
     "astrbot_plugin_chord": {
       "display_name": "和弦查询",
@@ -611,9 +611,9 @@
         "人格"
       ],
       "social_link": "https://github.com/NickCharlie",
-      "stars": 79,
+      "stars": 80,
       "version": "Next-1.1.5",
-      "updated_at": "2026-01-19T06:08:20Z",
+      "updated_at": "2026-01-23T19:33:42Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_self_learning/logo"
     },
     "astrbot_plugin_mrfzccl": {
@@ -1337,8 +1337,8 @@
         "刺猬猫"
       ],
       "stars": 1,
-      "version": "v1.0.1",
-      "updated_at": "2026-01-22T06:01:39Z",
+      "version": "v1.1.0",
+      "updated_at": "2026-01-23T12:52:14Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_webnovel_info/logo"
     },
     "astrbot_plugin_desktop_assistant": {
@@ -1876,9 +1876,9 @@
       "tags": [
         "表情"
       ],
-      "stars": 9,
+      "stars": 10,
       "version": "2.1.6",
-      "updated_at": "2026-01-23T10:25:51Z",
+      "updated_at": "2026-01-23T16:20:41Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_stealer/logo"
     },
     "astrbot_plugin_splitter": {
@@ -3599,7 +3599,7 @@
       "social_link": "https://github.com/DBJD-CR",
       "stars": 68,
       "version": "v1.1.4",
-      "updated_at": "2026-01-23T01:52:52Z",
+      "updated_at": "2026-01-23T15:04:35Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_proactive_chat/logo"
     },
     "astrbot-plugin-moremorelove": {
