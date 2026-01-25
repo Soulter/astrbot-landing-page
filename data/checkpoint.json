@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-01-24T12:43:22.780Z",
+  "timestamp": "2026-01-25T02:02:34.752Z",
   "github": {
-    "stars": 15160,
+    "stars": 15164,
     "forks": 1194,
     "contributors": 137
   },
@@ -31,21 +31,21 @@
       "version": "0.1.0",
       "updated_at": "2026-01-23T09:22:10Z"
     },
-    "astrbot_plugin_prompt_inject": {
-      "display_name": "提示词注入器",
-      "desc": "根据用户消息内容，自动向 LLM 注入预设提示词，从而临时或持续影响 AI 的回复行为, 支持在面板设置多套提示词和触发行为",
+    "astrbot_plugin_worldbook": {
+      "display_name": "世界书插件",
+      "desc": "面向 LLM 的「世界书」系统实现插件。可在特定触发条件下，将预设内容注入至 system_prompt，用于临时或持续影响 AI 的世界观、角色行为与回复逻辑",
       "author": "Zhalslar",
-      "repo": "https://github.com/Zhalslar/astrbot_plugin_prompt_inject",
+      "repo": "https://github.com/Zhalslar/astrbot_plugin_worldbook",
       "tags": [
         "提示词",
         "prompt",
-        "注入"
+        "世界书"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 3,
+      "stars": 4,
       "version": "1.1.0",
-      "updated_at": "2026-01-24T11:06:26Z",
-      "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_prompt_inject/logo"
+      "updated_at": "2026-01-24T15:42:54Z",
+      "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_worldbook/logo"
     },
     "astrbot_plugin_service_watcher": {
       "display_name": "互联网服务监控",
@@ -64,9 +64,9 @@
       "repo": "https://github.com/muyouzhi6/strbot_plugin_cmdmask",
       "social_link": "https://github.com/muyouzhi6",
       "tags": [],
-      "stars": 1,
-      "version": "0.3.0",
-      "updated_at": "2026-01-22T07:45:34Z"
+      "stars": 2,
+      "version": "0.3.1",
+      "updated_at": "2026-01-24T14:07:40Z"
     },
     "astrbot_plugin_daily_sharing": {
       "display_name": "定时主动分享所见所闻",
@@ -203,9 +203,9 @@
         "Github"
       ],
       "social_link": "https://mc.mimeng.top",
-      "stars": 3,
+      "stars": 4,
       "version": "0.4.0",
-      "updated_at": "2026-01-23T11:00:06Z"
+      "updated_at": "2026-01-24T17:10:08Z"
     },
     "astrbot_plugin_love_formula": {
       "display_name": "赛博恋爱演化诊断",
@@ -387,9 +387,9 @@
         "插件编写"
       ],
       "social_link": "https://github.com/DITF16",
-      "stars": 12,
+      "stars": 13,
       "version": "1.1.1",
-      "updated_at": "2026-01-24T07:26:05Z",
+      "updated_at": "2026-01-24T16:29:53Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_self_iterative_core/logo"
     },
     "astrbot_plugin_groupGuard": {
@@ -464,9 +464,9 @@
         "生成"
       ],
       "social_link": "https://github.com/qa296/",
-      "stars": 2,
+      "stars": 3,
       "version": "1.0.0",
-      "updated_at": "2026-01-19T12:47:40Z",
+      "updated_at": "2026-01-24T22:34:42Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_codemage/logo"
     },
     "astrbot_plugin_music_pro": {
@@ -518,8 +518,8 @@
       "tags": [],
       "social_link": "https://github.com/muyouzhi6",
       "stars": 8,
-      "version": "3.0.1",
-      "updated_at": "2026-01-22T15:01:04Z",
+      "version": "3.0.2",
+      "updated_at": "2026-01-24T12:15:44Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_context_aware/logo"
     },
     "astrbot_plugin_STEmbedding": {
@@ -640,9 +640,9 @@
         "网页验证"
       ],
       "social_link": "https://github.com/VanillaNahida/",
-      "stars": 13,
+      "stars": 14,
       "version": "v1.1.9",
-      "updated_at": "2026-01-22T12:04:14Z",
+      "updated_at": "2026-01-24T11:36:39Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_group_geetest_verfy/logo"
     },
     "astrbot_plugin_cliproxy_stats": {
@@ -850,7 +850,7 @@
       "social_link": "https://github.com/stevessr",
       "stars": 4,
       "version": "0.2.8",
-      "updated_at": "2026-01-24T06:42:20Z",
+      "updated_at": "2026-01-24T12:39:20Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_matrix_adapter/logo"
     },
     "astrbot_plugin_url_image_auto": {
@@ -1447,8 +1447,8 @@
       "repo": "https://github.com/shskjw/astrbot_plugin_custom_menu",
       "tags": [],
       "stars": 14,
-      "version": "1.8.9",
-      "updated_at": "2026-01-24T02:40:06Z",
+      "version": "1.8.10",
+      "updated_at": "2026-01-24T15:08:03Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_custom_menu_1/logo"
     },
     "astrbot_plugin_webnovel_info": {
@@ -1476,9 +1476,9 @@
         "桌面客户端"
       ],
       "social_link": "https://github.com/muyouzhi6",
-      "stars": 13,
+      "stars": 14,
       "version": "1.1.2",
-      "updated_at": "2026-01-19T15:25:08Z",
+      "updated_at": "2026-01-24T13:18:56Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_desktop_assistant/logo"
     },
     "astrbot_plugin_angel_memory": {
@@ -1879,7 +1879,7 @@
     },
     "astrbot_plugin_parser": {
       "display_name": "万能解析器",
-      "desc": "高性能低耦合的万能链接解析器。支持视频、图集、音频类型和 A站、B站、抖音、TikTok、微博、小红书、快手、Youtube、X 等平台",
+      "desc": "高性能低耦合的万能链接解析器。支持视频、图集、音频类型和 A站、B站、抖音、TikTok、微博、小红书、快手、Youtube、X、instagram 等平台",
       "author": "Zhalslar",
       "repo": "https://github.com/Zhalslar/astrbot_plugin_parser",
       "tags": [
@@ -2140,8 +2140,8 @@
       ],
       "social_link": "https://github.com/muyouzhi6",
       "stars": 27,
-      "version": "v2.5.0",
-      "updated_at": "2026-01-19T01:38:01Z",
+      "version": "v2.6.0",
+      "updated_at": "2026-01-24T12:23:01Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_gitee_aiimg/logo"
     },
     "astrbot_plugin_vertex_image-command": {
@@ -2473,7 +2473,7 @@
       "social_link": "https://box.firefly520.top/",
       "stars": 18,
       "version": "1.4.3",
-      "updated_at": "2026-01-24T09:53:27Z",
+      "updated_at": "2026-01-24T13:21:42Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_web_analyzer/logo"
     },
     "astrbot_plugin_ComfyUI_promax": {
@@ -3447,9 +3447,9 @@
         "主动回复"
       ],
       "social_link": "https://github.com/Him666233",
-      "stars": 29,
+      "stars": 30,
       "version": "v1.1.2",
-      "updated_at": "2026-01-24T06:48:38Z",
+      "updated_at": "2026-01-24T15:10:32Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_group_chat_plus/logo"
     },
     "astrbot_plugin_message_stats": {
@@ -4253,9 +4253,9 @@
         "Image"
       ],
       "social_link": "https://zhxwu.com",
-      "stars": 1,
+      "stars": 2,
       "version": "v1.0.0",
-      "updated_at": "2025-11-02T09:22:55Z"
+      "updated_at": "2026-01-24T15:31:43Z"
     },
     "astrbot_plugin_auto_approve_all": {
       "desc": "自动同意所有的群邀请和好友申请",
@@ -4951,8 +4951,8 @@
       "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
       "tags": [],
       "stars": 39,
-      "version": "v1.8.1",
-      "updated_at": "2026-01-24T06:06:20Z"
+      "version": "v1.8.2",
+      "updated_at": "2026-01-24T15:13:24Z"
     },
     "astrbot_plugin_group_chat": {
       "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -5313,9 +5313,9 @@
       "author": "天各一方",
       "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
       "tags": [],
-      "stars": 36,
+      "stars": 37,
       "version": "v1.0.4",
-      "updated_at": "2026-01-16T02:56:52Z"
+      "updated_at": "2026-01-24T17:10:22Z"
     },
     "astrbot_plugin_vtb_adapter": {
       "desc": "用于连接 AstrBot 与 Open LLM Vtuber，除安装插件外还需要修改 Open LLM Vtuber 中的相关文件",
@@ -5587,9 +5587,9 @@
         "SiliconFlow"
       ],
       "social_link": "https://github.com/muyouzhi6",
-      "stars": 43,
+      "stars": 44,
       "version": "2.2.2",
-      "updated_at": "2026-01-22T12:28:35Z",
+      "updated_at": "2026-01-24T12:13:02Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_tts_emotion_router/logo"
     },
     "astrbot_plugin_keyword_monitor": {
@@ -5702,11 +5702,12 @@
     },
     "astrbot_plugin_wakepro": {
       "display_name": "唤醒增强",
-      "desc": "更强大的唤醒增强插件：唤醒CD、唤醒合并、提及唤醒、唤醒延长、空@唤醒、话题相关性唤醒、答疑唤醒、无聊唤醒、闭嘴机制、被骂沉默机制、屏蔽人机",
+      "desc": "给唤醒阶段提供多种增强策略: 指令屏蔽、敏感词屏蔽、唤醒CD、提及唤醒、唤醒延长、相关性唤醒、答疑唤醒、无聊唤醒、兴趣唤醒、沉默机制",
       "author": "Zhalslar",
       "repo": "https://github.com/Zhalslar/astrbot_plugin_wakepro",
       "tags": [
-        "唤醒增强"
+        "唤醒增强",
+        "拟人"
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 31,
@@ -5754,7 +5755,7 @@
     },
     "astrbot_plugin_outputpro": {
       "display_name": "输出增强",
-      "desc": "输出增强插件：报错拦截、文本清洗、随机@、随机引用",
+      "desc": "在消息输出阶段提供多种增强策略: 图片外显 → 报错处理 → 消息拦截 → 解析艾特 → 文本清洗 → 文本替换 → 文转语音 → 文转图片 → 智能引用 → 合并转发 → 自动撤回 → 分段回复",
       "author": "Zhalslar",
       "repo": "https://github.com/Zhalslar/astrbot_plugin_outputpro",
       "tags": [
@@ -5849,7 +5850,7 @@
     },
     "astrbot_plugin_qzone": {
       "display_name": "QQ空间",
-      "desc": "QQ空间对接插件, 可自动发说说、表白墙投稿审核、查看说说",
+      "desc": "QQ空间对接插件, 支持查看/点赞/评论说说、自动发说说、AI写说说、表白墙投稿与审核等功能",
       "author": "Zhalslar",
       "repo": "https://github.com/Zhalslar/astrbot_plugin_qzone",
       "tags": [
@@ -5874,7 +5875,7 @@
     },
     "astrbot_plugin_recall": {
       "display_name": "智能撤回",
-      "desc": "智能撤回插件，自动判断并撤回bot自身发的长文本、复读词、违禁词、色图、报错等",
+      "desc": "智能撤回插件，自动判断并撤回bot自身发的长文本、复读词、违禁词、报错等",
       "author": "Zhalslar",
       "repo": "https://github.com/Zhalslar/astrbot_plugin_recall",
       "tags": [
@@ -6604,9 +6605,9 @@
         "aiocqhttp"
       ],
       "social_link": "https://blog.jojo.host/",
-      "stars": 7,
+      "stars": 8,
       "version": "v0.0.5",
-      "updated_at": "2026-01-18T12:00:15Z"
+      "updated_at": "2026-01-24T14:29:42Z"
     },
     "astrbot_plugin_ip_proxy": {
       "desc": "一个将HTTP代理API转换为本地代理的AstrBot插件",
@@ -7727,7 +7728,7 @@
       "updated_at": "2026-01-21T17:11:12Z"
     },
     "astrbot_plugin_search_video": {
-      "display_name": "搜索视频",
+      "display_name": "搜视频",
       "author": "Zhalslar",
       "desc": "让bot直接搜索视频、下载视频，方便在群内直接看视频",
       "repo": "https://github.com/Zhalslar/astrbot_plugin_search_video",
@@ -7873,9 +7874,9 @@
         "game",
         "fish"
       ],
-      "stars": 43,
+      "stars": 44,
       "version": "1.4.6",
-      "updated_at": "2026-01-19T06:41:01Z"
+      "updated_at": "2026-01-24T16:22:32Z"
     },
     "astrbot_plugin_bilibili_live": {
       "author": "Raven95676",
@@ -8255,9 +8256,9 @@
         "api"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-      "stars": 131,
+      "stars": 132,
       "version": "v2.0.6",
-      "updated_at": "2026-01-20T10:13:42Z",
+      "updated_at": "2026-01-24T22:17:46Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_apis/logo"
     },
     "astrbot_plugin_help": {
@@ -9145,9 +9146,9 @@
         "TTS"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
-      "stars": 46,
+      "stars": 47,
       "version": "v2.0.1",
-      "updated_at": "2026-01-20T19:44:58Z",
+      "updated_at": "2026-01-24T16:45:03Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_GPT_SoVITS/logo"
     },
     "astrbot_plugin_search_pic": {
@@ -9488,9 +9489,9 @@
       "tags": [
         "实用工具"
       ],
-      "stars": 28,
+      "stars": 29,
       "version": "v2.2.4",
-      "updated_at": "2026-01-13T07:37:28Z",
+      "updated_at": "2026-01-24T13:50:14Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_relationship/logo"
     },
     "astrbot_plugin_pokecheck": {
