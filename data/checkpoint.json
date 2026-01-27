@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-01-27T01:58:27.289Z",
+  "timestamp": "2026-01-27T12:54:28.119Z",
   "github": {
-    "stars": 15214,
-    "forks": 1195,
+    "stars": 15229,
+    "forks": 1199,
     "contributors": 139
   },
   "plugins": {
@@ -42,9 +42,9 @@
         "世界书"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 5,
+      "stars": 6,
       "version": "2.1.0",
-      "updated_at": "2026-01-26T09:39:33Z",
+      "updated_at": "2026-01-27T08:56:28Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_worldbook/logo"
     },
     "astrbot_plugin_service_watcher": {
@@ -80,9 +80,9 @@
         "推送"
       ],
       "social_link": "https://github.com/siciyuanweilai",
-      "stars": 6,
+      "stars": 7,
       "version": "2.0.0",
-      "updated_at": "2026-01-26T11:27:45Z",
+      "updated_at": "2026-01-27T05:50:21Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_daily_sharing/logo"
     },
     "astrbot_plugin_judge": {
@@ -133,9 +133,9 @@
         "群聊圣经"
       ],
       "social_link": "https://github.com/SXP-Simon",
-      "stars": 136,
+      "stars": 137,
       "version": "v4.6.6",
-      "updated_at": "2026-01-26T15:59:40Z",
+      "updated_at": "2026-01-27T01:31:06Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_qq_group_daily_analysis/logo"
     },
     "astrbot_plugin_poke_to_llm": {
@@ -205,7 +205,7 @@
       "social_link": "https://mc.mimeng.top",
       "stars": 4,
       "version": "0.4.0",
-      "updated_at": "2026-01-26T14:06:14Z"
+      "updated_at": "2026-01-27T03:57:21Z"
     },
     "astrbot_plugin_love_formula": {
       "display_name": "赛博恋爱演化诊断",
@@ -286,9 +286,9 @@
       "author": "Zaxpris&feiu",
       "repo": "https://github.com/dafeiwu666/astrbot_plugin_persona_manager",
       "tags": [],
-      "stars": 0,
+      "stars": 1,
       "version": "0.0.2",
-      "updated_at": "2026-01-20T04:20:54Z"
+      "updated_at": "2026-01-27T10:41:12Z"
     },
     "astrbot_plugin_fund_analyzer": {
       "display_name": "基金分析",
@@ -298,7 +298,7 @@
       "tags": [],
       "stars": 3,
       "version": "1.0.0",
-      "updated_at": "2026-01-25T06:34:17Z"
+      "updated_at": "2026-01-27T09:09:16Z"
     },
     "astrbot_plugin_CNKD_Admin": {
       "display_name": "UapiPro言论管控",
@@ -361,8 +361,8 @@
         "群聊活跃度监测"
       ],
       "stars": 1,
-      "version": "2.1.0",
-      "updated_at": "2026-01-23T08:18:31Z",
+      "version": "2.1.1",
+      "updated_at": "2026-01-27T02:29:59Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_chatmaster/logo"
     },
     "astrbot_plugin_cheer_mate": {
@@ -387,9 +387,9 @@
         "插件编写"
       ],
       "social_link": "https://github.com/DITF16",
-      "stars": 24,
+      "stars": 25,
       "version": "1.1.1",
-      "updated_at": "2026-01-26T23:17:46Z",
+      "updated_at": "2026-01-27T10:34:13Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_self_iterative_core/logo"
     },
     "astrbot_plugin_groupGuard": {
@@ -569,7 +569,7 @@
       "tags": [],
       "stars": 4,
       "version": "1.0.0",
-      "updated_at": "2026-01-25T16:15:27Z"
+      "updated_at": "2026-01-27T04:53:06Z"
     },
     "astrbot_plugin_safety": {
       "display_name": "✌️ 又活一天",
@@ -723,9 +723,9 @@
       "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
       "pinned": true,
       "tags": [],
-      "stars": 13,
+      "stars": 14,
       "version": "v3.9.13",
-      "updated_at": "2026-01-21T15:55:46Z",
+      "updated_at": "2026-01-27T08:46:33Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_zssm_explain/logo"
     },
     "astrbot_plugin_self_learning": {
@@ -1070,9 +1070,9 @@
         "下载"
       ],
       "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
-      "stars": 29,
+      "stars": 30,
       "version": "v1.1",
-      "updated_at": "2026-01-22T11:12:05Z"
+      "updated_at": "2026-01-27T01:23:56Z"
     },
     "astrbot_plugin_ql_bilibili_account_manager": {
       "display_name": "Bili每日签到（基于青龙）",
@@ -1404,7 +1404,7 @@
       "tags": [],
       "stars": 14,
       "version": "1.8.10",
-      "updated_at": "2026-01-26T22:37:07Z",
+      "updated_at": "2026-01-27T05:17:22Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_custom_menu_1/logo"
     },
     "astrbot_plugin_webnovel_info": {
@@ -1945,9 +1945,9 @@
         "拟人"
       ],
       "social_link": "https://github.com/muyouzhi6",
-      "stars": 9,
+      "stars": 10,
       "version": "v2.2.5",
-      "updated_at": "2026-01-22T05:51:11Z",
+      "updated_at": "2026-01-27T05:50:30Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_life_scheduler/logo"
     },
     "astrbot_plugin_stealer": {
@@ -2012,8 +2012,8 @@
       "social_link": "https://github.com/DBJD-CR",
       "pinned": true,
       "stars": 28,
-      "version": "v1.3.1",
-      "updated_at": "2026-01-26T12:15:59Z",
+      "version": "v1.3.5",
+      "updated_at": "2026-01-27T11:04:48Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_disaster_warning/logo"
     },
     "astrbot_plugin_lofter_parser": {
@@ -2096,9 +2096,9 @@
         "画图"
       ],
       "social_link": "https://github.com/muyouzhi6",
-      "stars": 29,
+      "stars": 30,
       "version": "v2.6.0",
-      "updated_at": "2026-01-26T09:23:33Z",
+      "updated_at": "2026-01-27T05:50:43Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_gitee_aiimg/logo"
     },
     "astrbot_plugin_vertex_image-command": {
@@ -2234,9 +2234,9 @@
         "记忆"
       ],
       "social_link": "https://github.com/asakiyoshi",
-      "stars": 3,
+      "stars": 4,
       "version": "v4.0.0",
-      "updated_at": "2026-01-14T06:37:00Z"
+      "updated_at": "2026-01-27T10:59:57Z"
     },
     "astrbot_plugin_markdown_killer": {
       "display_name": "Markdown 杀手",
@@ -2665,8 +2665,8 @@
         "ftp"
       ],
       "stars": 1,
-      "version": "1.1.0",
-      "updated_at": "2026-01-08T07:46:18Z"
+      "version": "1.2.0",
+      "updated_at": "2026-01-27T10:21:01Z"
     },
     "astrbot_plugin_hotsearch": {
       "display_name": "实时热搜插件",
@@ -3363,8 +3363,8 @@
       ],
       "social_link": "https://github.com/Luna-channel",
       "stars": 12,
-      "version": "1.4.3",
-      "updated_at": "2026-01-25T10:26:04Z",
+      "version": "1.4.4",
+      "updated_at": "2026-01-27T06:09:53Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_Conversa/logo"
     },
     "astrbot_plugin_shutdown": {
@@ -5152,9 +5152,9 @@
         "总结"
       ],
       "social_link": "https://github.com/SXP-Simon",
-      "stars": 136,
+      "stars": 137,
       "version": "v4.6.6",
-      "updated_at": "2026-01-26T15:59:40Z",
+      "updated_at": "2026-01-27T01:31:06Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot-qq-group-daily-analysis/logo"
     },
     "astrbot_plugin_boss_notifier": {
@@ -6638,9 +6638,9 @@
         "鼠鼠"
       ],
       "author": "UyNewNas",
-      "stars": 12,
+      "stars": 13,
       "version": "v1.2",
-      "updated_at": "2026-01-11T14:31:50Z"
+      "updated_at": "2026-01-27T03:58:44Z"
     },
     "astrbot_plugin_LetAI_sendemojis": {
       "desc": "智能分析AI对话内容并发送匹配表情包，支持情感识别、历史记录和多数据源，让聊天更生动有趣",
@@ -7705,9 +7705,9 @@
         "画像"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 53,
+      "stars": 54,
       "version": "v1.0.7",
-      "updated_at": "2026-01-22T15:00:37Z",
+      "updated_at": "2026-01-27T11:28:03Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_portrayal/logo"
     },
     "astrbot_plugin_prefix_filter": {
@@ -10496,9 +10496,9 @@
       "author": "lxfight",
       "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
       "tags": [],
-      "stars": 165,
+      "stars": 166,
       "version": "v2.0.15",
-      "updated_at": "2026-01-26T14:54:43Z"
+      "updated_at": "2026-01-27T03:45:10Z"
     },
     "FateTrial_img_identify": {
       "desc": "智谱AI图像识别插件",
