@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-01-28T01:54:30.765Z",
+  "timestamp": "2026-01-28T12:54:20.844Z",
   "github": {
-    "stars": 15241,
+    "stars": 15259,
     "forks": 1201,
     "contributors": 139
   },
@@ -81,8 +81,8 @@
       ],
       "social_link": "https://github.com/siciyuanweilai",
       "stars": 8,
-      "version": "2.0.0",
-      "updated_at": "2026-01-27T16:04:54Z",
+      "version": "3.0.0",
+      "updated_at": "2026-01-28T10:15:19Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_daily_sharing/logo"
     },
     "astrbot_plugin_judge": {
@@ -133,9 +133,9 @@
         "群聊圣经"
       ],
       "social_link": "https://github.com/SXP-Simon",
-      "stars": 141,
+      "stars": 143,
       "version": "v4.6.6",
-      "updated_at": "2026-01-27T15:57:13Z",
+      "updated_at": "2026-01-28T08:50:35Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_qq_group_daily_analysis/logo"
     },
     "astrbot_plugin_poke_to_llm": {
@@ -252,8 +252,8 @@
       ],
       "social_link": "https://qwq.pyuramazo.online",
       "stars": 1,
-      "version": "v1.2.1",
-      "updated_at": "2026-01-27T15:08:40Z"
+      "version": "v1.2.2",
+      "updated_at": "2026-01-28T04:15:07Z"
     },
     "astrbot_plugin_anitabi": {
       "display_name": "圣地巡礼查询插件",
@@ -297,8 +297,8 @@
       "repo": "https://github.com/2529huang/astrbot_plugin_fund_analyzer",
       "tags": [],
       "stars": 3,
-      "version": "1.0.0",
-      "updated_at": "2026-01-27T09:09:16Z"
+      "version": "1.1.0",
+      "updated_at": "2026-01-28T10:43:11Z"
     },
     "astrbot_plugin_CNKD_Admin": {
       "display_name": "UapiPro言论管控",
@@ -323,7 +323,7 @@
       "social_link": "https://github.com/KonmaKanSinPack",
       "stars": 2,
       "version": "v1.0.1",
-      "updated_at": "2026-01-26T03:51:47Z"
+      "updated_at": "2026-01-28T08:27:58Z"
     },
     "astrbot_plugin_engram": {
       "display_name": "仿生双轨记忆系统",
@@ -544,9 +544,9 @@
         "动漫"
       ],
       "social_link": "https://github.com/kennylimz",
-      "stars": 7,
+      "stars": 8,
       "version": "v1.2",
-      "updated_at": "2026-01-27T22:38:57Z",
+      "updated_at": "2026-01-28T06:12:23Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_mudae_qq/logo"
     },
     "BUGJI/astrbot_plugin_balance": {
@@ -738,9 +738,9 @@
         "人格"
       ],
       "social_link": "https://github.com/NickCharlie",
-      "stars": 82,
+      "stars": 83,
       "version": "Next-1.1.5",
-      "updated_at": "2026-01-26T06:02:34Z",
+      "updated_at": "2026-01-28T03:07:56Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_self_learning/logo"
     },
     "astrbot_plugin_mrfzccl": {
@@ -850,8 +850,8 @@
       ],
       "social_link": "https://github.com/stevessr",
       "stars": 4,
-      "version": "0.2.8",
-      "updated_at": "2026-01-24T12:39:20Z",
+      "version": "0.2.9",
+      "updated_at": "2026-01-28T09:52:03Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_matrix_adapter/logo"
     },
     "astrbot_plugin_url_image_auto": {
@@ -1959,8 +1959,8 @@
         "表情"
       ],
       "stars": 11,
-      "version": "2.1.7",
-      "updated_at": "2026-01-27T18:31:44Z",
+      "version": "2.1.8",
+      "updated_at": "2026-01-28T10:19:07Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_stealer/logo"
     },
     "astrbot_plugin_splitter": {
@@ -2326,9 +2326,9 @@
       ],
       "repo": "https://github.com/Huahuatgc/astrbot_plugin_aicu",
       "social_link": "https://github.com/Huahuatgc",
-      "stars": 6,
+      "stars": 7,
       "version": "2.5.0",
-      "updated_at": "2026-01-12T01:35:22Z",
+      "updated_at": "2026-01-28T04:32:14Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_aicu_analysis/logo"
     },
     "astrbot_plugin_ShareholderPerks": {
@@ -2848,7 +2848,7 @@
       ],
       "stars": 2,
       "version": "v2.0",
-      "updated_at": "2026-01-07T04:22:17Z"
+      "updated_at": "2026-01-28T10:20:20Z"
     },
     "astrbot_plugin_temp-email": {
       "display_name": "临时邮箱",
@@ -3388,9 +3388,9 @@
         "主动回复"
       ],
       "social_link": "https://github.com/Him666233",
-      "stars": 30,
+      "stars": 32,
       "version": "v1.1.2",
-      "updated_at": "2026-01-24T15:10:32Z",
+      "updated_at": "2026-01-28T07:12:33Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_group_chat_plus/logo"
     },
     "astrbot_plugin_message_stats": {
@@ -4892,8 +4892,8 @@
       "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
       "tags": [],
       "stars": 38,
-      "version": "v1.8.2",
-      "updated_at": "2026-01-26T22:37:07Z"
+      "version": "v1.8.3",
+      "updated_at": "2026-01-28T10:58:06Z"
     },
     "astrbot_plugin_group_chat": {
       "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -5128,9 +5128,9 @@
         "画图",
         "AI绘画"
       ],
-      "stars": 23,
+      "stars": 24,
       "version": "v1.8.1",
-      "updated_at": "2026-01-16T09:32:22Z"
+      "updated_at": "2026-01-28T02:06:30Z"
     },
     "github_star_verify": {
       "desc": "[aiocqhttp]使用 GitHub 仓库的 Star 状态作为入群验证条件，仅允许已 Star 指定仓库的用户留在群内。",
@@ -5152,9 +5152,9 @@
         "总结"
       ],
       "social_link": "https://github.com/SXP-Simon",
-      "stars": 141,
+      "stars": 143,
       "version": "v4.6.6",
-      "updated_at": "2026-01-27T15:57:13Z",
+      "updated_at": "2026-01-28T08:50:35Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot-qq-group-daily-analysis/logo"
     },
     "astrbot_plugin_boss_notifier": {
@@ -5703,9 +5703,9 @@
         "输出增强"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 23,
+      "stars": 24,
       "version": "v2.1.4",
-      "updated_at": "2026-01-25T06:09:31Z",
+      "updated_at": "2026-01-28T09:20:23Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_outputpro/logo"
     },
     "astrbot_plugin_image_summary": {
@@ -5801,8 +5801,8 @@
       ],
       "social_link": "https://github.com/Zhalslar",
       "stars": 52,
-      "version": "v2.2.9",
-      "updated_at": "2026-01-23T02:17:57Z",
+      "version": "v2.3.0",
+      "updated_at": "2026-01-28T05:31:33Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_qzone/logo"
     },
     "astrbot_plugin_matchreminder": {
@@ -6880,9 +6880,9 @@
         "web search"
       ],
       "social_link": "https://github.com/lxfight",
-      "stars": 23,
+      "stars": 24,
       "version": "0.1.0",
-      "updated_at": "2026-01-15T12:05:21Z"
+      "updated_at": "2026-01-28T02:07:37Z"
     },
     "astrbot_plugin_textadventure": {
       "author": "LumineStory",
@@ -7562,9 +7562,9 @@
         "RAG",
         "知识库"
       ],
-      "stars": 77,
+      "stars": 78,
       "version": "v0.5.9",
-      "updated_at": "2025-12-18T16:20:48Z"
+      "updated_at": "2026-01-28T06:47:09Z"
     },
     "astrbot_uptime_kuma_webhook_plugin": {
       "author": "RC-CHN",
@@ -8899,9 +8899,9 @@
       "tags": [
         "QQ群管"
       ],
-      "stars": 88,
+      "stars": 89,
       "version": "v3.2.7",
-      "updated_at": "2026-01-25T16:38:23Z",
+      "updated_at": "2026-01-28T08:18:40Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_qqadmin/logo"
     },
     "astrbot_plugin_liars_bar": {
@@ -9134,9 +9134,9 @@
         "抽卡"
       ],
       "social_link": "https://github.com/Futureppo",
-      "stars": 18,
+      "stars": 19,
       "version": "v1.0.13",
-      "updated_at": "2025-12-01T20:17:53Z",
+      "updated_at": "2026-01-28T02:09:29Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_doro_today/logo"
     },
     "astrbot_plugin_litematic": {
@@ -9807,9 +9807,9 @@
         "主动回复"
       ],
       "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-      "stars": 92,
+      "stars": 93,
       "version": "v2.1.10",
-      "updated_at": "2026-01-19T02:07:46Z"
+      "updated_at": "2026-01-28T04:42:22Z"
     },
     "astrbot_plugin_steamshot": {
       "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
