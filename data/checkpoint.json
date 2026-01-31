@@ -1,11 +1,117 @@
 {
-  "timestamp": "2026-01-31T02:04:51.962Z",
+  "timestamp": "2026-01-31T12:51:34.259Z",
   "github": {
-    "stars": 15393,
+    "stars": 15407,
     "forks": 1213,
-    "contributors": 139
+    "contributors": 134
   },
   "plugins": {
+    "astrbot_plugin_mooncell_finder": {
+      "display_name": "MOONCELL搜索插件",
+      "desc": "MOONCELL搜索插件,用于查询FGO相关的从者、礼装、纹章和特性信息。",
+      "author": "akidesuwa",
+      "repo": "https://github.com/aki0623/astrbot_plugin_mooncell_finder",
+      "tags": [
+        "FGO",
+        "搜索"
+      ],
+      "stars": 0,
+      "version": "v1.0",
+      "updated_at": "2026-01-31T03:12:11Z"
+    },
+    "astrbot_plugin_vibe": {
+      "display_name": "vibe",
+      "desc": "Codex app-server vibe plugin.",
+      "author": "vmoranv",
+      "repo": "https://github.com/vmoranv/astrbot_plugin_vibe",
+      "tags": [
+        "vibecoding"
+      ],
+      "social_link": "https://github.com/vmoranv/",
+      "stars": 0,
+      "version": "v0.3.15",
+      "updated_at": "2026-01-26T16:23:10Z"
+    },
+    "astrbot_plugin_steamwatch": {
+      "display_name": "Steam 视奸机器人",
+      "desc": "通过astrbot视奸你的steam好友！",
+      "author": "Chinachani",
+      "repo": "https://github.com/Chinachani/astrbot_plugin_steamwatch",
+      "tags": [
+        "steam",
+        "视奸"
+      ],
+      "stars": 0,
+      "version": "v1.1.0",
+      "updated_at": "2026-01-30T18:34:52Z"
+    },
+    "astrbot_plugin_minecraft_monitor": {
+      "display_name": "MC 服务器监控（适配基岩版与 Java 版）",
+      "desc": "Minecraft服务器监控插件，支持定时检测服务器状态变化并发送通知。可配置目标群、服务器地址、检查间隔等。",
+      "author": "cryfly666",
+      "repo": "https://github.com/cryfly666/astrbot_plugin_apimcmc",
+      "tags": [
+        "mc",
+        "Minecraft",
+        "mc服务器"
+      ],
+      "social_link": "https://github.com/cryfly666",
+      "stars": 0,
+      "version": "v2.0",
+      "updated_at": "2026-01-29T13:48:32Z"
+    },
+    "astrbot_plugin_image_url_base64_to_mcp": {
+      "display_name": "图片_url_base64_传递至_mcp",
+      "desc": "帮助 MCP 工具从上下文中获取图片 URL 或 Base64 数据。",
+      "author": "Thetail001",
+      "repo": "https://github.com/Thetail001/astrbot_plugin_image_url_base64_to_mcp",
+      "tags": [
+        "tool",
+        "mcp",
+        "图片"
+      ],
+      "stars": 0,
+      "version": "v1.0.2",
+      "updated_at": "2026-01-29T15:49:19Z"
+    },
+    "astrbot_plugin_at_ignore": {
+      "display_name": "忽略@消息",
+      "desc": "让 Bot 不响应任何 @ 它的消息，被 @ 时直接忽略，不进行 LLM 处理。",
+      "author": "lamp3721",
+      "repo": "https://github.com/lamp3721/astrbot_plugin_at_ignore",
+      "tags": [],
+      "stars": 0,
+      "version": "v1.0.0",
+      "updated_at": "2026-01-15T00:35:17Z"
+    },
+    "message_cleaner": {
+      "display_name": "消息清洗器",
+      "desc": "在 Bot 回复前过滤掉人机词汇或者你不喜欢的内容",
+      "author": "懒大猫",
+      "repo": "https://github.com/landamao/message_cleaner",
+      "tags": [
+        "美化"
+      ],
+      "stars": 0,
+      "version": "v6.6.6",
+      "updated_at": "2026-01-15T19:04:50Z"
+    },
+    "astrbot_plugin_qq_tools": {
+      "display_name": "QQ 工具集",
+      "desc": "为 AstrBot 提供 QQ 平台（OneBot / aiocqhttp）特定的工具集：引用回复、撤回消息、检索最近消息、群管理、头像查看、网页浏览（Playwright）、视频分析（Gemini）、以及「定时唤醒」等能力。\n让机器人在 QQ 场景下的“动手能力”更强，增强自主性。",
+      "author": "YUMU1658",
+      "repo": "https://github.com/YUMU1658/astrbot_plugin_qq_tools",
+      "tags": [
+        "Agent",
+        "工具",
+        "浏览器",
+        "aiocqhttp",
+        "QQ"
+      ],
+      "stars": 0,
+      "version": "v0.1.3",
+      "updated_at": "2026-01-31T10:04:43Z"
+    },
     "astrbot_plugin_skland": {
       "display_name": "森空岛签到",
       "desc": "森空岛签到，支持终末地和明日方舟，支持定时签到",
@@ -57,9 +163,9 @@
         "日报",
         "multiagent"
       ],
-      "stars": 1,
-      "version": "v0.3.7",
-      "updated_at": "2026-01-26T14:41:17Z"
+      "stars": 2,
+      "version": "v0.3.8",
+      "updated_at": "2026-01-31T10:43:54Z"
     },
     "astrbot_plugin_trpgdice_rerolled": {
       "display_name": "星星骰娘-重骰版！",
@@ -100,8 +206,8 @@
       ],
       "social_link": "https://github.com/Youzini-afk",
       "stars": 3,
-      "version": "1.0.0",
-      "updated_at": "2026-01-30T10:55:27Z"
+      "version": "1.1.0",
+      "updated_at": "2026-01-31T09:58:53Z"
     },
     "astrbot_plugin_group_aip_review": {
       "display_name": "群消息内容安全审核插件",
@@ -174,8 +280,8 @@
       "social_link": "https://github.com/nulijiazaizhong",
       "tags": [],
       "stars": 1,
-      "version": "1.0.2",
-      "updated_at": "2026-01-25T00:06:20Z"
+      "version": "1.0.3",
+      "updated_at": "2026-01-31T09:39:15Z"
     },
     "astrbot_plugin_lark_enhance": {
       "display_name": "飞书增强",
@@ -226,7 +332,7 @@
       "tags": [],
       "stars": 3,
       "version": "0.3.2",
-      "updated_at": "2026-01-30T06:48:44Z"
+      "updated_at": "2026-01-31T10:30:20Z"
     },
     "astrbot_plugin_daily_sharing": {
       "display_name": "定时主动分享所见所闻",
@@ -241,8 +347,8 @@
       ],
       "social_link": "https://github.com/siciyuanweilai",
       "stars": 8,
-      "version": "4.0.0",
-      "updated_at": "2026-01-30T13:41:23Z",
+      "version": "4.0.1",
+      "updated_at": "2026-01-31T07:01:24Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_daily_sharing/logo"
     },
     "astrbot_plugin_group_auto_clean_member": {
@@ -334,8 +440,8 @@
       ],
       "social_link": "https://github.com/SXP-Simon",
       "stars": 146,
-      "version": "v4.6.6",
-      "updated_at": "2026-01-30T13:20:47Z",
+      "version": "v4.6.7",
+      "updated_at": "2026-01-31T08:15:13Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_qq_group_daily_analysis/logo"
     },
     "astrbot_plugin_poke_to_llm": {
@@ -697,8 +803,8 @@
       ],
       "social_link": "https://github.com/Dayanshifu",
       "stars": 2,
-      "version": "1.0.5",
-      "updated_at": "2026-01-27T15:45:18Z",
+      "version": "1.0.6",
+      "updated_at": "2026-01-31T08:56:45Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_music_pro/logo"
     },
     "astrbot_plugin_online_status": {
@@ -735,7 +841,7 @@
       "social_link": "https://github.com/muyouzhi6",
       "stars": 9,
       "version": "3.0.2",
-      "updated_at": "2026-01-27T17:09:50Z",
+      "updated_at": "2026-01-31T10:30:21Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_context_aware/logo"
     },
     "astrbot_plugin_STEmbedding": {
@@ -928,9 +1034,9 @@
         "游戏"
       ],
       "social_link": "https://github.com/siciyuanweilai",
-      "stars": 0,
+      "stars": 1,
       "version": "v1.0.0",
-      "updated_at": "2026-01-06T05:15:36Z",
+      "updated_at": "2026-01-31T10:20:44Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_80lv/logo"
     },
     "astrbot_zssm_explain": {
@@ -940,8 +1046,8 @@
       "pinned": true,
       "tags": [],
       "stars": 15,
-      "version": "v3.9.13",
-      "updated_at": "2026-01-28T12:46:46Z",
+      "version": "v3.9.15",
+      "updated_at": "2026-01-31T08:57:33Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_zssm_explain/logo"
     },
     "astrbot_plugin_self_learning": {
@@ -1444,6 +1550,18 @@
       "stars": 1,
       "version": "v1.0.2",
       "updated_at": "2026-01-03T06:51:46Z"
+    },
+    "astrbot_plugin_bilibiliobs": {
+      "display_name": "B站直播监测推送",
+      "desc": "B站UP主开播监测插件，支持添加监控UP主并在开播时发送通知。",
+      "author": "BB0813",
+      "repo": "https://github.com/BB0813/astrbot_plugin_bilibiliobs",
+      "tags": [
+        "监测"
+      ],
+      "stars": 0,
+      "version": "1.0.0",
+      "updated_at": "2026-01-22T16:35:49Z"
     },
     "astrbot_plugin_chat4severals": {
       "display_name": "优化私聊体验，不再说一句回一句",
@@ -1988,7 +2106,7 @@
       ],
       "stars": 14,
       "version": "v1.6.0",
-      "updated_at": "2026-01-30T19:58:37Z"
+      "updated_at": "2026-01-31T08:23:15Z"
     },
     "astrbot_plugin_echo": {
       "display_name": "echo",
@@ -2213,8 +2331,8 @@
       "social_link": "https://github.com/DBJD-CR",
       "pinned": true,
       "stars": 29,
-      "version": "v1.3.6",
-      "updated_at": "2026-01-30T16:31:15Z",
+      "version": "v1.3.7",
+      "updated_at": "2026-01-31T08:50:10Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_disaster_warning/logo"
     },
     "astrbot_plugin_lofter_parser": {
@@ -2513,8 +2631,8 @@
         "图床"
       ],
       "stars": 0,
-      "version": "v1.2",
-      "updated_at": "2026-01-28T11:30:34Z",
+      "version": "v1.3",
+      "updated_at": "2026-01-31T07:41:17Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_CloudImg/logo"
     },
     "astrbot_plugin_aicu_analysis": {
@@ -2687,8 +2805,8 @@
       ],
       "social_link": "https://github.com/piexian",
       "stars": 20,
-      "version": "v1.8.5",
-      "updated_at": "2026-01-30T13:15:30Z",
+      "version": "v1.9.0",
+      "updated_at": "2026-01-31T09:13:53Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_gemini_image_generation/logo"
     },
     "astrbot_plugin_genshinimpact": {
@@ -2753,9 +2871,9 @@
         "gal"
       ],
       "social_link": "https://github.com/bvzrays",
-      "stars": 44,
+      "stars": 45,
       "version": "v2.2.0",
-      "updated_at": "2026-01-30T16:57:55Z",
+      "updated_at": "2026-01-31T05:40:27Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_chuanhuatong/logo"
     },
     "astrbot_plugin_steamgame": {
@@ -3038,18 +3156,6 @@
       "version": "1.2.0",
       "updated_at": "2026-01-14T11:47:41Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_minecraft_adapter/logo"
-    },
-    "astrbot_plugin_minecraft_monitor": {
-      "display_name": "MC 服务器状态检测",
-      "desc": "Minecraft服务器监控插件，支持定时检测服务器状态变化并发送通知。可配置目标群、服务器地址、检查间隔等。",
-      "author": "cryfly666",
-      "repo": "https://github.com/cryfly666/astrbot_plugin_play",
-      "tags": [
-        "MC"
-      ],
-      "stars": 2,
-      "version": "v2.0",
-      "updated_at": "2026-01-29T16:15:39Z"
     },
     "astrbot_plugin_temp-email": {
       "display_name": "临时邮箱",
@@ -3576,7 +3682,7 @@
       "tags": [],
       "stars": 1,
       "version": "v1.0.7",
-      "updated_at": "2025-12-22T09:56:41Z"
+      "updated_at": "2026-01-31T05:02:52Z"
     },
     "astrbot_plugin_group_chat_plus": {
       "display_name": "chat_plus",
@@ -3728,8 +3834,8 @@
         "战绩"
       ],
       "stars": 2,
-      "version": "v1.1",
-      "updated_at": "2025-12-18T18:03:38Z"
+      "version": "v1.0",
+      "updated_at": "2026-01-31T10:45:42Z"
     },
     "astrbot_plugin_email_tool": {
       "display_name": "SMTP 邮件小工具",
@@ -3806,9 +3912,9 @@
       "tags": [
         "磁链"
       ],
-      "stars": 2,
-      "version": "v1.2",
-      "updated_at": "2026-01-30T16:02:43Z",
+      "stars": 3,
+      "version": "v1.2.1",
+      "updated_at": "2026-01-31T07:17:09Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_magnet_preview/logo"
     },
     "astrbot_plugin_gemini-image": {
@@ -5093,8 +5199,8 @@
       "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
       "tags": [],
       "stars": 38,
-      "version": "v1.8.5",
-      "updated_at": "2026-01-30T10:31:44Z"
+      "version": "v1.8.6",
+      "updated_at": "2026-01-31T04:22:10Z"
     },
     "astrbot_plugin_group_chat": {
       "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -5354,8 +5460,8 @@
       ],
       "social_link": "https://github.com/SXP-Simon",
       "stars": 146,
-      "version": "v4.6.6",
-      "updated_at": "2026-01-30T13:20:47Z",
+      "version": "v4.6.7",
+      "updated_at": "2026-01-31T08:15:13Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot-qq-group-daily-analysis/logo"
     },
     "astrbot_plugin_boss_notifier": {
@@ -5904,9 +6010,9 @@
         "输出增强"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 24,
+      "stars": 25,
       "version": "v2.1.4",
-      "updated_at": "2026-01-28T09:20:23Z",
+      "updated_at": "2026-01-31T08:52:36Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_outputpro/logo"
     },
     "astrbot_plugin_image_summary": {
@@ -8399,9 +8505,9 @@
         "api"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-      "stars": 133,
+      "stars": 134,
       "version": "v2.0.6",
-      "updated_at": "2026-01-26T15:16:36Z",
+      "updated_at": "2026-01-31T08:51:00Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_apis/logo"
     },
     "astrbot_plugin_help": {
@@ -9192,7 +9298,7 @@
       ],
       "stars": 7,
       "version": "v1.1",
-      "updated_at": "2025-09-25T15:27:35Z"
+      "updated_at": "2026-01-31T09:01:14Z"
     },
     "astrbot_plugin_Merge_WeMSG": {
       "desc": "[仅gewechat]支持微信个人号(gewechat)的合并消息处理和转发",
@@ -9770,9 +9876,9 @@
         "bilibili"
       ],
       "social_link": "https://github.com/miaoxutao123/",
-      "stars": 65,
+      "stars": 66,
       "version": "v0.2.14",
-      "updated_at": "2026-01-15T13:07:44Z"
+      "updated_at": "2026-01-31T06:34:03Z"
     },
     "astrbot_plugin_sjzb": {
       "desc": "随机生成《绝地潜兵2》游戏中一组 4 个战备配置",
@@ -10071,9 +10177,9 @@
         "功能",
         "搬史"
       ],
-      "stars": 499,
+      "stars": 500,
       "version": "v0.915",
-      "updated_at": "2026-01-30T17:35:06Z"
+      "updated_at": "2026-01-31T06:33:50Z"
     },
     "astrbot_plugin_superpoke": {
       "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
@@ -10698,9 +10804,9 @@
       "author": "lxfight",
       "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
       "tags": [],
-      "stars": 168,
+      "stars": 169,
       "version": "v2.0.15",
-      "updated_at": "2026-01-30T13:20:46Z"
+      "updated_at": "2026-01-31T06:33:23Z"
     },
     "FateTrial_img_identify": {
       "desc": "智谱AI图像识别插件",
