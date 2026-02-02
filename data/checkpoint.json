@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-02-01T12:53:25.881Z",
+  "timestamp": "2026-02-02T02:24:47.734Z",
   "github": {
-    "stars": 15438,
+    "stars": 15445,
     "forks": 1217,
     "contributors": 133
   },
@@ -15,9 +15,9 @@
         "FGO",
         "搜索"
       ],
-      "stars": 0,
+      "stars": 1,
       "version": "v1.0",
-      "updated_at": "2026-01-31T03:12:11Z"
+      "updated_at": "2026-02-01T16:21:46Z"
     },
     "astrbot_plugin_vibe": {
       "display_name": "vibe",
@@ -123,9 +123,9 @@
         "自动签到"
       ],
       "social_link": "https://github.com/Azincc/",
-      "stars": 1,
+      "stars": 2,
       "version": "v1.1.0",
-      "updated_at": "2026-02-01T07:54:22Z"
+      "updated_at": "2026-02-01T15:19:15Z"
     },
     "astrbot_plugin_tomin": {
       "display_name": "Tomin - 少女乐队游戏",
@@ -207,7 +207,7 @@
       "social_link": "https://github.com/Youzini-afk",
       "stars": 3,
       "version": "1.8.3",
-      "updated_at": "2026-01-31T20:08:55Z"
+      "updated_at": "2026-02-01T13:08:16Z"
     },
     "astrbot_plugin_group_aip_review": {
       "display_name": "群消息内容安全审核插件",
@@ -439,9 +439,9 @@
         "群聊圣经"
       ],
       "social_link": "https://github.com/SXP-Simon",
-      "stars": 146,
+      "stars": 147,
       "version": "v4.6.7",
-      "updated_at": "2026-01-31T08:15:13Z",
+      "updated_at": "2026-02-01T13:21:58Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_qq_group_daily_analysis/logo"
     },
     "astrbot_plugin_poke_to_llm": {
@@ -541,8 +541,8 @@
       ],
       "social_link": "https://github.com/SXP-Simon",
       "stars": 20,
-      "version": "v1.0.15",
-      "updated_at": "2026-01-30T06:48:03Z",
+      "version": "v1.0.16",
+      "updated_at": "2026-02-01T20:00:45Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_love_formula/logo"
     },
     "astrbot_plugin_pjsk": {
@@ -1751,9 +1751,9 @@
         "桌面客户端"
       ],
       "social_link": "https://github.com/muyouzhi6",
-      "stars": 14,
+      "stars": 15,
       "version": "1.1.2",
-      "updated_at": "2026-01-24T13:18:56Z",
+      "updated_at": "2026-02-01T14:22:27Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_desktop_assistant/logo"
     },
     "astrbot_plugin_angel_memory": {
@@ -1943,8 +1943,8 @@
       ],
       "social_link": "https://github.com/Hakuin123",
       "stars": 0,
-      "version": "v1.1.0",
-      "updated_at": "2025-12-26T17:31:42Z"
+      "version": "v1.1.1",
+      "updated_at": "2026-02-01T16:41:41Z"
     },
     "astrbot_plugin_yoimg": {
       "display_name": "Gitee 图系模型文生图，图生图",
@@ -2277,9 +2277,9 @@
       "tags": [
         "表情"
       ],
-      "stars": 13,
-      "version": "2.1.9",
-      "updated_at": "2026-01-29T17:42:17Z",
+      "stars": 14,
+      "version": "2.2.0",
+      "updated_at": "2026-02-01T18:39:21Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_stealer/logo"
     },
     "astrbot_plugin_splitter": {
@@ -2331,8 +2331,8 @@
       "social_link": "https://github.com/DBJD-CR",
       "pinned": true,
       "stars": 29,
-      "version": "v1.3.7",
-      "updated_at": "2026-01-31T08:50:10Z",
+      "version": "v1.3.8",
+      "updated_at": "2026-02-01T13:14:27Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_disaster_warning/logo"
     },
     "astrbot_plugin_lofter_parser": {
@@ -5208,8 +5208,8 @@
         "撤回"
       ],
       "stars": 5,
-      "version": "v1.1.4",
-      "updated_at": "2026-02-01T09:10:45Z",
+      "version": "v1.1.5",
+      "updated_at": "2026-02-01T12:39:41Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_anti_revoke/logo"
     },
     "input_state_by_napcat": {
@@ -5444,9 +5444,9 @@
         "总结"
       ],
       "social_link": "https://github.com/SXP-Simon",
-      "stars": 146,
+      "stars": 147,
       "version": "v4.6.7",
-      "updated_at": "2026-01-31T08:15:13Z",
+      "updated_at": "2026-02-01T13:21:58Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot-qq-group-daily-analysis/logo"
     },
     "astrbot_plugin_boss_notifier": {
@@ -6092,9 +6092,9 @@
         "表白墙"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 53,
+      "stars": 54,
       "version": "v2.3.0",
-      "updated_at": "2026-02-01T02:10:52Z",
+      "updated_at": "2026-02-01T14:35:45Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_qzone/logo"
     },
     "astrbot_plugin_matchreminder": {
@@ -6472,8 +6472,8 @@
         "主动回复"
       ],
       "stars": 6,
-      "version": "v1.3.4",
-      "updated_at": "2026-01-23T07:10:55Z",
+      "version": "v1.4.0",
+      "updated_at": "2026-02-01T12:51:19Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_proactive_reply/logo"
     },
     "treasure_bag_plugin": {
@@ -6498,8 +6498,8 @@
       ],
       "social_link": "QQ: 824907403",
       "stars": 2,
-      "version": "v1.0.4",
-      "updated_at": "2026-01-19T11:31:33Z"
+      "version": "v1.0.5",
+      "updated_at": "2026-02-01T22:11:57Z"
     },
     "cngal_morning_report": {
       "desc": "CnGal 每日晨报",
@@ -7578,9 +7578,9 @@
         "Steam"
       ],
       "social_link": "https://github.com/Maoer233",
-      "stars": 51,
+      "stars": 52,
       "version": "2.2.0",
-      "updated_at": "2026-02-01T05:04:49Z",
+      "updated_at": "2026-02-01T13:38:00Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_steam_status_monitor/logo"
     },
     "astrbot_plugin_xiaoxue": {
@@ -7924,8 +7924,8 @@
       ],
       "social_link": "https://space.bilibili.com/447591776",
       "stars": 2,
-      "version": "v1.2.0",
-      "updated_at": "2025-11-11T08:09:57Z"
+      "version": "v1.2.1",
+      "updated_at": "2026-02-01T13:47:44Z"
     },
     "astrbot_plugin_embedding_adapter": {
       "author": "AnYan",
@@ -10807,9 +10807,9 @@
       "author": "buding",
       "repo": "https://github.com/zouyonghe/astrbot_plugin_shell_executor",
       "tags": [],
-      "stars": 3,
+      "stars": 2,
       "version": "v1.0.6",
-      "updated_at": "2025-11-27T03:05:48Z"
+      "updated_at": "2026-02-01T17:37:05Z"
     },
     "astrbot_plugin_pock": {
       "desc": "astrbot戳一戳监听",
