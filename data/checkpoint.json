@@ -1,11 +1,38 @@
 {
-  "timestamp": "2026-02-14T12:52:39.663Z",
+  "timestamp": "2026-02-15T02:27:43.645Z",
   "github": {
-    "stars": 15904,
-    "forks": 1262,
+    "stars": 15915,
+    "forks": 1263,
     "contributors": 146
   },
   "plugins": {
+    "astrbot-plugin-napcat-enhanced": {
+      "display_name": "Napcat_Enhanced",
+      "desc": "基于原有功能的增强的 AstrBot NapCat 接入插件，提供丰富的 QQ 机器人功能。",
+      "author": "Nonepf",
+      "repo": "https://github.com/Nonepf/astrbot_plugin_napcat_enhanced",
+      "tags": [],
+      "stars": 0,
+      "version": "1.0.0",
+      "updated_at": "2026-02-14T10:30:18Z"
+    },
+    "astrbot-plugin-mcbe-news": {
+      "display_name": "MCBE 更新监控与 AI 总结插件",
+      "desc": "定时监控 Minecraft 基岩版官方更新，自动使用 AI 总结并推送到群聊，支持 Beta 和正式版",
+      "author": "Yuehua",
+      "repo": "https://github.com/YueHua46/astrbot_plugin_mcbe_news",
+      "tags": [
+        "MC",
+        "我的世界",
+        "我的世界基岩版",
+        "MCBE"
+      ],
+      "social_link": "https://github.com/YueHua46",
+      "stars": 0,
+      "version": "v1.0.4",
+      "updated_at": "2026-02-14T15:41:31Z",
+      "logo": "https://api.soulter.top/astrbot/plugin/astrbot-plugin-mcbe-news/logo"
+    },
     "astrbot-plugin-wordlimit": {
       "display_name": "字数限制器",
       "desc": "在 LLM 回复后检查字数，超过限制时自动使用 LLM 缩短回复内容",
@@ -87,9 +114,9 @@
         "自动水贴"
       ],
       "social_link": "https://github.com/advent259141",
-      "stars": 21,
+      "stars": 22,
       "version": "2.6.2",
-      "updated_at": "2026-02-14T10:52:37Z"
+      "updated_at": "2026-02-14T13:54:24Z"
     },
     "astrbot_plugin_group_quiz": {
       "display_name": "每日技术问答",
@@ -101,8 +128,8 @@
       ],
       "social_link": "https://github.com/Misaka13906/",
       "stars": 2,
-      "version": "v1.0.0",
-      "updated_at": "2026-02-12T07:55:16Z"
+      "version": "v1.0.1",
+      "updated_at": "2026-02-14T15:51:29Z"
     },
     "astrbot_plugin_hapi_connector": {
       "name": "",
@@ -231,7 +258,7 @@
       "social_link": "https://github.com/lxfight",
       "stars": 1,
       "version": "1.0.0",
-      "updated_at": "2026-02-13T09:02:18Z"
+      "updated_at": "2026-02-14T12:15:40Z"
     },
     "astrbot_plugin_telegram_summary": {
       "name": "",
@@ -261,7 +288,7 @@
       ],
       "stars": 3,
       "version": "v1.0.2",
-      "updated_at": "2026-02-14T10:33:14Z",
+      "updated_at": "2026-02-14T12:01:39Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_gok/logo"
     },
     "astrbot_plugin_lyrics_trigger": {
@@ -787,7 +814,7 @@
       ],
       "stars": 2,
       "version": "v1.1.11",
-      "updated_at": "2026-02-08T15:11:46Z"
+      "updated_at": "2026-02-14T17:26:34Z"
     },
     "astrbot_plugin_minecraft_monitor": {
       "display_name": "MC 服务器监控（适配基岩版与 Java 版）",
@@ -1208,9 +1235,9 @@
         "群聊圣经"
       ],
       "social_link": "https://github.com/SXP-Simon",
-      "stars": 164,
+      "stars": 165,
       "version": "v4.7.7",
-      "updated_at": "2026-02-13T13:29:56Z",
+      "updated_at": "2026-02-14T15:59:00Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_qq_group_daily_analysis/logo"
     },
     "astrbot_plugin_poke_to_llm": {
@@ -1294,8 +1321,8 @@
         "抖音"
       ],
       "stars": 5,
-      "version": "v1.0.4",
-      "updated_at": "2026-02-13T17:54:44Z"
+      "version": "v1.0.5",
+      "updated_at": "2026-02-14T16:38:39Z"
     },
     "astrbot_plugin_love_formula": {
       "display_name": "赛博恋爱演化诊断",
@@ -1425,9 +1452,9 @@
         "记忆",
         "拟人"
       ],
-      "stars": 3,
+      "stars": 4,
       "version": "1.3.1",
-      "updated_at": "2026-02-09T21:15:27Z"
+      "updated_at": "2026-02-14T15:39:57Z"
     },
     "astrbot_plugin_mc_manager": {
       "display_name": "astrbot_plugin_mc_manager",
@@ -3057,9 +3084,9 @@
         "分段"
       ],
       "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
-      "stars": 15,
+      "stars": 14,
       "version": "v1.2.0",
-      "updated_at": "2026-02-02T13:25:01Z",
+      "updated_at": "2026-02-14T12:51:47Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_splitter/logo"
     },
     "astrbot_plugin_e2b_sandbox": {
@@ -3633,9 +3660,9 @@
         "gal"
       ],
       "social_link": "https://github.com/bvzrays",
-      "stars": 47,
+      "stars": 48,
       "version": "v2.3.0",
-      "updated_at": "2026-02-13T14:32:43Z",
+      "updated_at": "2026-02-14T15:46:44Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_chuanhuatong/logo"
     },
     "astrbot_plugin_steamgame": {
@@ -5275,7 +5302,7 @@
       "tags": [],
       "stars": 1,
       "version": "v1.0.0",
-      "updated_at": "2025-11-29T08:35:38Z"
+      "updated_at": "2026-02-14T16:51:52Z"
     },
     "astrbot_plugin_galplayer": {
       "desc": "一个可以让你和群友一起推galgame的插件，需要在windows电脑上运行galgame本体。",
@@ -5686,8 +5713,8 @@
         "备货"
       ],
       "stars": 4,
-      "version": "v0.4.11",
-      "updated_at": "2026-02-14T10:24:22Z"
+      "version": "v0.4.12",
+      "updated_at": "2026-02-14T18:46:35Z"
     },
     "astrbot_plugin_admin_emoji_reply": {
       "desc": "自动为指定的用户回复表情消息，支持开关和自定义速度",
@@ -8228,9 +8255,9 @@
         "zodiac"
       ],
       "social_link": "https://github.com/Abyss-Seeker",
-      "stars": 1,
+      "stars": 2,
       "version": "v1.0.0",
-      "updated_at": "2025-07-17T11:42:18Z"
+      "updated_at": "2026-02-14T13:06:57Z"
     },
     "astrbot_plugin_zhanxing": {
       "author": "雨爲/yuweitk",
@@ -9426,9 +9453,9 @@
       "desc": "一个基于 AstrBot 框架的塔罗牌占卜插件，支持多牌阵和单张牌占卜，并通过 AI 生成详细解析。",
       "repo": "https://github.com/XziXmn/astrbot_plugin_tarot",
       "tags": [],
-      "stars": 3,
+      "stars": 4,
       "version": "v0.1.1",
-      "updated_at": "2025-11-20T15:59:23Z"
+      "updated_at": "2026-02-14T13:08:00Z"
     },
     "astrbot_plugin_a2s": {
       "author": "ZvZPvz",
@@ -9845,7 +9872,7 @@
       "repo": "https://github.com/Futureppo/astrbot_plugin_zanwo",
       "stars": 22,
       "version": "v1.0.9",
-      "updated_at": "2026-01-22T23:16:21Z",
+      "updated_at": "2026-02-14T16:00:15Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_zanwo/logo"
     },
     "astrbot_plugin_ehentai_bot": {
@@ -10966,9 +10993,9 @@
       "author": "anka",
       "repo": "https://github.com/anka-afk/astrbot_plugin_humanlike",
       "tags": [],
-      "stars": 28,
+      "stars": 29,
       "version": "v0.2.2",
-      "updated_at": "2026-02-10T19:48:40Z"
+      "updated_at": "2026-02-14T12:43:00Z"
     },
     "astrbot_plugin_blue_archive": {
       "desc": "蔚蓝档案攻略查询 - 指令格式：攻略查询 <攻略名称>",
