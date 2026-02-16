@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-02-15T12:54:17.298Z",
+  "timestamp": "2026-02-16T02:24:19.061Z",
   "github": {
-    "stars": 15923,
+    "stars": 15938,
     "forks": 1264,
     "contributors": 146
   },
@@ -197,7 +197,7 @@
       "tags": [],
       "stars": 1,
       "version": "v1.0.0",
-      "updated_at": "2026-02-10T11:04:27Z",
+      "updated_at": "2026-02-15T13:21:06Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_nbalance/logo"
     },
     "astrbot_plugin_lingbao_market": {
@@ -598,9 +598,9 @@
         "grok"
       ],
       "social_link": "https://github.com/piexian",
-      "stars": 2,
+      "stars": 3,
       "version": "v1.0.5",
-      "updated_at": "2026-02-12T18:16:44Z",
+      "updated_at": "2026-02-15T14:09:56Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_grok_web_search/logo"
     },
     "astrbot_plugin_fake_ai_watermark": {
@@ -623,9 +623,9 @@
       "author": "lumingya",
       "repo": "https://github.com/lumingya/astrbot_plugin_html_render",
       "tags": [],
-      "stars": 0,
+      "stars": 1,
       "version": "1.2.0",
-      "updated_at": "2026-02-10T11:22:03Z"
+      "updated_at": "2026-02-15T16:10:15Z"
     },
     "astrbot_plugin_opencode": {
       "display_name": "OpenCode Bridge",
@@ -800,7 +800,7 @@
       "social_link": "https://github.com/Heximiao",
       "stars": 10,
       "version": "v3.0.2",
-      "updated_at": "2026-02-11T09:14:56Z",
+      "updated_at": "2026-02-15T12:40:02Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_wifepicker/logo"
     },
     "astrbot_plugin_steamwatch": {
@@ -1142,9 +1142,9 @@
         "推送"
       ],
       "social_link": "https://github.com/siciyuanweilai",
-      "stars": 9,
+      "stars": 10,
       "version": "4.5.0",
-      "updated_at": "2026-02-10T06:58:49Z",
+      "updated_at": "2026-02-15T16:44:30Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_daily_sharing/logo"
     },
     "astrbot_plugin_group_auto_clean_member": {
@@ -1368,9 +1368,9 @@
         "游戏资源"
       ],
       "social_link": "https://qwq.pyuramazo.online",
-      "stars": 2,
+      "stars": 3,
       "version": "v1.4.2",
-      "updated_at": "2026-02-05T05:50:45Z",
+      "updated_at": "2026-02-15T13:22:47Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_galgame_box/logo"
     },
     "astrbot_plugin_anitabi": {
@@ -1840,9 +1840,9 @@
       ],
       "pinned": true,
       "social_link": "https://github.com/NickCharlie",
-      "stars": 104,
+      "stars": 105,
       "version": "Next-1.1.8",
-      "updated_at": "2026-02-15T05:54:49Z",
+      "updated_at": "2026-02-15T14:08:18Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_self_learning/logo"
     },
     "astrbot_plugin_mrfzccl": {
@@ -2571,8 +2571,8 @@
         "群聊优化"
       ],
       "stars": 30,
-      "version": "0.8.10",
-      "updated_at": "2026-02-13T19:10:58Z"
+      "version": "0.8.11",
+      "updated_at": "2026-02-15T12:41:14Z"
     },
     "astrbot_plugin_angel_eye": {
       "display_name": "天使之眼",
@@ -2927,7 +2927,7 @@
       "social_link": "https://github.com/Xbodwf",
       "stars": 3,
       "version": "1.29.0",
-      "updated_at": "2026-02-05T12:17:47Z"
+      "updated_at": "2026-02-15T14:05:16Z"
     },
     "astrbot_plugin_QQbox": {
       "display_name": "QQbox",
@@ -3660,9 +3660,9 @@
         "gal"
       ],
       "social_link": "https://github.com/bvzrays",
-      "stars": 48,
+      "stars": 49,
       "version": "v2.3.0",
-      "updated_at": "2026-02-14T15:46:44Z",
+      "updated_at": "2026-02-15T19:35:45Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_chuanhuatong/logo"
     },
     "astrbot_plugin_steamgame": {
@@ -3942,8 +3942,8 @@
       ],
       "social_link": "https://www.misakanet.site",
       "stars": 7,
-      "version": "1.2.0",
-      "updated_at": "2026-02-13T13:03:08Z",
+      "version": "2.0.1",
+      "updated_at": "2026-02-15T19:46:54Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_minecraft_adapter/logo"
     },
     "astrbot_plugin_temp-email": {
@@ -4760,9 +4760,9 @@
         "TTS"
       ],
       "social_link": "https://github.com/DBJD-CR",
-      "stars": 80,
+      "stars": 81,
       "version": "v1.1.4",
-      "updated_at": "2026-02-14T10:05:41Z",
+      "updated_at": "2026-02-15T13:03:02Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_proactive_chat/logo"
     },
     "astrbot-plugin-moremorelove": {
@@ -6668,9 +6668,9 @@
       "repo": "https://github.com/muyouzhi6/astrbot_plugin_immersive_control",
       "social_link": "https://github.com/muyouzhi6",
       "tags": [],
-      "stars": 6,
+      "stars": 7,
       "version": "2.3.1",
-      "updated_at": "2026-01-21T14:16:53Z",
+      "updated_at": "2026-02-15T18:09:40Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_immersive_control/logo"
     },
     "astrbot_plugin_provider_ark_ResponsesAPI": {
@@ -6806,9 +6806,9 @@
         "输出增强"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 27,
+      "stars": 28,
       "version": "v2.1.6",
-      "updated_at": "2026-02-14T04:34:53Z",
+      "updated_at": "2026-02-15T18:22:21Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_outputpro/logo"
     },
     "astrbot_plugin_image_summary": {
@@ -9150,7 +9150,7 @@
       "tags": [],
       "stars": 5,
       "version": "v1.7.2",
-      "updated_at": "2026-02-13T17:02:23Z",
+      "updated_at": "2026-02-15T16:44:15Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_animewifex/logo"
     },
     "astrbot_plugin_emojimix": {
@@ -9479,8 +9479,8 @@
       ],
       "social_link": "https://github.com/vmoranv-reborn",
       "stars": 8,
-      "version": "1.6.0",
-      "updated_at": "2026-02-07T07:14:19Z",
+      "version": "1.6.1",
+      "updated_at": "2026-02-15T14:22:07Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_pixiv_reborn/logo"
     },
     "astrbot_plugin_fuck": {
@@ -11017,9 +11017,9 @@
         "图床"
       ],
       "pinned": true,
-      "stars": 131,
+      "stars": 132,
       "version": "v3.19",
-      "updated_at": "2026-02-13T12:48:15Z"
+      "updated_at": "2026-02-15T13:08:21Z"
     },
     "mccloud_command": {
       "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
@@ -11604,9 +11604,9 @@
       "author": "lxfight",
       "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
       "tags": [],
-      "stars": 173,
+      "stars": 174,
       "version": "v2.0.15",
-      "updated_at": "2026-02-14T07:37:05Z"
+      "updated_at": "2026-02-15T14:39:42Z"
     },
     "FateTrial_img_identify": {
       "desc": "智谱AI图像识别插件",
