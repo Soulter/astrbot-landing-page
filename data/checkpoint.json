@@ -1,11 +1,25 @@
 {
-  "timestamp": "2026-02-16T13:07:07.355Z",
+  "timestamp": "2026-02-17T02:21:18.067Z",
   "github": {
-    "stars": 15971,
-    "forks": 1265,
+    "stars": 16062,
+    "forks": 1271,
     "contributors": 146
   },
   "plugins": {
+    "astrbot-plugin-chat-polisher": {
+      "display_name": "最终文本润色",
+      "desc": "自动将输出的回复文本内容截取，并通过设定的规则进行润色后发出。",
+      "author": "cyilin",
+      "repo": "https://github.com/cyilin36/astrbot_plugin_chat_polisher",
+      "tags": [
+        "润色",
+        "校对"
+      ],
+      "social_link": "https://cyilin36.github.io/",
+      "stars": 1,
+      "version": "1.1",
+      "updated_at": "2026-02-16T09:03:09Z"
+    },
     "astrbot-plugin-napcat-enhanced": {
       "display_name": "Napcat_Enhanced",
       "desc": "基于原有功能的增强的 AstrBot NapCat 接入插件，提供丰富的 QQ 机器人功能。",
@@ -145,8 +159,8 @@
         "opencode"
       ],
       "stars": 11,
-      "version": "v1.1.0",
-      "updated_at": "2026-02-12T05:49:20Z"
+      "version": "v1.2.0",
+      "updated_at": "2026-02-16T20:35:08Z"
     },
     "astrbot_plugin_mc_duration": {
       "display_name": "MC魔人时长统计",
@@ -935,7 +949,7 @@
       ],
       "stars": 2,
       "version": "v0.2.0",
-      "updated_at": "2026-02-09T13:51:32Z"
+      "updated_at": "2026-02-16T15:01:08Z"
     },
     "astrbot_plugin_odoo": {
       "display_name": "AstrBot Odoo 连接器",
@@ -4486,7 +4500,7 @@
       "social_link": "https://github.com/Him666233",
       "stars": 40,
       "version": "v1.1.2",
-      "updated_at": "2026-02-14T10:04:13Z",
+      "updated_at": "2026-02-16T11:56:39Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_group_chat_plus/logo"
     },
     "astrbot_plugin_message_stats": {
@@ -7284,7 +7298,7 @@
       ],
       "stars": 6,
       "version": "v1.5.0",
-      "updated_at": "2026-02-13T13:47:36Z",
+      "updated_at": "2026-02-16T11:55:06Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_proactive_reply/logo"
     },
     "treasure_bag_plugin": {
@@ -8481,9 +8495,9 @@
         "音乐"
       ],
       "social_link": "https://github.com/Zhalslar",
-      "stars": 98,
+      "stars": 99,
       "version": "v2.0.7",
-      "updated_at": "2026-02-14T05:58:19Z",
+      "updated_at": "2026-02-16T18:41:34Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_music/logo"
     },
     "astrbot_plugin_renjian": {
@@ -9149,8 +9163,8 @@
       "repo": "https://github.com/monbed/astrbot_plugin_animewifex",
       "tags": [],
       "stars": 5,
-      "version": "v1.7.2",
-      "updated_at": "2026-02-15T16:44:15Z",
+      "version": "v1.7.3",
+      "updated_at": "2026-02-16T20:38:02Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_animewifex/logo"
     },
     "astrbot_plugin_emojimix": {
