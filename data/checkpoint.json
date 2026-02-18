@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-02-17T13:06:59.106Z",
+  "timestamp": "2026-02-18T02:24:31.512Z",
   "github": {
-    "stars": 16298,
-    "forks": 1289,
+    "stars": 16434,
+    "forks": 1296,
     "contributors": 146
   },
   "plugins": {
@@ -128,8 +128,8 @@
       ],
       "social_link": "https://cyilin36.github.io/",
       "stars": 1,
-      "version": "1.1",
-      "updated_at": "2026-02-16T09:03:09Z"
+      "version": "1.3",
+      "updated_at": "2026-02-17T14:33:42Z"
     },
     "astrbot-plugin-napcat-enhanced": {
       "display_name": "Napcat_Enhanced",
@@ -338,9 +338,9 @@
       "author": "落日七号",
       "repo": "https://github.com/luori7hao/astrbot_plugin_messenger",
       "tags": [],
-      "stars": 0,
+      "stars": 1,
       "version": "1.3.1",
-      "updated_at": "2026-02-09T05:29:05Z"
+      "updated_at": "2026-02-17T13:22:52Z"
     },
     "astrbot_plugin_live2d_adapter": {
       "display_name": "Live2D 适配器",
@@ -803,9 +803,9 @@
         "搜索"
       ],
       "social_link": "https://cyilin36.github.io",
-      "stars": 5,
+      "stars": 6,
       "version": "v1.2",
-      "updated_at": "2026-02-05T02:12:52Z"
+      "updated_at": "2026-02-17T14:19:05Z"
     },
     "astrbot_plugin_telegram_forwarder": {
       "display_name": "Telegram Forwarder",
@@ -1028,9 +1028,9 @@
         "gbc",
         "bangdream"
       ],
-      "stars": 2,
+      "stars": 3,
       "version": "v0.2.0",
-      "updated_at": "2026-02-16T15:01:08Z"
+      "updated_at": "2026-02-17T19:05:26Z"
     },
     "astrbot_plugin_odoo": {
       "display_name": "AstrBot Odoo 连接器",
@@ -1184,9 +1184,9 @@
         "飞书"
       ],
       "social_link": "https://github.com/anneviliu",
-      "stars": 1,
+      "stars": 2,
       "version": "0.3.0",
-      "updated_at": "2026-02-07T04:13:51Z"
+      "updated_at": "2026-02-17T14:54:11Z"
     },
     "astrbot_plugin_worldbook": {
       "display_name": "世界书插件",
@@ -1237,9 +1237,9 @@
         "推送"
       ],
       "social_link": "https://github.com/siciyuanweilai",
-      "stars": 10,
-      "version": "4.5.0",
-      "updated_at": "2026-02-15T16:44:30Z",
+      "stars": 12,
+      "version": "4.6.0",
+      "updated_at": "2026-02-17T17:39:35Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_daily_sharing/logo"
     },
     "astrbot_plugin_group_auto_clean_member": {
@@ -1289,9 +1289,9 @@
       "author": "RyanVaderAN",
       "repo": "https://github.com/674537331/astrbot_plugin_fflogs",
       "tags": [],
-      "stars": 1,
+      "stars": 2,
       "version": "v1.3.0",
-      "updated_at": "2026-01-29T14:50:11Z",
+      "updated_at": "2026-02-17T11:52:42Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_fflogs/logo"
     },
     "astrbot_plugin_CNKD_NEWS": {
@@ -1330,9 +1330,9 @@
         "群聊圣经"
       ],
       "social_link": "https://github.com/SXP-Simon",
-      "stars": 165,
+      "stars": 166,
       "version": "v4.7.7",
-      "updated_at": "2026-02-14T15:59:00Z",
+      "updated_at": "2026-02-17T15:12:02Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_qq_group_daily_analysis/logo"
     },
     "astrbot_plugin_poke_to_llm": {
@@ -1342,9 +1342,9 @@
       "repo": "https://github.com/muyouzhi6/astrbot_plugin_poke_to_llm",
       "social_link": "https://github.com/muyouzhi6",
       "tags": [],
-      "stars": 2,
+      "stars": 3,
       "version": "2.2.0",
-      "updated_at": "2026-01-17T11:52:39Z"
+      "updated_at": "2026-02-17T18:14:30Z"
     },
     "astrbot_plugin_balance_get": {
       "display_name": "模型平台余额查询",
@@ -1509,9 +1509,9 @@
       "author": "2529huang",
       "repo": "https://github.com/2529huang/astrbot_plugin_fund_analyzer",
       "tags": [],
-      "stars": 4,
+      "stars": 5,
       "version": "1.1.1",
-      "updated_at": "2026-02-17T04:14:46Z"
+      "updated_at": "2026-02-17T12:09:35Z"
     },
     "astrbot_plugin_CNKD_Admin": {
       "display_name": "UapiPro言论管控",
@@ -1548,8 +1548,8 @@
         "拟人"
       ],
       "stars": 4,
-      "version": "1.3.1",
-      "updated_at": "2026-02-14T15:39:57Z"
+      "version": "1.4.0",
+      "updated_at": "2026-02-17T17:24:55Z"
     },
     "astrbot_plugin_mc_manager": {
       "display_name": "astrbot_plugin_mc_manager",
@@ -2046,9 +2046,9 @@
         "平台适配器"
       ],
       "social_link": "https://github.com/stevessr",
-      "stars": 5,
+      "stars": 6,
       "version": "0.3.1",
-      "updated_at": "2026-02-17T02:16:59Z",
+      "updated_at": "2026-02-17T14:40:01Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_matrix_adapter/logo"
     },
     "astrbot_plugin_url_image_auto": {
@@ -2184,9 +2184,9 @@
       "repo": "https://github.com/xiaomizhoubaobei/astrbot_plugin_models_ai",
       "social_link": "https://github.com/xiaomizhoubaobei",
       "tags": [],
-      "stars": 4,
+      "stars": 5,
       "version": "v0.0.6",
-      "updated_at": "2026-02-07T15:22:16Z",
+      "updated_at": "2026-02-17T15:21:53Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_models_ai/logo"
     },
     "astrbot_plugin_monixiuxian2": {
@@ -2390,9 +2390,9 @@
       "author": "AGI_Friend_And_You",
       "repo": "https://github.com/204343414/astrbot_plugin_yt-dlp",
       "tags": [],
-      "stars": 3,
+      "stars": 4,
       "version": "1.0.1",
-      "updated_at": "2026-02-12T04:43:32Z",
+      "updated_at": "2026-02-17T17:51:59Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_yt-dlp/logo"
     },
     "astrbot_plugin_yotts": {
@@ -3163,8 +3163,8 @@
         "表情"
       ],
       "stars": 17,
-      "version": "2.2.2",
-      "updated_at": "2026-02-09T00:46:46Z",
+      "version": "2.2.3",
+      "updated_at": "2026-02-17T17:27:04Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_stealer/logo"
     },
     "astrbot_plugin_splitter": {
@@ -4579,9 +4579,9 @@
         "主动回复"
       ],
       "social_link": "https://github.com/Him666233",
-      "stars": 40,
+      "stars": 41,
       "version": "v1.1.2",
-      "updated_at": "2026-02-16T11:56:39Z",
+      "updated_at": "2026-02-17T13:45:38Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_group_chat_plus/logo"
     },
     "astrbot_plugin_message_stats": {
@@ -6107,8 +6107,8 @@
         "撤回"
       ],
       "stars": 7,
-      "version": "v1.2.0",
-      "updated_at": "2026-02-17T08:09:00Z",
+      "version": "v1.2.2",
+      "updated_at": "2026-02-17T17:06:05Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_anti_revoke/logo"
     },
     "input_state_by_napcat": {
@@ -6562,9 +6562,9 @@
       "tags": [
         "typst"
       ],
-      "stars": 1,
+      "stars": 2,
       "version": "v1.1.0",
-      "updated_at": "2025-12-23T16:04:08Z"
+      "updated_at": "2026-02-17T13:17:50Z"
     },
     "astrbot_plugin_retry_v2": {
       "desc": "一个基于事件钩子的、处理空回复和截断等非完整响应的重试插件",
@@ -6815,7 +6815,7 @@
       "social_link": "https://t.me/astrbot_plugin_HINS",
       "stars": 3,
       "version": "v1.3.6",
-      "updated_at": "2025-12-01T08:07:51Z"
+      "updated_at": "2026-02-17T20:03:21Z"
     },
     "astrbot_plugin_xfbank": {
       "desc": "一个简易的银行插件",
@@ -9398,9 +9398,9 @@
         "api"
       ],
       "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-      "stars": 143,
-      "version": "v2.0.6",
-      "updated_at": "2026-02-17T10:11:32Z",
+      "stars": 144,
+      "version": "v3.0.0",
+      "updated_at": "2026-02-17T16:49:58Z",
       "logo": "https://api.soulter.top/astrbot/plugin/astrbot_plugin_apis/logo"
     },
     "astrbot_plugin_help": {
@@ -11112,9 +11112,9 @@
         "图床"
       ],
       "pinned": true,
-      "stars": 132,
+      "stars": 134,
       "version": "v3.19",
-      "updated_at": "2026-02-15T13:08:21Z"
+      "updated_at": "2026-02-17T15:57:41Z"
     },
     "mccloud_command": {
       "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
@@ -11701,7 +11701,7 @@
       "tags": [],
       "stars": 174,
       "version": "v2.0.15",
-      "updated_at": "2026-02-15T14:39:42Z"
+      "updated_at": "2026-02-17T12:47:49Z"
     },
     "FateTrial_img_identify": {
       "desc": "智谱AI图像识别插件",
@@ -11726,9 +11726,9 @@
       "author": "长安某",
       "repo": "https://github.com/zgojin/astrbot_plugin_pock",
       "tags": [],
-      "stars": 7,
+      "stars": 8,
       "version": "v2.1.1",
-      "updated_at": "2026-01-29T08:47:51Z"
+      "updated_at": "2026-02-17T18:09:03Z"
     },
     "astrbot_plugin_astrbot_plugin_repetition": {
       "desc": "用于AstrBot的复读机插件",
