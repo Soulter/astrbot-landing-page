@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-slate-50 text-slate-900;
+  }
+}
+
+@layer components {
+  .contributors-marquee-mask {
+    @apply relative overflow-hidden py-4;
+  }
+
+  .contributors-marquee-track {
+    @apply flex w-max items-center gap-3 px-4;
+    animation: contributors-marquee-rtl 28s linear infinite;
+    will-change: transform;
+  }
+
+  .contributors-marquee-mask:hover .contributors-marquee-track {
+    animation-play-state: paused;
+  }
+}
+
+@keyframes contributors-marquee-rtl {
+  from {
+    transform: translateX(0);
+  }
+
+  to {
+    transform: translateX(-50%);
+  }
+}

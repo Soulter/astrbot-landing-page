@@ -1,9 +1,14 @@
 {
-    "redirects": [
-      {
-        "source": "/((?!$|data/|assets/).+)",
-        "destination": "https://docs.astrbot.app/$1",
-        "permanent": true
-      }
-    ]
-  }
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "vite",
+  "outputDirectory": "dist",
+  "routes": [
+    {
+      "handle": "filesystem"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
+}
