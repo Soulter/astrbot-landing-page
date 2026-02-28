@@ -68,7 +68,7 @@ const Navbar = () => {
             </select>
 
             <a
-              href="https://github.com/Soulter/AstrBot"
+              href="https://github.com/AstrBotDevs/AstrBot"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 bg-[#2b3f67] text-white px-5 py-2.5 rounded-full font-medium hover:bg-[#1a2845] transition-colors"
@@ -123,7 +123,7 @@ const Navbar = () => {
               </a>
             ))}
             <a
-              href="https://github.com/Soulter/AstrBot"
+              href="https://github.com/AstrBotDevs/AstrBot"
               target="_blank"
               rel="noopener noreferrer"
               className="flex w-full items-center justify-center gap-2 bg-[#2b3f67] text-white px-5 py-3 rounded-xl font-medium"

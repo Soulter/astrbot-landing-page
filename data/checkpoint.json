@@ -11483,7 +11483,7 @@
     "astrbot_plugin_csbaoyan": {
       "desc": "计算机保研院校信息查询、通知订阅插件。数据来源于 GitHub CS-BAOYAN (绿群官方)组织。",
       "author": "Soulter",
-      "repo": "https://github.com/Soulter/astrbot_plugin_csbaoyan",
+      "repo": "https://github.com/AstrBotDevs/AstrBot_plugin_csbaoyan",
       "tags": [
         "计算机",
         "保研"
@@ -12619,7 +12619,7 @@
     "astrbot_plugin_github_cards": {
       "desc": "自动识别 GitHub 仓库链接并发送卡片图片，支持订阅仓库的 Issue 和 PR 更新，查询 Issue 和 PR 详情",
       "author": "Soulter",
-      "repo": "https://github.com/Soulter/astrbot_plugin_github_cards",
+      "repo": "https://github.com/AstrBotDevs/AstrBot_plugin_github_cards",
       "tags": [
         "功能"
       ],
@@ -12723,7 +12723,7 @@
     "astrbot_plugin_wake_enhance": {
       "desc": "【唤醒增强】让 AstrBot 支持通过正则匹配唤醒机器人、唤醒后持续与机器人对话交互。",
       "author": "Soulter",
-      "repo": "https://github.com/Soulter/astrbot_plugin_wake_enhance",
+      "repo": "https://github.com/AstrBotDevs/AstrBot_plugin_wake_enhance",
       "category": "效率工具",
       "tags": [],
       "stars": 7,
@@ -12743,7 +12743,7 @@
     "astrbot_plugin_uptime": {
       "desc": "Uptime bot. 监测所订阅的站点是否可正常访问，异常时发出警报。",
       "author": "Soulter",
-      "repo": "https://github.com/Soulter/astrbot_plugin_uptime",
+      "repo": "https://github.com/AstrBotDevs/AstrBot_plugin_uptime",
       "category": "生活实用",
       "tags": [],
       "stars": 0,
@@ -12833,7 +12833,7 @@
     "r1-filter": {
       "desc": "过滤 DeepSeek R1 推理模型的思维链内容 [版本要求 >= v3.4.17]",
       "author": "Soulter",
-      "repo": "https://github.com/Soulter/astrbot_plugin_r1_filter",
+      "repo": "https://github.com/AstrBotDevs/AstrBot_plugin_r1_filter",
       "category": "AI增强",
       "tags": [],
       "stars": 12,
@@ -12921,9 +12921,9 @@
       "updated_at": "2025-07-08T16:42:57Z"
     },
     "astrbot_plugin_essential": {
-      "desc": "随机动漫图片、以图搜番、Minecraft服务器、一言、今天吃什么、群早晚安记录、EPIC喜加一。帮助：https://github.com/Soulter/astrbot_plugin_essential",
+      "desc": "随机动漫图片、以图搜番、Minecraft服务器、一言、今天吃什么、群早晚安记录、EPIC喜加一。帮助：https://github.com/AstrBotDevs/AstrBot_plugin_essential",
       "author": "Soulter",
-      "repo": "https://github.com/Soulter/astrbot_plugin_essential",
+      "repo": "https://github.com/AstrBotDevs/AstrBot_plugin_essential",
       "category": "娱乐游戏",
       "tags": [],
       "stars": 39,
@@ -12933,7 +12933,7 @@
     "astrbot_plugin_rss": {
       "desc": "支持通过 RSSHub 路由和直接 URL 订阅 RSS 源，并定时获取最新的 RSS 内容，如推特、B站、油管、博客等任何支持 RSS 2.0 的网站。",
       "author": "Soulter",
-      "repo": "https://github.com/Soulter/astrbot_plugin_rss",
+      "repo": "https://github.com/AstrBotDevs/AstrBot_plugin_rss",
       "category": "生活实用",
       "tags": [],
       "stars": 25,
@@ -12943,7 +12943,7 @@
     "astrbot_plugin_bilibili": {
       "desc": "哔哩哔哩动态推送、视频信息、直播间信息查询插件",
       "author": "Flartiny & Soulter",
-      "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
+      "repo": "https://github.com/AstrBotDevs/AstrBot_plugin_bilibili",
       "category": "生活实用",
       "tags": [],
       "stars": 43,
@@ -12954,7 +12954,7 @@
     "astrbot_plugin_leetcode": {
       "desc": "leetcode 每日一题、随机题目。",
       "author": "Soulter",
-      "repo": "https://github.com/Soulter/astrbot_plugin_leetcode",
+      "repo": "https://github.com/AstrBotDevs/AstrBot_plugin_leetcode",
       "category": "效率工具",
       "tags": [],
       "stars": 5,
@@ -12964,7 +12964,7 @@
     "astrbot_plugin_english": {
       "desc": "A proto of learning English on Astrbot.",
       "author": "Soulter",
-      "repo": "https://github.com/Soulter/astrbot_plugin_english",
+      "repo": "https://github.com/AstrBotDevs/AstrBot_plugin_english",
       "category": "效率工具",
       "tags": [],
       "stars": 1,

@@ -116,7 +116,7 @@ const Hero = () => {
               <motion.a
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
-                href="https://github.com/Soulter/AstrBot"
+                href="https://github.com/AstrBotDevs/AstrBot"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-white text-slate-700 border border-slate-200 px-6 py-3 rounded-full font-semibold text-base hover:bg-slate-50 transition-colors flex items-center gap-2"

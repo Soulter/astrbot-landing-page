@@ -25,7 +25,7 @@ const Footer = () => {
           <div className="md:ml-auto">
             <h4 className="font-bold mb-6 text-slate-900">{t('footer.community')}</h4>
             <ul className="space-y-4 text-sm font-medium text-slate-500">
-              <li><a href="https://github.com/Soulter/AstrBot" target="_blank" rel="noreferrer" className="hover:text-[#3c96ca] transition-colors">GitHub</a></li>
+              <li><a href="https://github.com/AstrBotDevs/AstrBot" target="_blank" rel="noreferrer" className="hover:text-[#3c96ca] transition-colors">GitHub</a></li>
             </ul>
           </div>
 
@@ -33,7 +33,7 @@ const Footer = () => {
             <h4 className="font-bold mb-6 text-slate-900">{t('footer.support')}</h4>
             <ul className="space-y-4 text-sm font-medium text-slate-500">
               <li><a href="mailto:community@astrbot.app" className="hover:text-[#3c96ca] transition-colors">{t('footer.contact')}</a></li>
-              <li><a href="https://github.com/Soulter/AstrBot/issues" target="_blank" rel="noreferrer" className="hover:text-[#3c96ca] transition-colors">{t('footer.feedback')}</a></li>
+              <li><a href="https://github.com/AstrBotDevs/AstrBot/issues" target="_blank" rel="noreferrer" className="hover:text-[#3c96ca] transition-colors">{t('footer.feedback')}</a></li>
             </ul>
           </div>
 
@@ -63,7 +63,7 @@ const Footer = () => {
           </div>
 
           <a
-            href="https://github.com/Soulter/AstrBot"
+            href="https://github.com/AstrBotDevs/AstrBot"
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 rounded-full border border-slate-200 hover:bg-slate-50 hover:border-slate-300 transition-colors text-slate-600 hover:text-[#2b3f67]"
